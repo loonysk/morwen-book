@@ -1,10 +1,10 @@
 {
- "updated": 1790939846,
+ "updated": 1790940847,
  "source": "chain",
  "contract": "0xde3bd0b1b5f4d5cf2bdfc457392391b175297e2f",
- "block": 26104285,
+ "block": 26104367,
  "events": {},
- "pending": 0,
+ "pending": 8,
  "heroes": {},
  "sales": {},
  "entries": []
