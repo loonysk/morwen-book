@@ -1,0 +1,15 @@
+{
+ "hunt": 9001,
+ "title": "Mechanics check.",
+ "ends": "2026-10-05T04:02:00+03:00",
+ "block": 26122748,
+ "blockTime": 1791162119,
+ "round": 32787452,
+ "made": "2026-10-05T01:17:41.705Z",
+ "rule": "Every wallet of the Soulbook in the last Ethereum block before the close, its souls counted by souls.js at the close. Tickets = souls. Fingerprint: SHA-256 of the lines «wallet souls order», wallets sorted (draw.js listHash).",
+ "sha": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+ "wallets": 0,
+ "tickets": 0,
+ "pendingCards": 8,
+ "entries": []
+}

@@ -1,0 +1,86 @@
+{
+ "hunt": {
+  "draft": false,
+  "n": 9001,
+  "title_ru": "Проверка механики.",
+  "title_en": "Mechanics check.",
+  "desc_ru": "Тестовая охота: список будет пустым, карт в контракте ещё нет.",
+  "desc_en": "A test hunt: the list will be empty, no cards exist yet.",
+  "banner": "",
+  "starts": "2026-10-05T03:47:00+03:00",
+  "ends": "2026-10-05T04:02:00+03:00",
+  "mode": "draw",
+  "top": 1,
+  "pool": "тест",
+  "prizes": [
+   {
+    "name_ru": "Тестовый приз",
+    "name_en": "Test prize",
+    "color": "ink",
+    "link": "",
+    "image": "",
+    "icon": "",
+    "sent": false,
+    "tx": ""
+   }
+  ]
+ },
+ "allies": [
+  {
+   "key": "marion",
+   "name": "Marion Soulthread",
+   "kind": "member",
+   "meta_name": "",
+   "image": "/assets/allies/Marion.webp",
+   "active": true,
+   "first_since": "2026-08-19",
+   "since": "2026-08-19",
+   "faction": "horde-demons",
+   "lore_ru": "Рождённая первой ложью и прожившая жизнь во лжи. Идеальный союз.",
+   "lore_en": "Born of the first lie, raised by a life of lies. A perfect alliance.",
+   "x": "https://x.com/Greckaa20636D",
+   "opensea": "",
+   "sample": false,
+   "contracts": [],
+   "boosts": []
+  },
+  {
+   "key": "matazuu",
+   "name": "Matazuu",
+   "kind": "member",
+   "meta_name": "",
+   "image": "/assets/allies/matazuu.webp",
+   "active": true,
+   "first_since": "2026-10-02",
+   "since": "2026-10-02",
+   "faction": "horde-demons",
+   "lore_ru": "-",
+   "lore_en": "-",
+   "x": "https://x.com/Turvold",
+   "opensea": "",
+   "sample": false,
+   "contracts": [],
+   "boosts": []
+  }
+ ],
+ "collection": {
+  "contract": "0xDE3Bd0B1B5f4d5cf2Bdfc457392391b175297E2F",
+  "deployBlock": 26081321,
+  "book_url": "https://loonysk.github.io/morwen-book/book.json",
+  "opensea": "",
+  "os_morwen_all": "",
+  "os_morwen_legendary": "",
+  "os_morwen_mythic": "",
+  "os_morwen_unique": "",
+  "os_all_legendary": "",
+  "os_all_mythic": "",
+  "morwenName": "Morwen Greymoor",
+  "heroTrait": "Hero",
+  "metadataBase": "",
+  "morwenWallet": "0x858a23f7dCeb98829d53034675C55E8cdd5db6A5",
+  "rules": []
+ },
+ "code": "09ada78bebf3cb092197a9ab70d4bec1a9ff9822",
+ "block": 26122748,
+ "made": "2026-10-05T01:17:41.705Z"
+}
