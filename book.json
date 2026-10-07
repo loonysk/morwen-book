@@ -1,36 +1,36 @@
 {
- "updated": 1791400854,
+ "updated": 1791400907,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26142545,
+ "block": 26142565,
  "events": {
   "firstCard": 180
  },
  "pending": 0,
  "heroes": {
   "marion": {
-   "cards": 19,
+   "cards": 20,
    "tiers": {
-    "L": 19,
+    "L": 20,
     "M": 0,
     "U": 0
    },
    "images": {
     "L": "https://hov.fra1.digitaloceanspaces.com/prod/hov_marion_soulthread.png"
    },
-   "holders": 18
+   "holders": 19
   },
   "matazuu": {
-   "cards": 15,
+   "cards": 16,
    "tiers": {
-    "L": 15,
+    "L": 16,
     "M": 0,
     "U": 0
    },
    "images": {
     "L": "https://hov.fra1.digitaloceanspaces.com/prod/hov_matazuu.png"
    },
-   "holders": 14
+   "holders": 15
   },
   "morwen": {
    "cards": 16,
@@ -741,13 +741,21 @@
      null,
      1289,
      null
+    ],
+    [
+     "L",
+     1791400763,
+     null,
+     "matazuu",
+     1765,
+     null
     ]
    ],
    "marks": [],
    "gifted": [],
    "chance": [],
-   "bought": 0,
-   "spentUsd": 0,
+   "bought": 1,
+   "spentUsd": 26,
    "witness": []
   },
   {
@@ -969,6 +977,27 @@
    "witness": []
   },
   {
+   "w": "0x55d0…27fa",
+   "addr": "0x55d00daf33676b50414cf1ff8dac778a8c6727fa",
+   "order": 0,
+   "cards": [
+    [
+     "L",
+     1791400823,
+     null,
+     "marion",
+     1783,
+     null
+    ]
+   ],
+   "marks": [],
+   "gifted": [],
+   "chance": [],
+   "bought": 0,
+   "spentUsd": 0,
+   "witness": []
+  },
+  {
    "w": "0x4dce…bd16",
    "addr": "0x4dce68b10e5520c7f3a66cdcd21a8d6d41bfbd16",
    "order": 0,
@@ -977,6 +1006,10 @@
     {
      "k": "flipper",
      "ally": "marion"
+    },
+    {
+     "k": "flipper",
+     "ally": "matazuu"
     }
    ],
    "gifted": [],
