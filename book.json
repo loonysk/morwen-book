@@ -1,8 +1,8 @@
 {
- "updated": 1791411521,
+ "updated": 1791415078,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26143441,
+ "block": 26143740,
  "events": {
   "firstCard": 180
  },
@@ -21,16 +21,16 @@
    "holders": 28
   },
   "matazuu": {
-   "cards": 29,
+   "cards": 30,
    "tiers": {
-    "L": 29,
+    "L": 30,
     "M": 0,
     "U": 0
    },
    "images": {
     "L": "https://hov.fra1.digitaloceanspaces.com/prod/hov_matazuu.png"
    },
-   "holders": 25
+   "holders": 26
   },
   "morwen": {
    "cards": 23,
@@ -1483,6 +1483,27 @@
      null,
      null,
      2806,
+     null
+    ]
+   ],
+   "marks": [],
+   "gifted": [],
+   "chance": [],
+   "bought": 0,
+   "spentUsd": 0,
+   "witness": []
+  },
+  {
+   "w": "0x2ee5…e5a3",
+   "addr": "0x2ee56cdc305bef2d15d39254e94ef4468c23e5a3",
+   "order": 0,
+   "cards": [
+    [
+     "L",
+     1791412931,
+     null,
+     "matazuu",
+     2902,
      null
     ]
    ],
