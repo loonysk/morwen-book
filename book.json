@@ -1,48 +1,48 @@
 {
- "updated": 1791396849,
+ "updated": 1791397109,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26142051,
+ "block": 26142115,
  "events": {
   "firstCard": 180
  },
  "pending": 0,
  "heroes": {
   "marion": {
-   "cards": 7,
+   "cards": 9,
    "tiers": {
-    "L": 7,
+    "L": 9,
     "M": 0,
     "U": 0
    },
    "images": {
     "L": "https://hov.fra1.digitaloceanspaces.com/prod/hov_marion_soulthread.png"
    },
-   "holders": 7
+   "holders": 9
   },
   "matazuu": {
-   "cards": 3,
+   "cards": 6,
    "tiers": {
-    "L": 3,
+    "L": 6,
     "M": 0,
     "U": 0
    },
    "images": {
     "L": "https://hov.fra1.digitaloceanspaces.com/prod/hov_matazuu.png"
    },
-   "holders": 3
+   "holders": 6
   },
   "morwen": {
-   "cards": 7,
+   "cards": 9,
    "tiers": {
-    "L": 7,
+    "L": 9,
     "M": 0,
     "U": 0
    },
    "images": {
     "L": "https://hov.fra1.digitaloceanspaces.com/prod/hov_morwen_greymoor.png"
    },
-   "holders": 7
+   "holders": 9
   }
  },
  "sales": {},
@@ -347,6 +347,140 @@
      null,
      "matazuu",
      619,
+     null
+    ]
+   ],
+   "marks": [],
+   "gifted": [],
+   "chance": [],
+   "bought": 0,
+   "spentUsd": 0,
+   "witness": []
+  },
+  {
+   "w": "0xbcb3…1fe1",
+   "addr": "0xbcb3cc6350bb56ce40ec8db12761a3ed81f51fe1",
+   "order": 0,
+   "cards": [
+    [
+     "L",
+     1791394883,
+     null,
+     "matazuu",
+     750,
+     null
+    ]
+   ],
+   "marks": [],
+   "gifted": [],
+   "chance": [],
+   "bought": 0,
+   "spentUsd": 0,
+   "witness": []
+  },
+  {
+   "w": "0x75ae…1ceb",
+   "addr": "0x75ae27e1a5292be3f70d9fae0424017e5dbe1ceb",
+   "order": 8,
+   "cards": [
+    [
+     "L",
+     1791394895,
+     null,
+     null,
+     761,
+     null
+    ]
+   ],
+   "marks": [],
+   "gifted": [],
+   "chance": [],
+   "bought": 0,
+   "spentUsd": 0,
+   "witness": []
+  },
+  {
+   "w": "0x6863…91f9",
+   "addr": "0x686312c6fa73545a4e1ea7d7d0971800463091f9",
+   "order": 0,
+   "cards": [
+    [
+     "L",
+     1791394955,
+     null,
+     "marion",
+     778,
+     null
+    ]
+   ],
+   "marks": [],
+   "gifted": [],
+   "chance": [],
+   "bought": 0,
+   "spentUsd": 0,
+   "witness": []
+  },
+  {
+   "w": "0xcb25…80b2",
+   "addr": "0xcb259bc56e511629678b75c24a2c1475457e80b2",
+   "order": 0,
+   "cards": [
+    [
+     "L",
+     1791395111,
+     null,
+     "marion",
+     820,
+     null
+    ],
+    [
+     "L",
+     1791395315,
+     null,
+     "matazuu",
+     873,
+     null
+    ]
+   ],
+   "marks": [],
+   "gifted": [],
+   "chance": [],
+   "bought": 0,
+   "spentUsd": 0,
+   "witness": []
+  },
+  {
+   "w": "0x3edb…c56f",
+   "addr": "0x3edb03be837235e1461745bccf95871d4ab2c56f",
+   "order": 9,
+   "cards": [
+    [
+     "L",
+     1791395315,
+     null,
+     null,
+     869,
+     null
+    ]
+   ],
+   "marks": [],
+   "gifted": [],
+   "chance": [],
+   "bought": 0,
+   "spentUsd": 0,
+   "witness": []
+  },
+  {
+   "w": "0x9109…7ae1",
+   "addr": "0x9109b470fa1187278b992f6fc44e03a0a77e7ae1",
+   "order": 0,
+   "cards": [
+    [
+     "L",
+     1791395447,
+     null,
+     "matazuu",
+     911,
      null
     ]
    ],
