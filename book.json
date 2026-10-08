@@ -1,8 +1,8 @@
 {
- "updated": 1791494266,
+ "updated": 1791494409,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26150312,
+ "block": 26150323,
  "events": {
   "firstCard": 180
  },
@@ -55,6 +55,18 @@
     "L": "https://hov.fra1.digitaloceanspaces.com/prod/hov_morwen_greymoor.png"
    },
    "holders": 35
+  },
+  "orven": {
+   "cards": 32,
+   "tiers": {
+    "L": 32,
+    "M": 0,
+    "U": 0
+   },
+   "images": {
+    "L": "https://hov.fra1.digitaloceanspaces.com/prod/hov_orven.png"
+   },
+   "holders": 25
   }
  },
  "sales": {},
@@ -224,6 +236,14 @@
     ],
     [
      "L",
+     1791399047,
+     null,
+     "orven",
+     1562,
+     null
+    ],
+    [
+     "L",
      1791404615,
      null,
      null,
@@ -248,10 +268,26 @@
     ],
     [
      "L",
+     1791405887,
+     null,
+     "orven",
+     2413,
+     null
+    ],
+    [
+     "L",
      1791406583,
      null,
      "matazuu",
      2474,
+     null
+    ],
+    [
+     "L",
+     1791407555,
+     null,
+     "orven",
+     2543,
      null
     ],
     [
@@ -361,6 +397,176 @@
    "witness": []
   },
   {
+   "w": "0x08c8…10e1",
+   "addr": "0x08c8d10b3741343369787747111d1763af2f10e1",
+   "order": 0,
+   "cards": [
+    [
+     "L",
+     1791393323,
+     null,
+     "orven",
+     226,
+     null
+    ],
+    [
+     "L",
+     1791401747,
+     null,
+     "revazial",
+     1861,
+     null
+    ],
+    [
+     "L",
+     1791403151,
+     null,
+     "marion",
+     2053,
+     null
+    ],
+    [
+     "L",
+     1791403199,
+     null,
+     "matazuu",
+     2060,
+     null
+    ],
+    [
+     "L",
+     1791403235,
+     null,
+     "orven",
+     2063,
+     null
+    ],
+    [
+     "L",
+     1791404087,
+     null,
+     "revazial",
+     2163,
+     null
+    ],
+    [
+     "L",
+     1791404819,
+     null,
+     "matazuu",
+     2269,
+     null
+    ],
+    [
+     "L",
+     1791405947,
+     null,
+     "revazial",
+     2422,
+     null
+    ],
+    [
+     "L",
+     1791406079,
+     null,
+     "orven",
+     2440,
+     null
+    ],
+    [
+     "L",
+     1791407879,
+     null,
+     "orven",
+     2574,
+     null
+    ],
+    [
+     "L",
+     1791408479,
+     null,
+     "revazial",
+     2639,
+     null
+    ],
+    [
+     "L",
+     1791409151,
+     null,
+     "marion",
+     2709,
+     null
+    ],
+    [
+     "L",
+     1791409523,
+     null,
+     "marion",
+     2744,
+     null
+    ],
+    [
+     "L",
+     1791409595,
+     null,
+     "matazuu",
+     2752,
+     null
+    ],
+    [
+     "L",
+     1791410159,
+     null,
+     "orven",
+     2804,
+     null
+    ],
+    [
+     "L",
+     1791411311,
+     null,
+     "revazial",
+     2858,
+     null
+    ],
+    [
+     "L",
+     1791411419,
+     null,
+     "marion",
+     2861,
+     null
+    ]
+   ],
+   "marks": [],
+   "gifted": [],
+   "chance": [],
+   "bought": 0,
+   "spentUsd": 0,
+   "witness": []
+  },
+  {
+   "w": "0x1dca…6b5f",
+   "addr": "0x1dca10f6404f20bf4157f582f40ba213f84c6b5f",
+   "order": 0,
+   "cards": [
+    [
+     "L",
+     1791393335,
+     null,
+     "orven",
+     230,
+     null
+    ]
+   ],
+   "marks": [],
+   "gifted": [],
+   "chance": [],
+   "bought": 0,
+   "spentUsd": 0,
+   "witness": []
+  },
+  {
    "w": "0x389e…e685",
    "addr": "0x389e1a92b97aecc4c8c26c2647913756055ae685",
    "order": 2,
@@ -371,6 +577,27 @@
      null,
      null,
      262,
+     null
+    ]
+   ],
+   "marks": [],
+   "gifted": [],
+   "chance": [],
+   "bought": 0,
+   "spentUsd": 0,
+   "witness": []
+  },
+  {
+   "w": "0xd47f…2f1d",
+   "addr": "0xd47f1e47712a1032bdc0e97092aff1b6a65f2f1d",
+   "order": 0,
+   "cards": [
+    [
+     "L",
+     1791393443,
+     null,
+     "orven",
+     285,
      null
     ]
    ],
@@ -400,6 +627,14 @@
      null,
      "marion",
      1623,
+     null
+    ],
+    [
+     "L",
+     1791402587,
+     null,
+     "orven",
+     1979,
      null
     ],
     [
@@ -450,6 +685,35 @@
      null,
      "marion",
      343,
+     null
+    ]
+   ],
+   "marks": [],
+   "gifted": [],
+   "chance": [],
+   "bought": 0,
+   "spentUsd": 0,
+   "witness": []
+  },
+  {
+   "w": "0x0be9…1381",
+   "addr": "0x0be968d6d8ecaba2de75ca2cd008987289f01381",
+   "order": 0,
+   "cards": [
+    [
+     "L",
+     1791393611,
+     null,
+     "orven",
+     351,
+     null
+    ],
+    [
+     "L",
+     1791395471,
+     null,
+     "revazial",
+     917,
      null
     ]
    ],
@@ -660,6 +924,14 @@
      "matazuu",
      619,
      null
+    ],
+    [
+     "L",
+     1791394547,
+     null,
+     "orven",
+     635,
+     null
     ]
    ],
    "marks": [],
@@ -844,6 +1116,27 @@
    "witness": []
   },
   {
+   "w": "0xe7b3…dad0",
+   "addr": "0xe7b3b770188e50f76313e919ac1c78de543edad0",
+   "order": 0,
+   "cards": [
+    [
+     "L",
+     1791395291,
+     null,
+     "orven",
+     864,
+     null
+    ]
+   ],
+   "marks": [],
+   "gifted": [],
+   "chance": [],
+   "bought": 0,
+   "spentUsd": 0,
+   "witness": []
+  },
+  {
    "w": "0xaefc…0180",
    "addr": "0xaefcbb654870e17bd2e0b15897fb3c83cd920180",
    "order": 33,
@@ -876,6 +1169,14 @@
      "matazuu",
      911,
      null
+    ],
+    [
+     "L",
+     1791396359,
+     null,
+     "orven",
+     1169,
+     null
     ]
    ],
    "marks": [],
@@ -886,16 +1187,32 @@
    "witness": []
   },
   {
-   "w": "0x0be9…1381",
-   "addr": "0x0be968d6d8ecaba2de75ca2cd008987289f01381",
+   "w": "0x5a7c…a95f",
+   "addr": "0x5a7cbaedc997e24962a765cf0ae49c678e0ea95f",
    "order": 0,
    "cards": [
     [
      "L",
-     1791395471,
+     1791395735,
+     null,
+     "orven",
+     1001,
+     null
+    ],
+    [
+     "L",
+     1791396035,
+     null,
+     "orven",
+     1074,
+     null
+    ],
+    [
+     "L",
+     1791396407,
      null,
      "revazial",
-     917,
+     1177,
      null
     ]
    ],
@@ -1015,6 +1332,27 @@
    "witness": []
   },
   {
+   "w": "0xda84…0624",
+   "addr": "0xda84060088263a5979b80c68ff2336d4d18e0624",
+   "order": 0,
+   "cards": [
+    [
+     "L",
+     1791395951,
+     null,
+     "orven",
+     1053,
+     null
+    ]
+   ],
+   "marks": [],
+   "gifted": [],
+   "chance": [],
+   "bought": 0,
+   "spentUsd": 0,
+   "witness": []
+  },
+  {
    "w": "0xaab9…9eb3",
    "addr": "0xaab98f0871b991ed3231cea344a2ef5564479eb3",
    "order": 11,
@@ -1070,27 +1408,6 @@
      null,
      "marion",
      1275,
-     null
-    ]
-   ],
-   "marks": [],
-   "gifted": [],
-   "chance": [],
-   "bought": 0,
-   "spentUsd": 0,
-   "witness": []
-  },
-  {
-   "w": "0x5a7c…a95f",
-   "addr": "0x5a7cbaedc997e24962a765cf0ae49c678e0ea95f",
-   "order": 0,
-   "cards": [
-    [
-     "L",
-     1791396407,
-     null,
-     "revazial",
-     1177,
      null
     ]
    ],
@@ -1239,6 +1556,27 @@
    "witness": []
   },
   {
+   "w": "0xc090…85cd",
+   "addr": "0xc090cf91f0ca6e0ed4a549f79219c2cd2d8c85cd",
+   "order": 0,
+   "cards": [
+    [
+     "L",
+     1791397511,
+     null,
+     "orven",
+     1358,
+     null
+    ]
+   ],
+   "marks": [],
+   "gifted": [],
+   "chance": [],
+   "bought": 0,
+   "spentUsd": 0,
+   "witness": []
+  },
+  {
    "w": "0x2288…751b",
    "addr": "0x2288f94fa06796c8db4e560ce2945b07a80a751b",
    "order": 0,
@@ -1249,6 +1587,27 @@
      null,
      "revazial",
      1363,
+     null
+    ]
+   ],
+   "marks": [],
+   "gifted": [],
+   "chance": [],
+   "bought": 0,
+   "spentUsd": 0,
+   "witness": []
+  },
+  {
+   "w": "0x0142…48f7",
+   "addr": "0x014299b3f36e725fc451886a296c2c573a7b48f7",
+   "order": 0,
+   "cards": [
+    [
+     "L",
+     1791397703,
+     null,
+     "orven",
+     1387,
      null
     ]
    ],
@@ -1353,10 +1712,68 @@
     ],
     [
      "L",
+     1791401567,
+     null,
+     "orven",
+     1842,
+     null
+    ],
+    [
+     "L",
      1791403091,
      null,
      "marion",
      2045,
+     null
+    ]
+   ],
+   "marks": [],
+   "gifted": [],
+   "chance": [],
+   "bought": 0,
+   "spentUsd": 0,
+   "witness": []
+  },
+  {
+   "w": "0xcb54…1b76",
+   "addr": "0xcb54d299e0323117f05bfedc02ffb78613f11b76",
+   "order": 27,
+   "cards": [
+    [
+     "L",
+     1791398723,
+     null,
+     "orven",
+     1521,
+     null
+    ],
+    [
+     "L",
+     1791443075,
+     null,
+     null,
+     3355,
+     null
+    ]
+   ],
+   "marks": [],
+   "gifted": [],
+   "chance": [],
+   "bought": 0,
+   "spentUsd": 0,
+   "witness": []
+  },
+  {
+   "w": "0x6623…bc7b",
+   "addr": "0x66235dd8639fce9e3159ec19da411d2043b0bc7b",
+   "order": 0,
+   "cards": [
+    [
+     "L",
+     1791398831,
+     null,
+     "orven",
+     1531,
      null
     ]
    ],
@@ -1492,16 +1909,16 @@
    "witness": []
   },
   {
-   "w": "0x55d0…27fa",
-   "addr": "0x55d00daf33676b50414cf1ff8dac778a8c6727fa",
+   "w": "0x6592…5893",
+   "addr": "0x659290a279f773a8a184b69aee939ac3a8d85893",
    "order": 0,
    "cards": [
     [
      "L",
-     1791400823,
+     1791400187,
      null,
-     "marion",
-     1783,
+     "orven",
+     1710,
      null
     ]
    ],
@@ -1513,104 +1930,16 @@
    "witness": []
   },
   {
-   "w": "0x08c8…10e1",
-   "addr": "0x08c8d10b3741343369787747111d1763af2f10e1",
+   "w": "0x55d0…27fa",
+   "addr": "0x55d00daf33676b50414cf1ff8dac778a8c6727fa",
    "order": 0,
    "cards": [
     [
      "L",
-     1791401747,
-     null,
-     "revazial",
-     1861,
-     null
-    ],
-    [
-     "L",
-     1791403151,
+     1791400823,
      null,
      "marion",
-     2053,
-     null
-    ],
-    [
-     "L",
-     1791403199,
-     null,
-     "matazuu",
-     2060,
-     null
-    ],
-    [
-     "L",
-     1791404087,
-     null,
-     "revazial",
-     2163,
-     null
-    ],
-    [
-     "L",
-     1791404819,
-     null,
-     "matazuu",
-     2269,
-     null
-    ],
-    [
-     "L",
-     1791405947,
-     null,
-     "revazial",
-     2422,
-     null
-    ],
-    [
-     "L",
-     1791408479,
-     null,
-     "revazial",
-     2639,
-     null
-    ],
-    [
-     "L",
-     1791409151,
-     null,
-     "marion",
-     2709,
-     null
-    ],
-    [
-     "L",
-     1791409523,
-     null,
-     "marion",
-     2744,
-     null
-    ],
-    [
-     "L",
-     1791409595,
-     null,
-     "matazuu",
-     2752,
-     null
-    ],
-    [
-     "L",
-     1791411311,
-     null,
-     "revazial",
-     2858,
-     null
-    ],
-    [
-     "L",
-     1791411419,
-     null,
-     "marion",
-     2861,
+     1783,
      null
     ]
    ],
@@ -1784,6 +2113,14 @@
     ],
     [
      "L",
+     1791416471,
+     null,
+     "orven",
+     2978,
+     null
+    ],
+    [
+     "L",
      1791419195,
      null,
      "revazial",
@@ -1870,6 +2207,14 @@
      null,
      "revazial",
      2544,
+     null
+    ],
+    [
+     "L",
+     1791407723,
+     null,
+     "orven",
+     2558,
      null
     ],
     [
@@ -2042,6 +2387,35 @@
    "witness": []
   },
   {
+   "w": "0x968b…c32b",
+   "addr": "0x968b330cdfecd81a6ce6bfd3430c23c7d0a0c32b",
+   "order": 22,
+   "cards": [
+    [
+     "L",
+     1791409463,
+     null,
+     "orven",
+     2737,
+     null
+    ],
+    [
+     "L",
+     1791410207,
+     null,
+     null,
+     2806,
+     null
+    ]
+   ],
+   "marks": [],
+   "gifted": [],
+   "chance": [],
+   "bought": 0,
+   "spentUsd": 0,
+   "witness": []
+  },
+  {
    "w": "0xee3c…54f7",
    "addr": "0xee3c61240b8fe447ad953f516654cdc85bbf54f7",
    "order": 0,
@@ -2073,27 +2447,6 @@
      null,
      "marion",
      2801,
-     null
-    ]
-   ],
-   "marks": [],
-   "gifted": [],
-   "chance": [],
-   "bought": 0,
-   "spentUsd": 0,
-   "witness": []
-  },
-  {
-   "w": "0x968b…c32b",
-   "addr": "0x968b330cdfecd81a6ce6bfd3430c23c7d0a0c32b",
-   "order": 22,
-   "cards": [
-    [
-     "L",
-     1791410207,
-     null,
-     null,
-     2806,
      null
     ]
    ],
@@ -2179,6 +2532,14 @@
      "marion",
      3050,
      null
+    ],
+    [
+     "L",
+     1791418799,
+     null,
+     "orven",
+     3084,
+     null
     ]
    ],
    "marks": [],
@@ -2223,6 +2584,27 @@
      null,
      "matazuu",
      3168,
+     null
+    ]
+   ],
+   "marks": [],
+   "gifted": [],
+   "chance": [],
+   "bought": 0,
+   "spentUsd": 0,
+   "witness": []
+  },
+  {
+   "w": "0x9faa…4c30",
+   "addr": "0x9faa2537e76938f75d013a14d4d0ec31b1e64c30",
+   "order": 0,
+   "cards": [
+    [
+     "L",
+     1791422303,
+     null,
+     "orven",
+     3176,
      null
     ]
    ],
@@ -2350,16 +2732,16 @@
    "witness": []
   },
   {
-   "w": "0xcb54…1b76",
-   "addr": "0xcb54d299e0323117f05bfedc02ffb78613f11b76",
-   "order": 27,
+   "w": "0xda33…60b2",
+   "addr": "0xda33d877208d5892c7cb38dc1aed2b37011a60b2",
+   "order": 0,
    "cards": [
     [
      "L",
-     1791443075,
+     1791443279,
      null,
-     null,
-     3355,
+     "orven",
+     3359,
      null
     ]
    ],
@@ -2423,6 +2805,27 @@
      null,
      "revazial",
      3514,
+     null
+    ]
+   ],
+   "marks": [],
+   "gifted": [],
+   "chance": [],
+   "bought": 1,
+   "spentUsd": 26,
+   "witness": []
+  },
+  {
+   "w": "0x1f76…7773",
+   "addr": "0x1f76261efaf3ea98b0fb659aa50bf7024e3f7773",
+   "order": 0,
+   "cards": [
+    [
+     "L",
+     1791453311,
+     null,
+     "orven",
+     3563,
      null
     ]
    ],
@@ -2789,6 +3192,27 @@
    "witness": []
   },
   {
+   "w": "0xe3c0…9970",
+   "addr": "0xe3c0c281697ad7db5fbbd60d981df4937e949970",
+   "order": 0,
+   "cards": [
+    [
+     "L",
+     1791493343,
+     null,
+     "orven",
+     4297,
+     null
+    ]
+   ],
+   "marks": [],
+   "gifted": [],
+   "chance": [],
+   "bought": 0,
+   "spentUsd": 0,
+   "witness": []
+  },
+  {
    "w": "0x3edb…c56f",
    "addr": "0x3edb03be837235e1461745bccf95871d4ab2c56f",
    "order": 9,
@@ -2825,6 +3249,10 @@
     {
      "k": "flipper",
      "ally": "matazuu"
+    },
+    {
+     "k": "flipper",
+     "ally": "orven"
     }
    ],
    "gifted": [],
