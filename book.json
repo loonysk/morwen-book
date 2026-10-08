@@ -1,14 +1,26 @@
 {
- "updated": 1791489328,
+ "updated": 1791490666,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26149902,
+ "block": 26150013,
  "events": {
   "firstCard": 180
  },
  "pending": 0,
  "heroes": {
   "marion": {
+   "cards": 51,
+   "tiers": {
+    "L": 51,
+    "M": 0,
+    "U": 0
+   },
+   "images": {
+    "L": "https://hov.fra1.digitaloceanspaces.com/prod/hov_marion_soulthread.png"
+   },
+   "holders": 41
+  },
+  "revazial": {
    "cards": 50,
    "tiers": {
     "L": 50,
@@ -16,21 +28,9 @@
     "U": 0
    },
    "images": {
-    "L": "https://hov.fra1.digitaloceanspaces.com/prod/hov_marion_soulthread.png"
-   },
-   "holders": 40
-  },
-  "revazial": {
-   "cards": 49,
-   "tiers": {
-    "L": 49,
-    "M": 0,
-    "U": 0
-   },
-   "images": {
     "L": "https://hov.fra1.digitaloceanspaces.com/prod/hov_revazial.png"
    },
-   "holders": 33
+   "holders": 34
   },
   "matazuu": {
    "cards": 46,
@@ -2700,6 +2700,14 @@
      null,
      4181,
      null
+    ],
+    [
+     "L",
+     1791490595,
+     null,
+     "revazial",
+     4288,
+     null
     ]
    ],
    "marks": [],
@@ -2762,6 +2770,27 @@
      null,
      "marion",
      4263,
+     null
+    ]
+   ],
+   "marks": [],
+   "gifted": [],
+   "chance": [],
+   "bought": 0,
+   "spentUsd": 0,
+   "witness": []
+  },
+  {
+   "w": "0x3bf9…43c0",
+   "addr": "0x3bf912ad06225b8a7889ac6044b0dec522a843c0",
+   "order": 0,
+   "cards": [
+    [
+     "L",
+     1791489779,
+     null,
+     "marion",
+     4285,
      null
     ]
    ],
