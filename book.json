@@ -1,24 +1,24 @@
 {
- "updated": 1791440258,
+ "updated": 1791443887,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26145831,
+ "block": 26146131,
  "events": {
   "firstCard": 180
  },
  "pending": 0,
  "heroes": {
   "marion": {
-   "cards": 39,
+   "cards": 40,
    "tiers": {
-    "L": 39,
+    "L": 40,
     "M": 0,
     "U": 0
    },
    "images": {
     "L": "https://hov.fra1.digitaloceanspaces.com/prod/hov_marion_soulthread.png"
    },
-   "holders": 31
+   "holders": 32
   },
   "matazuu": {
    "cards": 32,
@@ -33,16 +33,16 @@
    "holders": 27
   },
   "morwen": {
-   "cards": 27,
+   "cards": 28,
    "tiers": {
-    "L": 27,
+    "L": 28,
     "M": 0,
     "U": 0
    },
    "images": {
     "L": "https://hov.fra1.digitaloceanspaces.com/prod/hov_morwen_greymoor.png"
    },
-   "holders": 26
+   "holders": 27
   }
  },
  "sales": {},
@@ -1628,6 +1628,48 @@
      null,
      null,
      3222,
+     null
+    ]
+   ],
+   "marks": [],
+   "gifted": [],
+   "chance": [],
+   "bought": 0,
+   "spentUsd": 0,
+   "witness": []
+  },
+  {
+   "w": "0x9f6e…8c61",
+   "addr": "0x9f6e3b66911fb65ee048b7a352c559f9aaab8c61",
+   "order": 0,
+   "cards": [
+    [
+     "L",
+     1791441155,
+     null,
+     "marion",
+     3322,
+     null
+    ]
+   ],
+   "marks": [],
+   "gifted": [],
+   "chance": [],
+   "bought": 0,
+   "spentUsd": 0,
+   "witness": []
+  },
+  {
+   "w": "0xcb54…1b76",
+   "addr": "0xcb54d299e0323117f05bfedc02ffb78613f11b76",
+   "order": 27,
+   "cards": [
+    [
+     "L",
+     1791443075,
+     null,
+     null,
+     3355,
      null
     ]
    ],
