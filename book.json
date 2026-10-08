@@ -1,8 +1,8 @@
 {
- "updated": 1791429460,
+ "updated": 1791433063,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26144935,
+ "block": 26145233,
  "events": {
   "firstCard": 180
  },
@@ -33,16 +33,16 @@
    "holders": 27
   },
   "morwen": {
-   "cards": 26,
+   "cards": 27,
    "tiers": {
-    "L": 26,
+    "L": 27,
     "M": 0,
     "U": 0
    },
    "images": {
     "L": "https://hov.fra1.digitaloceanspaces.com/prod/hov_morwen_greymoor.png"
    },
-   "holders": 25
+   "holders": 26
   }
  },
  "sales": {},
@@ -1607,6 +1607,27 @@
      null,
      "matazuu",
      3168,
+     null
+    ]
+   ],
+   "marks": [],
+   "gifted": [],
+   "chance": [],
+   "bought": 0,
+   "spentUsd": 0,
+   "witness": []
+  },
+  {
+   "w": "0x830b…5f91",
+   "addr": "0x830b2f33860e60b334db927230ae0f8a60225f91",
+   "order": 26,
+   "cards": [
+    [
+     "L",
+     1791432815,
+     null,
+     null,
+     3222,
      null
     ]
    ],
