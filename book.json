@@ -1,24 +1,24 @@
 {
- "updated": 1791483472,
+ "updated": 1791487062,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26149417,
+ "block": 26149713,
  "events": {
   "firstCard": 180
  },
  "pending": 0,
  "heroes": {
   "marion": {
-   "cards": 49,
+   "cards": 50,
    "tiers": {
-    "L": 49,
+    "L": 50,
     "M": 0,
     "U": 0
    },
    "images": {
     "L": "https://hov.fra1.digitaloceanspaces.com/prod/hov_marion_soulthread.png"
    },
-   "holders": 39
+   "holders": 40
   },
   "revazial": {
    "cards": 49,
@@ -2741,6 +2741,27 @@
      null,
      null,
      4237,
+     null
+    ]
+   ],
+   "marks": [],
+   "gifted": [],
+   "chance": [],
+   "bought": 0,
+   "spentUsd": 0,
+   "witness": []
+  },
+  {
+   "w": "0xbbbc…b8c5",
+   "addr": "0xbbbca46964af42db637002e075ff9da8bac2b8c5",
+   "order": 0,
+   "cards": [
+    [
+     "L",
+     1791484523,
+     null,
+     "marion",
+     4263,
      null
     ]
    ],
