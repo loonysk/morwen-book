@@ -1,8 +1,8 @@
 {
- "updated": 1791490666,
+ "updated": 1791494266,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26150013,
+ "block": 26150312,
  "events": {
   "firstCard": 180
  },
@@ -18,7 +18,7 @@
    "images": {
     "L": "https://hov.fra1.digitaloceanspaces.com/prod/hov_marion_soulthread.png"
    },
-   "holders": 41
+   "holders": 40
   },
   "revazial": {
    "cards": 50,
@@ -1797,6 +1797,14 @@
      "revazial",
      3270,
      null
+    ],
+    [
+     "L",
+     1791494099,
+     null,
+     "marion",
+     3806,
+     "t"
     ]
    ],
    "marks": [],
@@ -2384,13 +2392,13 @@
    "witness": []
   },
   {
-   "w": "0xa163…7723",
-   "addr": "0xa163a0cdc0c3f37ce14483fce2641719f6f97723",
+   "w": "0x0df0…2e21",
+   "addr": "0x0df0f5a82ec01a5ea079691bc412acf7513e2e21",
    "order": 0,
    "cards": [
     [
      "L",
-     1791448439,
+     1791491099,
      null,
      "marion",
      3457,
@@ -2400,8 +2408,8 @@
    "marks": [],
    "gifted": [],
    "chance": [],
-   "bought": 0,
-   "spentUsd": 0,
+   "bought": 1,
+   "spentUsd": 46,
    "witness": []
   },
   {
@@ -2486,27 +2494,6 @@
      null,
      "matazuu",
      3787,
-     null
-    ]
-   ],
-   "marks": [],
-   "gifted": [],
-   "chance": [],
-   "bought": 0,
-   "spentUsd": 0,
-   "witness": []
-  },
-  {
-   "w": "0x6cd2…5431",
-   "addr": "0x6cd2b53449086d79825b1a63c0b289e0cf5f5431",
-   "order": 0,
-   "cards": [
-    [
-     "L",
-     1791455063,
-     null,
-     "marion",
-     3806,
      null
     ]
    ],
@@ -2867,6 +2854,23 @@
     {
      "k": "flipper",
      "ally": "revazial"
+    }
+   ],
+   "gifted": [],
+   "chance": [],
+   "bought": 0,
+   "spentUsd": 0,
+   "witness": []
+  },
+  {
+   "w": "0xa163…7723",
+   "addr": "0xa163a0cdc0c3f37ce14483fce2641719f6f97723",
+   "order": 0,
+   "cards": [],
+   "marks": [
+    {
+     "k": "flipper",
+     "ally": "marion"
     }
    ],
    "gifted": [],
