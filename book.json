@@ -1,24 +1,24 @@
 {
- "updated": 1791418278,
+ "updated": 1791418668,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26144005,
+ "block": 26144039,
  "events": {
   "firstCard": 180
  },
  "pending": 0,
  "heroes": {
   "marion": {
-   "cards": 36,
+   "cards": 38,
    "tiers": {
-    "L": 36,
+    "L": 38,
     "M": 0,
     "U": 0
    },
    "images": {
     "L": "https://hov.fra1.digitaloceanspaces.com/prod/hov_marion_soulthread.png"
    },
-   "holders": 28
+   "holders": 30
   },
   "matazuu": {
    "cards": 30,
@@ -1329,6 +1329,14 @@
      "matazuu",
      2430,
      null
+    ],
+    [
+     "L",
+     1791418223,
+     null,
+     "marion",
+     3049,
+     null
     ]
    ],
    "marks": [],
@@ -1525,6 +1533,27 @@
      null,
      null,
      2956,
+     null
+    ]
+   ],
+   "marks": [],
+   "gifted": [],
+   "chance": [],
+   "bought": 0,
+   "spentUsd": 0,
+   "witness": []
+  },
+  {
+   "w": "0x053d…1a53",
+   "addr": "0x053d455805cf03fa2c585e933b843e9292ba1a53",
+   "order": 0,
+   "cards": [
+    [
+     "L",
+     1791418235,
+     null,
+     "marion",
+     3050,
      null
     ]
    ],
