@@ -1,8 +1,8 @@
 {
- "updated": 1791469064,
+ "updated": 1791472679,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26147952,
+ "block": 26148523,
  "events": {
   "firstCard": 180
  },
@@ -21,16 +21,16 @@
    "holders": 39
   },
   "revazial": {
-   "cards": 47,
+   "cards": 49,
    "tiers": {
-    "L": 47,
+    "L": 49,
     "M": 0,
     "U": 0
    },
    "images": {
     "L": "https://hov.fra1.digitaloceanspaces.com/prod/hov_revazial.png"
    },
-   "holders": 32
+   "holders": 33
   },
   "matazuu": {
    "cards": 46,
@@ -45,16 +45,16 @@
    "holders": 34
   },
   "morwen": {
-   "cards": 34,
+   "cards": 35,
    "tiers": {
-    "L": 34,
+    "L": 35,
     "M": 0,
     "U": 0
    },
    "images": {
     "L": "https://hov.fra1.digitaloceanspaces.com/prod/hov_morwen_greymoor.png"
    },
-   "holders": 31
+   "holders": 32
   }
  },
  "sales": {},
@@ -852,17 +852,17 @@
    "witness": []
   },
   {
-   "w": "0x3edb…c56f",
-   "addr": "0x3edb03be837235e1461745bccf95871d4ab2c56f",
-   "order": 9,
+   "w": "0xaefc…0180",
+   "addr": "0xaefcbb654870e17bd2e0b15897fb3c83cd920180",
+   "order": 33,
    "cards": [
     [
      "L",
-     1791395315,
+     1791468923,
      null,
      null,
      869,
-     null
+     "t"
     ]
    ],
    "marks": [],
@@ -1402,6 +1402,14 @@
      null,
      "revazial",
      4093,
+     null
+    ],
+    [
+     "L",
+     1791466055,
+     null,
+     "revazial",
+     4127,
      null
     ]
    ],
@@ -2631,6 +2639,60 @@
      null
     ]
    ],
+   "marks": [],
+   "gifted": [],
+   "chance": [],
+   "bought": 0,
+   "spentUsd": 0,
+   "witness": []
+  },
+  {
+   "w": "0x21b9…ae4f",
+   "addr": "0x21b9093519fe64ae4fd30f1889c37799ac7cae4f",
+   "order": 0,
+   "cards": [
+    [
+     "L",
+     1791466307,
+     null,
+     "revazial",
+     4138,
+     null
+    ]
+   ],
+   "marks": [],
+   "gifted": [],
+   "chance": [],
+   "bought": 0,
+   "spentUsd": 0,
+   "witness": []
+  },
+  {
+   "w": "0x2824…294a",
+   "addr": "0x2824044fce6ad10adf3daef2b749b628c6a9294a",
+   "order": 34,
+   "cards": [
+    [
+     "L",
+     1791471659,
+     null,
+     null,
+     4159,
+     null
+    ]
+   ],
+   "marks": [],
+   "gifted": [],
+   "chance": [],
+   "bought": 0,
+   "spentUsd": 0,
+   "witness": []
+  },
+  {
+   "w": "0x3edb…c56f",
+   "addr": "0x3edb03be837235e1461745bccf95871d4ab2c56f",
+   "order": 9,
+   "cards": [],
    "marks": [],
    "gifted": [],
    "chance": [],
