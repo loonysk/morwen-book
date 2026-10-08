@@ -1,8 +1,8 @@
 {
- "updated": 1791472679,
+ "updated": 1791476268,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26148523,
+ "block": 26148819,
  "events": {
   "firstCard": 180
  },
@@ -70,14 +70,6 @@
      null,
      "marion",
      17,
-     null
-    ],
-    [
-     "L",
-     1791397007,
-     null,
-     "marion",
-     1286,
      null
     ]
    ],
@@ -997,6 +989,14 @@
      "revazial",
      1052,
      null
+    ],
+    [
+     "L",
+     1791475223,
+     null,
+     "marion",
+     1286,
+     "t"
     ],
     [
      "L",
