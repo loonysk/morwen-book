@@ -1,48 +1,48 @@
 {
- "updated": 1791418668,
+ "updated": 1791422292,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26144039,
+ "block": 26144338,
  "events": {
   "firstCard": 180
  },
  "pending": 0,
  "heroes": {
   "marion": {
-   "cards": 38,
+   "cards": 39,
    "tiers": {
-    "L": 38,
+    "L": 39,
     "M": 0,
     "U": 0
    },
    "images": {
     "L": "https://hov.fra1.digitaloceanspaces.com/prod/hov_marion_soulthread.png"
    },
-   "holders": 30
+   "holders": 31
   },
   "matazuu": {
-   "cards": 30,
+   "cards": 32,
    "tiers": {
-    "L": 30,
+    "L": 32,
     "M": 0,
     "U": 0
    },
    "images": {
     "L": "https://hov.fra1.digitaloceanspaces.com/prod/hov_matazuu.png"
    },
-   "holders": 26
+   "holders": 27
   },
   "morwen": {
-   "cards": 24,
+   "cards": 26,
    "tiers": {
-    "L": 24,
+    "L": 26,
     "M": 0,
     "U": 0
    },
    "images": {
     "L": "https://hov.fra1.digitaloceanspaces.com/prod/hov_morwen_greymoor.png"
    },
-   "holders": 23
+   "holders": 25
   }
  },
  "sales": {},
@@ -1320,7 +1320,7 @@
   {
    "w": "0x6d5a…e124",
    "addr": "0x6d5aba28442195b3eb575702e6b418c7eb0ee124",
-   "order": 0,
+   "order": 24,
    "cards": [
     [
      "L",
@@ -1336,6 +1336,14 @@
      null,
      "marion",
      3049,
+     null
+    ],
+    [
+     "L",
+     1791419567,
+     null,
+     null,
+     3128,
      null
     ]
    ],
@@ -1554,6 +1562,51 @@
      null,
      "marion",
      3050,
+     null
+    ]
+   ],
+   "marks": [],
+   "gifted": [],
+   "chance": [],
+   "bought": 0,
+   "spentUsd": 0,
+   "witness": []
+  },
+  {
+   "w": "0xbf05…817a",
+   "addr": "0xbf05d6829a12752d41c1aabc6769d63960f4817a",
+   "order": 25,
+   "cards": [
+    [
+     "L",
+     1791419315,
+     null,
+     "matazuu",
+     3116,
+     null
+    ],
+    [
+     "L",
+     1791419399,
+     null,
+     "marion",
+     3118,
+     null
+    ],
+    [
+     "L",
+     1791421559,
+     null,
+     null,
+     3167,
+     null
+    ],
+    [
+     "L",
+     1791421595,
+     null,
+     "matazuu",
+     3168,
      null
     ]
    ],
