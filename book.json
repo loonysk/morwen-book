@@ -1,8 +1,8 @@
 {
- "updated": 1791451068,
+ "updated": 1791454698,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26146727,
+ "block": 26147000,
  "events": {
   "firstCard": 180
  },
@@ -33,28 +33,28 @@
    "holders": 31
   },
   "matazuu": {
-   "cards": 36,
+   "cards": 41,
    "tiers": {
-    "L": 36,
+    "L": 41,
     "M": 0,
     "U": 0
    },
    "images": {
     "L": "https://hov.fra1.digitaloceanspaces.com/prod/hov_matazuu.png"
    },
-   "holders": 28
+   "holders": 30
   },
   "morwen": {
-   "cards": 30,
+   "cards": 32,
    "tiers": {
-    "L": 30,
+    "L": 32,
     "M": 0,
     "U": 0
    },
    "images": {
     "L": "https://hov.fra1.digitaloceanspaces.com/prod/hov_morwen_greymoor.png"
    },
-   "holders": 28
+   "holders": 29
   }
  },
  "sales": {},
@@ -300,6 +300,14 @@
      null,
      "revazial",
      3528,
+     null
+    ],
+    [
+     "L",
+     1791454031,
+     null,
+     "matazuu",
+     3751,
      null
     ]
    ],
@@ -1002,13 +1010,21 @@
      null,
      1108,
      null
+    ],
+    [
+     "L",
+     1791451499,
+     null,
+     "matazuu",
+     3599,
+     null
     ]
    ],
    "marks": [],
    "gifted": [],
    "chance": [],
-   "bought": 0,
-   "spentUsd": 0,
+   "bought": 1,
+   "spentUsd": 26,
    "witness": []
   },
   {
@@ -1097,13 +1113,21 @@
      "matazuu",
      1765,
      null
+    ],
+    [
+     "L",
+     1791452699,
+     null,
+     "matazuu",
+     3646,
+     null
     ]
    ],
    "marks": [],
    "gifted": [],
    "chance": [],
-   "bought": 1,
-   "spentUsd": 26,
+   "bought": 2,
+   "spentUsd": 51,
    "witness": []
   },
   {
@@ -1844,6 +1868,22 @@
      null,
      3128,
      null
+    ],
+    [
+     "L",
+     1791451631,
+     null,
+     null,
+     3615,
+     null
+    ],
+    [
+     "L",
+     1791452867,
+     null,
+     "matazuu",
+     3694,
+     null
     ]
    ],
    "marks": [],
@@ -2338,6 +2378,48 @@
    "witness": []
   },
   {
+   "w": "0xfd14…e79a",
+   "addr": "0xfd147e915b113fa92d25fa4ce8b6c19230f2e79a",
+   "order": 29,
+   "cards": [
+    [
+     "L",
+     1791451451,
+     null,
+     null,
+     3601,
+     null
+    ]
+   ],
+   "marks": [],
+   "gifted": [],
+   "chance": [],
+   "bought": 0,
+   "spentUsd": 0,
+   "witness": []
+  },
+  {
+   "w": "0x3b58…6c41",
+   "addr": "0x3b5884d22580f7b0663759ea509b4a8e6b596c41",
+   "order": 0,
+   "cards": [
+    [
+     "L",
+     1791451919,
+     null,
+     "matazuu",
+     3639,
+     null
+    ]
+   ],
+   "marks": [],
+   "gifted": [],
+   "chance": [],
+   "bought": 0,
+   "spentUsd": 0,
+   "witness": []
+  },
+  {
    "w": "0x4dce…bd16",
    "addr": "0x4dce68b10e5520c7f3a66cdcd21a8d6d41bfbd16",
    "order": 0,
@@ -2354,6 +2436,14 @@
     {
      "k": "flipper",
      "ally": "revazial"
+    },
+    {
+     "k": "flipper",
+     "ally": "matazuu"
+    },
+    {
+     "k": "flipper",
+     "ally": "matazuu"
     }
    ],
    "gifted": [],
