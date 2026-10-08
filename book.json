@@ -1,8 +1,8 @@
 {
- "updated": 1791422292,
+ "updated": 1791425863,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26144338,
+ "block": 26144636,
  "events": {
   "firstCard": 180
  },
