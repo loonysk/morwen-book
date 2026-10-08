@@ -1,24 +1,24 @@
 {
- "updated": 1791454698,
+ "updated": 1791458303,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26147000,
+ "block": 26147326,
  "events": {
   "firstCard": 180
  },
  "pending": 0,
  "heroes": {
   "marion": {
-   "cards": 42,
+   "cards": 46,
    "tiers": {
-    "L": 42,
+    "L": 46,
     "M": 0,
     "U": 0
    },
    "images": {
     "L": "https://hov.fra1.digitaloceanspaces.com/prod/hov_marion_soulthread.png"
    },
-   "holders": 33
+   "holders": 37
   },
   "revazial": {
    "cards": 45,
@@ -33,16 +33,16 @@
    "holders": 31
   },
   "matazuu": {
-   "cards": 41,
+   "cards": 42,
    "tiers": {
-    "L": 41,
+    "L": 42,
     "M": 0,
     "U": 0
    },
    "images": {
     "L": "https://hov.fra1.digitaloceanspaces.com/prod/hov_matazuu.png"
    },
-   "holders": 30
+   "holders": 31
   },
   "morwen": {
    "cards": 32,
@@ -2409,6 +2409,98 @@
      null,
      "matazuu",
      3639,
+     null
+    ],
+    [
+     "L",
+     1791456815,
+     null,
+     "marion",
+     3849,
+     null
+    ]
+   ],
+   "marks": [],
+   "gifted": [],
+   "chance": [],
+   "bought": 0,
+   "spentUsd": 0,
+   "witness": []
+  },
+  {
+   "w": "0xa5cd…4d6c",
+   "addr": "0xa5cd95109b06e7433044a38a2c9a0f6ed4a54d6c",
+   "order": 0,
+   "cards": [
+    [
+     "L",
+     1791454763,
+     null,
+     "matazuu",
+     3787,
+     null
+    ]
+   ],
+   "marks": [],
+   "gifted": [],
+   "chance": [],
+   "bought": 0,
+   "spentUsd": 0,
+   "witness": []
+  },
+  {
+   "w": "0x6cd2…5431",
+   "addr": "0x6cd2b53449086d79825b1a63c0b289e0cf5f5431",
+   "order": 0,
+   "cards": [
+    [
+     "L",
+     1791455063,
+     null,
+     "marion",
+     3806,
+     null
+    ]
+   ],
+   "marks": [],
+   "gifted": [],
+   "chance": [],
+   "bought": 0,
+   "spentUsd": 0,
+   "witness": []
+  },
+  {
+   "w": "0xa591…a4d2",
+   "addr": "0xa5912117541c8cd0e537e05e81c602c469d2a4d2",
+   "order": 0,
+   "cards": [
+    [
+     "L",
+     1791456647,
+     null,
+     "marion",
+     3843,
+     null
+    ]
+   ],
+   "marks": [],
+   "gifted": [],
+   "chance": [],
+   "bought": 0,
+   "spentUsd": 0,
+   "witness": []
+  },
+  {
+   "w": "0x8031…2a71",
+   "addr": "0x803110a249192d846cadadabf8e081649d8a2a71",
+   "order": 0,
+   "cards": [
+    [
+     "L",
+     1791457775,
+     null,
+     "marion",
+     3870,
      null
     ]
    ],
