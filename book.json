@@ -1,8 +1,8 @@
 {
- "updated": 1791494409,
+ "updated": 1791494841,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26150323,
+ "block": 26150358,
  "events": {
   "firstCard": 180
  },
@@ -3307,5 +3307,62 @@
    "spentUsd": 0,
    "witness": []
   }
- ]
+ ],
+ "floors": {
+  "at": 1791494842,
+  "listed": 172,
+  "offers": {
+   "marion": {
+    "id": 3322,
+    "eth": 0.025,
+    "tier": "L"
+   },
+   "orven": {
+    "id": 1531,
+    "eth": 0.08,
+    "tier": "L"
+   },
+   "morwen": {
+    "id": 4193,
+    "eth": 0.12,
+    "tier": "L"
+   },
+   "matazuu": {
+    "id": 1536,
+    "eth": 0.44,
+    "tier": "L"
+   },
+   "revazial": {
+    "id": 210,
+    "eth": 0.5,
+    "tier": "L"
+   }
+  },
+  "marion": {
+   "L": 0.025,
+   "M": null,
+   "U": null
+  },
+  "orven": {
+   "L": 0.08,
+   "M": null,
+   "U": null
+  },
+  "morwen": {
+   "L": 0.12,
+   "M": null,
+   "U": null
+  },
+  "matazuu": {
+   "L": 0.44,
+   "M": null,
+   "U": null
+  },
+  "revazial": {
+   "L": 0.5,
+   "M": null,
+   "U": null
+  },
+  "usd": 2582.57
+ }
 }
