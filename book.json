@@ -1,8 +1,8 @@
 {
- "updated": 1791450104,
+ "updated": 1791451068,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26146645,
+ "block": 26146727,
  "events": {
   "firstCard": 180
  },
@@ -21,9 +21,9 @@
    "holders": 33
   },
   "revazial": {
-   "cards": 44,
+   "cards": 45,
    "tiers": {
-    "L": 44,
+    "L": 45,
     "M": 0,
     "U": 0
    },
@@ -464,13 +464,21 @@
      "revazial",
      380,
      null
+    ],
+    [
+     "L",
+     1791450875,
+     null,
+     "revazial",
+     3564,
+     null
     ]
    ],
    "marks": [],
    "gifted": [],
    "chance": [],
-   "bought": 0,
-   "spentUsd": 0,
+   "bought": 1,
+   "spentUsd": 26,
    "witness": []
   },
   {
@@ -2342,6 +2350,10 @@
     {
      "k": "flipper",
      "ally": "matazuu"
+    },
+    {
+     "k": "flipper",
+     "ally": "revazial"
     }
    ],
    "gifted": [],
