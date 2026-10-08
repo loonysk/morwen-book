@@ -1,8 +1,8 @@
 {
- "updated": 1791465506,
+ "updated": 1791465791,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26147925,
+ "block": 26147952,
  "events": {
   "firstCard": 180
  },
@@ -21,9 +21,9 @@
    "holders": 39
   },
   "revazial": {
-   "cards": 46,
+   "cards": 47,
    "tiers": {
-    "L": 46,
+    "L": 47,
     "M": 0,
     "U": 0
    },
@@ -1394,6 +1394,14 @@
      null,
      null,
      4078,
+     null
+    ],
+    [
+     "L",
+     1791465455,
+     null,
+     "revazial",
+     4093,
      null
     ]
    ],
