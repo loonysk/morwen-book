@@ -1,24 +1,24 @@
 {
- "updated": 1791497860,
+ "updated": 1791500834,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26150610,
+ "block": 26150855,
  "events": {
   "firstCard": 180
  },
  "pending": 0,
  "heroes": {
   "marion": {
-   "cards": 51,
+   "cards": 52,
    "tiers": {
-    "L": 51,
+    "L": 52,
     "M": 0,
     "U": 0
    },
    "images": {
     "L": "https://hov.fra1.digitaloceanspaces.com/prod/hov_marion_soulthread.png"
    },
-   "holders": 40
+   "holders": 41
   },
   "revazial": {
    "cards": 50,
@@ -2679,56 +2679,24 @@
    "witness": []
   },
   {
-   "w": "0x9f6e…8c61",
-   "addr": "0x9f6e3b66911fb65ee048b7a352c559f9aaab8c61",
+   "w": "0xc4ef…d832",
+   "addr": "0xc4ef2ab802f210c66ed3eaf2a996fed34b49d832",
    "order": 0,
    "cards": [
     [
      "L",
-     1791441155,
+     1791500327,
      null,
      "marion",
      3322,
-     null
-    ],
-    [
-     "L",
-     1791448655,
-     null,
-     "matazuu",
-     3466,
-     null
-    ],
-    [
-     "L",
-     1791448943,
-     null,
-     "matazuu",
-     3480,
-     null
-    ],
-    [
-     "L",
-     1791449651,
-     null,
-     "matazuu",
-     3525,
-     null
-    ],
-    [
-     "L",
-     1791449951,
-     null,
-     "revazial",
-     3540,
      null
     ]
    ],
    "marks": [],
    "gifted": [],
    "chance": [],
-   "bought": 0,
-   "spentUsd": 0,
+   "bought": 1,
+   "spentUsd": 65,
    "witness": []
   },
   {
@@ -2792,6 +2760,64 @@
    "chance": [],
    "bought": 1,
    "spentUsd": 46,
+   "witness": []
+  },
+  {
+   "w": "0x9f6e…8c61",
+   "addr": "0x9f6e3b66911fb65ee048b7a352c559f9aaab8c61",
+   "order": 0,
+   "cards": [
+    [
+     "L",
+     1791448655,
+     null,
+     "matazuu",
+     3466,
+     null
+    ],
+    [
+     "L",
+     1791448943,
+     null,
+     "matazuu",
+     3480,
+     null
+    ],
+    [
+     "L",
+     1791449651,
+     null,
+     "matazuu",
+     3525,
+     null
+    ],
+    [
+     "L",
+     1791449951,
+     null,
+     "revazial",
+     3540,
+     null
+    ]
+   ],
+   "marks": [
+    {
+     "k": "flipper",
+     "ally": "marion"
+    }
+   ],
+   "lost": [
+    [
+     "flipper",
+     "L",
+     "marion",
+     3322
+    ]
+   ],
+   "gifted": [],
+   "chance": [],
+   "bought": 0,
+   "spentUsd": 0,
    "witness": []
   },
   {
@@ -3203,6 +3229,14 @@
      "orven",
      4297,
      null
+    ],
+    [
+     "L",
+     1791499487,
+     null,
+     "marion",
+     4301,
+     null
     ]
    ],
    "marks": [],
@@ -3309,14 +3343,9 @@
   }
  ],
  "floors": {
-  "at": 1791497861,
-  "listed": 171,
+  "at": 1791500835,
+  "listed": 173,
   "offers": {
-   "marion": {
-    "id": 3322,
-    "eth": 0.025,
-    "tier": "L"
-   },
    "orven": {
     "id": 1531,
     "eth": 0.08,
@@ -3336,12 +3365,12 @@
     "id": 210,
     "eth": 0.5,
     "tier": "L"
+   },
+   "marion": {
+    "id": 2058,
+    "eth": 0.9,
+    "tier": "L"
    }
-  },
-  "marion": {
-   "L": 0.025,
-   "M": null,
-   "U": null
   },
   "orven": {
    "L": 0.08,
@@ -3363,6 +3392,11 @@
    "M": null,
    "U": null
   },
-  "usd": 2582.57
+  "marion": {
+   "L": 0.9,
+   "M": null,
+   "U": null
+  },
+  "usd": 2472.14
  }
 }
