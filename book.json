@@ -1,12 +1,12 @@
 {
- "updated": 1791560315,
+ "updated": 1791560886,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26155667,
+ "block": 26155846,
  "events": {
   "firstCard": 180
  },
- "pending": 5,
+ "pending": 0,
  "heroes": {
   "marion": {
    "cards": 63,
@@ -21,6 +21,18 @@
    "holders": 49
   },
   "revazial": {
+   "cards": 55,
+   "tiers": {
+    "L": 55,
+    "M": 0,
+    "U": 0
+   },
+   "images": {
+    "L": "https://hov.fra1.digitaloceanspaces.com/prod/hov_revazial.png"
+   },
+   "holders": 38
+  },
+  "yomihime": {
    "cards": 54,
    "tiers": {
     "L": 54,
@@ -28,21 +40,9 @@
     "U": 0
    },
    "images": {
-    "L": "https://hov.fra1.digitaloceanspaces.com/prod/hov_revazial.png"
-   },
-   "holders": 37
-  },
-  "yomihime": {
-   "cards": 53,
-   "tiers": {
-    "L": 53,
-    "M": 0,
-    "U": 0
-   },
-   "images": {
     "L": "https://hov.fra1.digitaloceanspaces.com/prod/hov_yomihime.png"
    },
-   "holders": 37
+   "holders": 38
   },
   "morwen": {
    "cards": 45,
@@ -113,6 +113,14 @@
      null,
      "marion",
      1286,
+     "t"
+    ],
+    [
+     "L",
+     1791559895,
+     null,
+     "marion",
+     2199,
      "t"
     ],
     [
@@ -1451,14 +1459,6 @@
     ],
     [
      "L",
-     1791404351,
-     null,
-     "marion",
-     2199,
-     null
-    ],
-    [
-     "L",
      1791404447,
      null,
      "revazial",
@@ -2536,6 +2536,27 @@
    "witness": []
   },
   {
+   "w": "0xc328…9011",
+   "addr": "0xc328efce2c3c50ca2dc9b6784705505160ba9011",
+   "order": 0,
+   "cards": [
+    [
+     "L",
+     1791417635,
+     null,
+     "revazial",
+     3017,
+     null
+    ]
+   ],
+   "marks": [],
+   "gifted": [],
+   "chance": [],
+   "bought": 0,
+   "spentUsd": 0,
+   "witness": []
+  },
+  {
    "w": "0x6d5a…e124",
    "addr": "0x6d5aba28442195b3eb575702e6b418c7eb0ee124",
    "order": 24,
@@ -3255,6 +3276,14 @@
      null,
      "revazial",
      4957,
+     null
+    ],
+    [
+     "L",
+     1791560123,
+     null,
+     "yomihime",
+     5021,
      null
     ]
    ],
@@ -4025,7 +4054,7 @@
   }
  ],
  "floors": {
-  "at": 1791560316,
+  "at": 1791560887,
   "listed": 215,
   "offers": {
    "yomihime": {
@@ -4079,6 +4108,6 @@
    "M": null,
    "U": null
   },
-  "usd": 2489.6
+  "usd": 2487.98
  }
 }
