@@ -1,8 +1,8 @@
 {
- "updated": 1791557881,
+ "updated": 1791558481,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26155596,
+ "block": 26155646,
  "events": {
   "firstCard": 180
  },
@@ -21,16 +21,16 @@
    "holders": 49
   },
   "revazial": {
-   "cards": 54,
+   "cards": 55,
    "tiers": {
-    "L": 54,
+    "L": 55,
     "M": 0,
     "U": 0
    },
    "images": {
     "L": "https://hov.fra1.digitaloceanspaces.com/prod/hov_revazial.png"
    },
-   "holders": 37
+   "holders": 38
   },
   "yomihime": {
    "cards": 53,
@@ -3811,6 +3811,14 @@
      "marion",
      5002,
      null
+    ],
+    [
+     "L",
+     1791557939,
+     null,
+     "revazial",
+     5006,
+     null
     ]
    ],
    "marks": [],
@@ -3988,8 +3996,8 @@
   }
  ],
  "floors": {
-  "at": 1791557882,
-  "listed": 216,
+  "at": 1791558482,
+  "listed": 217,
   "offers": {
    "yomihime": {
     "id": 572,
@@ -4002,8 +4010,8 @@
     "tier": "L"
    },
    "morwen": {
-    "id": 761,
-    "eth": 0.081,
+    "id": 1332,
+    "eth": 0.04,
     "tier": "L"
    },
    "revazial": {
@@ -4028,7 +4036,7 @@
    "U": null
   },
   "morwen": {
-   "L": 0.081,
+   "L": 0.04,
    "M": null,
    "U": null
   },
@@ -4042,6 +4050,6 @@
    "M": null,
    "U": null
   },
-  "usd": 2492.38
+  "usd": 2485.6
  }
 }
