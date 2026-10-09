@@ -1,48 +1,48 @@
 {
- "updated": 1791530485,
+ "updated": 1791533886,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26153320,
+ "block": 26153600,
  "events": {
   "firstCard": 180
  },
  "pending": 0,
  "heroes": {
   "marion": {
-   "cards": 55,
+   "cards": 56,
    "tiers": {
-    "L": 55,
+    "L": 56,
     "M": 0,
     "U": 0
    },
    "images": {
     "L": "https://hov.fra1.digitaloceanspaces.com/prod/hov_marion_soulthread.png"
    },
-   "holders": 44
+   "holders": 45
   },
   "revazial": {
-   "cards": 50,
+   "cards": 51,
    "tiers": {
-    "L": 50,
+    "L": 51,
     "M": 0,
     "U": 0
    },
    "images": {
     "L": "https://hov.fra1.digitaloceanspaces.com/prod/hov_revazial.png"
    },
-   "holders": 34
+   "holders": 35
   },
   "matazuu": {
-   "cards": 49,
+   "cards": 51,
    "tiers": {
-    "L": 49,
+    "L": 51,
     "M": 0,
     "U": 0
    },
    "images": {
     "L": "https://hov.fra1.digitaloceanspaces.com/prod/hov_matazuu.png"
    },
-   "holders": 36
+   "holders": 38
   },
   "morwen": {
    "cards": 41,
@@ -3421,6 +3421,64 @@
    "witness": []
   },
   {
+   "w": "0xe38b…5cae",
+   "addr": "0xe38ba79471821f5b0be5465125d7484126685cae",
+   "order": 0,
+   "cards": [
+    [
+     "L",
+     1791531191,
+     null,
+     "marion",
+     4501,
+     null
+    ],
+    [
+     "L",
+     1791531299,
+     null,
+     "revazial",
+     4503,
+     null
+    ],
+    [
+     "L",
+     1791531719,
+     null,
+     "matazuu",
+     4513,
+     null
+    ]
+   ],
+   "marks": [],
+   "gifted": [],
+   "chance": [],
+   "bought": 0,
+   "spentUsd": 0,
+   "witness": []
+  },
+  {
+   "w": "0x40f5…9e8e",
+   "addr": "0x40f5ad87374c1fe5c256db69ddce9e3741519e8e",
+   "order": 0,
+   "cards": [
+    [
+     "L",
+     1791532787,
+     null,
+     "matazuu",
+     4525,
+     null
+    ]
+   ],
+   "marks": [],
+   "gifted": [],
+   "chance": [],
+   "bought": 0,
+   "spentUsd": 0,
+   "witness": []
+  },
+  {
    "w": "0x3edb…c56f",
    "addr": "0x3edb03be837235e1461745bccf95871d4ab2c56f",
    "order": 9,
@@ -3517,8 +3575,8 @@
   }
  ],
  "floors": {
-  "at": 1791530489,
-  "listed": 204,
+  "at": 1791533887,
+  "listed": 214,
   "offers": {
    "orven": {
     "id": 1531,
@@ -3571,6 +3629,6 @@
    "M": null,
    "U": null
   },
-  "usd": 2498.41
+  "usd": 2501.55
  }
 }
