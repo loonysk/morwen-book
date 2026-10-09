@@ -1,8 +1,8 @@
 {
- "updated": 1791554885,
+ "updated": 1791555484,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26155348,
+ "block": 26155397,
  "events": {
   "firstCard": 180
  },
@@ -21,16 +21,16 @@
    "holders": 48
   },
   "revazial": {
-   "cards": 51,
+   "cards": 52,
    "tiers": {
-    "L": 51,
+    "L": 52,
     "M": 0,
     "U": 0
    },
    "images": {
     "L": "https://hov.fra1.digitaloceanspaces.com/prod/hov_revazial.png"
    },
-   "holders": 35
+   "holders": 36
   },
   "matazuu": {
    "cards": 59,
@@ -4374,6 +4374,27 @@
    "witness": []
   },
   {
+   "w": "0x890f…bb56",
+   "addr": "0x890f52769d7351ec04b4e370962736c0d143bb56",
+   "order": 0,
+   "cards": [
+    [
+     "L",
+     1791555191,
+     null,
+     "revazial",
+     4924,
+     null
+    ]
+   ],
+   "marks": [],
+   "gifted": [],
+   "chance": [],
+   "bought": 0,
+   "spentUsd": 0,
+   "witness": []
+  },
+  {
    "w": "0x3edb…c56f",
    "addr": "0x3edb03be837235e1461745bccf95871d4ab2c56f",
    "order": 9,
@@ -4541,7 +4562,7 @@
   }
  ],
  "floors": {
-  "at": 1791554886,
+  "at": 1791555484,
   "listed": 218,
   "offers": {
    "yomihime": {
@@ -4605,6 +4626,6 @@
    "M": null,
    "U": null
   },
-  "usd": 2487.49
+  "usd": 2487.66
  }
 }
