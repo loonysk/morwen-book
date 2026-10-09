@@ -1,8 +1,8 @@
 {
- "updated": 1791530270,
+ "updated": 1791530485,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26153300,
+ "block": 26153320,
  "events": {
   "firstCard": 180
  },
@@ -3517,8 +3517,8 @@
   }
  ],
  "floors": {
-  "at": 1791530271,
-  "listed": 203,
+  "at": 1791530489,
+  "listed": 204,
   "offers": {
    "orven": {
     "id": 1531,
@@ -3526,8 +3526,8 @@
     "tier": "L"
    },
    "morwen": {
-    "id": 4193,
-    "eth": 0.12,
+    "id": 1347,
+    "eth": 0.1165,
     "tier": "L"
    },
    "matazuu": {
@@ -3552,7 +3552,7 @@
    "U": null
   },
   "morwen": {
-   "L": 0.12,
+   "L": 0.1165,
    "M": null,
    "U": null
   },
@@ -3571,6 +3571,6 @@
    "M": null,
    "U": null
   },
-  "usd": 2497.98
+  "usd": 2498.41
  }
 }
