@@ -1,8 +1,8 @@
 {
- "updated": 1791563282,
+ "updated": 1791563884,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26156045,
+ "block": 26156094,
  "events": {
   "firstCard": 180
  },
@@ -216,8 +216,7 @@
    "chance": [],
    "bought": 0,
    "spentUsd": 0,
-   "witness": [],
-   "her": true
+   "witness": []
   },
   {
    "w": "0x5687…ac73",
@@ -4083,8 +4082,8 @@
   }
  ],
  "floors": {
-  "at": 1791563282,
-  "listed": 214,
+  "at": 1791563884,
+  "listed": 213,
   "offers": {
    "yomihime": {
     "id": 572,
@@ -4137,6 +4136,6 @@
    "M": null,
    "U": null
   },
-  "usd": 2488.23
+  "usd": 2488.3
  }
 }
