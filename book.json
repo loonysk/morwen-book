@@ -1,8 +1,8 @@
 {
- "updated": 1791549482,
+ "updated": 1791550084,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26154898,
+ "block": 26154948,
  "events": {
   "firstCard": 180
  },
@@ -57,16 +57,16 @@
    "holders": 38
   },
   "orven": {
-   "cards": 37,
+   "cards": 38,
    "tiers": {
-    "L": 37,
+    "L": 38,
     "M": 0,
     "U": 0
    },
    "images": {
     "L": "https://hov.fra1.digitaloceanspaces.com/prod/hov_orven.png"
    },
-   "holders": 29
+   "holders": 30
   }
  },
  "sales": {},
@@ -3648,6 +3648,27 @@
    "witness": []
   },
   {
+   "w": "0x024c…3df7",
+   "addr": "0x024c178d8884e0722178c5ac7704665b996e3df7",
+   "order": 0,
+   "cards": [
+    [
+     "L",
+     1791549971,
+     null,
+     "orven",
+     4812,
+     null
+    ]
+   ],
+   "marks": [],
+   "gifted": [],
+   "chance": [],
+   "bought": 0,
+   "spentUsd": 0,
+   "witness": []
+  },
+  {
    "w": "0x3edb…c56f",
    "addr": "0x3edb03be837235e1461745bccf95871d4ab2c56f",
    "order": 9,
@@ -3769,8 +3790,8 @@
   }
  ],
  "floors": {
-  "at": 1791549482,
-  "listed": 216,
+  "at": 1791550084,
+  "listed": 217,
   "offers": {
    "orven": {
     "id": 1531,
@@ -3823,6 +3844,6 @@
    "M": null,
    "U": null
   },
-  "usd": 2498.64
+  "usd": 2496.61
  }
 }
