@@ -1,24 +1,24 @@
 {
- "updated": 1791557283,
+ "updated": 1791557881,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26155546,
+ "block": 26155596,
  "events": {
   "firstCard": 180
  },
  "pending": 0,
  "heroes": {
   "marion": {
-   "cards": 62,
+   "cards": 63,
    "tiers": {
-    "L": 62,
+    "L": 63,
     "M": 0,
     "U": 0
    },
    "images": {
     "L": "https://hov.fra1.digitaloceanspaces.com/prod/hov_marion_soulthread.png"
    },
-   "holders": 48
+   "holders": 49
   },
   "revazial": {
    "cards": 54,
@@ -31,18 +31,6 @@
     "L": "https://hov.fra1.digitaloceanspaces.com/prod/hov_revazial.png"
    },
    "holders": 37
-  },
-  "matazuu": {
-   "cards": 59,
-   "tiers": {
-    "L": 59,
-    "M": 0,
-    "U": 0
-   },
-   "images": {
-    "L": "https://hov.fra1.digitaloceanspaces.com/prod/hov_matazuu.png"
-   },
-   "holders": 43
   },
   "yomihime": {
    "cards": 53,
@@ -165,27 +153,6 @@
    "witness": []
   },
   {
-   "w": "0x7343…41f6",
-   "addr": "0x7343d91ef2c098b92995dafd496c3392960541f6",
-   "order": 0,
-   "cards": [
-    [
-     "L",
-     1791392795,
-     null,
-     "matazuu",
-     49,
-     null
-    ]
-   ],
-   "marks": [],
-   "gifted": [],
-   "chance": [],
-   "bought": 0,
-   "spentUsd": 0,
-   "witness": []
-  },
-  {
    "w": "0xd36d…edfd",
    "addr": "0xd36d3f0d7f1b7053914d9bf8875acb86b375edfd",
    "order": 0,
@@ -245,43 +212,6 @@
    "her": true
   },
   {
-   "w": "0xa160…6059",
-   "addr": "0xa160fc3af4a0dce0f44eacc96258706543206059",
-   "order": 0,
-   "cards": [
-    [
-     "L",
-     1791393095,
-     null,
-     "matazuu",
-     151,
-     null
-    ],
-    [
-     "L",
-     1791393335,
-     null,
-     "revazial",
-     234,
-     null
-    ],
-    [
-     "L",
-     1791393635,
-     null,
-     "marion",
-     364,
-     null
-    ]
-   ],
-   "marks": [],
-   "gifted": [],
-   "chance": [],
-   "bought": 0,
-   "spentUsd": 0,
-   "witness": []
-  },
-  {
    "w": "0x5687…ac73",
    "addr": "0x5687680d14d637707fe05f18da6985ee040eac73",
    "order": 32,
@@ -308,14 +238,6 @@
      null,
      "yomihime",
      1839,
-     null
-    ],
-    [
-     "L",
-     1791402167,
-     null,
-     "matazuu",
-     1912,
      null
     ],
     [
@@ -463,14 +385,6 @@
     ],
     [
      "L",
-     1791406583,
-     null,
-     "matazuu",
-     2474,
-     null
-    ],
-    [
-     "L",
      1791407555,
      null,
      "orven",
@@ -483,14 +397,6 @@
      null,
      "revazial",
      2566,
-     null
-    ],
-    [
-     "L",
-     1791408539,
-     null,
-     "matazuu",
-     2645,
      null
     ],
     [
@@ -523,14 +429,6 @@
      null,
      "revazial",
      3528,
-     null
-    ],
-    [
-     "L",
-     1791454031,
-     null,
-     "matazuu",
-     3751,
      null
     ],
     [
@@ -717,14 +615,6 @@
     ],
     [
      "L",
-     1791403199,
-     null,
-     "matazuu",
-     2060,
-     null
-    ],
-    [
-     "L",
      1791403235,
      null,
      "orven",
@@ -737,14 +627,6 @@
      null,
      "revazial",
      2163,
-     null
-    ],
-    [
-     "L",
-     1791404819,
-     null,
-     "matazuu",
-     2269,
      null
     ],
     [
@@ -805,14 +687,6 @@
     ],
     [
      "L",
-     1791409595,
-     null,
-     "matazuu",
-     2752,
-     null
-    ],
-    [
-     "L",
      1791409715,
      null,
      "yomihime",
@@ -862,6 +736,35 @@
      null,
      "orven",
      230,
+     null
+    ]
+   ],
+   "marks": [],
+   "gifted": [],
+   "chance": [],
+   "bought": 0,
+   "spentUsd": 0,
+   "witness": []
+  },
+  {
+   "w": "0xa160…6059",
+   "addr": "0xa160fc3af4a0dce0f44eacc96258706543206059",
+   "order": 0,
+   "cards": [
+    [
+     "L",
+     1791393335,
+     null,
+     "revazial",
+     234,
+     null
+    ],
+    [
+     "L",
+     1791393635,
+     null,
+     "marion",
+     364,
      null
     ]
    ],
@@ -941,14 +844,6 @@
      null,
      "orven",
      1979,
-     null
-    ],
-    [
-     "L",
-     1791404171,
-     null,
-     "matazuu",
-     2173,
      null
     ]
    ],
@@ -1153,14 +1048,6 @@
      "yomihime",
      877,
      null
-    ],
-    [
-     "L",
-     1791398891,
-     null,
-     "matazuu",
-     1536,
-     null
     ]
    ],
    "marks": [],
@@ -1298,14 +1185,6 @@
    "cards": [
     [
      "L",
-     1791394499,
-     null,
-     "matazuu",
-     619,
-     null
-    ],
-    [
-     "L",
      1791394547,
      null,
      "orven",
@@ -1339,43 +1218,6 @@
      null,
      "marion",
      992,
-     null
-    ]
-   ],
-   "marks": [],
-   "gifted": [],
-   "chance": [],
-   "bought": 0,
-   "spentUsd": 0,
-   "witness": []
-  },
-  {
-   "w": "0xbcb3…1fe1",
-   "addr": "0xbcb3cc6350bb56ce40ec8db12761a3ed81f51fe1",
-   "order": 0,
-   "cards": [
-    [
-     "L",
-     1791394883,
-     null,
-     "matazuu",
-     750,
-     null
-    ],
-    [
-     "L",
-     1791399539,
-     null,
-     "marion",
-     1622,
-     null
-    ],
-    [
-     "L",
-     1791400571,
-     null,
-     "revazial",
-     1751,
      null
     ]
    ],
@@ -1461,14 +1303,6 @@
      "yomihime",
      793,
      null
-    ],
-    [
-     "L",
-     1791395735,
-     null,
-     "matazuu",
-     1005,
-     null
     ]
    ],
    "marks": [],
@@ -1493,26 +1327,10 @@
     ],
     [
      "L",
-     1791395315,
-     null,
-     "matazuu",
-     873,
-     null
-    ],
-    [
-     "L",
      1791395687,
      null,
      "yomihime",
      993,
-     null
-    ],
-    [
-     "L",
-     1791395843,
-     null,
-     "matazuu",
-     1031,
      null
     ]
    ],
@@ -1556,35 +1374,6 @@
      null,
      869,
      "t"
-    ]
-   ],
-   "marks": [],
-   "gifted": [],
-   "chance": [],
-   "bought": 0,
-   "spentUsd": 0,
-   "witness": []
-  },
-  {
-   "w": "0x9109…7ae1",
-   "addr": "0x9109b470fa1187278b992f6fc44e03a0a77e7ae1",
-   "order": 0,
-   "cards": [
-    [
-     "L",
-     1791395447,
-     null,
-     "matazuu",
-     911,
-     null
-    ],
-    [
-     "L",
-     1791396359,
-     null,
-     "orven",
-     1169,
-     null
     ]
    ],
    "marks": [],
@@ -1662,14 +1451,6 @@
     ],
     [
      "L",
-     1791403871,
-     null,
-     "matazuu",
-     2142,
-     null
-    ],
-    [
-     "L",
      1791404351,
      null,
      "marion",
@@ -1682,22 +1463,6 @@
      null,
      "revazial",
      2212,
-     null
-    ],
-    [
-     "L",
-     1791446675,
-     null,
-     "matazuu",
-     3420,
-     null
-    ],
-    [
-     "L",
-     1791464015,
-     null,
-     "matazuu",
-     4032,
      null
     ]
    ],
@@ -1823,35 +1588,6 @@
      "yomihime",
      2215,
      null
-    ],
-    [
-     "L",
-     1791451499,
-     null,
-     "matazuu",
-     3599,
-     null
-    ]
-   ],
-   "marks": [],
-   "gifted": [],
-   "chance": [],
-   "bought": 0,
-   "spentUsd": 0,
-   "witness": []
-  },
-  {
-   "w": "0xd7ac…deb9",
-   "addr": "0xd7ac10db879fc98e43c4c2f5ab9920add957deb9",
-   "order": 10,
-   "cards": [
-    [
-     "L",
-     1791396227,
-     null,
-     "matazuu",
-     1145,
-     null
     ]
    ],
    "marks": [],
@@ -1872,6 +1608,27 @@
      null,
      "yomihime",
      1157,
+     null
+    ]
+   ],
+   "marks": [],
+   "gifted": [],
+   "chance": [],
+   "bought": 0,
+   "spentUsd": 0,
+   "witness": []
+  },
+  {
+   "w": "0x9109…7ae1",
+   "addr": "0x9109b470fa1187278b992f6fc44e03a0a77e7ae1",
+   "order": 0,
+   "cards": [
+    [
+     "L",
+     1791396359,
+     null,
+     "orven",
+     1169,
      null
     ]
    ],
@@ -1905,22 +1662,6 @@
     ],
     [
      "L",
-     1791400763,
-     null,
-     "matazuu",
-     1765,
-     null
-    ],
-    [
-     "L",
-     1791452699,
-     null,
-     "matazuu",
-     3646,
-     null
-    ],
-    [
-     "L",
      1791482087,
      null,
      "yomihime",
@@ -1946,35 +1687,6 @@
      null,
      null,
      1213,
-     null
-    ]
-   ],
-   "marks": [],
-   "gifted": [],
-   "chance": [],
-   "bought": 0,
-   "spentUsd": 0,
-   "witness": []
-  },
-  {
-   "w": "0xa456…c996",
-   "addr": "0xa456e2322ce1a59ee273e8ffafdb26e87c87c996",
-   "order": 0,
-   "cards": [
-    [
-     "L",
-     1791397139,
-     null,
-     "matazuu",
-     1308,
-     null
-    ],
-    [
-     "L",
-     1791399407,
-     null,
-     "revazial",
-     1608,
      null
     ]
    ],
@@ -2133,27 +1845,6 @@
    "witness": []
   },
   {
-   "w": "0x2e97…54f0",
-   "addr": "0x2e970de99d1a73f716fcdc20b94b6a6938a154f0",
-   "order": 0,
-   "cards": [
-    [
-     "L",
-     1791397955,
-     null,
-     "matazuu",
-     1423,
-     null
-    ]
-   ],
-   "marks": [],
-   "gifted": [],
-   "chance": [],
-   "bought": 0,
-   "spentUsd": 0,
-   "witness": []
-  },
-  {
    "w": "0x09ea…bdda",
    "addr": "0x09eaaba566ad6b65800a90aaacd33282af71bdda",
    "order": 0,
@@ -2164,14 +1855,6 @@
      null,
      "marion",
      1432,
-     null
-    ],
-    [
-     "L",
-     1791398771,
-     null,
-     "matazuu",
-     1524,
      null
     ],
     [
@@ -2268,14 +1951,6 @@
      "yomihime",
      1547,
      null
-    ],
-    [
-     "L",
-     1791399995,
-     null,
-     "matazuu",
-     1685,
-     null
     ]
    ],
    "marks": [],
@@ -2360,16 +2035,45 @@
    "witness": []
   },
   {
-   "w": "0x0c86…7225",
-   "addr": "0x0c865c1e343ff66b284e10cbce3b13b10d457225",
+   "w": "0xa456…c996",
+   "addr": "0xa456e2322ce1a59ee273e8ffafdb26e87c87c996",
    "order": 0,
    "cards": [
     [
      "L",
-     1791399827,
+     1791399407,
      null,
-     "matazuu",
-     1656,
+     "revazial",
+     1608,
+     null
+    ]
+   ],
+   "marks": [],
+   "gifted": [],
+   "chance": [],
+   "bought": 0,
+   "spentUsd": 0,
+   "witness": []
+  },
+  {
+   "w": "0xbcb3…1fe1",
+   "addr": "0xbcb3cc6350bb56ce40ec8db12761a3ed81f51fe1",
+   "order": 0,
+   "cards": [
+    [
+     "L",
+     1791399539,
+     null,
+     "marion",
+     1622,
+     null
+    ],
+    [
+     "L",
+     1791400571,
+     null,
+     "revazial",
+     1751,
      null
     ]
    ],
@@ -2412,48 +2116,6 @@
      null,
      "marion",
      1783,
-     null
-    ]
-   ],
-   "marks": [],
-   "gifted": [],
-   "chance": [],
-   "bought": 0,
-   "spentUsd": 0,
-   "witness": []
-  },
-  {
-   "w": "0xca45…01c7",
-   "addr": "0xca45e15a85ca65f0e3eefbf79a8213966fa701c7",
-   "order": 0,
-   "cards": [
-    [
-     "L",
-     1791402287,
-     null,
-     "matazuu",
-     1931,
-     null
-    ]
-   ],
-   "marks": [],
-   "gifted": [],
-   "chance": [],
-   "bought": 0,
-   "spentUsd": 0,
-   "witness": []
-  },
-  {
-   "w": "0x5613…b01e",
-   "addr": "0x5613dc1d7afc77270e71dd57578e0c4726fbb01e",
-   "order": 0,
-   "cards": [
-    [
-     "L",
-     1791402515,
-     null,
-     "matazuu",
-     1967,
      null
     ]
    ],
@@ -2590,14 +2252,6 @@
      "marion",
      2162,
      null
-    ],
-    [
-     "L",
-     1791404891,
-     null,
-     "matazuu",
-     2276,
-     null
     ]
    ],
    "marks": [],
@@ -2675,103 +2329,10 @@
     ],
     [
      "L",
-     1791408623,
-     null,
-     "matazuu",
-     2655,
-     null
-    ],
-    [
-     "L",
      1791408815,
      null,
      "marion",
      2676,
-     null
-    ]
-   ],
-   "marks": [],
-   "gifted": [],
-   "chance": [],
-   "bought": 0,
-   "spentUsd": 0,
-   "witness": []
-  },
-  {
-   "w": "0x6d5a…e124",
-   "addr": "0x6d5aba28442195b3eb575702e6b418c7eb0ee124",
-   "order": 24,
-   "cards": [
-    [
-     "L",
-     1791406007,
-     null,
-     "matazuu",
-     2430,
-     null
-    ],
-    [
-     "L",
-     1791418223,
-     null,
-     "marion",
-     3049,
-     null
-    ],
-    [
-     "L",
-     1791419111,
-     null,
-     "yomihime",
-     3101,
-     null
-    ],
-    [
-     "L",
-     1791419567,
-     null,
-     null,
-     3128,
-     null
-    ],
-    [
-     "L",
-     1791451631,
-     null,
-     null,
-     3615,
-     null
-    ],
-    [
-     "L",
-     1791452867,
-     null,
-     "matazuu",
-     3694,
-     null
-    ],
-    [
-     "L",
-     1791453635,
-     null,
-     "yomihime",
-     3732,
-     null
-    ],
-    [
-     "L",
-     1791453959,
-     null,
-     "yomihime",
-     3749,
-     null
-    ],
-    [
-     "L",
-     1791454655,
-     null,
-     "yomihime",
-     3782,
      null
     ]
    ],
@@ -2954,27 +2515,6 @@
    "witness": []
   },
   {
-   "w": "0x2ee5…e5a3",
-   "addr": "0x2ee56cdc305bef2d15d39254e94ef4468c23e5a3",
-   "order": 0,
-   "cards": [
-    [
-     "L",
-     1791412931,
-     null,
-     "matazuu",
-     2902,
-     null
-    ]
-   ],
-   "marks": [],
-   "gifted": [],
-   "chance": [],
-   "bought": 0,
-   "spentUsd": 0,
-   "witness": []
-  },
-  {
    "w": "0x6fbb…aa47",
    "addr": "0x6fbb22852b74c6c5fe548367ec22966467c5aa47",
    "order": 23,
@@ -3006,6 +2546,75 @@
      null,
      "revazial",
      3017,
+     null
+    ]
+   ],
+   "marks": [],
+   "gifted": [],
+   "chance": [],
+   "bought": 0,
+   "spentUsd": 0,
+   "witness": []
+  },
+  {
+   "w": "0x6d5a…e124",
+   "addr": "0x6d5aba28442195b3eb575702e6b418c7eb0ee124",
+   "order": 24,
+   "cards": [
+    [
+     "L",
+     1791418223,
+     null,
+     "marion",
+     3049,
+     null
+    ],
+    [
+     "L",
+     1791419111,
+     null,
+     "yomihime",
+     3101,
+     null
+    ],
+    [
+     "L",
+     1791419567,
+     null,
+     null,
+     3128,
+     null
+    ],
+    [
+     "L",
+     1791451631,
+     null,
+     null,
+     3615,
+     null
+    ],
+    [
+     "L",
+     1791453635,
+     null,
+     "yomihime",
+     3732,
+     null
+    ],
+    [
+     "L",
+     1791453959,
+     null,
+     "yomihime",
+     3749,
+     null
+    ],
+    [
+     "L",
+     1791454655,
+     null,
+     "yomihime",
+     3782,
      null
     ]
    ],
@@ -3052,14 +2661,6 @@
    "cards": [
     [
      "L",
-     1791419315,
-     null,
-     "matazuu",
-     3116,
-     null
-    ],
-    [
-     "L",
      1791419399,
      null,
      "marion",
@@ -3072,14 +2673,6 @@
      null,
      null,
      3167,
-     null
-    ],
-    [
-     "L",
-     1791421595,
-     null,
-     "matazuu",
-     3168,
      null
     ]
    ],
@@ -3280,64 +2873,6 @@
    "witness": []
   },
   {
-   "w": "0x9f6e…8c61",
-   "addr": "0x9f6e3b66911fb65ee048b7a352c559f9aaab8c61",
-   "order": 0,
-   "cards": [
-    [
-     "L",
-     1791448655,
-     null,
-     "matazuu",
-     3466,
-     null
-    ],
-    [
-     "L",
-     1791448943,
-     null,
-     "matazuu",
-     3480,
-     null
-    ],
-    [
-     "L",
-     1791449651,
-     null,
-     "matazuu",
-     3525,
-     null
-    ],
-    [
-     "L",
-     1791449951,
-     null,
-     "revazial",
-     3540,
-     null
-    ]
-   ],
-   "marks": [
-    {
-     "k": "flipper",
-     "ally": "marion"
-    }
-   ],
-   "lost": [
-    [
-     "flipper",
-     "L",
-     "marion",
-     3322
-    ]
-   ],
-   "gifted": [],
-   "chance": [],
-   "bought": 0,
-   "spentUsd": 0,
-   "witness": []
-  },
-  {
    "w": "0xdeed…e613",
    "addr": "0xdeed752a999d2bae7e979d82881b31c84d1fe613",
    "order": 0,
@@ -3387,6 +2922,40 @@
    "spentUsd": 57,
    "witness": [],
    "first": true
+  },
+  {
+   "w": "0x9f6e…8c61",
+   "addr": "0x9f6e3b66911fb65ee048b7a352c559f9aaab8c61",
+   "order": 0,
+   "cards": [
+    [
+     "L",
+     1791449951,
+     null,
+     "revazial",
+     3540,
+     null
+    ]
+   ],
+   "marks": [
+    {
+     "k": "flipper",
+     "ally": "marion"
+    }
+   ],
+   "lost": [
+    [
+     "flipper",
+     "L",
+     "marion",
+     3322
+    ]
+   ],
+   "gifted": [],
+   "chance": [],
+   "bought": 0,
+   "spentUsd": 0,
+   "witness": []
   },
   {
    "w": "0x1f76…7773",
@@ -3452,56 +3021,6 @@
    "witness": []
   },
   {
-   "w": "0x3b58…6c41",
-   "addr": "0x3b5884d22580f7b0663759ea509b4a8e6b596c41",
-   "order": 0,
-   "cards": [
-    [
-     "L",
-     1791451919,
-     null,
-     "matazuu",
-     3639,
-     null
-    ],
-    [
-     "L",
-     1791456815,
-     null,
-     "marion",
-     3849,
-     null
-    ]
-   ],
-   "marks": [],
-   "gifted": [],
-   "chance": [],
-   "bought": 0,
-   "spentUsd": 0,
-   "witness": []
-  },
-  {
-   "w": "0xa5cd…4d6c",
-   "addr": "0xa5cd95109b06e7433044a38a2c9a0f6ed4a54d6c",
-   "order": 0,
-   "cards": [
-    [
-     "L",
-     1791454763,
-     null,
-     "matazuu",
-     3787,
-     null
-    ]
-   ],
-   "marks": [],
-   "gifted": [],
-   "chance": [],
-   "bought": 0,
-   "spentUsd": 0,
-   "witness": []
-  },
-  {
    "w": "0xa591…a4d2",
    "addr": "0xa5912117541c8cd0e537e05e81c602c469d2a4d2",
    "order": 0,
@@ -3512,6 +3031,27 @@
      null,
      "marion",
      3843,
+     null
+    ]
+   ],
+   "marks": [],
+   "gifted": [],
+   "chance": [],
+   "bought": 0,
+   "spentUsd": 0,
+   "witness": []
+  },
+  {
+   "w": "0x3b58…6c41",
+   "addr": "0x3b5884d22580f7b0663759ea509b4a8e6b596c41",
+   "order": 0,
+   "cards": [
+    [
+     "L",
+     1791456815,
+     null,
+     "marion",
+     3849,
      null
     ]
    ],
@@ -3541,56 +3081,6 @@
      null,
      "marion",
      3953,
-     null
-    ],
-    [
-     "L",
-     1791463535,
-     null,
-     "matazuu",
-     4008,
-     null
-    ]
-   ],
-   "marks": [],
-   "gifted": [],
-   "chance": [],
-   "bought": 0,
-   "spentUsd": 0,
-   "witness": []
-  },
-  {
-   "w": "0xf46b…102f",
-   "addr": "0xf46b7ef06d2ce658c1c69046811d841e3ead102f",
-   "order": 0,
-   "cards": [
-    [
-     "L",
-     1791461999,
-     null,
-     "matazuu",
-     3950,
-     "t"
-    ]
-   ],
-   "marks": [],
-   "gifted": [],
-   "chance": [],
-   "bought": 0,
-   "spentUsd": 0,
-   "witness": []
-  },
-  {
-   "w": "0xcc34…a66b",
-   "addr": "0xcc3481e4396733a0598363a5e30314db2a99a66b",
-   "order": 0,
-   "cards": [
-    [
-     "L",
-     1791464915,
-     null,
-     "matazuu",
-     4071,
      null
     ]
    ],
@@ -3766,22 +3256,6 @@
     ],
     [
      "L",
-     1791539567,
-     null,
-     "matazuu",
-     4638,
-     null
-    ],
-    [
-     "L",
-     1791539651,
-     null,
-     "matazuu",
-     4639,
-     null
-    ],
-    [
-     "L",
      1791539867,
      null,
      "orven",
@@ -3831,27 +3305,6 @@
      null,
      "marion",
      4301,
-     null
-    ]
-   ],
-   "marks": [],
-   "gifted": [],
-   "chance": [],
-   "bought": 0,
-   "spentUsd": 0,
-   "witness": []
-  },
-  {
-   "w": "0x2352…a7c5",
-   "addr": "0x2352cd9129ab5579e47659299e60a072b949a7c5",
-   "order": 0,
-   "cards": [
-    [
-     "L",
-     1791503399,
-     null,
-     "matazuu",
-     4323,
      null
     ]
    ],
@@ -3960,35 +3413,6 @@
    "witness": []
   },
   {
-   "w": "0x981a…7469",
-   "addr": "0x981a4f0cfa1b0f2a4a5738371b61f9f0b9037469",
-   "order": 0,
-   "cards": [
-    [
-     "L",
-     1791524903,
-     null,
-     "matazuu",
-     4425,
-     null
-    ],
-    [
-     "L",
-     1791524939,
-     null,
-     "matazuu",
-     4426,
-     null
-    ]
-   ],
-   "marks": [],
-   "gifted": [],
-   "chance": [],
-   "bought": 0,
-   "spentUsd": 0,
-   "witness": []
-  },
-  {
    "w": "0x495a…db7c",
    "addr": "0x495af72d181941a7b7d22bfdec6b0c9ac5e4db7c",
    "order": 0,
@@ -4057,43 +3481,6 @@
      null,
      "revazial",
      4503,
-     null
-    ],
-    [
-     "L",
-     1791531719,
-     null,
-     "matazuu",
-     4513,
-     null
-    ]
-   ],
-   "marks": [],
-   "gifted": [],
-   "chance": [],
-   "bought": 0,
-   "spentUsd": 0,
-   "witness": []
-  },
-  {
-   "w": "0x40f5…9e8e",
-   "addr": "0x40f5ad87374c1fe5c256db69ddce9e3741519e8e",
-   "order": 0,
-   "cards": [
-    [
-     "L",
-     1791532787,
-     null,
-     "matazuu",
-     4525,
-     null
-    ],
-    [
-     "L",
-     1791535691,
-     null,
-     "matazuu",
-     4592,
      null
     ]
    ],
@@ -4176,56 +3563,6 @@
    "witness": []
   },
   {
-   "w": "0xc029…74ac",
-   "addr": "0xc0297c2d998d388c75a5000f15f35e3d292474ac",
-   "order": 0,
-   "cards": [
-    [
-     "L",
-     1791542735,
-     null,
-     "matazuu",
-     4690,
-     null
-    ]
-   ],
-   "marks": [],
-   "gifted": [],
-   "chance": [],
-   "bought": 0,
-   "spentUsd": 0,
-   "witness": []
-  },
-  {
-   "w": "0x1919…0aa2",
-   "addr": "0x19198bb481beff2f68df6bc91786d33c4aaa0aa2",
-   "order": 0,
-   "cards": [
-    [
-     "L",
-     1791543875,
-     null,
-     "matazuu",
-     4700,
-     null
-    ],
-    [
-     "L",
-     1791544523,
-     null,
-     "matazuu",
-     4717,
-     null
-    ]
-   ],
-   "marks": [],
-   "gifted": [],
-   "chance": [],
-   "bought": 0,
-   "spentUsd": 0,
-   "witness": []
-  },
-  {
    "w": "0x58d2…25b0",
    "addr": "0x58d2cac35db93287bca759cb1ef07855941a25b0",
    "order": 0,
@@ -4273,14 +3610,6 @@
      null,
      "marion",
      4745,
-     null
-    ],
-    [
-     "L",
-     1791545747,
-     null,
-     "matazuu",
-     4748,
      null
     ],
     [
@@ -4385,14 +3714,6 @@
    "cards": [
     [
      "L",
-     1791553931,
-     null,
-     "matazuu",
-     4883,
-     null
-    ],
-    [
-     "L",
      1791553967,
      null,
      "marion",
@@ -4479,9 +3800,42 @@
    "witness": []
   },
   {
+   "w": "0xd9bf…b1e7",
+   "addr": "0xd9bfbfa14002d12164e187cad7ae337d7f01b1e7",
+   "order": 0,
+   "cards": [
+    [
+     "L",
+     1791557843,
+     null,
+     "marion",
+     5002,
+     null
+    ]
+   ],
+   "marks": [],
+   "gifted": [],
+   "chance": [],
+   "bought": 0,
+   "spentUsd": 0,
+   "witness": []
+  },
+  {
    "w": "0x3edb…c56f",
    "addr": "0x3edb03be837235e1461745bccf95871d4ab2c56f",
    "order": 9,
+   "cards": [],
+   "marks": [],
+   "gifted": [],
+   "chance": [],
+   "bought": 0,
+   "spentUsd": 0,
+   "witness": []
+  },
+  {
+   "w": "0xd7ac…deb9",
+   "addr": "0xd7ac10db879fc98e43c4c2f5ab9920add957deb9",
+   "order": 10,
    "cards": [],
    "marks": [],
    "gifted": [],
@@ -4502,19 +3856,7 @@
     },
     {
      "k": "flipper",
-     "ally": "matazuu"
-    },
-    {
-     "k": "flipper",
      "ally": "revazial"
-    },
-    {
-     "k": "flipper",
-     "ally": "matazuu"
-    },
-    {
-     "k": "flipper",
-     "ally": "matazuu"
     },
     {
      "k": "flipper",
@@ -4646,8 +3988,8 @@
   }
  ],
  "floors": {
-  "at": 1791557284,
-  "listed": 213,
+  "at": 1791557882,
+  "listed": 216,
   "offers": {
    "yomihime": {
     "id": 572,
@@ -4662,11 +4004,6 @@
    "morwen": {
     "id": 761,
     "eth": 0.081,
-    "tier": "L"
-   },
-   "matazuu": {
-    "id": 4323,
-    "eth": 0.3,
     "tier": "L"
    },
    "revazial": {
@@ -4695,11 +4032,6 @@
    "M": null,
    "U": null
   },
-  "matazuu": {
-   "L": 0.3,
-   "M": null,
-   "U": null
-  },
   "revazial": {
    "L": 0.5,
    "M": null,
@@ -4710,6 +4042,6 @@
    "M": null,
    "U": null
   },
-  "usd": 2487.04
+  "usd": 2492.38
  }
 }
