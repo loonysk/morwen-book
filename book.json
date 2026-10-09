@@ -1,8 +1,8 @@
 {
- "updated": 1791556679,
+ "updated": 1791557283,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26155496,
+ "block": 26155546,
  "events": {
   "firstCard": 180
  },
@@ -57,28 +57,28 @@
    "holders": 37
   },
   "morwen": {
-   "cards": 43,
+   "cards": 45,
    "tiers": {
-    "L": 43,
+    "L": 45,
     "M": 0,
     "U": 0
    },
    "images": {
     "L": "https://hov.fra1.digitaloceanspaces.com/prod/hov_morwen_greymoor.png"
    },
-   "holders": 40
+   "holders": 41
   },
   "orven": {
-   "cards": 39,
+   "cards": 40,
    "tiers": {
-    "L": 39,
+    "L": 40,
     "M": 0,
     "U": 0
    },
    "images": {
     "L": "https://hov.fra1.digitaloceanspaces.com/prod/hov_orven.png"
    },
-   "holders": 31
+   "holders": 32
   }
  },
  "sales": {
@@ -4429,6 +4429,56 @@
    "witness": []
   },
   {
+   "w": "0x9b13…2831",
+   "addr": "0x9b136f7c899e108bacdedf3be3621a2379932831",
+   "order": 0,
+   "cards": [
+    [
+     "L",
+     1791556751,
+     null,
+     "orven",
+     4968,
+     null
+    ]
+   ],
+   "marks": [],
+   "gifted": [],
+   "chance": [],
+   "bought": 0,
+   "spentUsd": 0,
+   "witness": []
+  },
+  {
+   "w": "0x5f07…7f98",
+   "addr": "0x5f07c0fb246ca832c3d3305bec1c8bf21d877f98",
+   "order": 44,
+   "cards": [
+    [
+     "L",
+     1791557003,
+     null,
+     null,
+     4975,
+     null
+    ],
+    [
+     "L",
+     1791557087,
+     null,
+     null,
+     4978,
+     null
+    ]
+   ],
+   "marks": [],
+   "gifted": [],
+   "chance": [],
+   "bought": 0,
+   "spentUsd": 0,
+   "witness": []
+  },
+  {
    "w": "0x3edb…c56f",
    "addr": "0x3edb03be837235e1461745bccf95871d4ab2c56f",
    "order": 9,
@@ -4596,8 +4646,8 @@
   }
  ],
  "floors": {
-  "at": 1791556679,
-  "listed": 216,
+  "at": 1791557284,
+  "listed": 213,
   "offers": {
    "yomihime": {
     "id": 572,
@@ -4660,6 +4710,6 @@
    "M": null,
    "U": null
   },
-  "usd": 2493.16
+  "usd": 2487.04
  }
 }
