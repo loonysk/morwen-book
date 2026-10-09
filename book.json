@@ -1,8 +1,8 @@
 {
- "updated": 1791555484,
+ "updated": 1791556087,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26155397,
+ "block": 26155447,
  "events": {
   "firstCard": 180
  },
@@ -21,16 +21,16 @@
    "holders": 48
   },
   "revazial": {
-   "cards": 52,
+   "cards": 53,
    "tiers": {
-    "L": 52,
+    "L": 53,
     "M": 0,
     "U": 0
    },
    "images": {
     "L": "https://hov.fra1.digitaloceanspaces.com/prod/hov_revazial.png"
    },
-   "holders": 36
+   "holders": 37
   },
   "matazuu": {
    "cards": 59,
@@ -66,7 +66,7 @@
    "images": {
     "L": "https://hov.fra1.digitaloceanspaces.com/prod/hov_morwen_greymoor.png"
    },
-   "holders": 39
+   "holders": 40
   },
   "orven": {
    "cards": 39,
@@ -81,7 +81,14 @@
    "holders": 31
   }
  },
- "sales": {},
+ "sales": {
+  "L": {
+   "eth": 0.023,
+   "usd": 57,
+   "ts": 1791556019,
+   "id": 4402
+  }
+ },
  "entries": [
   {
    "w": "0x412c…d98d",
@@ -3354,7 +3361,7 @@
   {
    "w": "0x4c06…d9f4",
    "addr": "0x4c066d795a10ca4e1505fb9f23f27db33c4dd9f4",
-   "order": 0,
+   "order": 43,
    "cards": [
     [
      "L",
@@ -3363,14 +3370,23 @@
      "yomihime",
      3516,
      null
+    ],
+    [
+     "L",
+     1791556019,
+     null,
+     null,
+     4402,
+     null
     ]
    ],
    "marks": [],
    "gifted": [],
    "chance": [],
-   "bought": 0,
-   "spentUsd": 0,
-   "witness": []
+   "bought": 1,
+   "spentUsd": 57,
+   "witness": [],
+   "first": true
   },
   {
    "w": "0x1f76…7773",
@@ -3771,6 +3787,14 @@
      "orven",
      4647,
      null
+    ],
+    [
+     "L",
+     1791555611,
+     null,
+     "revazial",
+     4939,
+     null
     ]
    ],
    "marks": [],
@@ -3908,17 +3932,19 @@
      "marion",
      4400,
      null
-    ],
-    [
-     "L",
-     1791523403,
-     null,
-     null,
-     4402,
-     null
     ]
    ],
-   "marks": [],
+   "marks": [
+    "flipper"
+   ],
+   "lost": [
+    [
+     "flipper",
+     "L",
+     "morwen",
+     4402
+    ]
+   ],
    "gifted": [],
    "chance": [],
    "bought": 0,
@@ -4562,8 +4588,8 @@
   }
  ],
  "floors": {
-  "at": 1791555484,
-  "listed": 218,
+  "at": 1791556087,
+  "listed": 216,
   "offers": {
    "yomihime": {
     "id": 572,
@@ -4576,8 +4602,8 @@
     "tier": "L"
    },
    "morwen": {
-    "id": 4402,
-    "eth": 0.023,
+    "id": 761,
+    "eth": 0.081,
     "tier": "L"
    },
    "matazuu": {
@@ -4607,7 +4633,7 @@
    "U": null
   },
   "morwen": {
-   "L": 0.023,
+   "L": 0.081,
    "M": null,
    "U": null
   },
@@ -4626,6 +4652,6 @@
    "M": null,
    "U": null
   },
-  "usd": 2487.66
+  "usd": 2490.18
  }
 }
