@@ -1,8 +1,8 @@
 {
- "updated": 1791562683,
+ "updated": 1791563282,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26155995,
+ "block": 26156045,
  "events": {
   "firstCard": 180
  },
@@ -45,16 +45,16 @@
    "holders": 38
   },
   "morwen": {
-   "cards": 46,
+   "cards": 47,
    "tiers": {
-    "L": 46,
+    "L": 47,
     "M": 0,
     "U": 0
    },
    "images": {
     "L": "https://hov.fra1.digitaloceanspaces.com/prod/hov_morwen_greymoor.png"
    },
-   "holders": 42
+   "holders": 43
   },
   "orven": {
    "cards": 40,
@@ -3845,6 +3845,27 @@
    "witness": []
   },
   {
+   "w": "0x1767…cb10",
+   "addr": "0x17673736885594b8c86b281a5ab8ec381cb4cb10",
+   "order": 46,
+   "cards": [
+    [
+     "L",
+     1791563171,
+     null,
+     null,
+     5094,
+     null
+    ]
+   ],
+   "marks": [],
+   "gifted": [],
+   "chance": [],
+   "bought": 0,
+   "spentUsd": 0,
+   "witness": []
+  },
+  {
    "w": "0x3edb…c56f",
    "addr": "0x3edb03be837235e1461745bccf95871d4ab2c56f",
    "order": 9,
@@ -4062,8 +4083,8 @@
   }
  ],
  "floors": {
-  "at": 1791562685,
-  "listed": 215,
+  "at": 1791563282,
+  "listed": 214,
   "offers": {
    "yomihime": {
     "id": 572,
@@ -4116,6 +4137,6 @@
    "M": null,
    "U": null
   },
-  "usd": 2495.98
+  "usd": 2488.23
  }
 }
