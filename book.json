@@ -1,24 +1,24 @@
 {
- "updated": 1791519458,
+ "updated": 1791523068,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26152405,
+ "block": 26152704,
  "events": {
   "firstCard": 180
  },
  "pending": 0,
  "heroes": {
   "marion": {
-   "cards": 53,
+   "cards": 54,
    "tiers": {
-    "L": 53,
+    "L": 54,
     "M": 0,
     "U": 0
    },
    "images": {
     "L": "https://hov.fra1.digitaloceanspaces.com/prod/hov_marion_soulthread.png"
    },
-   "holders": 42
+   "holders": 43
   },
   "revazial": {
    "cards": 50,
@@ -3297,6 +3297,27 @@
    "witness": []
   },
   {
+   "w": "0x8458…21d8",
+   "addr": "0x8458f8790eb74bc4a73f296a2d462fa1018621d8",
+   "order": 0,
+   "cards": [
+    [
+     "L",
+     1791521639,
+     null,
+     "marion",
+     4392,
+     null
+    ]
+   ],
+   "marks": [],
+   "gifted": [],
+   "chance": [],
+   "bought": 0,
+   "spentUsd": 0,
+   "witness": []
+  },
+  {
    "w": "0x3edb…c56f",
    "addr": "0x3edb03be837235e1461745bccf95871d4ab2c56f",
    "order": 9,
@@ -3393,8 +3414,8 @@
   }
  ],
  "floors": {
-  "at": 1791519458,
-  "listed": 188,
+  "at": 1791523069,
+  "listed": 190,
   "offers": {
    "orven": {
     "id": 1531,
@@ -3447,6 +3468,6 @@
    "M": null,
    "U": null
   },
-  "usd": 2493.05
+  "usd": 2491.65
  }
 }
