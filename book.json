@@ -1,24 +1,24 @@
 {
- "updated": 1791523068,
+ "updated": 1791526668,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26152704,
+ "block": 26153001,
  "events": {
   "firstCard": 180
  },
  "pending": 0,
  "heroes": {
   "marion": {
-   "cards": 54,
+   "cards": 55,
    "tiers": {
-    "L": 54,
+    "L": 55,
     "M": 0,
     "U": 0
    },
    "images": {
     "L": "https://hov.fra1.digitaloceanspaces.com/prod/hov_marion_soulthread.png"
    },
-   "holders": 43
+   "holders": 44
   },
   "revazial": {
    "cards": 50,
@@ -33,28 +33,28 @@
    "holders": 34
   },
   "matazuu": {
-   "cards": 47,
+   "cards": 49,
    "tiers": {
-    "L": 47,
+    "L": 49,
     "M": 0,
     "U": 0
    },
    "images": {
     "L": "https://hov.fra1.digitaloceanspaces.com/prod/hov_matazuu.png"
    },
-   "holders": 35
+   "holders": 36
   },
   "morwen": {
-   "cards": 39,
+   "cards": 41,
    "tiers": {
-    "L": 39,
+    "L": 41,
     "M": 0,
     "U": 0
    },
    "images": {
     "L": "https://hov.fra1.digitaloceanspaces.com/prod/hov_morwen_greymoor.png"
    },
-   "holders": 36
+   "holders": 37
   },
   "orven": {
    "cards": 32,
@@ -3318,6 +3318,72 @@
    "witness": []
   },
   {
+   "w": "0xdfb9…cd5c",
+   "addr": "0xdfb9337c549bf73ca9a1df955a7cf3f04198cd5c",
+   "order": 39,
+   "cards": [
+    [
+     "L",
+     1791523199,
+     null,
+     null,
+     4398,
+     null
+    ],
+    [
+     "L",
+     1791523319,
+     null,
+     "marion",
+     4400,
+     null
+    ],
+    [
+     "L",
+     1791523403,
+     null,
+     null,
+     4402,
+     null
+    ]
+   ],
+   "marks": [],
+   "gifted": [],
+   "chance": [],
+   "bought": 0,
+   "spentUsd": 0,
+   "witness": []
+  },
+  {
+   "w": "0x981a…7469",
+   "addr": "0x981a4f0cfa1b0f2a4a5738371b61f9f0b9037469",
+   "order": 0,
+   "cards": [
+    [
+     "L",
+     1791524903,
+     null,
+     "matazuu",
+     4425,
+     null
+    ],
+    [
+     "L",
+     1791524939,
+     null,
+     "matazuu",
+     4426,
+     null
+    ]
+   ],
+   "marks": [],
+   "gifted": [],
+   "chance": [],
+   "bought": 0,
+   "spentUsd": 0,
+   "witness": []
+  },
+  {
    "w": "0x3edb…c56f",
    "addr": "0x3edb03be837235e1461745bccf95871d4ab2c56f",
    "order": 9,
@@ -3414,8 +3480,8 @@
   }
  ],
  "floors": {
-  "at": 1791523069,
-  "listed": 190,
+  "at": 1791526668,
+  "listed": 203,
   "offers": {
    "orven": {
     "id": 1531,
@@ -3468,6 +3534,6 @@
    "M": null,
    "U": null
   },
-  "usd": 2491.65
+  "usd": 2494.68
  }
 }
