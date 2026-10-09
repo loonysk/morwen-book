@@ -1,8 +1,8 @@
 {
- "updated": 1791569278,
+ "updated": 1791569876,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26156542,
+ "block": 26156592,
  "events": {
   "firstCard": 180
  },
@@ -18,7 +18,7 @@
    "images": {
     "L": "https://hov.fra1.digitaloceanspaces.com/prod/hov_marion_soulthread.png"
    },
-   "holders": 49
+   "holders": 50
   },
   "revazial": {
    "cards": 56,
@@ -1587,6 +1587,14 @@
      "yomihime",
      2215,
      null
+    ],
+    [
+     "L",
+     1791569723,
+     null,
+     "marion",
+     4285,
+     "t"
     ]
    ],
    "marks": [],
@@ -3241,75 +3249,6 @@
    "witness": []
   },
   {
-   "w": "0x3bf9…43c0",
-   "addr": "0x3bf912ad06225b8a7889ac6044b0dec522a843c0",
-   "order": 45,
-   "cards": [
-    [
-     "L",
-     1791489779,
-     null,
-     "marion",
-     4285,
-     null
-    ],
-    [
-     "L",
-     1791539867,
-     null,
-     "orven",
-     4647,
-     null
-    ],
-    [
-     "L",
-     1791555611,
-     null,
-     "revazial",
-     4939,
-     null
-    ],
-    [
-     "L",
-     1791556271,
-     null,
-     "revazial",
-     4957,
-     null
-    ],
-    [
-     "L",
-     1791560123,
-     null,
-     "yomihime",
-     5021,
-     null
-    ],
-    [
-     "L",
-     1791561311,
-     null,
-     null,
-     5061,
-     null
-    ],
-    [
-     "L",
-     1791566675,
-     null,
-     "marion",
-     5170,
-     null
-    ]
-   ],
-   "marks": [],
-   "gifted": [],
-   "chance": [],
-   "bought": 0,
-   "spentUsd": 0,
-   "witness": []
-  },
-  {
    "w": "0xe3c0…9970",
    "addr": "0xe3c0c281697ad7db5fbbd60d981df4937e949970",
    "order": 0,
@@ -3554,6 +3493,67 @@
      null,
      "orven",
      4600,
+     null
+    ]
+   ],
+   "marks": [],
+   "gifted": [],
+   "chance": [],
+   "bought": 0,
+   "spentUsd": 0,
+   "witness": []
+  },
+  {
+   "w": "0x3bf9…43c0",
+   "addr": "0x3bf912ad06225b8a7889ac6044b0dec522a843c0",
+   "order": 45,
+   "cards": [
+    [
+     "L",
+     1791539867,
+     null,
+     "orven",
+     4647,
+     null
+    ],
+    [
+     "L",
+     1791555611,
+     null,
+     "revazial",
+     4939,
+     null
+    ],
+    [
+     "L",
+     1791556271,
+     null,
+     "revazial",
+     4957,
+     null
+    ],
+    [
+     "L",
+     1791560123,
+     null,
+     "yomihime",
+     5021,
+     null
+    ],
+    [
+     "L",
+     1791561311,
+     null,
+     null,
+     5061,
+     null
+    ],
+    [
+     "L",
+     1791566675,
+     null,
+     "marion",
+     5170,
      null
     ]
    ],
@@ -4111,8 +4111,8 @@
   }
  ],
  "floors": {
-  "at": 1791569279,
-  "listed": 209,
+  "at": 1791569877,
+  "listed": 217,
   "offers": {
    "yomihime": {
     "id": 572,
@@ -4165,6 +4165,6 @@
    "M": null,
    "U": null
   },
-  "usd": 2486.11
+  "usd": 2485.55
  }
 }
