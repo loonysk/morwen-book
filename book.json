@@ -1,8 +1,8 @@
 {
- "updated": 1791533886,
+ "updated": 1791537471,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26153600,
+ "block": 26153899,
  "events": {
   "firstCard": 180
  },
@@ -33,9 +33,9 @@
    "holders": 35
   },
   "matazuu": {
-   "cards": 51,
+   "cards": 52,
    "tiers": {
-    "L": 51,
+    "L": 52,
     "M": 0,
     "U": 0
    },
@@ -3469,6 +3469,14 @@
      "matazuu",
      4525,
      null
+    ],
+    [
+     "L",
+     1791535691,
+     null,
+     "matazuu",
+     4592,
+     null
     ]
    ],
    "marks": [],
@@ -3575,7 +3583,7 @@
   }
  ],
  "floors": {
-  "at": 1791533887,
+  "at": 1791537472,
   "listed": 214,
   "offers": {
    "orven": {
@@ -3629,6 +3637,6 @@
    "M": null,
    "U": null
   },
-  "usd": 2501.55
+  "usd": 2502.06
  }
 }
