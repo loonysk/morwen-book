@@ -15,6 +15,11 @@ name: Soulbook (every 10 min)
 
 on:
   workflow_dispatch:        # the Worker, or «Run workflow» by hand
+    inputs:
+      full:
+        description: 'Read the whole chain again from the first block (the memory starts over; up to 2 hours)'
+        type: boolean
+        default: false
   schedule:
     - cron: '43 * * * *'    # fallback only (the Worker never starts it at :43)
 
@@ -28,7 +33,7 @@ concurrency:
 jobs:
   book:
     runs-on: ubuntu-latest
-    timeout-minutes: 20
+    timeout-minutes: ${{ inputs.full && 120 || 20 }}
     steps:
       - name: The reader and the settings (morwen-site main — the live site)
         uses: actions/checkout@v4
@@ -76,7 +81,7 @@ jobs:
         env:
           RPC_URL: ${{ secrets.RPC_URL }}
           OPENSEA_API_KEY: ${{ secrets.OPENSEA_API_KEY }}
-        run: node tools/book.mjs --hunts out/hunts
+        run: node tools/book.mjs --hunts out/hunts ${{ inputs.full && '--reset' || '' }}
 
       - name: The hunts' schedule
         run: node tools/schedule.mjs out/schedule.json
