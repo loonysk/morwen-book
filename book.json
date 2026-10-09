@@ -1,17 +1,17 @@
 {
- "updated": 1791544669,
+ "updated": 1791545885,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26154496,
+ "block": 26154598,
  "events": {
   "firstCard": 180
  },
  "pending": 0,
  "heroes": {
   "marion": {
-   "cards": 57,
+   "cards": 58,
    "tiers": {
-    "L": 57,
+    "L": 58,
     "M": 0,
     "U": 0
    },
@@ -33,16 +33,16 @@
    "holders": 35
   },
   "matazuu": {
-   "cards": 57,
+   "cards": 58,
    "tiers": {
-    "L": 57,
+    "L": 58,
     "M": 0,
     "U": 0
    },
    "images": {
     "L": "https://hov.fra1.digitaloceanspaces.com/prod/hov_matazuu.png"
    },
-   "holders": 41
+   "holders": 42
   },
   "morwen": {
    "cards": 42,
@@ -72,17 +72,49 @@
  "sales": {},
  "entries": [
   {
-   "w": "0x6e5a…0676",
-   "addr": "0x6e5aa5b9461e595bc07695a03320e2ff8f430676",
-   "order": 0,
+   "w": "0x412c…d98d",
+   "addr": "0x412cebecf4f4651029fcf7941e5460f8094cd98d",
+   "order": 41,
    "cards": [
     [
      "L",
-     1791392711,
+     1791544991,
      null,
      "marion",
      17,
+     "t"
+    ],
+    [
+     "L",
+     1791543239,
+     null,
+     null,
+     1039,
+     "t"
+    ],
+    [
+     "L",
+     1791395939,
+     null,
+     "revazial",
+     1052,
      null
+    ],
+    [
+     "L",
+     1791475223,
+     null,
+     "marion",
+     1286,
+     "t"
+    ],
+    [
+     "L",
+     1791461111,
+     null,
+     "marion",
+     3918,
+     "t"
     ]
    ],
    "marks": [],
@@ -842,13 +874,13 @@
    "witness": []
   },
   {
-   "w": "0x8d29…ad76",
-   "addr": "0x8d293b8e39ca317bf6b4eec05e897d36d5d9ad76",
+   "w": "0x340f…610a",
+   "addr": "0x340fa0f541d8ed0ef8fd73cb727ab0ae7a3c610a",
    "order": 0,
    "cards": [
     [
      "L",
-     1791394223,
+     1791545795,
      null,
      "revazial",
      539,
@@ -858,8 +890,8 @@
    "marks": [],
    "gifted": [],
    "chance": [],
-   "bought": 0,
-   "spentUsd": 0,
+   "bought": 1,
+   "spentUsd": 27,
    "witness": []
   },
   {
@@ -1256,51 +1288,6 @@
      "marion",
      1034,
      null
-    ]
-   ],
-   "marks": [],
-   "gifted": [],
-   "chance": [],
-   "bought": 0,
-   "spentUsd": 0,
-   "witness": []
-  },
-  {
-   "w": "0x412c…d98d",
-   "addr": "0x412cebecf4f4651029fcf7941e5460f8094cd98d",
-   "order": 41,
-   "cards": [
-    [
-     "L",
-     1791543239,
-     null,
-     null,
-     1039,
-     "t"
-    ],
-    [
-     "L",
-     1791395939,
-     null,
-     "revazial",
-     1052,
-     null
-    ],
-    [
-     "L",
-     1791475223,
-     null,
-     "marion",
-     1286,
-     "t"
-    ],
-    [
-     "L",
-     1791461111,
-     null,
-     "marion",
-     3918,
-     "t"
     ]
    ],
    "marks": [],
@@ -3624,6 +3611,35 @@
    "witness": []
   },
   {
+   "w": "0x59c5…b7dd",
+   "addr": "0x59c51716e92b34952cce935fca9245026f80b7dd",
+   "order": 0,
+   "cards": [
+    [
+     "L",
+     1791545639,
+     null,
+     "marion",
+     4745,
+     null
+    ],
+    [
+     "L",
+     1791545747,
+     null,
+     "matazuu",
+     4748,
+     null
+    ]
+   ],
+   "marks": [],
+   "gifted": [],
+   "chance": [],
+   "bought": 0,
+   "spentUsd": 0,
+   "witness": []
+  },
+  {
    "w": "0x3edb…c56f",
    "addr": "0x3edb03be837235e1461745bccf95871d4ab2c56f",
    "order": 9,
@@ -3717,17 +3733,37 @@
    "bought": 0,
    "spentUsd": 0,
    "witness": []
+  },
+  {
+   "w": "0x8d29…ad76",
+   "addr": "0x8d293b8e39ca317bf6b4eec05e897d36d5d9ad76",
+   "order": 0,
+   "cards": [],
+   "marks": [
+    {
+     "k": "flipper",
+     "ally": "revazial"
+    }
+   ],
+   "lost": [
+    [
+     "flipper",
+     "L",
+     "revazial",
+     539
+    ]
+   ],
+   "gifted": [],
+   "chance": [],
+   "bought": 0,
+   "spentUsd": 0,
+   "witness": []
   }
  ],
  "floors": {
-  "at": 1791544669,
-  "listed": 221,
+  "at": 1791545888,
+  "listed": 217,
   "offers": {
-   "revazial": {
-    "id": 539,
-    "eth": 0.011,
-    "tier": "L"
-   },
    "orven": {
     "id": 1531,
     "eth": 0.023,
@@ -3743,16 +3779,16 @@
     "eth": 0.3,
     "tier": "L"
    },
+   "revazial": {
+    "id": 210,
+    "eth": 0.5,
+    "tier": "L"
+   },
    "marion": {
     "id": 2058,
     "eth": 0.9,
     "tier": "L"
    }
-  },
-  "revazial": {
-   "L": 0.011,
-   "M": null,
-   "U": null
   },
   "orven": {
    "L": 0.023,
@@ -3769,11 +3805,16 @@
    "M": null,
    "U": null
   },
+  "revazial": {
+   "L": 0.5,
+   "M": null,
+   "U": null
+  },
   "marion": {
    "L": 0.9,
    "M": null,
    "U": null
   },
-  "usd": 2491.16
+  "usd": 2499.14
  }
 }
