@@ -1,24 +1,24 @@
 {
- "updated": 1791550084,
+ "updated": 1791550680,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26154948,
+ "block": 26154998,
  "events": {
   "firstCard": 180
  },
  "pending": 0,
  "heroes": {
   "marion": {
-   "cards": 59,
+   "cards": 60,
    "tiers": {
-    "L": 59,
+    "L": 60,
     "M": 0,
     "U": 0
    },
    "images": {
     "L": "https://hov.fra1.digitaloceanspaces.com/prod/hov_marion_soulthread.png"
    },
-   "holders": 46
+   "holders": 47
   },
   "revazial": {
    "cards": 51,
@@ -3659,6 +3659,14 @@
      "orven",
      4812,
      null
+    ],
+    [
+     "L",
+     1791550091,
+     null,
+     "marion",
+     4815,
+     null
     ]
    ],
    "marks": [],
@@ -3790,7 +3798,7 @@
   }
  ],
  "floors": {
-  "at": 1791550084,
+  "at": 1791550680,
   "listed": 217,
   "offers": {
    "orven": {
@@ -3844,6 +3852,6 @@
    "M": null,
    "U": null
   },
-  "usd": 2496.61
+  "usd": 2494.38
  }
 }
