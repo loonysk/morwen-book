@@ -1,0 +1,104 @@
+# Morwen Greymoor · the Soulbook, counted every 10 minutes and published here (GitHub Pages: book.json, schedule.json, state/, archive/).
+#
+# It runs in this public repository because public repositories run GitHub Actions without a minutes limit; the counting
+# code stays in the private loonysk/morwen-site and is read with a read-only token, never copied here.
+# Started every 10 minutes (:07, :17, :27, …) by the Cloudflare Worker morwen-site/tools/soulbook-cron: GitHub's own schedule
+# runs late or skips quiet repositories. The hourly schedule below is only a fallback, in case the Worker stops.
+#
+# Secrets of this repository (Settings → Secrets and variables → Actions):
+#   SITE_READ_TOKEN  fine-grained token: repository loonysk/morwen-site only, permission Contents: Read-only
+#   RPC_URL          the Ethereum node (Alchemy); empty → a public node
+#   OPENSEA_API_KEY  OpenSea; empty → the offers and floors stay as they were
+# Publishing needs no secret: the job's own token writes to this repository.
+
+name: Soulbook (every 10 min)
+
+on:
+  workflow_dispatch:        # the Worker, or «Run workflow» by hand
+  schedule:
+    - cron: '43 * * * *'    # fallback only (the Worker never starts it at :43)
+
+permissions:
+  contents: write
+
+concurrency:
+  group: soulbook           # never two counts at once
+  cancel-in-progress: false
+
+jobs:
+  book:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - name: The reader and the settings (morwen-site main — the live site)
+        uses: actions/checkout@v4
+        with:
+          repository: loonysk/morwen-site
+          ref: main
+          token: ${{ secrets.SITE_READ_TOKEN }}
+          persist-credentials: false
+
+      - name: Is there a reader on main?
+        id: probe
+        run: |
+          if [ -f tools/book.mjs ]; then echo "dev=0" >> "$GITHUB_OUTPUT"
+          else echo "main has no reader yet (the teaser): counting by dev"; echo "dev=1" >> "$GITHUB_OUTPUT"; fi
+
+      - name: No reader on main yet → take dev
+        if: steps.probe.outputs.dev == '1'
+        uses: actions/checkout@v4
+        with:
+          repository: loonysk/morwen-site
+          ref: dev
+          token: ${{ secrets.SITE_READ_TOKEN }}
+          persist-credentials: false
+
+      - run: echo "counting by: $(git rev-parse --short HEAD)"
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: The published Book and the reader's memory (this repository)
+        uses: actions/checkout@v4
+        with:
+          path: out
+          persist-credentials: false   # the token is only handed to the push below, never left on disk while the code runs
+
+      - name: Restore the reader's memory (it only reads the new blocks)
+        run: |
+          mkdir -p tools/.state
+          if [ -f out/state/hov-state.json ]; then cp out/state/hov-state.json tools/.state/hov-state.json; fi
+
+      - name: Read the chain, count the Book
+        env:
+          RPC_URL: ${{ secrets.RPC_URL }}
+          OPENSEA_API_KEY: ${{ secrets.OPENSEA_API_KEY }}
+        run: node tools/book.mjs --hunts out/hunts
+
+      - name: The hunts' schedule
+        run: node tools/schedule.mjs out/schedule.json
+
+      - name: Publish
+        env:
+          TOKEN: ${{ github.token }}
+          REPO: ${{ github.repository }}
+        run: |
+          mkdir -p out/state
+          cp data/book.json out/book.json
+          cp tools/.state/hov-state.json out/state/hov-state.json
+          touch out/.nojekyll
+          mkdir -p out/archive
+          [ -f "out/archive/$(date -u +%F).json" ] || cp data/book.json "out/archive/$(date -u +%F).json"
+          cd out
+          git config user.name "soulbook-bot"
+          git config user.email "soulbook-bot@users.noreply.github.com"
+          git add -A
+          git commit -m "Soulbook $(date -u +%Y-%m-%dT%H:%MZ)" || { echo "nothing new"; exit 0; }
+          branch=$(git rev-parse --abbrev-ref HEAD)
+          # a hunt's list (morwen-site hunt.yml) may land here at the same moment: take it in and try again
+          for i in 1 2 3 4 5; do
+            git pull --rebase -q "https://x-access-token:${TOKEN}@github.com/${REPO}.git" "$branch" && git push -q "https://x-access-token:${TOKEN}@github.com/${REPO}.git" "HEAD:$branch" && exit 0
+            sleep 5
+          done
+          exit 1
