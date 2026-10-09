@@ -1,8 +1,8 @@
 {
- "updated": 1791537471,
+ "updated": 1791541079,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26153899,
+ "block": 26154198,
  "events": {
   "firstCard": 180
  },
@@ -33,16 +33,16 @@
    "holders": 35
   },
   "matazuu": {
-   "cards": 52,
+   "cards": 54,
    "tiers": {
-    "L": 52,
+    "L": 54,
     "M": 0,
     "U": 0
    },
    "images": {
     "L": "https://hov.fra1.digitaloceanspaces.com/prod/hov_matazuu.png"
    },
-   "holders": 38
+   "holders": 39
   },
   "morwen": {
    "cards": 41,
@@ -57,16 +57,16 @@
    "holders": 37
   },
   "orven": {
-   "cards": 35,
+   "cards": 37,
    "tiers": {
-    "L": 35,
+    "L": 37,
     "M": 0,
     "U": 0
    },
    "images": {
     "L": "https://hov.fra1.digitaloceanspaces.com/prod/hov_orven.png"
    },
-   "holders": 27
+   "holders": 29
   }
  },
  "sales": {},
@@ -3224,6 +3224,30 @@
      "marion",
      4285,
      null
+    ],
+    [
+     "L",
+     1791539567,
+     null,
+     "matazuu",
+     4638,
+     null
+    ],
+    [
+     "L",
+     1791539651,
+     null,
+     "matazuu",
+     4639,
+     null
+    ],
+    [
+     "L",
+     1791539867,
+     null,
+     "orven",
+     4647,
+     null
     ]
    ],
    "marks": [],
@@ -3487,6 +3511,27 @@
    "witness": []
   },
   {
+   "w": "0x14ce…973b",
+   "addr": "0x14ce06ea07ed3c6c36b230ccd020304316b1973b",
+   "order": 0,
+   "cards": [
+    [
+     "L",
+     1791538103,
+     null,
+     "orven",
+     4600,
+     null
+    ]
+   ],
+   "marks": [],
+   "gifted": [],
+   "chance": [],
+   "bought": 0,
+   "spentUsd": 0,
+   "witness": []
+  },
+  {
    "w": "0x3edb…c56f",
    "addr": "0x3edb03be837235e1461745bccf95871d4ab2c56f",
    "order": 9,
@@ -3583,7 +3628,7 @@
   }
  ],
  "floors": {
-  "at": 1791537472,
+  "at": 1791541080,
   "listed": 214,
   "offers": {
    "orven": {
@@ -3637,6 +3682,6 @@
    "M": null,
    "U": null
   },
-  "usd": 2502.06
+  "usd": 2497.69
  }
 }
