@@ -1,24 +1,24 @@
 {
- "updated": 1791505220,
+ "updated": 1791508665,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26151221,
+ "block": 26151507,
  "events": {
   "firstCard": 180
  },
  "pending": 0,
  "heroes": {
   "marion": {
-   "cards": 52,
+   "cards": 53,
    "tiers": {
-    "L": 52,
+    "L": 53,
     "M": 0,
     "U": 0
    },
    "images": {
     "L": "https://hov.fra1.digitaloceanspaces.com/prod/hov_marion_soulthread.png"
    },
-   "holders": 41
+   "holders": 42
   },
   "revazial": {
    "cards": 50,
@@ -45,16 +45,16 @@
    "holders": 35
   },
   "morwen": {
-   "cards": 38,
+   "cards": 39,
    "tiers": {
-    "L": 38,
+    "L": 39,
     "M": 0,
     "U": 0
    },
    "images": {
     "L": "https://hov.fra1.digitaloceanspaces.com/prod/hov_morwen_greymoor.png"
    },
-   "holders": 35
+   "holders": 36
   },
   "orven": {
    "cards": 32,
@@ -3268,6 +3268,35 @@
    "witness": []
   },
   {
+   "w": "0xbc6e…1f36",
+   "addr": "0xbc6e8d742f0e2ec1b02fa203298cc83203b81f36",
+   "order": 38,
+   "cards": [
+    [
+     "L",
+     1791506195,
+     null,
+     null,
+     4348,
+     null
+    ],
+    [
+     "L",
+     1791508163,
+     null,
+     "marion",
+     4367,
+     null
+    ]
+   ],
+   "marks": [],
+   "gifted": [],
+   "chance": [],
+   "bought": 0,
+   "spentUsd": 0,
+   "witness": []
+  },
+  {
    "w": "0x3edb…c56f",
    "addr": "0x3edb03be837235e1461745bccf95871d4ab2c56f",
    "order": 9,
@@ -3364,7 +3393,7 @@
   }
  ],
  "floors": {
-  "at": 1791505221,
+  "at": 1791508666,
   "listed": 197,
   "offers": {
    "orven": {
@@ -3418,6 +3447,6 @@
    "M": null,
    "U": null
   },
-  "usd": 2473.65
+  "usd": 2470.11
  }
 }
