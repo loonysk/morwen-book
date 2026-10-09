@@ -1,8 +1,8 @@
 {
- "updated": 1791553079,
+ "updated": 1791553679,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26155198,
+ "block": 26155248,
  "events": {
   "firstCard": 180
  },
@@ -69,16 +69,16 @@
    "holders": 39
   },
   "orven": {
-   "cards": 38,
+   "cards": 39,
    "tiers": {
-    "L": 38,
+    "L": 39,
     "M": 0,
     "U": 0
    },
    "images": {
     "L": "https://hov.fra1.digitaloceanspaces.com/prod/hov_orven.png"
    },
-   "holders": 30
+   "holders": 31
   }
  },
  "sales": {},
@@ -4324,6 +4324,27 @@
    "witness": []
   },
   {
+   "w": "0x38bb…b833",
+   "addr": "0x38bb3769de962d95931a9055a071f5cc060ab833",
+   "order": 0,
+   "cards": [
+    [
+     "L",
+     1791553175,
+     null,
+     "orven",
+     4874,
+     null
+    ]
+   ],
+   "marks": [],
+   "gifted": [],
+   "chance": [],
+   "bought": 0,
+   "spentUsd": 0,
+   "witness": []
+  },
+  {
    "w": "0x3edb…c56f",
    "addr": "0x3edb03be837235e1461745bccf95871d4ab2c56f",
    "order": 9,
@@ -4491,8 +4512,8 @@
   }
  ],
  "floors": {
-  "at": 1791553079,
-  "listed": 219,
+  "at": 1791553679,
+  "listed": 218,
   "offers": {
    "yomihime": {
     "id": 572,
@@ -4555,6 +4576,6 @@
    "M": null,
    "U": null
   },
-  "usd": 2480.26
+  "usd": 2482.95
  }
 }
