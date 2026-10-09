@@ -53,7 +53,9 @@ jobs:
           token: ${{ secrets.SITE_READ_TOKEN }}
           persist-credentials: false
 
-      - run: echo "counting by: $(git rev-parse --short HEAD)"
+      - name: Which code counts
+        run: |
+          echo "counting by: $(git rev-parse --short HEAD)"
 
       - uses: actions/setup-node@v4
         with:
