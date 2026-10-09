@@ -1,8 +1,8 @@
 {
- "updated": 1791587275,
+ "updated": 1791587875,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26158037,
+ "block": 26158087,
  "events": {
   "firstCard": 180
  },
@@ -43,6 +43,18 @@
     "L": "https://hov.fra1.digitaloceanspaces.com/prod/hov_yomihime.png"
    },
    "holders": 38
+  },
+  "shelo": {
+   "cards": 50,
+   "tiers": {
+    "L": 50,
+    "M": 0,
+    "U": 0
+   },
+   "images": {
+    "L": "https://hov.fra1.digitaloceanspaces.com/prod/hov_shelo.png"
+   },
+   "holders": 42
   },
   "morwen": {
    "cards": 47,
@@ -219,6 +231,27 @@
    "witness": []
   },
   {
+   "w": "0xc0b8…b711",
+   "addr": "0xc0b81bf588cfe1d5f8dff62f83df7c832550b711",
+   "order": 0,
+   "cards": [
+    [
+     "L",
+     1791393107,
+     null,
+     "shelo",
+     154,
+     null
+    ]
+   ],
+   "marks": [],
+   "gifted": [],
+   "chance": [],
+   "bought": 0,
+   "spentUsd": 0,
+   "witness": []
+  },
+  {
    "w": "0x5687…ac73",
    "addr": "0x5687680d14d637707fe05f18da6985ee040eac73",
    "order": 32,
@@ -352,6 +385,22 @@
     ],
     [
      "L",
+     1791399143,
+     null,
+     "shelo",
+     1571,
+     null
+    ],
+    [
+     "L",
+     1791489719,
+     null,
+     "shelo",
+     1650,
+     null
+    ],
+    [
+     "L",
      1791404231,
      null,
      "yomihime",
@@ -372,6 +421,14 @@
      null,
      "revazial",
      2294,
+     null
+    ],
+    [
+     "L",
+     1791405071,
+     null,
+     "shelo",
+     2312,
      null
     ],
     [
@@ -408,6 +465,14 @@
     ],
     [
      "L",
+     1791407903,
+     null,
+     "shelo",
+     2575,
+     null
+    ],
+    [
+     "L",
      1791409943,
      null,
      "yomihime",
@@ -428,6 +493,14 @@
      null,
      null,
      3481,
+     null
+    ],
+    [
+     "L",
+     1791449123,
+     null,
+     "shelo",
+     3487,
      null
     ],
     [
@@ -466,8 +539,8 @@
    "marks": [],
    "gifted": [],
    "chance": [],
-   "bought": 0,
-   "spentUsd": 0,
+   "bought": 1,
+   "spentUsd": 27,
    "witness": []
   },
   {
@@ -670,6 +743,14 @@
     ],
     [
      "L",
+     1791407999,
+     null,
+     "shelo",
+     2586,
+     null
+    ],
+    [
+     "L",
      1791408479,
      null,
      "revazial",
@@ -783,6 +864,56 @@
    "witness": []
   },
   {
+   "w": "0xab59…a369",
+   "addr": "0xab59e3965c1ab6fcf8b9c8147e6d42fb5611a369",
+   "order": 0,
+   "cards": [
+    [
+     "L",
+     1791393371,
+     null,
+     "shelo",
+     249,
+     null
+    ],
+    [
+     "L",
+     1791444911,
+     null,
+     "yomihime",
+     3378,
+     null
+    ]
+   ],
+   "marks": [],
+   "gifted": [],
+   "chance": [],
+   "bought": 0,
+   "spentUsd": 0,
+   "witness": []
+  },
+  {
+   "w": "0x6d45…f413",
+   "addr": "0x6d45deb77e1bb0e1c918f4051d9c78f33636f413",
+   "order": 0,
+   "cards": [
+    [
+     "L",
+     1791393383,
+     null,
+     "shelo",
+     256,
+     null
+    ]
+   ],
+   "marks": [],
+   "gifted": [],
+   "chance": [],
+   "bought": 0,
+   "spentUsd": 0,
+   "witness": []
+  },
+  {
    "w": "0xd47f…2f1d",
    "addr": "0xd47f1e47712a1032bdc0e97092aff1b6a65f2f1d",
    "order": 0,
@@ -883,6 +1014,43 @@
    "witness": []
   },
   {
+   "w": "0xcb1e…5f4e",
+   "addr": "0xcb1e9c251b49c058e0649522b8c677ec70a95f4e",
+   "order": 0,
+   "cards": [
+    [
+     "L",
+     1791393479,
+     null,
+     "shelo",
+     305,
+     null
+    ],
+    [
+     "L",
+     1791393887,
+     null,
+     "shelo",
+     444,
+     null
+    ],
+    [
+     "L",
+     1791394547,
+     null,
+     "orven",
+     635,
+     null
+    ]
+   ],
+   "marks": [],
+   "gifted": [],
+   "chance": [],
+   "bought": 0,
+   "spentUsd": 0,
+   "witness": []
+  },
+  {
    "w": "0xdf1f…dff1",
    "addr": "0xdf1f653147480dcdcd63ddd112fdfb4f98e8dff1",
    "order": 0,
@@ -901,6 +1069,14 @@
      null,
      "revazial",
      813,
+     null
+    ],
+    [
+     "L",
+     1791395423,
+     null,
+     "shelo",
+     907,
      null
     ],
     [
@@ -959,6 +1135,14 @@
      null,
      "revazial",
      917,
+     null
+    ],
+    [
+     "L",
+     1791395663,
+     null,
+     "shelo",
+     983,
      null
     ]
    ],
@@ -1036,6 +1220,43 @@
    "witness": []
   },
   {
+   "w": "0xbcb3…1fe1",
+   "addr": "0xbcb3cc6350bb56ce40ec8db12761a3ed81f51fe1",
+   "order": 0,
+   "cards": [
+    [
+     "L",
+     1791394211,
+     null,
+     "shelo",
+     534,
+     null
+    ],
+    [
+     "L",
+     1791399539,
+     null,
+     "marion",
+     1622,
+     null
+    ],
+    [
+     "L",
+     1791400571,
+     null,
+     "revazial",
+     1751,
+     null
+    ]
+   ],
+   "marks": [],
+   "gifted": [],
+   "chance": [],
+   "bought": 0,
+   "spentUsd": 0,
+   "witness": []
+  },
+  {
    "w": "0x2b51…fe7c",
    "addr": "0x2b51132967bfb92fca2b8b5d4d61dfa0bc6bfe7c",
    "order": 5,
@@ -1096,6 +1317,14 @@
      null,
      "yomihime",
      572,
+     null
+    ],
+    [
+     "L",
+     1791394511,
+     null,
+     "shelo",
+     622,
      null
     ]
    ],
@@ -1175,27 +1404,6 @@
      null,
      null,
      595,
-     null
-    ]
-   ],
-   "marks": [],
-   "gifted": [],
-   "chance": [],
-   "bought": 0,
-   "spentUsd": 0,
-   "witness": []
-  },
-  {
-   "w": "0xcb1e…5f4e",
-   "addr": "0xcb1e9c251b49c058e0649522b8c677ec70a95f4e",
-   "order": 0,
-   "cards": [
-    [
-     "L",
-     1791394547,
-     null,
-     "orven",
-     635,
      null
     ]
    ],
@@ -1310,6 +1518,14 @@
      "yomihime",
      793,
      null
+    ],
+    [
+     "L",
+     1791397607,
+     null,
+     "shelo",
+     1371,
+     null
     ]
    ],
    "marks": [],
@@ -1381,6 +1597,64 @@
      null,
      869,
      "t"
+    ]
+   ],
+   "marks": [],
+   "gifted": [],
+   "chance": [],
+   "bought": 0,
+   "spentUsd": 0,
+   "witness": []
+  },
+  {
+   "w": "0xda84…0624",
+   "addr": "0xda84060088263a5979b80c68ff2336d4d18e0624",
+   "order": 0,
+   "cards": [
+    [
+     "L",
+     1791395339,
+     null,
+     "shelo",
+     878,
+     null
+    ],
+    [
+     "L",
+     1791395951,
+     null,
+     "orven",
+     1053,
+     null
+    ]
+   ],
+   "marks": [],
+   "gifted": [],
+   "chance": [],
+   "bought": 0,
+   "spentUsd": 0,
+   "witness": []
+  },
+  {
+   "w": "0x9947…e89c",
+   "addr": "0x99479a62512fa38f07252129eda74344be82e89c",
+   "order": 0,
+   "cards": [
+    [
+     "L",
+     1791395735,
+     null,
+     "shelo",
+     1000,
+     null
+    ],
+    [
+     "L",
+     1791395867,
+     null,
+     "marion",
+     1034,
+     null
     ]
    ],
    "marks": [],
@@ -1473,48 +1747,6 @@
    "witness": []
   },
   {
-   "w": "0x9947…e89c",
-   "addr": "0x99479a62512fa38f07252129eda74344be82e89c",
-   "order": 0,
-   "cards": [
-    [
-     "L",
-     1791395867,
-     null,
-     "marion",
-     1034,
-     null
-    ]
-   ],
-   "marks": [],
-   "gifted": [],
-   "chance": [],
-   "bought": 0,
-   "spentUsd": 0,
-   "witness": []
-  },
-  {
-   "w": "0xda84…0624",
-   "addr": "0xda84060088263a5979b80c68ff2336d4d18e0624",
-   "order": 0,
-   "cards": [
-    [
-     "L",
-     1791395951,
-     null,
-     "orven",
-     1053,
-     null
-    ]
-   ],
-   "marks": [],
-   "gifted": [],
-   "chance": [],
-   "bought": 0,
-   "spentUsd": 0,
-   "witness": []
-  },
-  {
    "w": "0xe990…174a",
    "addr": "0xe9901475c146eea21f8e9b182611dc397c7f174a",
    "order": 0,
@@ -1595,6 +1827,27 @@
      "marion",
      4285,
      "t"
+    ]
+   ],
+   "marks": [],
+   "gifted": [],
+   "chance": [],
+   "bought": 0,
+   "spentUsd": 0,
+   "witness": []
+  },
+  {
+   "w": "0x7488…7fbd",
+   "addr": "0x74889dccd288e1a44a0c4bc0899f7facf0c87fbd",
+   "order": 0,
+   "cards": [
+    [
+     "L",
+     1791396191,
+     null,
+     "shelo",
+     1132,
+     null
     ]
    ],
    "marks": [],
@@ -1831,6 +2084,27 @@
    "witness": []
   },
   {
+   "w": "0xee7e…e44a",
+   "addr": "0xee7ec105452bfd0bd6a50d8c13e23ad0a72ae44a",
+   "order": 0,
+   "cards": [
+    [
+     "L",
+     1791397859,
+     null,
+     "shelo",
+     1409,
+     null
+    ]
+   ],
+   "marks": [],
+   "gifted": [],
+   "chance": [],
+   "bought": 0,
+   "spentUsd": 0,
+   "witness": []
+  },
+  {
    "w": "0x674f…7c15",
    "addr": "0x674f6358312be2733fabf91c0cdaf101e8c67c15",
    "order": 0,
@@ -1947,6 +2221,35 @@
    "witness": []
   },
   {
+   "w": "0x1f76…7773",
+   "addr": "0x1f76261efaf3ea98b0fb659aa50bf7024e3f7773",
+   "order": 0,
+   "cards": [
+    [
+     "L",
+     1791401699,
+     null,
+     "shelo",
+     1540,
+     null
+    ],
+    [
+     "L",
+     1791453311,
+     null,
+     "orven",
+     3563,
+     null
+    ]
+   ],
+   "marks": [],
+   "gifted": [],
+   "chance": [],
+   "bought": 2,
+   "spentUsd": 63,
+   "witness": []
+  },
+  {
    "w": "0x45cc…44a2",
    "addr": "0x45cc07713d4fec9f392682cd1a8f37b53ffc44a2",
    "order": 0,
@@ -1957,6 +2260,14 @@
      null,
      "yomihime",
      1547,
+     null
+    ],
+    [
+     "L",
+     1791402467,
+     null,
+     "shelo",
+     1961,
      null
     ]
    ],
@@ -2063,25 +2374,17 @@
    "witness": []
   },
   {
-   "w": "0xbcb3…1fe1",
-   "addr": "0xbcb3cc6350bb56ce40ec8db12761a3ed81f51fe1",
+   "w": "0x7e8f…bc68",
+   "addr": "0x7e8f45a6d14cb20395f7f7a0b445683a5d72bc68",
    "order": 0,
    "cards": [
     [
      "L",
-     1791399539,
+     1791405563,
      null,
-     "marion",
-     1622,
-     null
-    ],
-    [
-     "L",
-     1791400571,
-     null,
-     "revazial",
-     1751,
-     null
+     "shelo",
+     1663,
+     "t"
     ]
    ],
    "marks": [],
@@ -2102,6 +2405,93 @@
      null,
      "orven",
      1710,
+     null
+    ]
+   ],
+   "marks": [],
+   "gifted": [],
+   "chance": [],
+   "bought": 0,
+   "spentUsd": 0,
+   "witness": []
+  },
+  {
+   "w": "0x3df4…ba17",
+   "addr": "0x3df40a333ec39d1c66b9e3ef5b05edaacb95ba17",
+   "order": 0,
+   "cards": [
+    [
+     "L",
+     1791400187,
+     null,
+     "shelo",
+     1711,
+     null
+    ],
+    [
+     "L",
+     1791500915,
+     null,
+     "yomihime",
+     3594,
+     null
+    ]
+   ],
+   "marks": [],
+   "gifted": [],
+   "chance": [],
+   "bought": 1,
+   "spentUsd": 49,
+   "witness": []
+  },
+  {
+   "w": "0xdeed…e613",
+   "addr": "0xdeed752a999d2bae7e979d82881b31c84d1fe613",
+   "order": 0,
+   "cards": [
+    [
+     "L",
+     1791400667,
+     null,
+     "shelo",
+     1760,
+     null
+    ],
+    [
+     "L",
+     1791464171,
+     null,
+     "revazial",
+     3514,
+     null
+    ]
+   ],
+   "marks": [],
+   "gifted": [],
+   "chance": [],
+   "bought": 2,
+   "spentUsd": 50,
+   "witness": []
+  },
+  {
+   "w": "0xd867…560f",
+   "addr": "0xd867f88065a281fc554b8bf7f0ac4b91c500560f",
+   "order": 0,
+   "cards": [
+    [
+     "L",
+     1791400799,
+     null,
+     "shelo",
+     1781,
+     null
+    ],
+    [
+     "L",
+     1791404087,
+     null,
+     "marion",
+     2162,
      null
     ]
    ],
@@ -2134,10 +2524,39 @@
    "witness": []
   },
   {
+   "w": "0x4bf1…dce0",
+   "addr": "0x4bf16b5778018aba40504fad3044c12144e1dce0",
+   "order": 0,
+   "cards": [
+    [
+     "L",
+     1791402203,
+     null,
+     "shelo",
+     1917,
+     null
+    ]
+   ],
+   "marks": [],
+   "gifted": [],
+   "chance": [],
+   "bought": 0,
+   "spentUsd": 0,
+   "witness": []
+  },
+  {
    "w": "0x76e7…dc00",
    "addr": "0x76e7e4d744ad0746f26a2746efe7b6a91b05dc00",
    "order": 0,
    "cards": [
+    [
+     "L",
+     1791402455,
+     null,
+     "shelo",
+     1957,
+     null
+    ],
     [
      "L",
      1791403187,
@@ -2177,10 +2596,26 @@
     ],
     [
      "L",
+     1791415127,
+     null,
+     "shelo",
+     2378,
+     "t"
+    ],
+    [
+     "L",
      1791415043,
      null,
      "marion",
      2435,
+     "t"
+    ],
+    [
+     "L",
+     1791420611,
+     null,
+     "shelo",
+     2593,
      "t"
     ],
     [
@@ -2248,27 +2683,6 @@
    "witness": []
   },
   {
-   "w": "0xd867…560f",
-   "addr": "0xd867f88065a281fc554b8bf7f0ac4b91c500560f",
-   "order": 0,
-   "cards": [
-    [
-     "L",
-     1791404087,
-     null,
-     "marion",
-     2162,
-     null
-    ]
-   ],
-   "marks": [],
-   "gifted": [],
-   "chance": [],
-   "bought": 0,
-   "spentUsd": 0,
-   "witness": []
-  },
-  {
    "w": "0x77f1…f18b",
    "addr": "0x77f18b41dbf928b0cc2880b6342e7f24f96bf18b",
    "order": 0,
@@ -2316,6 +2730,14 @@
      null,
      "revazial",
      2346,
+     null
+    ],
+    [
+     "L",
+     1791405803,
+     null,
+     "shelo",
+     2394,
      null
     ],
     [
@@ -2522,6 +2944,27 @@
    "witness": []
   },
   {
+   "w": "0x227d…a269",
+   "addr": "0x227dd5470f6fd28eb4223c6c3af93502e570a269",
+   "order": 0,
+   "cards": [
+    [
+     "L",
+     1791411935,
+     null,
+     "shelo",
+     2873,
+     null
+    ]
+   ],
+   "marks": [],
+   "gifted": [],
+   "chance": [],
+   "bought": 0,
+   "spentUsd": 0,
+   "witness": []
+  },
+  {
    "w": "0x6fbb…aa47",
    "addr": "0x6fbb22852b74c6c5fe548367ec22966467c5aa47",
    "order": 23,
@@ -2594,6 +3037,14 @@
     ],
     [
      "L",
+     1791420035,
+     null,
+     "shelo",
+     3138,
+     null
+    ],
+    [
+     "L",
      1791451631,
      null,
      null,
@@ -2606,6 +3057,14 @@
      null,
      "yomihime",
      3732,
+     null
+    ],
+    [
+     "L",
+     1791453779,
+     null,
+     "shelo",
+     3739,
      null
     ],
     [
@@ -2723,6 +3182,14 @@
      null,
      3222,
      null
+    ],
+    [
+     "L",
+     1791433007,
+     null,
+     "shelo",
+     3228,
+     null
     ]
    ],
    "marks": [],
@@ -2817,27 +3284,6 @@
    "witness": []
   },
   {
-   "w": "0xab59…a369",
-   "addr": "0xab59e3965c1ab6fcf8b9c8147e6d42fb5611a369",
-   "order": 0,
-   "cards": [
-    [
-     "L",
-     1791444911,
-     null,
-     "yomihime",
-     3378,
-     null
-    ]
-   ],
-   "marks": [],
-   "gifted": [],
-   "chance": [],
-   "bought": 0,
-   "spentUsd": 0,
-   "witness": []
-  },
-  {
    "w": "0xf4e9…28a3",
    "addr": "0xf4e94424d4ae86c862fbff554d582c0df34228a3",
    "order": 28,
@@ -2877,27 +3323,6 @@
    "chance": [],
    "bought": 1,
    "spentUsd": 45,
-   "witness": []
-  },
-  {
-   "w": "0xdeed…e613",
-   "addr": "0xdeed752a999d2bae7e979d82881b31c84d1fe613",
-   "order": 0,
-   "cards": [
-    [
-     "L",
-     1791464171,
-     null,
-     "revazial",
-     3514,
-     null
-    ]
-   ],
-   "marks": [],
-   "gifted": [],
-   "chance": [],
-   "bought": 1,
-   "spentUsd": 25,
    "witness": []
   },
   {
@@ -2965,48 +3390,6 @@
    "witness": []
   },
   {
-   "w": "0x1f76…7773",
-   "addr": "0x1f76261efaf3ea98b0fb659aa50bf7024e3f7773",
-   "order": 0,
-   "cards": [
-    [
-     "L",
-     1791453311,
-     null,
-     "orven",
-     3563,
-     null
-    ]
-   ],
-   "marks": [],
-   "gifted": [],
-   "chance": [],
-   "bought": 1,
-   "spentUsd": 25,
-   "witness": []
-  },
-  {
-   "w": "0x3df4…ba17",
-   "addr": "0x3df40a333ec39d1c66b9e3ef5b05edaacb95ba17",
-   "order": 0,
-   "cards": [
-    [
-     "L",
-     1791500915,
-     null,
-     "yomihime",
-     3594,
-     null
-    ]
-   ],
-   "marks": [],
-   "gifted": [],
-   "chance": [],
-   "bought": 1,
-   "spentUsd": 49,
-   "witness": []
-  },
-  {
    "w": "0xfd14…e79a",
    "addr": "0xfd147e915b113fa92d25fa4ce8b6c19230f2e79a",
    "order": 29,
@@ -3034,6 +3417,14 @@
    "cards": [
     [
      "L",
+     1791451607,
+     null,
+     "shelo",
+     3614,
+     null
+    ],
+    [
+     "L",
      1791456647,
      null,
      "marion",
@@ -3059,6 +3450,14 @@
      null,
      "marion",
      3849,
+     null
+    ],
+    [
+     "L",
+     1791461375,
+     null,
+     "shelo",
+     3940,
      null
     ]
    ],
@@ -3089,6 +3488,27 @@
      "marion",
      3953,
      null
+    ]
+   ],
+   "marks": [],
+   "gifted": [],
+   "chance": [],
+   "bought": 0,
+   "spentUsd": 0,
+   "witness": []
+  },
+  {
+   "w": "0x4047…325f",
+   "addr": "0x4047895c841a684455e5d9914d974f480235325f",
+   "order": 0,
+   "cards": [
+    [
+     "L",
+     1791562091,
+     null,
+     "shelo",
+     3998,
+     "t"
     ]
    ],
    "marks": [],
@@ -3228,6 +3648,27 @@
    "witness": []
   },
   {
+   "w": "0x1a21…c576",
+   "addr": "0x1a214c600c2192bc2c1a1990f607bf392539c576",
+   "order": 0,
+   "cards": [
+    [
+     "L",
+     1791484187,
+     null,
+     "shelo",
+     4258,
+     null
+    ]
+   ],
+   "marks": [],
+   "gifted": [],
+   "chance": [],
+   "bought": 0,
+   "spentUsd": 0,
+   "witness": []
+  },
+  {
    "w": "0xbbbc…b8c5",
    "addr": "0xbbbca46964af42db637002e075ff9da8bac2b8c5",
    "order": 0,
@@ -3267,6 +3708,27 @@
      null,
      "marion",
      4301,
+     null
+    ]
+   ],
+   "marks": [],
+   "gifted": [],
+   "chance": [],
+   "bought": 0,
+   "spentUsd": 0,
+   "witness": []
+  },
+  {
+   "w": "0x2352…a7c5",
+   "addr": "0x2352cd9129ab5579e47659299e60a072b949a7c5",
+   "order": 0,
+   "cards": [
+    [
+     "L",
+     1791501767,
+     null,
+     "shelo",
+     4315,
      null
     ]
    ],
@@ -3431,6 +3893,14 @@
    "cards": [
     [
      "L",
+     1791529583,
+     null,
+     "shelo",
+     4493,
+     null
+    ],
+    [
+     "L",
      1791531191,
      null,
      "marion",
@@ -3494,6 +3964,35 @@
      "orven",
      4600,
      null
+    ],
+    [
+     "L",
+     1791539231,
+     null,
+     "shelo",
+     4629,
+     null
+    ]
+   ],
+   "marks": [],
+   "gifted": [],
+   "chance": [],
+   "bought": 0,
+   "spentUsd": 0,
+   "witness": []
+  },
+  {
+   "w": "0xc029…74ac",
+   "addr": "0xc0297c2d998d388c75a5000f15f35e3d292474ac",
+   "order": 0,
+   "cards": [
+    [
+     "L",
+     1791538751,
+     null,
+     "shelo",
+     4613,
+     null
     ]
    ],
    "marks": [],
@@ -3530,6 +4029,14 @@
      null,
      "revazial",
      4957,
+     null
+    ],
+    [
+     "L",
+     1791557267,
+     null,
+     "shelo",
+     4985,
      null
     ],
     [
@@ -3586,6 +4093,27 @@
    "witness": []
   },
   {
+   "w": "0x1919…0aa2",
+   "addr": "0x19198bb481beff2f68df6bc91786d33c4aaa0aa2",
+   "order": 0,
+   "cards": [
+    [
+     "L",
+     1791543467,
+     null,
+     "shelo",
+     4697,
+     null
+    ]
+   ],
+   "marks": [],
+   "gifted": [],
+   "chance": [],
+   "bought": 0,
+   "spentUsd": 0,
+   "witness": []
+  },
+  {
    "w": "0x58d2…25b0",
    "addr": "0x58d2cac35db93287bca759cb1ef07855941a25b0",
    "order": 0,
@@ -3604,6 +4132,14 @@
      null,
      "yomihime",
      4727,
+     null
+    ],
+    [
+     "L",
+     1791545195,
+     null,
+     "shelo",
+     4735,
      null
     ],
     [
@@ -3678,6 +4214,43 @@
      null,
      "marion",
      4836,
+     null
+    ],
+    [
+     "L",
+     1791551207,
+     null,
+     "shelo",
+     4840,
+     null
+    ]
+   ],
+   "marks": [],
+   "gifted": [],
+   "chance": [],
+   "bought": 0,
+   "spentUsd": 0,
+   "witness": []
+  },
+  {
+   "w": "0xa3f8…a71b",
+   "addr": "0xa3f84ed7bd917e49d9ed3ef44e6987c00f19a71b",
+   "order": 0,
+   "cards": [
+    [
+     "L",
+     1791550043,
+     null,
+     "shelo",
+     4814,
+     null
+    ],
+    [
+     "L",
+     1791550679,
+     null,
+     "shelo",
+     4830,
      null
     ]
    ],
@@ -3852,6 +4425,27 @@
    "witness": []
   },
   {
+   "w": "0xdc8f…9679",
+   "addr": "0xdc8f62628e51bc4d371d6ea7378b915afb169679",
+   "order": 0,
+   "cards": [
+    [
+     "L",
+     1791561011,
+     null,
+     "shelo",
+     5051,
+     null
+    ]
+   ],
+   "marks": [],
+   "gifted": [],
+   "chance": [],
+   "bought": 0,
+   "spentUsd": 0,
+   "witness": []
+  },
+  {
    "w": "0x1767…cb10",
    "addr": "0x17673736885594b8c86b281a5ab8ec381cb4cb10",
    "order": 46,
@@ -3929,6 +4523,10 @@
     },
     {
      "k": "flipper",
+     "ally": "shelo"
+    },
+    {
+     "k": "flipper",
      "ally": "revazial"
     },
     {
@@ -3950,6 +4548,12 @@
     [
      "flipper",
      "L",
+     "shelo",
+     1760
+    ],
+    [
+     "flipper",
+     "L",
      "revazial",
      3564
     ],
@@ -3964,6 +4568,56 @@
      "L",
      "yomihime",
      3594
+    ]
+   ],
+   "gifted": [],
+   "chance": [],
+   "bought": 0,
+   "spentUsd": 0,
+   "witness": []
+  },
+  {
+   "w": "0x3bb9…006a",
+   "addr": "0x3bb9a62d2f91dbb7151351c988eef2b470f0006a",
+   "order": 0,
+   "cards": [],
+   "marks": [
+    {
+     "k": "flipper",
+     "ally": "shelo"
+    }
+   ],
+   "lost": [
+    [
+     "flipper",
+     "L",
+     "shelo",
+     1650
+    ]
+   ],
+   "gifted": [],
+   "chance": [],
+   "bought": 0,
+   "spentUsd": 0,
+   "witness": []
+  },
+  {
+   "w": "0xf2ab…6a1e",
+   "addr": "0xf2ab9453c0ab0123600006d0f5d0d27d25466a1e",
+   "order": 0,
+   "cards": [],
+   "marks": [
+    {
+     "k": "flipper",
+     "ally": "shelo"
+    }
+   ],
+   "lost": [
+    [
+     "flipper",
+     "L",
+     "shelo",
+     1540
     ]
    ],
    "gifted": [],
@@ -4111,9 +4765,14 @@
   }
  ],
  "floors": {
-  "at": 1791587276,
-  "listed": 222,
+  "at": 1791587876,
+  "listed": 223,
   "offers": {
+   "shelo": {
+    "id": 4315,
+    "eth": 0.022,
+    "tier": "L"
+   },
    "yomihime": {
     "id": 572,
     "eth": 0.0225,
@@ -4140,6 +4799,11 @@
     "tier": "L"
    }
   },
+  "shelo": {
+   "L": 0.022,
+   "M": null,
+   "U": null
+  },
   "yomihime": {
    "L": 0.0225,
    "M": null,
@@ -4165,6 +4829,6 @@
    "M": null,
    "U": null
   },
-  "usd": 2485.95
+  "usd": 2486.74
  }
 }
