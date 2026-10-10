@@ -1,8 +1,8 @@
 {
- "updated": 1791629877,
+ "updated": 1791630474,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26161581,
+ "block": 26161630,
  "events": {
   "firstCard": 180
  },
@@ -66,7 +66,7 @@
    "images": {
     "L": "https://hov.fra1.digitaloceanspaces.com/prod/hov_morwen_greymoor.png"
    },
-   "holders": 43
+   "holders": 42
   },
   "orven": {
    "cards": 40,
@@ -83,10 +83,10 @@
  },
  "sales": {
   "L": {
-   "eth": 0.03,
-   "usd": 75,
-   "ts": 1791625487,
-   "id": 3601
+   "eth": 0.035,
+   "usd": 87,
+   "ts": 1791630083,
+   "id": 4398
   }
  },
  "entries": [
@@ -3414,13 +3414,21 @@
      null,
      3601,
      null
+    ],
+    [
+     "L",
+     1791630083,
+     null,
+     null,
+     4398,
+     null
     ]
    ],
    "marks": [],
    "gifted": [],
    "chance": [],
-   "bought": 1,
-   "spentUsd": 75,
+   "bought": 2,
+   "spentUsd": 161,
    "witness": []
   },
   {
@@ -3830,14 +3838,6 @@
    "cards": [
     [
      "L",
-     1791523199,
-     null,
-     null,
-     4398,
-     null
-    ],
-    [
-     "L",
      1791523319,
      null,
      "marion",
@@ -3846,6 +3846,7 @@
     ]
    ],
    "marks": [
+    "flipper",
     "flipper"
    ],
    "lost": [
@@ -3854,6 +3855,12 @@
      "L",
      "morwen",
      4402
+    ],
+    [
+     "flipper",
+     "L",
+     "morwen",
+     4398
     ]
    ],
    "gifted": [],
@@ -4835,8 +4842,8 @@
   }
  ],
  "floors": {
-  "at": 1791629877,
-  "listed": 228,
+  "at": 1791630474,
+  "listed": 227,
   "offers": {
    "shelo": {
     "id": 4315,
@@ -4849,8 +4856,8 @@
     "tier": "L"
    },
    "morwen": {
-    "id": 4398,
-    "eth": 0.035,
+    "id": 1347,
+    "eth": 0.1165,
     "tier": "L"
    },
    "revazial": {
@@ -4875,7 +4882,7 @@
    "U": null
   },
   "morwen": {
-   "L": 0.035,
+   "L": 0.1165,
    "M": null,
    "U": null
   },
@@ -4889,6 +4896,6 @@
    "M": null,
    "U": null
   },
-  "usd": 2494.51
+  "usd": 2493.39
  }
 }
