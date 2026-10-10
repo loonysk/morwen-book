@@ -1,8 +1,8 @@
 {
- "updated": 1791636473,
+ "updated": 1791637077,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26162128,
+ "block": 26162178,
  "events": {
   "firstCard": 180
  },
@@ -4082,14 +4082,6 @@
     ],
     [
      "L",
-     1791561311,
-     null,
-     null,
-     5061,
-     null
-    ],
-    [
-     "L",
      1791566675,
      null,
      "marion",
@@ -4469,6 +4461,27 @@
      "shelo",
      5051,
      null
+    ]
+   ],
+   "marks": [],
+   "gifted": [],
+   "chance": [],
+   "bought": 0,
+   "spentUsd": 0,
+   "witness": []
+  },
+  {
+   "w": "0xca45…01c7",
+   "addr": "0xca45e15a85ca65f0e3eefbf79a8213966fa701c7",
+   "order": 49,
+   "cards": [
+    [
+     "L",
+     1791636575,
+     null,
+     null,
+     5061,
+     "t"
     ]
    ],
    "marks": [],
@@ -4867,7 +4880,7 @@
   }
  ],
  "floors": {
-  "at": 1791636474,
+  "at": 1791637078,
   "listed": 240,
   "offers": {
    "shelo": {
@@ -4921,6 +4934,6 @@
    "M": null,
    "U": null
   },
-  "usd": 2494.06
+  "usd": 2494.13
  }
 }
