@@ -1,8 +1,8 @@
 {
- "updated": 1791631676,
+ "updated": 1791632273,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26161730,
+ "block": 26161779,
  "events": {
   "firstCard": 180
  },
@@ -2242,13 +2242,13 @@
    "witness": []
   },
   {
-   "w": "0x6623…bc7b",
-   "addr": "0x66235dd8639fce9e3159ec19da411d2043b0bc7b",
+   "w": "0xb3e2…010f",
+   "addr": "0xb3e2d9df3afc99f1db102f274a9d4fde6c87010f",
    "order": 0,
    "cards": [
     [
      "L",
-     1791398831,
+     1791632171,
      null,
      "orven",
      1531,
@@ -2258,8 +2258,8 @@
    "marks": [],
    "gifted": [],
    "chance": [],
-   "bought": 0,
-   "spentUsd": 0,
+   "bought": 1,
+   "spentUsd": 57,
    "witness": []
   },
   {
@@ -4839,30 +4839,50 @@
    "bought": 0,
    "spentUsd": 0,
    "witness": []
+  },
+  {
+   "w": "0x6623…bc7b",
+   "addr": "0x66235dd8639fce9e3159ec19da411d2043b0bc7b",
+   "order": 0,
+   "cards": [],
+   "marks": [
+    {
+     "k": "flipper",
+     "ally": "orven"
+    }
+   ],
+   "lost": [
+    [
+     "flipper",
+     "L",
+     "orven",
+     1531
+    ]
+   ],
+   "gifted": [],
+   "chance": [],
+   "bought": 0,
+   "spentUsd": 0,
+   "witness": []
   }
  ],
  "floors": {
-  "at": 1791631676,
-  "listed": 226,
+  "at": 1791632274,
+  "listed": 230,
   "offers": {
    "shelo": {
     "id": 4315,
     "eth": 0.022,
     "tier": "L"
    },
-   "orven": {
-    "id": 1531,
-    "eth": 0.023,
+   "revazial": {
+    "id": 4138,
+    "eth": 0.025,
     "tier": "L"
    },
    "morwen": {
     "id": 1347,
     "eth": 0.1165,
-    "tier": "L"
-   },
-   "revazial": {
-    "id": 210,
-    "eth": 0.5,
     "tier": "L"
    },
    "marion": {
@@ -4876,8 +4896,8 @@
    "M": null,
    "U": null
   },
-  "orven": {
-   "L": 0.023,
+  "revazial": {
+   "L": 0.025,
    "M": null,
    "U": null
   },
@@ -4886,16 +4906,11 @@
    "M": null,
    "U": null
   },
-  "revazial": {
-   "L": 0.5,
-   "M": null,
-   "U": null
-  },
   "marion": {
    "L": 0.9,
    "M": null,
    "U": null
   },
-  "usd": 2492.39
+  "usd": 2494.07
  }
 }
