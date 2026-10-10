@@ -1,8 +1,8 @@
 {
- "updated": 1791625075,
+ "updated": 1791625673,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26161182,
+ "block": 26161232,
  "events": {
   "firstCard": 180
  },
@@ -83,10 +83,10 @@
  },
  "sales": {
   "L": {
-   "eth": 0.04,
-   "usd": 99,
-   "ts": 1791590495,
-   "id": 1332
+   "eth": 0.03,
+   "usd": 75,
+   "ts": 1791625487,
+   "id": 3601
   }
  },
  "entries": [
@@ -3403,13 +3403,13 @@
    "witness": []
   },
   {
-   "w": "0xfd14…e79a",
-   "addr": "0xfd147e915b113fa92d25fa4ce8b6c19230f2e79a",
-   "order": 29,
+   "w": "0x7932…65d6",
+   "addr": "0x7932cb7ecd74b556d36ab8fabc12d44a3c1365d6",
+   "order": 48,
    "cards": [
     [
      "L",
-     1791451451,
+     1791625487,
      null,
      null,
      3601,
@@ -3419,8 +3419,8 @@
    "marks": [],
    "gifted": [],
    "chance": [],
-   "bought": 0,
-   "spentUsd": 0,
+   "bought": 1,
+   "spentUsd": 75,
    "witness": []
   },
   {
@@ -4737,6 +4737,28 @@
    "witness": []
   },
   {
+   "w": "0xfd14…e79a",
+   "addr": "0xfd147e915b113fa92d25fa4ce8b6c19230f2e79a",
+   "order": 29,
+   "cards": [],
+   "marks": [
+    "flipper"
+   ],
+   "lost": [
+    [
+     "flipper",
+     "L",
+     "morwen",
+     3601
+    ]
+   ],
+   "gifted": [],
+   "chance": [],
+   "bought": 0,
+   "spentUsd": 0,
+   "witness": []
+  },
+  {
    "w": "0xa163…7723",
    "addr": "0xa163a0cdc0c3f37ce14483fce2641719f6f97723",
    "order": 0,
@@ -4813,7 +4835,7 @@
   }
  ],
  "floors": {
-  "at": 1791625076,
+  "at": 1791625674,
   "listed": 222,
   "offers": {
    "shelo": {
@@ -4827,8 +4849,8 @@
     "tier": "L"
    },
    "morwen": {
-    "id": 3601,
-    "eth": 0.03,
+    "id": 1347,
+    "eth": 0.1165,
     "tier": "L"
    },
    "revazial": {
@@ -4853,7 +4875,7 @@
    "U": null
   },
   "morwen": {
-   "L": 0.03,
+   "L": 0.1165,
    "M": null,
    "U": null
   },
@@ -4867,6 +4889,6 @@
    "M": null,
    "U": null
   },
-  "usd": 2494.32
+  "usd": 2494.19
  }
 }
