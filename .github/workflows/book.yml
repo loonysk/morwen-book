@@ -86,6 +86,15 @@ jobs:
       - name: The hunts' schedule
         run: node tools/schedule.mjs out/schedule.json
 
+      # small WebP pictures of the heroes' cards for the site (the collection's PNGs are 3.5–4 MB): made once each, kept in cards/;
+      # sharp is installed only when a picture is missing. Never in the way of the Book: a failure here leaves the full pictures in use
+      - name: Small pictures of the heroes' cards
+        continue-on-error: true
+        run: |
+          [ -f tools/thumbs.mjs ] || { echo "no thumbs tool in this code yet"; exit 0; }
+          B=https://loonysk.github.io/morwen-book/cards/
+          node tools/thumbs.mjs data/book.json out/cards "$B" || { [ $? -eq 3 ] && npm install --no-save --no-package-lock sharp@0.33.5 > /dev/null && node tools/thumbs.mjs data/book.json out/cards "$B"; }
+
       - name: Publish
         env:
           TOKEN: ${{ github.token }}
