@@ -1,8 +1,8 @@
 {
- "updated": 1791641275,
+ "updated": 1791641874,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26162526,
+ "block": 26162576,
  "events": {
   "firstCard": 180
  },
@@ -3519,17 +3519,17 @@
    "witness": []
   },
   {
-   "w": "0xb81e…bb77",
-   "addr": "0xb81e10ee0055de228c42afce86b7e97014b7bb77",
+   "w": "0x5ad8…fe1b",
+   "addr": "0x5ad8d6792b9bdd1844e27dc3f17a4924d9c4fe1b",
    "order": 0,
    "cards": [
     [
      "L",
-     1791462059,
+     1791641651,
      null,
      "marion",
      3953,
-     null
+     "t"
     ]
    ],
    "marks": [],
@@ -4880,7 +4880,7 @@
   }
  ],
  "floors": {
-  "at": 1791641276,
+  "at": 1791641875,
   "listed": 255,
   "offers": {
    "shelo": {
@@ -4934,6 +4934,6 @@
    "M": null,
    "U": null
   },
-  "usd": 2494.89
+  "usd": 2495.77
  }
 }
