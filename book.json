@@ -1,8 +1,8 @@
 {
- "updated": 1791662278,
+ "updated": 1791662872,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26164270,
+ "block": 26164320,
  "events": {
   "firstCard": 180
  },
@@ -342,13 +342,21 @@
      "yomihime",
      160,
      null
+    ],
+    [
+     "L",
+     1791662315,
+     null,
+     "revazial",
+     4138,
+     null
     ]
    ],
    "marks": [],
    "gifted": [],
    "chance": [],
-   "bought": 1,
-   "spentUsd": 35,
+   "bought": 2,
+   "spentUsd": 97,
    "witness": []
   },
   {
@@ -3553,27 +3561,6 @@
    "witness": []
   },
   {
-   "w": "0x21b9…ae4f",
-   "addr": "0x21b9093519fe64ae4fd30f1889c37799ac7cae4f",
-   "order": 0,
-   "cards": [
-    [
-     "L",
-     1791466307,
-     null,
-     "revazial",
-     4138,
-     null
-    ]
-   ],
-   "marks": [],
-   "gifted": [],
-   "chance": [],
-   "bought": 0,
-   "spentUsd": 0,
-   "witness": []
-  },
-  {
    "w": "0x2824…294a",
    "addr": "0x2824044fce6ad10adf3daef2b749b628c6a9294a",
    "order": 34,
@@ -4796,6 +4783,31 @@
    "witness": []
   },
   {
+   "w": "0x21b9…ae4f",
+   "addr": "0x21b9093519fe64ae4fd30f1889c37799ac7cae4f",
+   "order": 0,
+   "cards": [],
+   "marks": [
+    {
+     "k": "flipper",
+     "ally": "revazial"
+    }
+   ],
+   "lost": [
+    [
+     "flipper",
+     "L",
+     "revazial",
+     4138
+    ]
+   ],
+   "gifted": [],
+   "chance": [],
+   "bought": 0,
+   "spentUsd": 0,
+   "witness": []
+  },
+  {
    "w": "0x81fd…02da",
    "addr": "0x81fd31d202438226a71d323de93b3e914dda02da",
    "order": 0,
@@ -4907,17 +4919,12 @@
   }
  ],
  "floors": {
-  "at": 1791662279,
-  "listed": 259,
+  "at": 1791662873,
+  "listed": 255,
   "offers": {
    "shelo": {
     "id": 4315,
     "eth": 0.022,
-    "tier": "L"
-   },
-   "revazial": {
-    "id": 4138,
-    "eth": 0.025,
     "tier": "L"
    },
    "marion": {
@@ -4934,15 +4941,15 @@
     "id": 927,
     "eth": 0.2,
     "tier": "L"
+   },
+   "revazial": {
+    "id": 210,
+    "eth": 0.5,
+    "tier": "L"
    }
   },
   "shelo": {
    "L": 0.022,
-   "M": null,
-   "U": null
-  },
-  "revazial": {
-   "L": 0.025,
    "M": null,
    "U": null
   },
@@ -4961,6 +4968,11 @@
    "M": null,
    "U": null
   },
-  "usd": 2511.99
+  "revazial": {
+   "L": 0.5,
+   "M": null,
+   "U": null
+  },
+  "usd": 2511.37
  }
 }
