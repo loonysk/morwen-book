@@ -1,8 +1,8 @@
 {
- "updated": 1791655674,
+ "updated": 1791656275,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26163722,
+ "block": 26163772,
  "events": {
   "firstCard": 180
  },
@@ -18,7 +18,10 @@
    "images": {
     "L": "https://hov.fra1.digitaloceanspaces.com/prod/hov_marion_soulthread.png"
    },
-   "holders": 50
+   "holders": 50,
+   "thumbs": {
+    "L": "https://loonysk.github.io/morwen-book/cards/7c6a8d9b779aae2f.webp"
+   }
   },
   "revazial": {
    "cards": 56,
@@ -30,7 +33,10 @@
    "images": {
     "L": "https://hov.fra1.digitaloceanspaces.com/prod/hov_revazial.png"
    },
-   "holders": 41
+   "holders": 41,
+   "thumbs": {
+    "L": "https://loonysk.github.io/morwen-book/cards/92565182053f29b5.webp"
+   }
   },
   "yomihime": {
    "cards": 54,
@@ -42,7 +48,10 @@
    "images": {
     "L": "https://hov.fra1.digitaloceanspaces.com/prod/hov_yomihime.png"
    },
-   "holders": 38
+   "holders": 38,
+   "thumbs": {
+    "L": "https://loonysk.github.io/morwen-book/cards/dfa351374fb18253.webp"
+   }
   },
   "shelo": {
    "cards": 50,
@@ -54,7 +63,10 @@
    "images": {
     "L": "https://hov.fra1.digitaloceanspaces.com/prod/hov_shelo.png"
    },
-   "holders": 42
+   "holders": 42,
+   "thumbs": {
+    "L": "https://loonysk.github.io/morwen-book/cards/4dc0af14bb5ff744.webp"
+   }
   },
   "morwen": {
    "cards": 47,
@@ -66,7 +78,10 @@
    "images": {
     "L": "https://hov.fra1.digitaloceanspaces.com/prod/hov_morwen_greymoor.png"
    },
-   "holders": 42
+   "holders": 42,
+   "thumbs": {
+    "L": "https://loonysk.github.io/morwen-book/cards/1ed0a45f92f6d78e.webp"
+   }
   },
   "orven": {
    "cards": 40,
@@ -78,7 +93,10 @@
    "images": {
     "L": "https://hov.fra1.digitaloceanspaces.com/prod/hov_orven.png"
    },
-   "holders": 32
+   "holders": 32,
+   "thumbs": {
+    "L": "https://loonysk.github.io/morwen-book/cards/9887edeaf75c5a6b.webp"
+   }
   }
  },
  "sales": {
@@ -4902,8 +4920,8 @@
   }
  ],
  "floors": {
-  "at": 1791655674,
-  "listed": 258,
+  "at": 1791656275,
+  "listed": 259,
   "offers": {
    "shelo": {
     "id": 4315,
@@ -4956,6 +4974,6 @@
    "M": null,
    "U": null
   },
-  "usd": 2506.53
+  "usd": 2506.43
  }
 }
