@@ -1,8 +1,8 @@
 {
- "updated": 1791653873,
+ "updated": 1791654477,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26163572,
+ "block": 26163622,
  "events": {
   "firstCard": 180
  },
@@ -1399,37 +1399,48 @@
    "witness": []
   },
   {
-   "w": "0x3247…222b",
-   "addr": "0x3247bbd53d8dd79c8a31f37b51866f78afe1222b",
-   "order": 0,
+   "w": "0xaab9…9eb3",
+   "addr": "0xaab98f0871b991ed3231cea344a2ef5564479eb3",
+   "order": 11,
    "cards": [
     [
      "L",
-     1791394511,
+     1791654335,
      null,
      "shelo",
      622,
      null
-    ]
-   ],
-   "marks": [
-    {
-     "k": "flipper",
-     "ally": "yomihime"
-    }
-   ],
-   "lost": [
+    ],
     [
-     "flipper",
      "L",
+     1791396131,
+     null,
+     null,
+     1108,
+     null
+    ],
+    [
+     "L",
+     1791404483,
+     null,
      "yomihime",
-     572
+     2215,
+     null
+    ],
+    [
+     "L",
+     1791569723,
+     null,
+     "marion",
+     4285,
+     "t"
     ]
    ],
+   "marks": [],
    "gifted": [],
    "chance": [],
-   "bought": 0,
-   "spentUsd": 0,
+   "bought": 1,
+   "spentUsd": 56,
    "witness": []
   },
   {
@@ -1808,43 +1819,6 @@
      "marion",
      1275,
      null
-    ]
-   ],
-   "marks": [],
-   "gifted": [],
-   "chance": [],
-   "bought": 0,
-   "spentUsd": 0,
-   "witness": []
-  },
-  {
-   "w": "0xaab9…9eb3",
-   "addr": "0xaab98f0871b991ed3231cea344a2ef5564479eb3",
-   "order": 11,
-   "cards": [
-    [
-     "L",
-     1791396131,
-     null,
-     null,
-     1108,
-     null
-    ],
-    [
-     "L",
-     1791404483,
-     null,
-     "yomihime",
-     2215,
-     null
-    ],
-    [
-     "L",
-     1791569723,
-     null,
-     "marion",
-     4285,
-     "t"
     ]
    ],
    "marks": [],
@@ -4890,11 +4864,46 @@
    "bought": 0,
    "spentUsd": 0,
    "witness": []
+  },
+  {
+   "w": "0x3247…222b",
+   "addr": "0x3247bbd53d8dd79c8a31f37b51866f78afe1222b",
+   "order": 0,
+   "cards": [],
+   "marks": [
+    {
+     "k": "flipper",
+     "ally": "yomihime"
+    },
+    {
+     "k": "flipper",
+     "ally": "shelo"
+    }
+   ],
+   "lost": [
+    [
+     "flipper",
+     "L",
+     "yomihime",
+     572
+    ],
+    [
+     "flipper",
+     "L",
+     "shelo",
+     622
+    ]
+   ],
+   "gifted": [],
+   "chance": [],
+   "bought": 0,
+   "spentUsd": 0,
+   "witness": []
   }
  ],
  "floors": {
-  "at": 1791653873,
-  "listed": 260,
+  "at": 1791654477,
+  "listed": 258,
   "offers": {
    "shelo": {
     "id": 4315,
@@ -4947,6 +4956,6 @@
    "M": null,
    "U": null
   },
-  "usd": 2507.35
+  "usd": 2506.33
  }
 }
