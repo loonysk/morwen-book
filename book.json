@@ -1,8 +1,8 @@
 {
- "updated": 1791613074,
+ "updated": 1791613676,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26160182,
+ "block": 26160232,
  "events": {
   "firstCard": 180
  },
@@ -1307,32 +1307,24 @@
    "witness": []
   },
   {
-   "w": "0x3247…222b",
-   "addr": "0x3247bbd53d8dd79c8a31f37b51866f78afe1222b",
+   "w": "0x5613…b01e",
+   "addr": "0x5613dc1d7afc77270e71dd57578e0c4726fbb01e",
    "order": 0,
    "cards": [
     [
      "L",
-     1791394367,
+     1791613103,
      null,
      "yomihime",
      572,
-     null
-    ],
-    [
-     "L",
-     1791394511,
-     null,
-     "shelo",
-     622,
      null
     ]
    ],
    "marks": [],
    "gifted": [],
    "chance": [],
-   "bought": 0,
-   "spentUsd": 0,
+   "bought": 1,
+   "spentUsd": 56,
    "witness": []
   },
   {
@@ -1408,6 +1400,40 @@
     ]
    ],
    "marks": [],
+   "gifted": [],
+   "chance": [],
+   "bought": 0,
+   "spentUsd": 0,
+   "witness": []
+  },
+  {
+   "w": "0x3247…222b",
+   "addr": "0x3247bbd53d8dd79c8a31f37b51866f78afe1222b",
+   "order": 0,
+   "cards": [
+    [
+     "L",
+     1791394511,
+     null,
+     "shelo",
+     622,
+     null
+    ]
+   ],
+   "marks": [
+    {
+     "k": "flipper",
+     "ally": "yomihime"
+    }
+   ],
+   "lost": [
+    [
+     "flipper",
+     "L",
+     "yomihime",
+     572
+    ]
+   ],
    "gifted": [],
    "chance": [],
    "bought": 0,
@@ -4787,17 +4813,12 @@
   }
  ],
  "floors": {
-  "at": 1791613076,
-  "listed": 211,
+  "at": 1791613676,
+  "listed": 210,
   "offers": {
    "shelo": {
     "id": 4315,
     "eth": 0.022,
-    "tier": "L"
-   },
-   "yomihime": {
-    "id": 572,
-    "eth": 0.0225,
     "tier": "L"
    },
    "orven": {
@@ -4826,11 +4847,6 @@
    "M": null,
    "U": null
   },
-  "yomihime": {
-   "L": 0.0225,
-   "M": null,
-   "U": null
-  },
   "orven": {
    "L": 0.023,
    "M": null,
@@ -4851,6 +4867,6 @@
    "M": null,
    "U": null
   },
-  "usd": 2493.05
+  "usd": 2493.94
  }
 }
