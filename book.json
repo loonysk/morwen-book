@@ -1,8 +1,8 @@
 {
- "updated": 1791746874,
+ "updated": 1791747475,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26171298,
+ "block": 26171348,
  "events": {
   "firstCard": 180
  },
@@ -18,7 +18,7 @@
    "images": {
     "L": "https://hov.fra1.digitaloceanspaces.com/prod/hov_marion_soulthread.png"
    },
-   "holders": 50,
+   "holders": 49,
    "thumbs": {
     "L": "https://loonysk.github.io/morwen-book/cards/7c6a8d9b779aae2f.webp"
    }
@@ -1149,13 +1149,21 @@
      "matazuu",
      2173,
      null
+    ],
+    [
+     "L",
+     1791746951,
+     null,
+     "marion",
+     4400,
+     null
     ]
    ],
    "marks": [],
    "gifted": [],
    "chance": [],
-   "bought": 1,
-   "spentUsd": 26,
+   "bought": 2,
+   "spentUsd": 78,
    "witness": []
   },
   {
@@ -4364,44 +4372,6 @@
    "witness": []
   },
   {
-   "w": "0xdfb9…cd5c",
-   "addr": "0xdfb9337c549bf73ca9a1df955a7cf3f04198cd5c",
-   "order": 39,
-   "cards": [
-    [
-     "L",
-     1791523319,
-     null,
-     "marion",
-     4400,
-     null
-    ]
-   ],
-   "marks": [
-    "flipper",
-    "flipper"
-   ],
-   "lost": [
-    [
-     "flipper",
-     "L",
-     "morwen",
-     4402
-    ],
-    [
-     "flipper",
-     "L",
-     "morwen",
-     4398
-    ]
-   ],
-   "gifted": [],
-   "chance": [],
-   "bought": 0,
-   "spentUsd": 0,
-   "witness": []
-  },
-  {
    "w": "0x981a…7469",
    "addr": "0x981a4f0cfa1b0f2a4a5738371b61f9f0b9037469",
    "order": 0,
@@ -5527,6 +5497,45 @@
    "witness": []
   },
   {
+   "w": "0xdfb9…cd5c",
+   "addr": "0xdfb9337c549bf73ca9a1df955a7cf3f04198cd5c",
+   "order": 39,
+   "cards": [],
+   "marks": [
+    "flipper",
+    "flipper",
+    {
+     "k": "flipper",
+     "ally": "marion"
+    }
+   ],
+   "lost": [
+    [
+     "flipper",
+     "L",
+     "morwen",
+     4402
+    ],
+    [
+     "flipper",
+     "L",
+     "morwen",
+     4398
+    ],
+    [
+     "flipper",
+     "L",
+     "marion",
+     4400
+    ]
+   ],
+   "gifted": [],
+   "chance": [],
+   "bought": 0,
+   "spentUsd": 0,
+   "witness": []
+  },
+  {
    "w": "0x8d29…ad76",
    "addr": "0x8d293b8e39ca317bf6b4eec05e897d36d5d9ad76",
    "order": 0,
@@ -5653,8 +5662,8 @@
   }
  ],
  "floors": {
-  "at": 1791746875,
-  "listed": 274,
+  "at": 1791747476,
+  "listed": 275,
   "offers": {
    "orven": {
     "id": 351,
@@ -5727,6 +5736,6 @@
    "M": null,
    "U": null
   },
-  "usd": 2532.49
+  "usd": 2531.52
  }
 }
