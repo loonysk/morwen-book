@@ -1,8 +1,8 @@
 {
- "updated": 1791748072,
+ "updated": 1791748672,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26171397,
+ "block": 26171447,
  "events": {
   "firstCard": 180
  },
@@ -5662,8 +5662,8 @@
   }
  ],
  "floors": {
-  "at": 1791748072,
-  "listed": 272,
+  "at": 1791748672,
+  "listed": 267,
   "offers": {
    "orven": {
     "id": 351,
@@ -5675,14 +5675,14 @@
     "eth": 0.066,
     "tier": "L"
    },
-   "shelo": {
-    "id": 256,
-    "eth": 0.09,
-    "tier": "L"
-   },
    "yomihime": {
     "id": 927,
     "eth": 0.09,
+    "tier": "L"
+   },
+   "shelo": {
+    "id": 4258,
+    "eth": 0.1,
     "tier": "L"
    },
    "marion": {
@@ -5711,13 +5711,13 @@
    "M": null,
    "U": null
   },
-  "shelo": {
+  "yomihime": {
    "L": 0.09,
    "M": null,
    "U": null
   },
-  "yomihime": {
-   "L": 0.09,
+  "shelo": {
+   "L": 0.1,
    "M": null,
    "U": null
   },
@@ -5736,6 +5736,6 @@
    "M": null,
    "U": null
   },
-  "usd": 2534.79
+  "usd": 2533.86
  }
 }
