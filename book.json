@@ -1,8 +1,8 @@
 {
- "updated": 1791715075,
+ "updated": 1791715676,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26168655,
+ "block": 26168705,
  "events": {
   "firstCard": 180
  },
@@ -1867,6 +1867,14 @@
     ],
     [
      "L",
+     1791715127,
+     null,
+     "shelo",
+     1132,
+     null
+    ],
+    [
+     "L",
      1791658079,
      null,
      "revazial",
@@ -1877,8 +1885,8 @@
    "marks": [],
    "gifted": [],
    "chance": [],
-   "bought": 0,
-   "spentUsd": 0,
+   "bought": 1,
+   "spentUsd": 54,
    "witness": []
   },
   {
@@ -2117,27 +2125,6 @@
      null,
      "marion",
      1275,
-     null
-    ]
-   ],
-   "marks": [],
-   "gifted": [],
-   "chance": [],
-   "bought": 0,
-   "spentUsd": 0,
-   "witness": []
-  },
-  {
-   "w": "0x7488…7fbd",
-   "addr": "0x74889dccd288e1a44a0c4bc0899f7facf0c87fbd",
-   "order": 0,
-   "cards": [
-    [
-     "L",
-     1791396191,
-     null,
-     "shelo",
-     1132,
      null
     ]
    ],
@@ -5316,6 +5303,31 @@
    "witness": []
   },
   {
+   "w": "0x7488…7fbd",
+   "addr": "0x74889dccd288e1a44a0c4bc0899f7facf0c87fbd",
+   "order": 0,
+   "cards": [],
+   "marks": [
+    {
+     "k": "flipper",
+     "ally": "shelo"
+    }
+   ],
+   "lost": [
+    [
+     "flipper",
+     "L",
+     "shelo",
+     1132
+    ]
+   ],
+   "gifted": [],
+   "chance": [],
+   "bought": 0,
+   "spentUsd": 0,
+   "witness": []
+  },
+  {
    "w": "0xd378…2657",
    "addr": "0xd378bf8078d91c33c25e590346f72499812f2657",
    "order": 0,
@@ -5574,12 +5586,12 @@
   }
  ],
  "floors": {
-  "at": 1791715075,
-  "listed": 239,
+  "at": 1791715677,
+  "listed": 242,
   "offers": {
    "shelo": {
-    "id": 1132,
-    "eth": 0.0216,
+    "id": 4315,
+    "eth": 0.022,
     "tier": "L"
    },
    "marion": {
@@ -5609,7 +5621,7 @@
    }
   },
   "shelo": {
-   "L": 0.0216,
+   "L": 0.022,
    "M": null,
    "U": null
   },
@@ -5638,6 +5650,6 @@
    "M": null,
    "U": null
   },
-  "usd": 2496.75
+  "usd": 2496.25
  }
 }
