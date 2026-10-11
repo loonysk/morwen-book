@@ -1,8 +1,8 @@
 {
- "updated": 1791740272,
+ "updated": 1791740874,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26170749,
+ "block": 26170799,
  "events": {
   "firstCard": 180
  },
@@ -5635,10 +5635,25 @@
    "bought": 0,
    "spentUsd": 0,
    "witness": []
+  },
+  {
+   "w": "0xb81e…bb77",
+   "addr": "0xb81e10ee0055de228c42afce86b7e97014b7bb77",
+   "order": 0,
+   "cards": [],
+   "marks": [],
+   "gifted": [
+    "L",
+    "L"
+   ],
+   "chance": [],
+   "bought": 0,
+   "spentUsd": 0,
+   "witness": []
   }
  ],
  "floors": {
-  "at": 1791740276,
+  "at": 1791740875,
   "listed": 273,
   "offers": {
    "orven": {
@@ -5712,6 +5727,6 @@
    "M": null,
    "U": null
   },
-  "usd": 2548.39
+  "usd": 2542.54
  }
 }
