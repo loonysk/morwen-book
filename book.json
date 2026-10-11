@@ -1,8 +1,8 @@
 {
- "updated": 1791743873,
+ "updated": 1791744472,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26171049,
+ "block": 26171099,
  "events": {
   "firstCard": 180
  },
@@ -438,7 +438,7 @@
   {
    "w": "0x9a25…8c95",
    "addr": "0x9a2576eb8a2a55889572899a79d0bf2d76598c95",
-   "order": 0,
+   "order": 50,
    "cards": [
     [
      "L",
@@ -455,6 +455,14 @@
      "revazial",
      4138,
      null
+    ],
+    [
+     "L",
+     1791744395,
+     null,
+     null,
+     4181,
+     "t"
     ]
    ],
    "marks": [],
@@ -4109,35 +4117,6 @@
    "witness": []
   },
   {
-   "w": "0xab4c…490e",
-   "addr": "0xab4cc39fcdc5a5ba5ebb5791420645a0465e490e",
-   "order": 35,
-   "cards": [
-    [
-     "L",
-     1791477371,
-     null,
-     null,
-     4181,
-     null
-    ],
-    [
-     "L",
-     1791490595,
-     null,
-     "revazial",
-     4288,
-     null
-    ]
-   ],
-   "marks": [],
-   "gifted": [],
-   "chance": [],
-   "bought": 0,
-   "spentUsd": 0,
-   "witness": []
-  },
-  {
    "w": "0x1d84…56a2",
    "addr": "0x1d84d27ebb73dc19c66397cf6048b6bc057956a2",
    "order": 36,
@@ -4211,6 +4190,27 @@
      null,
      "marion",
      4263,
+     null
+    ]
+   ],
+   "marks": [],
+   "gifted": [],
+   "chance": [],
+   "bought": 0,
+   "spentUsd": 0,
+   "witness": []
+  },
+  {
+   "w": "0xab4c…490e",
+   "addr": "0xab4cc39fcdc5a5ba5ebb5791420645a0465e490e",
+   "order": 35,
+   "cards": [
+    [
+     "L",
+     1791490595,
+     null,
+     "revazial",
+     4288,
      null
     ]
    ],
@@ -5653,8 +5653,8 @@
   }
  ],
  "floors": {
-  "at": 1791743874,
-  "listed": 272,
+  "at": 1791744473,
+  "listed": 270,
   "offers": {
    "orven": {
     "id": 351,
@@ -5727,6 +5727,6 @@
    "M": null,
    "U": null
   },
-  "usd": 2538.97
+  "usd": 2528.75
  }
 }
