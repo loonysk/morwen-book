@@ -1,8 +1,8 @@
 {
- "updated": 1791756473,
+ "updated": 1791757074,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26172096,
+ "block": 26172146,
  "events": {
   "firstCard": 180
  },
@@ -5662,8 +5662,8 @@
   }
  ],
  "floors": {
-  "at": 1791756474,
-  "listed": 283,
+  "at": 1791757075,
+  "listed": 282,
   "offers": {
    "orven": {
     "id": 351,
@@ -5736,6 +5736,6 @@
    "M": null,
    "U": null
   },
-  "usd": 2529.38
+  "usd": 2531.53
  }
 }
