@@ -1,8 +1,8 @@
 {
- "updated": 1791728872,
+ "updated": 1791729474,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26169802,
+ "block": 26169852,
  "events": {
   "firstCard": 180
  },
@@ -3798,6 +3798,14 @@
      null,
      4402,
      null
+    ],
+    [
+     "L",
+     1791729191,
+     null,
+     "matazuu",
+     4638,
+     "t"
     ]
    ],
    "marks": [],
@@ -4586,14 +4594,6 @@
    "addr": "0x3bf912ad06225b8a7889ac6044b0dec522a843c0",
    "order": 45,
    "cards": [
-    [
-     "L",
-     1791539567,
-     null,
-     "matazuu",
-     4638,
-     null
-    ],
     [
      "L",
      1791539867,
@@ -5586,8 +5586,8 @@
   }
  ],
  "floors": {
-  "at": 1791728872,
-  "listed": 255,
+  "at": 1791729479,
+  "listed": 254,
   "offers": {
    "shelo": {
     "id": 4315,
@@ -5660,6 +5660,6 @@
    "M": null,
    "U": null
   },
-  "usd": 2500.02
+  "usd": 2505.09
  }
 }
