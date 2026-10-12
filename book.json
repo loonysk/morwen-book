@@ -1,8 +1,8 @@
 {
- "updated": 1791835675,
+ "updated": 1791836272,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26178682,
+ "block": 26178731,
  "events": {
   "firstCard": 180
  },
@@ -4933,33 +4933,33 @@
    "witness": []
   },
   {
-   "w": "0x3bf9…43c0",
-   "addr": "0x3bf912ad06225b8a7889ac6044b0dec522a843c0",
-   "order": 45,
+   "w": "0xca45…01c7",
+   "addr": "0xca45e15a85ca65f0e3eefbf79a8213966fa701c7",
+   "order": 49,
    "cards": [
     [
      "L",
-     1791555611,
+     1791835799,
      null,
      "revazial",
      4939,
-     null
+     "t"
     ],
     [
      "L",
-     1791557267,
-     null,
-     "shelo",
-     4985,
-     null
-    ],
-    [
-     "L",
-     1791560123,
+     1791835739,
      null,
      "yomihime",
      5021,
-     null
+     "t"
+    ],
+    [
+     "L",
+     1791636575,
+     null,
+     null,
+     5061,
+     "t"
     ]
    ],
    "marks": [],
@@ -5020,6 +5020,27 @@
    "witness": []
   },
   {
+   "w": "0x3bf9…43c0",
+   "addr": "0x3bf912ad06225b8a7889ac6044b0dec522a843c0",
+   "order": 45,
+   "cards": [
+    [
+     "L",
+     1791557267,
+     null,
+     "shelo",
+     4985,
+     null
+    ]
+   ],
+   "marks": [],
+   "gifted": [],
+   "chance": [],
+   "bought": 0,
+   "spentUsd": 0,
+   "witness": []
+  },
+  {
    "w": "0xd9bf…b1e7",
    "addr": "0xd9bfbfa14002d12164e187cad7ae337d7f01b1e7",
    "order": 0,
@@ -5065,27 +5086,6 @@
      "shelo",
      5051,
      null
-    ]
-   ],
-   "marks": [],
-   "gifted": [],
-   "chance": [],
-   "bought": 0,
-   "spentUsd": 0,
-   "witness": []
-  },
-  {
-   "w": "0xca45…01c7",
-   "addr": "0xca45e15a85ca65f0e3eefbf79a8213966fa701c7",
-   "order": 49,
-   "cards": [
-    [
-     "L",
-     1791636575,
-     null,
-     null,
-     5061,
-     "t"
     ]
    ],
    "marks": [],
@@ -5725,7 +5725,7 @@
   }
  ],
  "floors": {
-  "at": 1791835676,
+  "at": 1791836272,
   "listed": 280,
   "offers": {
    "matazuu": {
@@ -5799,6 +5799,6 @@
    "M": null,
    "U": null
   },
-  "usd": 2522.06
+  "usd": 2522.45
  }
 }
