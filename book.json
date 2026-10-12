@@ -1,8 +1,8 @@
 {
- "updated": 1791778675,
+ "updated": 1791779272,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26173941,
+ "block": 26173991,
  "events": {
   "firstCard": 180
  },
@@ -1268,13 +1268,21 @@
      "marion",
      1014,
      null
+    ],
+    [
+     "L",
+     1791778799,
+     null,
+     "matazuu",
+     4323,
+     null
     ]
    ],
    "marks": [],
    "gifted": [],
    "chance": [],
-   "bought": 0,
-   "spentUsd": 0,
+   "bought": 1,
+   "spentUsd": 58,
    "witness": []
   },
   {
@@ -4280,40 +4288,6 @@
    "witness": []
   },
   {
-   "w": "0x2352…a7c5",
-   "addr": "0x2352cd9129ab5579e47659299e60a072b949a7c5",
-   "order": 0,
-   "cards": [
-    [
-     "L",
-     1791503399,
-     null,
-     "matazuu",
-     4323,
-     null
-    ]
-   ],
-   "marks": [
-    {
-     "k": "flipper",
-     "ally": "shelo"
-    }
-   ],
-   "lost": [
-    [
-     "flipper",
-     "L",
-     "shelo",
-     4315
-    ]
-   ],
-   "gifted": [],
-   "chance": [],
-   "bought": 0,
-   "spentUsd": 0,
-   "witness": []
-  },
-  {
    "w": "0xbc6e…1f36",
    "addr": "0xbc6e8d742f0e2ec1b02fa203298cc83203b81f36",
    "order": 38,
@@ -5447,6 +5421,41 @@
    "witness": []
   },
   {
+   "w": "0x2352…a7c5",
+   "addr": "0x2352cd9129ab5579e47659299e60a072b949a7c5",
+   "order": 0,
+   "cards": [],
+   "marks": [
+    {
+     "k": "flipper",
+     "ally": "shelo"
+    },
+    {
+     "k": "flipper",
+     "ally": "matazuu"
+    }
+   ],
+   "lost": [
+    [
+     "flipper",
+     "L",
+     "shelo",
+     4315
+    ],
+    [
+     "flipper",
+     "L",
+     "matazuu",
+     4323
+    ]
+   ],
+   "gifted": [],
+   "chance": [],
+   "bought": 0,
+   "spentUsd": 0,
+   "witness": []
+  },
+  {
    "w": "0x21b9…ae4f",
    "addr": "0x21b9093519fe64ae4fd30f1889c37799ac7cae4f",
    "order": 0,
@@ -5662,14 +5671,9 @@
   }
  ],
  "floors": {
-  "at": 1791778676,
-  "listed": 285,
+  "at": 1791779273,
+  "listed": 287,
   "offers": {
-   "matazuu": {
-    "id": 4323,
-    "eth": 0.023,
-    "tier": "L"
-   },
    "marion": {
     "id": 5002,
     "eth": 0.033,
@@ -5699,12 +5703,12 @@
     "id": 3222,
     "eth": 0.09,
     "tier": "L"
+   },
+   "matazuu": {
+    "id": 1765,
+    "eth": 0.1,
+    "tier": "L"
    }
-  },
-  "matazuu": {
-   "L": 0.023,
-   "M": null,
-   "U": null
   },
   "marion": {
    "L": 0.033,
@@ -5736,6 +5740,11 @@
    "M": null,
    "U": null
   },
-  "usd": 2541.01
+  "matazuu": {
+   "L": 0.1,
+   "M": null,
+   "U": null
+  },
+  "usd": 2546.4
  }
 }
