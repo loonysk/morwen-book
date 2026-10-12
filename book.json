@@ -1,8 +1,8 @@
 {
- "updated": 1791815877,
+ "updated": 1791816476,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26177034,
+ "block": 26177084,
  "events": {
   "firstCard": 180
  },
@@ -3616,18 +3616,39 @@
    "witness": []
   },
   {
-   "w": "0x053d…1a53",
-   "addr": "0x053d455805cf03fa2c585e933b843e9292ba1a53",
+   "w": "0x935b…3cf9",
+   "addr": "0x935b151b4738630f5bf7be1954e6134c62d03cf9",
    "order": 0,
    "cards": [
     [
      "L",
-     1791418235,
+     1791816359,
      null,
      "marion",
      3050,
      null
     ],
+    [
+     "L",
+     1791733775,
+     null,
+     "shelo",
+     4315,
+     null
+    ]
+   ],
+   "marks": [],
+   "gifted": [],
+   "chance": [],
+   "bought": 2,
+   "spentUsd": 261,
+   "witness": []
+  },
+  {
+   "w": "0x053d…1a53",
+   "addr": "0x053d455805cf03fa2c585e933b843e9292ba1a53",
+   "order": 0,
+   "cards": [
     [
      "L",
      1791418799,
@@ -3637,7 +3658,20 @@
      null
     ]
    ],
-   "marks": [],
+   "marks": [
+    {
+     "k": "flipper",
+     "ally": "marion"
+    }
+   ],
+   "lost": [
+    [
+     "flipper",
+     "L",
+     "marion",
+     3050
+    ]
+   ],
    "gifted": [],
    "chance": [],
    "bought": 0,
@@ -4259,27 +4293,6 @@
    "chance": [],
    "bought": 0,
    "spentUsd": 0,
-   "witness": []
-  },
-  {
-   "w": "0x935b…3cf9",
-   "addr": "0x935b151b4738630f5bf7be1954e6134c62d03cf9",
-   "order": 0,
-   "cards": [
-    [
-     "L",
-     1791733775,
-     null,
-     "shelo",
-     4315,
-     null
-    ]
-   ],
-   "marks": [],
-   "gifted": [],
-   "chance": [],
-   "bought": 1,
-   "spentUsd": 55,
    "witness": []
   },
   {
@@ -5683,17 +5696,12 @@
   }
  ],
  "floors": {
-  "at": 1791815878,
-  "listed": 272,
+  "at": 1791816477,
+  "listed": 269,
   "offers": {
    "yomihime": {
     "id": 193,
     "eth": 0.045,
-    "tier": "L"
-   },
-   "marion": {
-    "id": 3050,
-    "eth": 0.081,
     "tier": "L"
    },
    "morwen": {
@@ -5711,6 +5719,11 @@
     "eth": 0.09,
     "tier": "L"
    },
+   "marion": {
+    "id": 1275,
+    "eth": 0.1,
+    "tier": "L"
+   },
    "revazial": {
     "id": 1248,
     "eth": 0.1,
@@ -5719,11 +5732,6 @@
   },
   "yomihime": {
    "L": 0.045,
-   "M": null,
-   "U": null
-  },
-  "marion": {
-   "L": 0.081,
    "M": null,
    "U": null
   },
@@ -5742,11 +5750,16 @@
    "M": null,
    "U": null
   },
+  "marion": {
+   "L": 0.1,
+   "M": null,
+   "U": null
+  },
   "revazial": {
    "L": 0.1,
    "M": null,
    "U": null
   },
-  "usd": 2525.18
+  "usd": 2515.22
  }
 }
