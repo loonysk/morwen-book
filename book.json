@@ -1,8 +1,8 @@
 {
- "updated": 1791845875,
+ "updated": 1791846474,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26179529,
+ "block": 26179579,
  "events": {
   "firstCard": 180
  },
@@ -93,7 +93,7 @@
    "images": {
     "L": "https://hov.fra1.digitaloceanspaces.com/prod/hov_morwen_greymoor.png"
    },
-   "holders": 42,
+   "holders": 41,
    "thumbs": {
     "L": "https://loonysk.github.io/morwen-book/cards/1ed0a45f92f6d78e.webp"
    }
@@ -116,10 +116,10 @@
  },
  "sales": {
   "L": {
-   "eth": 0.09,
-   "usd": 229,
-   "ts": 1791833891,
-   "id": 3222
+   "eth": 0.0877,
+   "usd": 223,
+   "ts": 1791846191,
+   "id": 1347
   }
  },
  "entries": [
@@ -2494,25 +2494,50 @@
    "witness": []
   },
   {
-   "w": "0x86ad…f282",
-   "addr": "0x86ad687e347734c3223ebda84cd58a3f8c2af282",
-   "order": 15,
+   "w": "0x4c06…d9f4",
+   "addr": "0x4c066d795a10ca4e1505fb9f23f27db33c4dd9f4",
+   "order": 43,
    "cards": [
     [
      "L",
-     1791397427,
+     1791846191,
      null,
      null,
      1347,
      null
+    ],
+    [
+     "L",
+     1791449495,
+     null,
+     "yomihime",
+     3516,
+     null
+    ],
+    [
+     "L",
+     1791556019,
+     null,
+     null,
+     4402,
+     null
+    ],
+    [
+     "L",
+     1791729191,
+     null,
+     "matazuu",
+     4638,
+     "t"
     ]
    ],
    "marks": [],
    "gifted": [],
    "chance": [],
-   "bought": 0,
-   "spentUsd": 0,
-   "witness": []
+   "bought": 2,
+   "spentUsd": 280,
+   "witness": [],
+   "first": true
   },
   {
    "w": "0xc090…85cd",
@@ -3920,44 +3945,6 @@
    "witness": []
   },
   {
-   "w": "0x4c06…d9f4",
-   "addr": "0x4c066d795a10ca4e1505fb9f23f27db33c4dd9f4",
-   "order": 43,
-   "cards": [
-    [
-     "L",
-     1791449495,
-     null,
-     "yomihime",
-     3516,
-     null
-    ],
-    [
-     "L",
-     1791556019,
-     null,
-     null,
-     4402,
-     null
-    ],
-    [
-     "L",
-     1791729191,
-     null,
-     "matazuu",
-     4638,
-     "t"
-    ]
-   ],
-   "marks": [],
-   "gifted": [],
-   "chance": [],
-   "bought": 1,
-   "spentUsd": 57,
-   "witness": [],
-   "first": true
-  },
-  {
    "w": "0x7932…65d6",
    "addr": "0x7932cb7ecd74b556d36ab8fabc12d44a3c1365d6",
    "order": 48,
@@ -5172,6 +5159,28 @@
    "witness": []
   },
   {
+   "w": "0x86ad…f282",
+   "addr": "0x86ad687e347734c3223ebda84cd58a3f8c2af282",
+   "order": 15,
+   "cards": [],
+   "marks": [
+    "flipper"
+   ],
+   "lost": [
+    [
+     "flipper",
+     "L",
+     "morwen",
+     1347
+    ]
+   ],
+   "gifted": [],
+   "chance": [],
+   "bought": 0,
+   "spentUsd": 0,
+   "witness": []
+  },
+  {
    "w": "0x4dce…bd16",
    "addr": "0x4dce68b10e5520c7f3a66cdcd21a8d6d41bfbd16",
    "order": 0,
@@ -5725,8 +5734,8 @@
   }
  ],
  "floors": {
-  "at": 1791845875,
-  "listed": 268,
+  "at": 1791846475,
+  "listed": 265,
   "offers": {
    "matazuu": {
     "id": 1765,
@@ -5748,11 +5757,6 @@
     "eth": 0.085,
     "tier": "L"
    },
-   "morwen": {
-    "id": 1347,
-    "eth": 0.0877,
-    "tier": "L"
-   },
    "shelo": {
     "id": 4258,
     "eth": 0.1,
@@ -5761,6 +5765,11 @@
    "orven": {
     "id": 3084,
     "eth": 0.1,
+    "tier": "L"
+   },
+   "morwen": {
+    "id": 4193,
+    "eth": 0.12,
     "tier": "L"
    }
   },
@@ -5784,11 +5793,6 @@
    "M": null,
    "U": null
   },
-  "morwen": {
-   "L": 0.0877,
-   "M": null,
-   "U": null
-  },
   "shelo": {
    "L": 0.1,
    "M": null,
@@ -5799,6 +5803,11 @@
    "M": null,
    "U": null
   },
-  "usd": 2474.85
+  "morwen": {
+   "L": 0.12,
+   "M": null,
+   "U": null
+  },
+  "usd": 2452.84
  }
 }
