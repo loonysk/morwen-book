@@ -1,8 +1,8 @@
 {
- "updated": 1791811678,
+ "updated": 1791812275,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26176688,
+ "block": 26176737,
  "events": {
   "firstCard": 180
  },
@@ -33,7 +33,7 @@
    "images": {
     "L": "https://hov.fra1.digitaloceanspaces.com/prod/hov_revazial.png"
    },
-   "holders": 41,
+   "holders": 40,
    "thumbs": {
     "L": "https://loonysk.github.io/morwen-book/cards/92565182053f29b5.webp"
    }
@@ -462,6 +462,14 @@
      null,
      null,
      4181,
+     "t"
+    ],
+    [
+     "L",
+     1791812111,
+     null,
+     "revazial",
+     4288,
      "t"
     ]
    ],
@@ -4217,27 +4225,6 @@
    "witness": []
   },
   {
-   "w": "0xab4c…490e",
-   "addr": "0xab4cc39fcdc5a5ba5ebb5791420645a0465e490e",
-   "order": 35,
-   "cards": [
-    [
-     "L",
-     1791490595,
-     null,
-     "revazial",
-     4288,
-     null
-    ]
-   ],
-   "marks": [],
-   "gifted": [],
-   "chance": [],
-   "bought": 0,
-   "spentUsd": 0,
-   "witness": []
-  },
-  {
    "w": "0xe3c0…9970",
    "addr": "0xe3c0c281697ad7db5fbbd60d981df4937e949970",
    "order": 0,
@@ -5481,6 +5468,18 @@
    "witness": []
   },
   {
+   "w": "0xab4c…490e",
+   "addr": "0xab4cc39fcdc5a5ba5ebb5791420645a0465e490e",
+   "order": 35,
+   "cards": [],
+   "marks": [],
+   "gifted": [],
+   "chance": [],
+   "bought": 0,
+   "spentUsd": 0,
+   "witness": []
+  },
+  {
    "w": "0x81fd…02da",
    "addr": "0x81fd31d202438226a71d323de93b3e914dda02da",
    "order": 0,
@@ -5671,8 +5670,8 @@
   }
  ],
  "floors": {
-  "at": 1791811679,
-  "listed": 276,
+  "at": 1791812276,
+  "listed": 275,
   "offers": {
    "marion": {
     "id": 5002,
@@ -5735,6 +5734,6 @@
    "M": null,
    "U": null
   },
-  "usd": 2527.33
+  "usd": 2526.24
  }
 }
