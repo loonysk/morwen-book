@@ -1,8 +1,8 @@
 {
- "updated": 1791812877,
+ "updated": 1791813475,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26176787,
+ "block": 26176837,
  "events": {
   "firstCard": 180
  },
@@ -1500,13 +1500,21 @@
      "revazial",
      539,
      null
+    ],
+    [
+     "L",
+     1791812855,
+     null,
+     "marion",
+     5002,
+     null
     ]
    ],
    "marks": [],
    "gifted": [],
    "chance": [],
-   "bought": 1,
-   "spentUsd": 27,
+   "bought": 2,
+   "spentUsd": 111,
    "witness": []
   },
   {
@@ -4988,14 +4996,6 @@
    "cards": [
     [
      "L",
-     1791557843,
-     null,
-     "marion",
-     5002,
-     null
-    ],
-    [
-     "L",
      1791557939,
      null,
      "revazial",
@@ -5003,7 +5003,20 @@
      null
     ]
    ],
-   "marks": [],
+   "marks": [
+    {
+     "k": "flipper",
+     "ally": "marion"
+    }
+   ],
+   "lost": [
+    [
+     "flipper",
+     "L",
+     "marion",
+     5002
+    ]
+   ],
    "gifted": [],
    "chance": [],
    "bought": 0,
@@ -5670,8 +5683,8 @@
   }
  ],
  "floors": {
-  "at": 1791812877,
-  "listed": 273,
+  "at": 1791813475,
+  "listed": 276,
   "offers": {
    "yomihime": {
     "id": 193,
@@ -5734,6 +5747,6 @@
    "M": null,
    "U": null
   },
-  "usd": 2530.17
+  "usd": 2537.23
  }
 }
