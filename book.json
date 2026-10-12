@@ -1,8 +1,8 @@
 {
- "updated": 1791846474,
+ "updated": 1791846795,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26179579,
+ "block": 26179605,
  "events": {
   "firstCard": 180
  },
@@ -5734,7 +5734,7 @@
   }
  ],
  "floors": {
-  "at": 1791846475,
+  "at": 1791846796,
   "listed": 265,
   "offers": {
    "matazuu": {
@@ -5808,6 +5808,6 @@
    "M": null,
    "U": null
   },
-  "usd": 2452.84
+  "usd": 2456.91
  }
 }
