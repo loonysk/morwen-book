@@ -1,8 +1,8 @@
 {
- "updated": 1791816476,
+ "updated": 1791817075,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26177084,
+ "block": 26177134,
  "events": {
   "firstCard": 180
  },
@@ -4647,17 +4647,17 @@
    "witness": []
   },
   {
-   "w": "0x4d0e…d411",
-   "addr": "0x4d0ebc2a9732c1be19c1f06c740352ccc427d411",
-   "order": 40,
+   "w": "0xf647…8a6a",
+   "addr": "0xf647ba012967cf2ea2b7df56a7dda39de15d8a6a",
+   "order": 51,
    "cards": [
     [
      "L",
-     1791541595,
+     1791816455,
      null,
      null,
      4676,
-     null
+     "t"
     ]
    ],
    "marks": [],
@@ -5570,6 +5570,18 @@
    "witness": []
   },
   {
+   "w": "0x4d0e…d411",
+   "addr": "0x4d0ebc2a9732c1be19c1f06c740352ccc427d411",
+   "order": 40,
+   "cards": [],
+   "marks": [],
+   "gifted": [],
+   "chance": [],
+   "bought": 0,
+   "spentUsd": 0,
+   "witness": []
+  },
+  {
    "w": "0x8d29…ad76",
    "addr": "0x8d293b8e39ca317bf6b4eec05e897d36d5d9ad76",
    "order": 0,
@@ -5696,8 +5708,8 @@
   }
  ],
  "floors": {
-  "at": 1791816477,
-  "listed": 269,
+  "at": 1791817076,
+  "listed": 270,
   "offers": {
    "yomihime": {
     "id": 193,
@@ -5760,6 +5772,6 @@
    "M": null,
    "U": null
   },
-  "usd": 2515.22
+  "usd": 2522.24
  }
 }
