@@ -1,8 +1,8 @@
 {
- "updated": 1791833873,
+ "updated": 1791834474,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26178532,
+ "block": 26178582,
  "events": {
   "firstCard": 180
  },
@@ -116,10 +116,10 @@
  },
  "sales": {
   "L": {
-   "eth": 0.0596,
-   "usd": 151,
-   "ts": 1791825059,
-   "id": 761
+   "eth": 0.09,
+   "usd": 229,
+   "ts": 1791833891,
+   "id": 3222
   }
  },
  "entries": [
@@ -2036,7 +2036,7 @@
   {
    "w": "0x9f6e…8c61",
    "addr": "0x9f6e3b66911fb65ee048b7a352c559f9aaab8c61",
-   "order": 0,
+   "order": 53,
    "cards": [
     [
      "L",
@@ -2044,6 +2044,14 @@
      null,
      "shelo",
      983,
+     null
+    ],
+    [
+     "L",
+     1791833891,
+     null,
+     null,
+     3222,
      null
     ],
     [
@@ -2095,8 +2103,8 @@
    ],
    "gifted": [],
    "chance": [],
-   "bought": 1,
-   "spentUsd": 60,
+   "bought": 2,
+   "spentUsd": 289,
    "witness": []
   },
   {
@@ -3774,14 +3782,6 @@
    "cards": [
     [
      "L",
-     1791432815,
-     null,
-     null,
-     3222,
-     null
-    ],
-    [
-     "L",
      1791433007,
      null,
      "shelo",
@@ -3789,7 +3789,17 @@
      null
     ]
    ],
-   "marks": [],
+   "marks": [
+    "flipper"
+   ],
+   "lost": [
+    [
+     "flipper",
+     "L",
+     "morwen",
+     3222
+    ]
+   ],
    "gifted": [],
    "chance": [],
    "bought": 0,
@@ -5715,8 +5725,8 @@
   }
  ],
  "floors": {
-  "at": 1791833874,
-  "listed": 281,
+  "at": 1791834474,
+  "listed": 282,
   "offers": {
    "matazuu": {
     "id": 1765,
@@ -5789,6 +5799,6 @@
    "M": null,
    "U": null
   },
-  "usd": 2515.6
+  "usd": 2514.78
  }
 }
