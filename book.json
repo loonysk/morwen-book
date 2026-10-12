@@ -1,8 +1,8 @@
 {
- "updated": 1791831474,
+ "updated": 1791832076,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26178332,
+ "block": 26178382,
  "events": {
   "firstCard": 180
  },
@@ -2253,6 +2253,22 @@
      null,
      "revazial",
      4288,
+     "t"
+    ],
+    [
+     "L",
+     1791831851,
+     null,
+     "orven",
+     4647,
+     "t"
+    ],
+    [
+     "L",
+     1791831743,
+     null,
+     "marion",
+     5170,
      "t"
     ]
    ],
@@ -4601,59 +4617,6 @@
    "witness": []
   },
   {
-   "w": "0x3bf9…43c0",
-   "addr": "0x3bf912ad06225b8a7889ac6044b0dec522a843c0",
-   "order": 45,
-   "cards": [
-    [
-     "L",
-     1791539867,
-     null,
-     "orven",
-     4647,
-     null
-    ],
-    [
-     "L",
-     1791555611,
-     null,
-     "revazial",
-     4939,
-     null
-    ],
-    [
-     "L",
-     1791557267,
-     null,
-     "shelo",
-     4985,
-     null
-    ],
-    [
-     "L",
-     1791560123,
-     null,
-     "yomihime",
-     5021,
-     null
-    ],
-    [
-     "L",
-     1791566675,
-     null,
-     "marion",
-     5170,
-     null
-    ]
-   ],
-   "marks": [],
-   "gifted": [],
-   "chance": [],
-   "bought": 0,
-   "spentUsd": 0,
-   "witness": []
-  },
-  {
    "w": "0xf647…8a6a",
    "addr": "0xf647ba012967cf2ea2b7df56a7dda39de15d8a6a",
    "order": 51,
@@ -4949,6 +4912,43 @@
      null,
      "revazial",
      4924,
+     null
+    ]
+   ],
+   "marks": [],
+   "gifted": [],
+   "chance": [],
+   "bought": 0,
+   "spentUsd": 0,
+   "witness": []
+  },
+  {
+   "w": "0x3bf9…43c0",
+   "addr": "0x3bf912ad06225b8a7889ac6044b0dec522a843c0",
+   "order": 45,
+   "cards": [
+    [
+     "L",
+     1791555611,
+     null,
+     "revazial",
+     4939,
+     null
+    ],
+    [
+     "L",
+     1791557267,
+     null,
+     "shelo",
+     4985,
+     null
+    ],
+    [
+     "L",
+     1791560123,
+     null,
+     "yomihime",
+     5021,
      null
     ]
    ],
@@ -5715,8 +5715,8 @@
   }
  ],
  "floors": {
-  "at": 1791831475,
-  "listed": 276,
+  "at": 1791832077,
+  "listed": 275,
   "offers": {
    "matazuu": {
     "id": 1765,
@@ -5789,6 +5789,6 @@
    "M": null,
    "U": null
   },
-  "usd": 2509.81
+  "usd": 2511.28
  }
 }
