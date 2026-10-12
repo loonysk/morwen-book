@@ -1,8 +1,8 @@
 {
- "updated": 1791812275,
+ "updated": 1791812877,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26176737,
+ "block": 26176787,
  "events": {
   "firstCard": 180
  },
@@ -33,7 +33,7 @@
    "images": {
     "L": "https://hov.fra1.digitaloceanspaces.com/prod/hov_revazial.png"
    },
-   "holders": 40,
+   "holders": 41,
    "thumbs": {
     "L": "https://loonysk.github.io/morwen-book/cards/92565182053f29b5.webp"
    }
@@ -462,14 +462,6 @@
      null,
      null,
      4181,
-     "t"
-    ],
-    [
-     "L",
-     1791812111,
-     null,
-     "revazial",
-     4288,
      "t"
     ]
    ],
@@ -2217,6 +2209,14 @@
      null,
      "matazuu",
      1031,
+     "t"
+    ],
+    [
+     "L",
+     1791812423,
+     null,
+     "revazial",
+     4288,
      "t"
     ]
    ],
@@ -5670,14 +5670,9 @@
   }
  ],
  "floors": {
-  "at": 1791812276,
-  "listed": 275,
+  "at": 1791812877,
+  "listed": 273,
   "offers": {
-   "marion": {
-    "id": 5002,
-    "eth": 0.033,
-    "tier": "L"
-   },
    "yomihime": {
     "id": 193,
     "eth": 0.045,
@@ -5698,16 +5693,16 @@
     "eth": 0.09,
     "tier": "L"
    },
+   "marion": {
+    "id": 1275,
+    "eth": 0.1,
+    "tier": "L"
+   },
    "revazial": {
     "id": 210,
     "eth": 0.5,
     "tier": "L"
    }
-  },
-  "marion": {
-   "L": 0.033,
-   "M": null,
-   "U": null
   },
   "yomihime": {
    "L": 0.045,
@@ -5729,11 +5724,16 @@
    "M": null,
    "U": null
   },
+  "marion": {
+   "L": 0.1,
+   "M": null,
+   "U": null
+  },
   "revazial": {
    "L": 0.5,
    "M": null,
    "U": null
   },
-  "usd": 2526.24
+  "usd": 2530.17
  }
 }
