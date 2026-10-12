@@ -1,8 +1,8 @@
 {
- "updated": 1791811077,
+ "updated": 1791811678,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26176638,
+ "block": 26176688,
  "events": {
   "firstCard": 180
  },
@@ -5671,8 +5671,8 @@
   }
  ],
  "floors": {
-  "at": 1791811078,
-  "listed": 282,
+  "at": 1791811679,
+  "listed": 276,
   "offers": {
    "marion": {
     "id": 5002,
@@ -5682,16 +5682,6 @@
    "yomihime": {
     "id": 193,
     "eth": 0.045,
-    "tier": "L"
-   },
-   "orven": {
-    "id": 351,
-    "eth": 0.05,
-    "tier": "L"
-   },
-   "revazial": {
-    "id": 917,
-    "eth": 0.066,
     "tier": "L"
    },
    "morwen": {
@@ -5708,6 +5698,11 @@
     "id": 256,
     "eth": 0.09,
     "tier": "L"
+   },
+   "revazial": {
+    "id": 210,
+    "eth": 0.5,
+    "tier": "L"
    }
   },
   "marion": {
@@ -5717,16 +5712,6 @@
   },
   "yomihime": {
    "L": 0.045,
-   "M": null,
-   "U": null
-  },
-  "orven": {
-   "L": 0.05,
-   "M": null,
-   "U": null
-  },
-  "revazial": {
-   "L": 0.066,
    "M": null,
    "U": null
   },
@@ -5745,6 +5730,11 @@
    "M": null,
    "U": null
   },
-  "usd": 2526.55
+  "revazial": {
+   "L": 0.5,
+   "M": null,
+   "U": null
+  },
+  "usd": 2527.33
  }
 }
