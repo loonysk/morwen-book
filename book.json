@@ -1,8 +1,8 @@
 {
- "updated": 1791912480,
+ "updated": 1791913079,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26185059,
+ "block": 26185109,
  "events": {
   "firstCard": 180
  },
@@ -1497,32 +1497,34 @@
    "witness": []
   },
   {
-   "w": "0x340f…610a",
-   "addr": "0x340fa0f541d8ed0ef8fd73cb727ab0ae7a3c610a",
-   "order": 0,
+   "w": "0x09a2…e43b",
+   "addr": "0x09a24b1b1f25fe163a99d3113a821784ea23e43b",
+   "order": 14,
    "cards": [
     [
      "L",
-     1791545795,
+     1791912839,
      null,
      "revazial",
      539,
      null
-    ],
-    [
-     "L",
-     1791812855,
-     null,
-     "marion",
-     5002,
-     null
     ]
    ],
-   "marks": [],
+   "marks": [
+    "flipper"
+   ],
+   "lost": [
+    [
+     "flipper",
+     "L",
+     "morwen",
+     1332
+    ]
+   ],
    "gifted": [],
    "chance": [],
-   "bought": 2,
-   "spentUsd": 111,
+   "bought": 1,
+   "spentUsd": 69,
    "witness": []
   },
   {
@@ -5038,6 +5040,40 @@
    "witness": []
   },
   {
+   "w": "0x340f…610a",
+   "addr": "0x340fa0f541d8ed0ef8fd73cb727ab0ae7a3c610a",
+   "order": 0,
+   "cards": [
+    [
+     "L",
+     1791812855,
+     null,
+     "marion",
+     5002,
+     null
+    ]
+   ],
+   "marks": [
+    {
+     "k": "flipper",
+     "ally": "revazial"
+    }
+   ],
+   "lost": [
+    [
+     "flipper",
+     "L",
+     "revazial",
+     539
+    ]
+   ],
+   "gifted": [],
+   "chance": [],
+   "bought": 2,
+   "spentUsd": 111,
+   "witness": []
+  },
+  {
    "w": "0xd9bf…b1e7",
    "addr": "0xd9bfbfa14002d12164e187cad7ae337d7f01b1e7",
    "order": 0,
@@ -5140,28 +5176,6 @@
    "order": 9,
    "cards": [],
    "marks": [],
-   "gifted": [],
-   "chance": [],
-   "bought": 0,
-   "spentUsd": 0,
-   "witness": []
-  },
-  {
-   "w": "0x09a2…e43b",
-   "addr": "0x09a24b1b1f25fe163a99d3113a821784ea23e43b",
-   "order": 14,
-   "cards": [],
-   "marks": [
-    "flipper"
-   ],
-   "lost": [
-    [
-     "flipper",
-     "L",
-     "morwen",
-     1332
-    ]
-   ],
    "gifted": [],
    "chance": [],
    "bought": 0,
@@ -5756,12 +5770,12 @@
   }
  ],
  "floors": {
-  "at": 1791912484,
-  "listed": 283,
+  "at": 1791913079,
+  "listed": 282,
   "offers": {
    "yomihime": {
     "id": 927,
-    "eth": 0.05,
+    "eth": 0.059,
     "tier": "L"
    },
    "revazial": {
@@ -5796,7 +5810,7 @@
    }
   },
   "yomihime": {
-   "L": 0.05,
+   "L": 0.059,
    "M": null,
    "U": null
   },
@@ -5830,6 +5844,6 @@
    "M": null,
    "U": null
   },
-  "usd": 2507.12
+  "usd": 2503.21
  }
 }
