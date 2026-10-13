@@ -1,8 +1,8 @@
 {
- "updated": 1791873472,
+ "updated": 1791874072,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26181821,
+ "block": 26181870,
  "events": {
   "firstCard": 180
  },
@@ -48,7 +48,7 @@
    "images": {
     "L": "https://hov.fra1.digitaloceanspaces.com/prod/hov_matazuu.png"
    },
-   "holders": 46,
+   "holders": 47,
    "thumbs": {
     "L": "https://loonysk.github.io/morwen-book/cards/a56f14d57fe9da96.webp"
    }
@@ -2349,24 +2349,16 @@
    "witness": []
   },
   {
-   "w": "0xd7ac…deb9",
-   "addr": "0xd7ac10db879fc98e43c4c2f5ab9920add957deb9",
-   "order": 10,
+   "w": "0xd755…8100",
+   "addr": "0xd755bd25f0a68ed42aebc2845205e430e2bc8100",
+   "order": 0,
    "cards": [
     [
      "L",
-     1791396227,
+     1791873479,
      null,
      "matazuu",
      1145,
-     null
-    ],
-    [
-     "L",
-     1791712091,
-     null,
-     "matazuu",
-     4008,
      "t"
     ]
    ],
@@ -4153,6 +4145,27 @@
    "witness": []
   },
   {
+   "w": "0xd7ac…deb9",
+   "addr": "0xd7ac10db879fc98e43c4c2f5ab9920add957deb9",
+   "order": 10,
+   "cards": [
+    [
+     "L",
+     1791712091,
+     null,
+     "matazuu",
+     4008,
+     "t"
+    ]
+   ],
+   "marks": [],
+   "gifted": [],
+   "chance": [],
+   "bought": 0,
+   "spentUsd": 0,
+   "witness": []
+  },
+  {
    "w": "0xcc34…a66b",
    "addr": "0xcc3481e4396733a0598363a5e30314db2a99a66b",
    "order": 0,
@@ -5734,7 +5747,7 @@
   }
  ],
  "floors": {
-  "at": 1791873473,
+  "at": 1791874072,
   "listed": 277,
   "offers": {
    "matazuu": {
@@ -5808,6 +5821,6 @@
    "M": null,
    "U": null
   },
-  "usd": 2531.35
+  "usd": 2532.14
  }
 }
