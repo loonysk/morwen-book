@@ -1,8 +1,8 @@
 {
- "updated": 1791910674,
+ "updated": 1791911277,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26184910,
+ "block": 26184960,
  "events": {
   "firstCard": 180
  },
@@ -48,7 +48,7 @@
    "images": {
     "L": "https://hov.fra1.digitaloceanspaces.com/prod/hov_matazuu.png"
    },
-   "holders": 47,
+   "holders": 46,
    "thumbs": {
     "L": "https://loonysk.github.io/morwen-book/cards/a56f14d57fe9da96.webp"
    }
@@ -2012,14 +2012,6 @@
      "yomihime",
      927,
      null
-    ],
-    [
-     "L",
-     1791631535,
-     null,
-     "matazuu",
-     1765,
-     "t"
     ]
    ],
    "marks": [
@@ -2027,7 +2019,11 @@
      "k": "flipper",
      "ally": "yomihime"
     },
-    "flipper"
+    "flipper",
+    {
+     "k": "flipper",
+     "ally": "matazuu"
+    }
    ],
    "lost": [
     [
@@ -2041,6 +2037,12 @@
      "L",
      "morwen",
      761
+    ],
+    [
+     "flipper",
+     "L",
+     "matazuu",
+     1765
     ]
    ],
    "gifted": [],
@@ -2421,6 +2423,14 @@
     ],
     [
      "L",
+     1791910967,
+     null,
+     "matazuu",
+     1765,
+     null
+    ],
+    [
+     "L",
      1791452699,
      null,
      "matazuu",
@@ -2439,8 +2449,8 @@
    "marks": [],
    "gifted": [],
    "chance": [],
-   "bought": 3,
-   "spentUsd": 85,
+   "bought": 4,
+   "spentUsd": 204,
    "witness": []
   },
   {
@@ -5746,14 +5756,9 @@
   }
  ],
  "floors": {
-  "at": 1791910675,
-  "listed": 280,
+  "at": 1791911278,
+  "listed": 285,
   "offers": {
-   "matazuu": {
-    "id": 1765,
-    "eth": 0.049,
-    "tier": "L"
-   },
    "yomihime": {
     "id": 927,
     "eth": 0.05,
@@ -5770,8 +5775,13 @@
     "tier": "L"
    },
    "shelo": {
-    "id": 4258,
-    "eth": 0.1,
+    "id": 256,
+    "eth": 0.095,
+    "tier": "L"
+   },
+   "matazuu": {
+    "id": 1031,
+    "eth": 0.099,
     "tier": "L"
    },
    "orven": {
@@ -5784,11 +5794,6 @@
     "eth": 0.11,
     "tier": "L"
    }
-  },
-  "matazuu": {
-   "L": 0.049,
-   "M": null,
-   "U": null
   },
   "yomihime": {
    "L": 0.05,
@@ -5806,7 +5811,12 @@
    "U": null
   },
   "shelo": {
-   "L": 0.1,
+   "L": 0.095,
+   "M": null,
+   "U": null
+  },
+  "matazuu": {
+   "L": 0.099,
    "M": null,
    "U": null
   },
@@ -5820,6 +5830,6 @@
    "M": null,
    "U": null
   },
-  "usd": 2511.51
+  "usd": 2505.55
  }
 }
