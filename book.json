@@ -1,8 +1,8 @@
 {
- "updated": 1791914875,
+ "updated": 1791915478,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26185259,
+ "block": 26185309,
  "events": {
   "firstCard": 180
  },
@@ -1497,34 +1497,64 @@
    "witness": []
   },
   {
-   "w": "0x09a2…e43b",
-   "addr": "0x09a24b1b1f25fe163a99d3113a821784ea23e43b",
-   "order": 14,
+   "w": "0xaab9…9eb3",
+   "addr": "0xaab98f0871b991ed3231cea344a2ef5564479eb3",
+   "order": 11,
    "cards": [
     [
      "L",
-     1791912839,
+     1791915083,
      null,
      "revazial",
      539,
-     null
-    ]
-   ],
-   "marks": [
-    "flipper"
-   ],
-   "lost": [
+     "t"
+    ],
     [
-     "flipper",
      "L",
-     "morwen",
-     1332
+     1791654335,
+     null,
+     "shelo",
+     622,
+     null
+    ],
+    [
+     "L",
+     1791396131,
+     null,
+     null,
+     1108,
+     null
+    ],
+    [
+     "L",
+     1791404483,
+     null,
+     "yomihime",
+     2215,
+     null
+    ],
+    [
+     "L",
+     1791451499,
+     null,
+     "matazuu",
+     3599,
+     null
+    ],
+    [
+     "L",
+     1791569723,
+     null,
+     "marion",
+     4285,
+     "t"
     ]
    ],
+   "marks": [],
    "gifted": [],
    "chance": [],
-   "bought": 1,
-   "spentUsd": 69,
+   "bought": 2,
+   "spentUsd": 81,
    "witness": []
   },
   {
@@ -1641,59 +1671,6 @@
    "chance": [],
    "bought": 0,
    "spentUsd": 0,
-   "witness": []
-  },
-  {
-   "w": "0xaab9…9eb3",
-   "addr": "0xaab98f0871b991ed3231cea344a2ef5564479eb3",
-   "order": 11,
-   "cards": [
-    [
-     "L",
-     1791654335,
-     null,
-     "shelo",
-     622,
-     null
-    ],
-    [
-     "L",
-     1791396131,
-     null,
-     null,
-     1108,
-     null
-    ],
-    [
-     "L",
-     1791404483,
-     null,
-     "yomihime",
-     2215,
-     null
-    ],
-    [
-     "L",
-     1791451499,
-     null,
-     "matazuu",
-     3599,
-     null
-    ],
-    [
-     "L",
-     1791569723,
-     null,
-     "marion",
-     4285,
-     "t"
-    ]
-   ],
-   "marks": [],
-   "gifted": [],
-   "chance": [],
-   "bought": 2,
-   "spentUsd": 81,
    "witness": []
   },
   {
@@ -5183,6 +5160,28 @@
    "witness": []
   },
   {
+   "w": "0x09a2…e43b",
+   "addr": "0x09a24b1b1f25fe163a99d3113a821784ea23e43b",
+   "order": 14,
+   "cards": [],
+   "marks": [
+    "flipper"
+   ],
+   "lost": [
+    [
+     "flipper",
+     "L",
+     "morwen",
+     1332
+    ]
+   ],
+   "gifted": [],
+   "chance": [],
+   "bought": 1,
+   "spentUsd": 69,
+   "witness": []
+  },
+  {
    "w": "0x86ad…f282",
    "addr": "0x86ad687e347734c3223ebda84cd58a3f8c2af282",
    "order": 15,
@@ -5770,7 +5769,7 @@
   }
  ],
  "floors": {
-  "at": 1791914876,
+  "at": 1791915482,
   "listed": 283,
   "offers": {
    "yomihime": {
@@ -5844,6 +5843,6 @@
    "M": null,
    "U": null
   },
-  "usd": 2506.53
+  "usd": 2503.96
  }
 }
