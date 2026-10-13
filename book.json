@@ -1,8 +1,8 @@
 {
- "updated": 1791925676,
+ "updated": 1791926273,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26186156,
+ "block": 26186206,
  "events": {
   "firstCard": 180
  },
@@ -93,7 +93,7 @@
    "images": {
     "L": "https://hov.fra1.digitaloceanspaces.com/prod/hov_morwen_greymoor.png"
    },
-   "holders": 41,
+   "holders": 40,
    "thumbs": {
     "L": "https://loonysk.github.io/morwen-book/cards/1ed0a45f92f6d78e.webp"
    }
@@ -116,10 +116,10 @@
  },
  "sales": {
   "L": {
-   "eth": 0.0877,
-   "usd": 223,
-   "ts": 1791846191,
-   "id": 1347
+   "eth": 0.11,
+   "usd": 267,
+   "ts": 1791926147,
+   "id": 5094
   }
  },
  "entries": [
@@ -299,13 +299,21 @@
      null,
      2433,
      null
+    ],
+    [
+     "L",
+     1791926147,
+     null,
+     null,
+     5094,
+     null
     ]
    ],
    "marks": [],
    "gifted": [],
    "chance": [],
-   "bought": 0,
-   "spentUsd": 0,
+   "bought": 1,
+   "spentUsd": 267,
    "witness": []
   },
   {
@@ -5106,27 +5114,6 @@
    "witness": []
   },
   {
-   "w": "0x1767…cb10",
-   "addr": "0x17673736885594b8c86b281a5ab8ec381cb4cb10",
-   "order": 46,
-   "cards": [
-    [
-     "L",
-     1791563171,
-     null,
-     null,
-     5094,
-     null
-    ]
-   ],
-   "marks": [],
-   "gifted": [],
-   "chance": [],
-   "bought": 0,
-   "spentUsd": 0,
-   "witness": []
-  },
-  {
    "w": "0x1cb7…be0e",
    "addr": "0x1cb79b30935001d938a4cbf8f985600b88c4be0e",
    "order": 0,
@@ -5668,6 +5655,28 @@
    "witness": []
   },
   {
+   "w": "0x1767…cb10",
+   "addr": "0x17673736885594b8c86b281a5ab8ec381cb4cb10",
+   "order": 46,
+   "cards": [],
+   "marks": [
+    "flipper"
+   ],
+   "lost": [
+    [
+     "flipper",
+     "L",
+     "morwen",
+     5094
+    ]
+   ],
+   "gifted": [],
+   "chance": [],
+   "bought": 0,
+   "spentUsd": 0,
+   "witness": []
+  },
+  {
    "w": "0x7343…41f6",
    "addr": "0x7343d91ef2c098b92995dafd496c3392960541f6",
    "order": 0,
@@ -5769,8 +5778,8 @@
   }
  ],
  "floors": {
-  "at": 1791925679,
-  "listed": 286,
+  "at": 1791926273,
+  "listed": 282,
   "offers": {
    "yomihime": {
     "id": 927,
@@ -5803,8 +5812,8 @@
     "tier": "L"
    },
    "morwen": {
-    "id": 5094,
-    "eth": 0.11,
+    "id": 4193,
+    "eth": 0.12,
     "tier": "L"
    }
   },
@@ -5839,10 +5848,10 @@
    "U": null
   },
   "morwen": {
-   "L": 0.11,
+   "L": 0.12,
    "M": null,
    "U": null
   },
-  "usd": 2507.78
+  "usd": 2507.08
  }
 }
