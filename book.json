@@ -1,8 +1,8 @@
 {
- "updated": 1791902880,
+ "updated": 1791903481,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26184263,
+ "block": 26184313,
  "events": {
   "firstCard": 180
  },
@@ -1157,6 +1157,14 @@
      "marion",
      4400,
      null
+    ],
+    [
+     "L",
+     1791902879,
+     null,
+     "shelo",
+     4985,
+     "t"
     ]
    ],
    "marks": [],
@@ -5020,27 +5028,6 @@
    "witness": []
   },
   {
-   "w": "0x3bf9…43c0",
-   "addr": "0x3bf912ad06225b8a7889ac6044b0dec522a843c0",
-   "order": 45,
-   "cards": [
-    [
-     "L",
-     1791557267,
-     null,
-     "shelo",
-     4985,
-     null
-    ]
-   ],
-   "marks": [],
-   "gifted": [],
-   "chance": [],
-   "bought": 0,
-   "spentUsd": 0,
-   "witness": []
-  },
-  {
    "w": "0xd9bf…b1e7",
    "addr": "0xd9bfbfa14002d12164e187cad7ae337d7f01b1e7",
    "order": 0,
@@ -5646,6 +5633,18 @@
    "witness": []
   },
   {
+   "w": "0x3bf9…43c0",
+   "addr": "0x3bf912ad06225b8a7889ac6044b0dec522a843c0",
+   "order": 45,
+   "cards": [],
+   "marks": [],
+   "gifted": [],
+   "chance": [],
+   "bought": 0,
+   "spentUsd": 0,
+   "witness": []
+  },
+  {
    "w": "0x7343…41f6",
    "addr": "0x7343d91ef2c098b92995dafd496c3392960541f6",
    "order": 0,
@@ -5747,8 +5746,8 @@
   }
  ],
  "floors": {
-  "at": 1791902881,
-  "listed": 278,
+  "at": 1791903481,
+  "listed": 277,
   "offers": {
    "yomihime": {
     "id": 193,
@@ -5821,6 +5820,6 @@
    "M": null,
    "U": null
   },
-  "usd": 2523.08
+  "usd": 2515.77
  }
 }
