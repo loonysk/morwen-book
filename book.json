@@ -1,8 +1,8 @@
 {
- "updated": 1792001298,
+ "updated": 1792001890,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26192433,
+ "block": 26192482,
  "events": {
   "firstCard": 180
  },
@@ -33,7 +33,7 @@
    "images": {
     "L": "https://hov.fra1.digitaloceanspaces.com/prod/hov_revazial.png"
    },
-   "holders": 41,
+   "holders": 40,
    "thumbs": {
     "L": "https://loonysk.github.io/morwen-book/cards/92565182053f29b5.webp"
    }
@@ -1852,6 +1852,14 @@
     ],
     [
      "L",
+     1792001351,
+     null,
+     "revazial",
+     2508,
+     "t"
+    ],
+    [
+     "L",
      1791658079,
      null,
      "revazial",
@@ -3454,27 +3462,6 @@
      null,
      null,
      2500,
-     null
-    ]
-   ],
-   "marks": [],
-   "gifted": [],
-   "chance": [],
-   "bought": 0,
-   "spentUsd": 0,
-   "witness": []
-  },
-  {
-   "w": "0x67ed…be33",
-   "addr": "0x67ed3bab75e70cd613ef7d0c060b9275ce75be33",
-   "order": 0,
-   "cards": [
-    [
-     "L",
-     1791407015,
-     null,
-     "revazial",
-     2508,
      null
     ]
    ],
@@ -5820,7 +5807,7 @@
   }
  ],
  "floors": {
-  "at": 1792001302,
+  "at": 1792001891,
   "listed": 286,
   "offers": {
    "revazial": {
@@ -5894,6 +5881,6 @@
    "M": null,
    "U": null
   },
-  "usd": 2426.39
+  "usd": 2425
  }
 }
