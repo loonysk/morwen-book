@@ -1,8 +1,8 @@
 {
- "updated": 1791994694,
+ "updated": 1791995296,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26191884,
+ "block": 26191934,
  "events": {
   "firstCard": 180
  },
@@ -1998,54 +1998,24 @@
    "witness": []
   },
   {
-   "w": "0x75ae…1ceb",
-   "addr": "0x75ae27e1a5292be3f70d9fae0424017e5dbe1ceb",
-   "order": 8,
+   "w": "0xabd4…1b0a",
+   "addr": "0xabd4001164eb4fae0153dd3d86d872efc8fe1b0a",
+   "order": 0,
    "cards": [
     [
      "L",
-     1791395483,
+     1791995015,
      null,
      "yomihime",
      927,
      null
     ]
    ],
-   "marks": [
-    {
-     "k": "flipper",
-     "ally": "yomihime"
-    },
-    "flipper",
-    {
-     "k": "flipper",
-     "ally": "matazuu"
-    }
-   ],
-   "lost": [
-    [
-     "flipper",
-     "L",
-     "yomihime",
-     3594
-    ],
-    [
-     "flipper",
-     "L",
-     "morwen",
-     761
-    ],
-    [
-     "flipper",
-     "L",
-     "matazuu",
-     1765
-    ]
-   ],
+   "marks": [],
    "gifted": [],
    "chance": [],
    "bought": 1,
-   "spentUsd": 20,
+   "spentUsd": 148,
    "witness": []
   },
   {
@@ -5135,6 +5105,58 @@
    "witness": []
   },
   {
+   "w": "0x75ae…1ceb",
+   "addr": "0x75ae27e1a5292be3f70d9fae0424017e5dbe1ceb",
+   "order": 8,
+   "cards": [],
+   "marks": [
+    {
+     "k": "flipper",
+     "ally": "yomihime"
+    },
+    "flipper",
+    {
+     "k": "flipper",
+     "ally": "matazuu"
+    },
+    {
+     "k": "flipper",
+     "ally": "yomihime"
+    }
+   ],
+   "lost": [
+    [
+     "flipper",
+     "L",
+     "yomihime",
+     3594
+    ],
+    [
+     "flipper",
+     "L",
+     "morwen",
+     761
+    ],
+    [
+     "flipper",
+     "L",
+     "matazuu",
+     1765
+    ],
+    [
+     "flipper",
+     "L",
+     "yomihime",
+     927
+    ]
+   ],
+   "gifted": [],
+   "chance": [],
+   "bought": 1,
+   "spentUsd": 20,
+   "witness": []
+  },
+  {
    "w": "0x3edb…c56f",
    "addr": "0x3edb03be837235e1461745bccf95871d4ab2c56f",
    "order": 9,
@@ -5785,7 +5807,7 @@
   }
  ],
  "floors": {
-  "at": 1791994695,
+  "at": 1791995296,
   "listed": 287,
   "offers": {
    "revazial": {
@@ -5794,8 +5816,8 @@
     "tier": "L"
    },
    "yomihime": {
-    "id": 927,
-    "eth": 0.059,
+    "id": 193,
+    "eth": 0.06,
     "tier": "L"
    },
    "shelo": {
@@ -5830,7 +5852,7 @@
    "U": null
   },
   "yomihime": {
-   "L": 0.059,
+   "L": 0.06,
    "M": null,
    "U": null
   },
@@ -5859,6 +5881,6 @@
    "M": null,
    "U": null
   },
-  "usd": 2425.26
+  "usd": 2429.65
  }
 }
