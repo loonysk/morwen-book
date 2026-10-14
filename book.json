@@ -1,8 +1,8 @@
 {
- "updated": 1791955091,
+ "updated": 1791955694,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26188593,
+ "block": 26188643,
  "events": {
   "firstCard": 180
  },
@@ -4875,21 +4875,24 @@
    "witness": []
   },
   {
-   "w": "0x38bb…b833",
-   "addr": "0x38bb3769de962d95931a9055a071f5cc060ab833",
+   "w": "0xb81e…bb77",
+   "addr": "0xb81e10ee0055de228c42afce86b7e97014b7bb77",
    "order": 0,
    "cards": [
     [
      "L",
-     1791553175,
+     1791955367,
      null,
      "orven",
      4874,
-     null
+     "t"
     ]
    ],
    "marks": [],
-   "gifted": [],
+   "gifted": [
+    "L",
+    "L"
+   ],
    "chance": [],
    "bought": 0,
    "spentUsd": 0,
@@ -5760,26 +5763,11 @@
    "bought": 0,
    "spentUsd": 0,
    "witness": []
-  },
-  {
-   "w": "0xb81e…bb77",
-   "addr": "0xb81e10ee0055de228c42afce86b7e97014b7bb77",
-   "order": 0,
-   "cards": [],
-   "marks": [],
-   "gifted": [
-    "L",
-    "L"
-   ],
-   "chance": [],
-   "bought": 0,
-   "spentUsd": 0,
-   "witness": []
   }
  ],
  "floors": {
-  "at": 1791955092,
-  "listed": 286,
+  "at": 1791955694,
+  "listed": 285,
   "offers": {
    "revazial": {
     "id": 917,
@@ -5852,6 +5840,6 @@
    "M": null,
    "U": null
   },
-  "usd": 2502.49
+  "usd": 2504.4
  }
 }
