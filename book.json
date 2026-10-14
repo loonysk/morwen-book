@@ -1,8 +1,8 @@
 {
- "updated": 1791956294,
+ "updated": 1791956895,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26188693,
+ "block": 26188743,
  "events": {
   "firstCard": 180
  },
@@ -63,7 +63,7 @@
    "images": {
     "L": "https://hov.fra1.digitaloceanspaces.com/prod/hov_yomihime.png"
    },
-   "holders": 38,
+   "holders": 37,
    "thumbs": {
     "L": "https://loonysk.github.io/morwen-book/cards/dfa351374fb18253.webp"
    }
@@ -1400,14 +1400,6 @@
     ],
     [
      "L",
-     1791405455,
-     null,
-     "yomihime",
-     2354,
-     null
-    ],
-    [
-     "L",
      1791405947,
      null,
      null,
@@ -1585,6 +1577,14 @@
      "matazuu",
      1967,
      null
+    ],
+    [
+     "L",
+     1791956459,
+     null,
+     "yomihime",
+     2354,
+     "t"
     ]
    ],
    "marks": [],
@@ -5766,7 +5766,7 @@
   }
  ],
  "floors": {
-  "at": 1791956294,
+  "at": 1791956895,
   "listed": 284,
   "offers": {
    "revazial": {
@@ -5840,6 +5840,6 @@
    "M": null,
    "U": null
   },
-  "usd": 2502.19
+  "usd": 2504.1
  }
 }
