@@ -1,8 +1,8 @@
 {
- "updated": 1792009094,
+ "updated": 1792009693,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26193079,
+ "block": 26193130,
  "events": {
   "firstCard": 180
  },
@@ -33,7 +33,7 @@
    "images": {
     "L": "https://hov.fra1.digitaloceanspaces.com/prod/hov_revazial.png"
    },
-   "holders": 40,
+   "holders": 41,
    "thumbs": {
     "L": "https://loonysk.github.io/morwen-book/cards/92565182053f29b5.webp"
    }
@@ -1852,14 +1852,6 @@
     ],
     [
      "L",
-     1792001351,
-     null,
-     "revazial",
-     2508,
-     "t"
-    ],
-    [
-     "L",
      1791658079,
      null,
      "revazial",
@@ -2254,6 +2246,14 @@
      null,
      "matazuu",
      1031,
+     "t"
+    ],
+    [
+     "L",
+     1792009511,
+     null,
+     "revazial",
+     2508,
      "t"
     ],
     [
@@ -5807,8 +5807,8 @@
   }
  ],
  "floors": {
-  "at": 1792009094,
-  "listed": 279,
+  "at": 1792009694,
+  "listed": 278,
   "offers": {
    "revazial": {
     "id": 917,
@@ -5881,6 +5881,6 @@
    "M": null,
    "U": null
   },
-  "usd": 2428.91
+  "usd": 2426.05
  }
 }
