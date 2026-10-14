@@ -1,8 +1,8 @@
 {
- "updated": 1791984494,
+ "updated": 1791985094,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26191036,
+ "block": 26191084,
  "events": {
   "firstCard": 180
  },
@@ -5785,12 +5785,12 @@
   }
  ],
  "floors": {
-  "at": 1791984495,
+  "at": 1791985095,
   "listed": 296,
   "offers": {
    "revazial": {
-    "id": 917,
-    "eth": 0.052,
+    "id": 4288,
+    "eth": 0.05,
     "tier": "L"
    },
    "yomihime": {
@@ -5825,7 +5825,7 @@
    }
   },
   "revazial": {
-   "L": 0.052,
+   "L": 0.05,
    "M": null,
    "U": null
   },
@@ -5859,6 +5859,6 @@
    "M": null,
    "U": null
   },
-  "usd": 2466.1
+  "usd": 2482.14
  }
 }
