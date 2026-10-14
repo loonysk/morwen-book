@@ -1,8 +1,8 @@
 {
- "updated": 1792002498,
+ "updated": 1792003095,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26192532,
+ "block": 26192582,
  "events": {
   "firstCard": 180
  },
@@ -5807,8 +5807,8 @@
   }
  ],
  "floors": {
-  "at": 1792002499,
-  "listed": 286,
+  "at": 1792003096,
+  "listed": 281,
   "offers": {
    "revazial": {
     "id": 917,
@@ -5820,11 +5820,6 @@
     "eth": 0.06,
     "tier": "L"
    },
-   "shelo": {
-    "id": 256,
-    "eth": 0.06,
-    "tier": "L"
-   },
    "marion": {
     "id": 5002,
     "eth": 0.07,
@@ -5833,6 +5828,11 @@
    "matazuu": {
     "id": 1031,
     "eth": 0.099,
+    "tier": "L"
+   },
+   "shelo": {
+    "id": 4258,
+    "eth": 0.1,
     "tier": "L"
    },
    "orven": {
@@ -5856,11 +5856,6 @@
    "M": null,
    "U": null
   },
-  "shelo": {
-   "L": 0.06,
-   "M": null,
-   "U": null
-  },
   "marion": {
    "L": 0.07,
    "M": null,
@@ -5868,6 +5863,11 @@
   },
   "matazuu": {
    "L": 0.099,
+   "M": null,
+   "U": null
+  },
+  "shelo": {
+   "L": 0.1,
    "M": null,
    "U": null
   },
@@ -5881,6 +5881,6 @@
    "M": null,
    "U": null
   },
-  "usd": 2425.44
+  "usd": 2424.92
  }
 }
