@@ -1,8 +1,8 @@
 {
- "updated": 1792007898,
+ "updated": 1792008493,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26192981,
+ "block": 26193030,
  "events": {
   "firstCard": 180
  },
@@ -63,7 +63,7 @@
    "images": {
     "L": "https://hov.fra1.digitaloceanspaces.com/prod/hov_yomihime.png"
    },
-   "holders": 37,
+   "holders": 38,
    "thumbs": {
     "L": "https://loonysk.github.io/morwen-book/cards/dfa351374fb18253.webp"
    }
@@ -2324,14 +2324,6 @@
     ],
     [
      "L",
-     1791396299,
-     null,
-     "yomihime",
-     1159,
-     null
-    ],
-    [
-     "L",
      1791396779,
      null,
      "revazial",
@@ -2387,6 +2379,43 @@
      "yomihime",
      1157,
      null
+    ]
+   ],
+   "marks": [],
+   "gifted": [],
+   "chance": [],
+   "bought": 0,
+   "spentUsd": 0,
+   "witness": []
+  },
+  {
+   "w": "0xca45…01c7",
+   "addr": "0xca45e15a85ca65f0e3eefbf79a8213966fa701c7",
+   "order": 49,
+   "cards": [
+    [
+     "L",
+     1792008275,
+     null,
+     "yomihime",
+     1159,
+     "t"
+    ],
+    [
+     "L",
+     1791835799,
+     null,
+     "revazial",
+     4939,
+     "t"
+    ],
+    [
+     "L",
+     1791636575,
+     null,
+     null,
+     5061,
+     "t"
     ]
    ],
    "marks": [],
@@ -4916,35 +4945,6 @@
    "witness": []
   },
   {
-   "w": "0xca45…01c7",
-   "addr": "0xca45e15a85ca65f0e3eefbf79a8213966fa701c7",
-   "order": 49,
-   "cards": [
-    [
-     "L",
-     1791835799,
-     null,
-     "revazial",
-     4939,
-     "t"
-    ],
-    [
-     "L",
-     1791636575,
-     null,
-     null,
-     5061,
-     "t"
-    ]
-   ],
-   "marks": [],
-   "gifted": [],
-   "chance": [],
-   "bought": 0,
-   "spentUsd": 0,
-   "witness": []
-  },
-  {
    "w": "0x9b13…2831",
    "addr": "0x9b136f7c899e108bacdedf3be3621a2379932831",
    "order": 0,
@@ -5807,8 +5807,8 @@
   }
  ],
  "floors": {
-  "at": 1792007899,
-  "listed": 281,
+  "at": 1792008494,
+  "listed": 280,
   "offers": {
    "revazial": {
     "id": 917,
@@ -5881,6 +5881,6 @@
    "M": null,
    "U": null
   },
-  "usd": 2426.86
+  "usd": 2428.52
  }
 }
