@@ -1,8 +1,8 @@
 {
- "updated": 1791976701,
+ "updated": 1791977294,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26190388,
+ "block": 26190438,
  "events": {
   "firstCard": 180
  },
@@ -116,10 +116,10 @@
  },
  "sales": {
   "L": {
-   "eth": 0.11,
-   "usd": 267,
-   "ts": 1791926147,
-   "id": 5094
+   "eth": 0.08,
+   "usd": 200,
+   "ts": 1791976907,
+   "id": 4193
   }
  },
  "entries": [
@@ -2260,7 +2260,7 @@
   {
    "w": "0x50e4…1422",
    "addr": "0x50e43a4d3cbf8f05ce07f3ebc80c7c840b351422",
-   "order": 0,
+   "order": 54,
    "cards": [
     [
      "L",
@@ -2269,6 +2269,14 @@
      "matazuu",
      1031,
      "t"
+    ],
+    [
+     "L",
+     1791976907,
+     null,
+     null,
+     4193,
+     null
     ],
     [
      "L",
@@ -2298,8 +2306,8 @@
    "marks": [],
    "gifted": [],
    "chance": [],
-   "bought": 0,
-   "spentUsd": 0,
+   "bought": 1,
+   "spentUsd": 200,
    "witness": []
   },
   {
@@ -4239,27 +4247,6 @@
    "witness": []
   },
   {
-   "w": "0x1d84…56a2",
-   "addr": "0x1d84d27ebb73dc19c66397cf6048b6bc057956a2",
-   "order": 36,
-   "cards": [
-    [
-     "L",
-     1791478871,
-     null,
-     null,
-     4193,
-     null
-    ]
-   ],
-   "marks": [],
-   "gifted": [],
-   "chance": [],
-   "bought": 0,
-   "spentUsd": 0,
-   "witness": []
-  },
-  {
    "w": "0x1763…90cd",
    "addr": "0x1763d8f8a698e57ad1fd4f6df53c85bea51890cd",
    "order": 37,
@@ -5555,6 +5542,28 @@
    "witness": []
   },
   {
+   "w": "0x1d84…56a2",
+   "addr": "0x1d84d27ebb73dc19c66397cf6048b6bc057956a2",
+   "order": 36,
+   "cards": [],
+   "marks": [
+    "flipper"
+   ],
+   "lost": [
+    [
+     "flipper",
+     "L",
+     "morwen",
+     4193
+    ]
+   ],
+   "gifted": [],
+   "chance": [],
+   "bought": 0,
+   "spentUsd": 0,
+   "witness": []
+  },
+  {
    "w": "0x81fd…02da",
    "addr": "0x81fd31d202438226a71d323de93b3e914dda02da",
    "order": 0,
@@ -5776,8 +5785,8 @@
   }
  ],
  "floors": {
-  "at": 1791976702,
-  "listed": 297,
+  "at": 1791977295,
+  "listed": 296,
   "offers": {
    "revazial": {
     "id": 917,
@@ -5799,11 +5808,6 @@
     "eth": 0.07,
     "tier": "L"
    },
-   "morwen": {
-    "id": 4193,
-    "eth": 0.08,
-    "tier": "L"
-   },
    "matazuu": {
     "id": 1031,
     "eth": 0.099,
@@ -5812,6 +5816,11 @@
    "orven": {
     "id": 3084,
     "eth": 0.1,
+    "tier": "L"
+   },
+   "morwen": {
+    "id": 536,
+    "eth": 0.44,
     "tier": "L"
    }
   },
@@ -5835,11 +5844,6 @@
    "M": null,
    "U": null
   },
-  "morwen": {
-   "L": 0.08,
-   "M": null,
-   "U": null
-  },
   "matazuu": {
    "L": 0.099,
    "M": null,
@@ -5850,6 +5854,11 @@
    "M": null,
    "U": null
   },
-  "usd": 2501.89
+  "morwen": {
+   "L": 0.44,
+   "M": null,
+   "U": null
+  },
+  "usd": 2498.42
  }
 }
