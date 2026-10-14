@@ -1,8 +1,8 @@
 {
- "updated": 1791995296,
+ "updated": 1791995891,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26191934,
+ "block": 26191983,
  "events": {
   "firstCard": 180
  },
@@ -1160,6 +1160,14 @@
     ],
     [
      "L",
+     1791995423,
+     null,
+     "revazial",
+     4288,
+     null
+    ],
+    [
+     "L",
      1791746951,
      null,
      "marion",
@@ -1178,8 +1186,8 @@
    "marks": [],
    "gifted": [],
    "chance": [],
-   "bought": 2,
-   "spentUsd": 78,
+   "bought": 3,
+   "spentUsd": 176,
    "witness": []
   },
   {
@@ -2250,14 +2258,6 @@
     ],
     [
      "L",
-     1791812423,
-     null,
-     "revazial",
-     4288,
-     "t"
-    ],
-    [
-     "L",
      1791831851,
      null,
      "orven",
@@ -2273,7 +2273,20 @@
      "t"
     ]
    ],
-   "marks": [],
+   "marks": [
+    {
+     "k": "flipper",
+     "ally": "revazial"
+    }
+   ],
+   "lost": [
+    [
+     "flipper",
+     "L",
+     "revazial",
+     4288
+    ]
+   ],
    "gifted": [],
    "chance": [],
    "bought": 1,
@@ -5807,12 +5820,12 @@
   }
  ],
  "floors": {
-  "at": 1791995296,
+  "at": 1791995891,
   "listed": 287,
   "offers": {
    "revazial": {
-    "id": 4288,
-    "eth": 0.05,
+    "id": 917,
+    "eth": 0.052,
     "tier": "L"
    },
    "yomihime": {
@@ -5847,7 +5860,7 @@
    }
   },
   "revazial": {
-   "L": 0.05,
+   "L": 0.052,
    "M": null,
    "U": null
   },
@@ -5881,6 +5894,6 @@
    "M": null,
    "U": null
   },
-  "usd": 2429.65
+  "usd": 2434.79
  }
 }
