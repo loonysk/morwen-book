@@ -1,8 +1,8 @@
 {
- "updated": 1792015092,
+ "updated": 1792015695,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26193577,
+ "block": 26193627,
  "events": {
   "firstCard": 180
  },
@@ -1562,7 +1562,9 @@
     ]
    ],
    "marks": [],
-   "gifted": [],
+   "gifted": [
+    "L"
+   ],
    "chance": [],
    "bought": 1,
    "spentUsd": 56,
@@ -5807,7 +5809,7 @@
   }
  ],
  "floors": {
-  "at": 1792015093,
+  "at": 1792015695,
   "listed": 283,
   "offers": {
    "revazial": {
@@ -5881,6 +5883,6 @@
    "M": null,
    "U": null
   },
-  "usd": 2418.2
+  "usd": 2412.36
  }
 }
