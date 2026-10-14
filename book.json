@@ -1,8 +1,8 @@
 {
- "updated": 1791976092,
+ "updated": 1791976701,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26190337,
+ "block": 26190388,
  "events": {
   "firstCard": 180
  },
@@ -1323,13 +1323,13 @@
    "witness": []
   },
   {
-   "w": "0x0be9…1381",
-   "addr": "0x0be968d6d8ecaba2de75ca2cd008987289f01381",
-   "order": 0,
+   "w": "0xaab9…9eb3",
+   "addr": "0xaab98f0871b991ed3231cea344a2ef5564479eb3",
+   "order": 11,
    "cards": [
     [
      "L",
-     1791393611,
+     1791976259,
      null,
      "orven",
      351,
@@ -1337,31 +1337,58 @@
     ],
     [
      "L",
-     1791395471,
+     1791915083,
      null,
      "revazial",
-     917,
-     null
-    ]
-   ],
-   "marks": [
-    {
-     "k": "flipper",
-     "ally": "shelo"
-    }
-   ],
-   "lost": [
+     539,
+     "t"
+    ],
     [
-     "flipper",
      "L",
+     1791654335,
+     null,
      "shelo",
-     983
+     622,
+     null
+    ],
+    [
+     "L",
+     1791396131,
+     null,
+     null,
+     1108,
+     null
+    ],
+    [
+     "L",
+     1791404483,
+     null,
+     "yomihime",
+     2215,
+     null
+    ],
+    [
+     "L",
+     1791451499,
+     null,
+     "matazuu",
+     3599,
+     null
+    ],
+    [
+     "L",
+     1791569723,
+     null,
+     "marion",
+     4285,
+     "t"
     ]
    ],
+   "marks": [],
    "gifted": [],
    "chance": [],
-   "bought": 0,
-   "spentUsd": 0,
+   "bought": 3,
+   "spentUsd": 206,
    "witness": []
   },
   {
@@ -1494,67 +1521,6 @@
    "chance": [],
    "bought": 0,
    "spentUsd": 0,
-   "witness": []
-  },
-  {
-   "w": "0xaab9…9eb3",
-   "addr": "0xaab98f0871b991ed3231cea344a2ef5564479eb3",
-   "order": 11,
-   "cards": [
-    [
-     "L",
-     1791915083,
-     null,
-     "revazial",
-     539,
-     "t"
-    ],
-    [
-     "L",
-     1791654335,
-     null,
-     "shelo",
-     622,
-     null
-    ],
-    [
-     "L",
-     1791396131,
-     null,
-     null,
-     1108,
-     null
-    ],
-    [
-     "L",
-     1791404483,
-     null,
-     "yomihime",
-     2215,
-     null
-    ],
-    [
-     "L",
-     1791451499,
-     null,
-     "matazuu",
-     3599,
-     null
-    ],
-    [
-     "L",
-     1791569723,
-     null,
-     "marion",
-     4285,
-     "t"
-    ]
-   ],
-   "marks": [],
-   "gifted": [],
-   "chance": [],
-   "bought": 2,
-   "spentUsd": 81,
    "witness": []
   },
   {
@@ -1981,6 +1947,50 @@
     ]
    ],
    "marks": [],
+   "gifted": [],
+   "chance": [],
+   "bought": 0,
+   "spentUsd": 0,
+   "witness": []
+  },
+  {
+   "w": "0x0be9…1381",
+   "addr": "0x0be968d6d8ecaba2de75ca2cd008987289f01381",
+   "order": 0,
+   "cards": [
+    [
+     "L",
+     1791395471,
+     null,
+     "revazial",
+     917,
+     null
+    ]
+   ],
+   "marks": [
+    {
+     "k": "flipper",
+     "ally": "shelo"
+    },
+    {
+     "k": "flipper",
+     "ally": "orven"
+    }
+   ],
+   "lost": [
+    [
+     "flipper",
+     "L",
+     "shelo",
+     983
+    ],
+    [
+     "flipper",
+     "L",
+     "orven",
+     351
+    ]
+   ],
    "gifted": [],
    "chance": [],
    "bought": 0,
@@ -5766,14 +5776,9 @@
   }
  ],
  "floors": {
-  "at": 1791976093,
-  "listed": 300,
+  "at": 1791976702,
+  "listed": 297,
   "offers": {
-   "orven": {
-    "id": 351,
-    "eth": 0.05,
-    "tier": "L"
-   },
    "revazial": {
     "id": 917,
     "eth": 0.052,
@@ -5803,12 +5808,12 @@
     "id": 1031,
     "eth": 0.099,
     "tier": "L"
+   },
+   "orven": {
+    "id": 3084,
+    "eth": 0.1,
+    "tier": "L"
    }
-  },
-  "orven": {
-   "L": 0.05,
-   "M": null,
-   "U": null
   },
   "revazial": {
    "L": 0.052,
@@ -5840,6 +5845,11 @@
    "M": null,
    "U": null
   },
-  "usd": 2500.33
+  "orven": {
+   "L": 0.1,
+   "M": null,
+   "U": null
+  },
+  "usd": 2501.89
  }
 }
