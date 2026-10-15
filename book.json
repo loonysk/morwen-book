@@ -1,8 +1,8 @@
 {
- "updated": 1792091894,
+ "updated": 1792092495,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26199958,
+ "block": 26200008,
  "events": {
   "firstCard": 180
  },
@@ -54,16 +54,16 @@
    }
   },
   "yomihime": {
-   "cards": 54,
+   "cards": 55,
    "tiers": {
-    "L": 54,
+    "L": 55,
     "M": 0,
     "U": 0
    },
    "images": {
     "L": "https://hov.fra1.digitaloceanspaces.com/prod/hov_yomihime.png"
    },
-   "holders": 38,
+   "holders": 39,
    "thumbs": {
     "L": "https://loonysk.github.io/morwen-book/cards/dfa351374fb18253.webp"
    }
@@ -5081,6 +5081,27 @@
    "witness": []
   },
   {
+   "w": "0xef54…2987",
+   "addr": "0xef54ef3f49c388c0fbe6d51b5cb16a87e5f42987",
+   "order": 0,
+   "cards": [
+    [
+     "L",
+     1792092287,
+     null,
+     "yomihime",
+     5238,
+     null
+    ]
+   ],
+   "marks": [],
+   "gifted": [],
+   "chance": [],
+   "bought": 0,
+   "spentUsd": 0,
+   "witness": []
+  },
+  {
    "w": "0x65cd…501f",
    "addr": "0x65cd7306aaccedfb658d19f83694b2bde08b501f",
    "order": 1,
@@ -5820,7 +5841,7 @@
   }
  ],
  "floors": {
-  "at": 1792091895,
+  "at": 1792092496,
   "listed": 298,
   "offers": {
    "yomihime": {
@@ -5884,6 +5905,6 @@
    "M": null,
    "U": null
   },
-  "usd": 2451.85
+  "usd": 2454.98
  }
 }
