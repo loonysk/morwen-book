@@ -1,8 +1,8 @@
 {
- "updated": 1792058295,
+ "updated": 1792058890,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26197163,
+ "block": 26197212,
  "events": {
   "firstCard": 180
  },
@@ -3975,6 +3975,22 @@
     ],
     [
      "L",
+     1792058543,
+     null,
+     "shelo",
+     3614,
+     null
+    ],
+    [
+     "L",
+     1792058291,
+     null,
+     "marion",
+     3843,
+     null
+    ],
+    [
+     "L",
      1791630083,
      null,
      null,
@@ -3985,37 +4001,8 @@
    "marks": [],
    "gifted": [],
    "chance": [],
-   "bought": 2,
-   "spentUsd": 161,
-   "witness": []
-  },
-  {
-   "w": "0xa591…a4d2",
-   "addr": "0xa5912117541c8cd0e537e05e81c602c469d2a4d2",
-   "order": 0,
-   "cards": [
-    [
-     "L",
-     1791451607,
-     null,
-     "shelo",
-     3614,
-     null
-    ],
-    [
-     "L",
-     1791456647,
-     null,
-     "marion",
-     3843,
-     null
-    ]
-   ],
-   "marks": [],
-   "gifted": [],
-   "chance": [],
-   "bought": 0,
-   "spentUsd": 0,
+   "bought": 4,
+   "spentUsd": 281,
    "witness": []
   },
   {
@@ -5806,17 +5793,37 @@
    "bought": 0,
    "spentUsd": 0,
    "witness": []
+  },
+  {
+   "w": "0xa591…a4d2",
+   "addr": "0xa5912117541c8cd0e537e05e81c602c469d2a4d2",
+   "order": 0,
+   "cards": [],
+   "marks": [
+    {
+     "k": "flipper",
+     "ally": "marion"
+    }
+   ],
+   "lost": [
+    [
+     "flipper",
+     "L",
+     "marion",
+     3843
+    ]
+   ],
+   "gifted": [],
+   "chance": [],
+   "bought": 0,
+   "spentUsd": 0,
+   "witness": []
   }
  ],
  "floors": {
-  "at": 1792058295,
-  "listed": 305,
+  "at": 1792058891,
+  "listed": 304,
   "offers": {
-   "shelo": {
-    "id": 3614,
-    "eth": 0.025,
-    "tier": "L"
-   },
    "yomihime": {
     "id": 193,
     "eth": 0.06,
@@ -5830,6 +5837,11 @@
    "marion": {
     "id": 5002,
     "eth": 0.09,
+    "tier": "L"
+   },
+   "shelo": {
+    "id": 4258,
+    "eth": 0.1,
     "tier": "L"
    },
    "orven": {
@@ -5848,11 +5860,6 @@
     "tier": "L"
    }
   },
-  "shelo": {
-   "L": 0.025,
-   "M": null,
-   "U": null
-  },
   "yomihime": {
    "L": 0.06,
    "M": null,
@@ -5865,6 +5872,11 @@
   },
   "marion": {
    "L": 0.09,
+   "M": null,
+   "U": null
+  },
+  "shelo": {
+   "L": 0.1,
    "M": null,
    "U": null
   },
@@ -5883,6 +5895,6 @@
    "M": null,
    "U": null
   },
-  "usd": 2372.5
+  "usd": 2367.76
  }
 }
