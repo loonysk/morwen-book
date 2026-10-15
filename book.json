@@ -1,8 +1,8 @@
 {
- "updated": 1792106290,
+ "updated": 1792106892,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26201154,
+ "block": 26201204,
  "events": {
   "firstCard": 180
  },
@@ -5841,7 +5841,7 @@
   }
  ],
  "floors": {
-  "at": 1792106290,
+  "at": 1792106893,
   "listed": 302,
   "offers": {
    "yomihime": {
@@ -5854,14 +5854,14 @@
     "eth": 0.065,
     "tier": "L"
    },
+   "morwen": {
+    "id": 180,
+    "eth": 0.0799,
+    "tier": "L"
+   },
    "revazial": {
     "id": 234,
     "eth": 0.081,
-    "tier": "L"
-   },
-   "morwen": {
-    "id": 180,
-    "eth": 0.089,
     "tier": "L"
    },
    "shelo": {
@@ -5885,13 +5885,13 @@
    "M": null,
    "U": null
   },
-  "revazial": {
-   "L": 0.081,
+  "morwen": {
+   "L": 0.0799,
    "M": null,
    "U": null
   },
-  "morwen": {
-   "L": 0.089,
+  "revazial": {
+   "L": 0.081,
    "M": null,
    "U": null
   },
@@ -5905,6 +5905,6 @@
    "M": null,
    "U": null
   },
-  "usd": 2437.87
+  "usd": 2438.78
  }
 }
