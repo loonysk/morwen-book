@@ -1,8 +1,8 @@
 {
- "updated": 1792059492,
+ "updated": 1792060093,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26197262,
+ "block": 26197312,
  "events": {
   "firstCard": 180
  },
@@ -116,10 +116,10 @@
  },
  "sales": {
   "L": {
-   "eth": 0.08,
-   "usd": 200,
-   "ts": 1791976907,
-   "id": 4193
+   "eth": 0.0311,
+   "usd": 74,
+   "ts": 1792059539,
+   "id": 180
   }
  },
  "entries": [
@@ -481,13 +481,13 @@
    "witness": []
   },
   {
-   "w": "0x65cd…501f",
-   "addr": "0x65cd7306aaccedfb658d19f83694b2bde08b501f",
-   "order": 1,
+   "w": "0x77fb…2e47",
+   "addr": "0x77fb843c156c87633333b90ea9a308c8deb32e47",
+   "order": 55,
    "cards": [
     [
      "L",
-     1791393191,
+     1792059539,
      null,
      null,
      180,
@@ -497,8 +497,8 @@
    "marks": [],
    "gifted": [],
    "chance": [],
-   "bought": 0,
-   "spentUsd": 0,
+   "bought": 1,
+   "spentUsd": 74,
    "witness": []
   },
   {
@@ -5094,6 +5094,18 @@
    "witness": []
   },
   {
+   "w": "0x65cd…501f",
+   "addr": "0x65cd7306aaccedfb658d19f83694b2bde08b501f",
+   "order": 1,
+   "cards": [],
+   "marks": [],
+   "gifted": [],
+   "chance": [],
+   "bought": 0,
+   "spentUsd": 0,
+   "witness": []
+  },
+  {
    "w": "0x75ae…1ceb",
    "addr": "0x75ae27e1a5292be3f70d9fae0424017e5dbe1ceb",
    "order": 8,
@@ -5821,8 +5833,8 @@
   }
  ],
  "floors": {
-  "at": 1792059492,
-  "listed": 306,
+  "at": 1792060094,
+  "listed": 305,
   "offers": {
    "yomihime": {
     "id": 193,
@@ -5832,6 +5844,11 @@
    "revazial": {
     "id": 234,
     "eth": 0.081,
+    "tier": "L"
+   },
+   "morwen": {
+    "id": 180,
+    "eth": 0.089,
     "tier": "L"
    },
    "marion": {
@@ -5847,11 +5864,6 @@
    "orven": {
     "id": 3084,
     "eth": 0.1,
-    "tier": "L"
-   },
-   "morwen": {
-    "id": 536,
-    "eth": 0.44,
     "tier": "L"
    },
    "matazuu": {
@@ -5870,6 +5882,11 @@
    "M": null,
    "U": null
   },
+  "morwen": {
+   "L": 0.089,
+   "M": null,
+   "U": null
+  },
   "marion": {
    "L": 0.09,
    "M": null,
@@ -5885,16 +5902,11 @@
    "M": null,
    "U": null
   },
-  "morwen": {
-   "L": 0.44,
-   "M": null,
-   "U": null
-  },
   "matazuu": {
    "L": 0.44,
    "M": null,
    "U": null
   },
-  "usd": 2369.02
+  "usd": 2360.04
  }
 }
