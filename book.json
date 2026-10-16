@@ -1,8 +1,8 @@
 {
- "updated": 1792160890,
+ "updated": 1792161492,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26205691,
+ "block": 26205741,
  "events": {
   "firstCard": 180
  },
@@ -478,6 +478,22 @@
      null,
      null,
      4181,
+     "t"
+    ],
+    [
+     "L",
+     1792161119,
+     null,
+     "orven",
+     4647,
+     "t"
+    ],
+    [
+     "L",
+     1792161167,
+     null,
+     "marion",
+     5170,
      "t"
     ]
    ],
@@ -1986,22 +2002,6 @@
      null,
      4193,
      null
-    ],
-    [
-     "L",
-     1791831851,
-     null,
-     "orven",
-     4647,
-     "t"
-    ],
-    [
-     "L",
-     1791831743,
-     null,
-     "marion",
-     5170,
-     "t"
     ]
    ],
    "marks": [
@@ -5848,8 +5848,8 @@
   }
  ],
  "floors": {
-  "at": 1792160891,
-  "listed": 296,
+  "at": 1792161492,
+  "listed": 295,
   "offers": {
    "marion": {
     "id": 4392,
@@ -5869,11 +5869,6 @@
    "shelo": {
     "id": 4258,
     "eth": 0.1,
-    "tier": "L"
-   },
-   "orven": {
-    "id": 4647,
-    "eth": 0.15,
     "tier": "L"
    },
    "matazuu": {
@@ -5907,11 +5902,6 @@
    "M": null,
    "U": null
   },
-  "orven": {
-   "L": 0.15,
-   "M": null,
-   "U": null
-  },
   "matazuu": {
    "L": 0.25,
    "M": null,
@@ -5922,6 +5912,6 @@
    "M": null,
    "U": null
   },
-  "usd": 2469.26
+  "usd": 2475.33
  }
 }
