@@ -1,8 +1,8 @@
 {
- "updated": 1792183663,
+ "updated": 1792184256,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26207586,
+ "block": 26207634,
  "events": {
   "firstCard": 180
  },
@@ -465,6 +465,14 @@
      "shelo",
      256,
      null
+    ],
+    [
+     "L",
+     1792184219,
+     null,
+     "matazuu",
+     1031,
+     "t"
     ],
     [
      "L",
@@ -1980,14 +1988,6 @@
      "revazial",
      917,
      null
-    ],
-    [
-     "L",
-     1791732035,
-     null,
-     "matazuu",
-     1031,
-     "t"
     ],
     [
      "L",
@@ -5850,8 +5850,8 @@
   }
  ],
  "floors": {
-  "at": 1792183663,
-  "listed": 285,
+  "at": 1792184257,
+  "listed": 288,
   "offers": {
    "marion": {
     "id": 4392,
@@ -5914,6 +5914,6 @@
    "M": null,
    "U": null
   },
-  "usd": 2410.33
+  "usd": 2411.11
  }
 }
