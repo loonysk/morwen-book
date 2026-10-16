@@ -1,8 +1,8 @@
 {
- "updated": 1792154890,
+ "updated": 1792155489,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26205191,
+ "block": 26205241,
  "events": {
   "firstCard": 180
  },
@@ -18,7 +18,7 @@
    "images": {
     "L": "https://hov.fra1.digitaloceanspaces.com/prod/hov_marion_soulthread.png"
    },
-   "holders": 49,
+   "holders": 50,
    "thumbs": {
     "L": "https://loonysk.github.io/morwen-book/cards/7c6a8d9b779aae2f.webp"
    }
@@ -1123,6 +1123,14 @@
     ],
     [
      "L",
+     1792155443,
+     null,
+     "yomihime",
+     1159,
+     "t"
+    ],
+    [
+     "L",
      1791399755,
      null,
      "marion",
@@ -1151,14 +1159,6 @@
      null,
      "revazial",
      4288,
-     null
-    ],
-    [
-     "L",
-     1791746951,
-     null,
-     "marion",
-     4400,
      null
     ],
     [
@@ -2340,43 +2340,6 @@
      "yomihime",
      1157,
      null
-    ]
-   ],
-   "marks": [],
-   "gifted": [],
-   "chance": [],
-   "bought": 0,
-   "spentUsd": 0,
-   "witness": []
-  },
-  {
-   "w": "0xca45…01c7",
-   "addr": "0xca45e15a85ca65f0e3eefbf79a8213966fa701c7",
-   "order": 49,
-   "cards": [
-    [
-     "L",
-     1792008275,
-     null,
-     "yomihime",
-     1159,
-     "t"
-    ],
-    [
-     "L",
-     1791835799,
-     null,
-     "revazial",
-     4939,
-     "t"
-    ],
-    [
-     "L",
-     1791636575,
-     null,
-     null,
-     5061,
-     "t"
     ]
    ],
    "marks": [],
@@ -4331,6 +4294,43 @@
    "witness": []
   },
   {
+   "w": "0xca45…01c7",
+   "addr": "0xca45e15a85ca65f0e3eefbf79a8213966fa701c7",
+   "order": 49,
+   "cards": [
+    [
+     "L",
+     1792155395,
+     null,
+     "marion",
+     4400,
+     "t"
+    ],
+    [
+     "L",
+     1791835799,
+     null,
+     "revazial",
+     4939,
+     "t"
+    ],
+    [
+     "L",
+     1791636575,
+     null,
+     null,
+     5061,
+     "t"
+    ]
+   ],
+   "marks": [],
+   "gifted": [],
+   "chance": [],
+   "bought": 0,
+   "spentUsd": 0,
+   "witness": []
+  },
+  {
    "w": "0x981a…7469",
    "addr": "0x981a4f0cfa1b0f2a4a5738371b61f9f0b9037469",
    "order": 0,
@@ -5848,7 +5848,7 @@
   }
  ],
  "floors": {
-  "at": 1792154891,
+  "at": 1792155490,
   "listed": 300,
   "offers": {
    "marion": {
@@ -5922,6 +5922,6 @@
    "M": null,
    "U": null
   },
-  "usd": 2463.81
+  "usd": 2459.78
  }
 }
