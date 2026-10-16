@@ -1,8 +1,8 @@
 {
- "updated": 1792137495,
+ "updated": 1792138091,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26203745,
+ "block": 26203794,
  "events": {
   "firstCard": 180
  },
@@ -48,7 +48,7 @@
    "images": {
     "L": "https://hov.fra1.digitaloceanspaces.com/prod/hov_matazuu.png"
    },
-   "holders": 46,
+   "holders": 45,
    "thumbs": {
     "L": "https://loonysk.github.io/morwen-book/cards/a56f14d57fe9da96.webp"
    }
@@ -2347,6 +2347,14 @@
      "matazuu",
      1145,
      "t"
+    ],
+    [
+     "L",
+     1792137899,
+     null,
+     "matazuu",
+     4008,
+     "t"
     ]
    ],
    "marks": [],
@@ -4143,27 +4151,6 @@
    "witness": []
   },
   {
-   "w": "0xd7ac…deb9",
-   "addr": "0xd7ac10db879fc98e43c4c2f5ab9920add957deb9",
-   "order": 10,
-   "cards": [
-    [
-     "L",
-     1791712091,
-     null,
-     "matazuu",
-     4008,
-     "t"
-    ]
-   ],
-   "marks": [],
-   "gifted": [],
-   "chance": [],
-   "bought": 0,
-   "spentUsd": 0,
-   "witness": []
-  },
-  {
    "w": "0xcc34…a66b",
    "addr": "0xcc3481e4396733a0598363a5e30314db2a99a66b",
    "order": 0,
@@ -5178,6 +5165,18 @@
    "witness": []
   },
   {
+   "w": "0xd7ac…deb9",
+   "addr": "0xd7ac10db879fc98e43c4c2f5ab9920add957deb9",
+   "order": 10,
+   "cards": [],
+   "marks": [],
+   "gifted": [],
+   "chance": [],
+   "bought": 0,
+   "spentUsd": 0,
+   "witness": []
+  },
+  {
    "w": "0x09a2…e43b",
    "addr": "0x09a24b1b1f25fe163a99d3113a821784ea23e43b",
    "order": 14,
@@ -5841,7 +5840,7 @@
   }
  ],
  "floors": {
-  "at": 1792137496,
+  "at": 1792138092,
   "listed": 304,
   "offers": {
    "yomihime": {
@@ -5915,6 +5914,6 @@
    "M": null,
    "U": null
   },
-  "usd": 2452.7
+  "usd": 2454.05
  }
 }
