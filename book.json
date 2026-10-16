@@ -1,8 +1,8 @@
 {
- "updated": 1792140491,
+ "updated": 1792141092,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26203994,
+ "block": 26204044,
  "events": {
   "firstCard": 180
  },
@@ -3991,13 +3991,21 @@
      null,
      4398,
      null
+    ],
+    [
+     "L",
+     1792140935,
+     null,
+     "revazial",
+     5006,
+     null
     ]
    ],
    "marks": [],
    "gifted": [],
    "chance": [],
-   "bought": 4,
-   "spentUsd": 281,
+   "bought": 5,
+   "spentUsd": 347,
    "witness": []
   },
   {
@@ -4992,40 +5000,6 @@
    "witness": []
   },
   {
-   "w": "0xd9bf…b1e7",
-   "addr": "0xd9bfbfa14002d12164e187cad7ae337d7f01b1e7",
-   "order": 0,
-   "cards": [
-    [
-     "L",
-     1791557939,
-     null,
-     "revazial",
-     5006,
-     null
-    ]
-   ],
-   "marks": [
-    {
-     "k": "flipper",
-     "ally": "marion"
-    }
-   ],
-   "lost": [
-    [
-     "flipper",
-     "L",
-     "marion",
-     5002
-    ]
-   ],
-   "gifted": [],
-   "chance": [],
-   "bought": 0,
-   "spentUsd": 0,
-   "witness": []
-  },
-  {
    "w": "0xdc8f…9679",
    "addr": "0xdc8f62628e51bc4d371d6ea7378b915afb169679",
    "order": 0,
@@ -5814,6 +5788,41 @@
    "witness": []
   },
   {
+   "w": "0xd9bf…b1e7",
+   "addr": "0xd9bfbfa14002d12164e187cad7ae337d7f01b1e7",
+   "order": 0,
+   "cards": [],
+   "marks": [
+    {
+     "k": "flipper",
+     "ally": "marion"
+    },
+    {
+     "k": "flipper",
+     "ally": "revazial"
+    }
+   ],
+   "lost": [
+    [
+     "flipper",
+     "L",
+     "marion",
+     5002
+    ],
+    [
+     "flipper",
+     "L",
+     "revazial",
+     5006
+    ]
+   ],
+   "gifted": [],
+   "chance": [],
+   "bought": 0,
+   "spentUsd": 0,
+   "witness": []
+  },
+  {
    "w": "0xa591…a4d2",
    "addr": "0xa5912117541c8cd0e537e05e81c602c469d2a4d2",
    "order": 0,
@@ -5840,7 +5849,7 @@
   }
  ],
  "floors": {
-  "at": 1792140492,
+  "at": 1792141093,
   "listed": 304,
   "offers": {
    "yomihime": {
@@ -5914,6 +5923,6 @@
    "M": null,
    "U": null
   },
-  "usd": 2457.73
+  "usd": 2455.34
  }
 }
