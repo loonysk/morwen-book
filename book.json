@@ -1,8 +1,8 @@
 {
- "updated": 1792145890,
+ "updated": 1792146491,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26204443,
+ "block": 26204493,
  "events": {
   "firstCard": 180
  },
@@ -33,7 +33,7 @@
    "images": {
     "L": "https://hov.fra1.digitaloceanspaces.com/prod/hov_revazial.png"
    },
-   "holders": 41,
+   "holders": 40,
    "thumbs": {
     "L": "https://loonysk.github.io/morwen-book/cards/92565182053f29b5.webp"
    }
@@ -1951,47 +1951,77 @@
    "witness": []
   },
   {
-   "w": "0x0be9…1381",
-   "addr": "0x0be968d6d8ecaba2de75ca2cd008987289f01381",
-   "order": 0,
+   "w": "0x50e4…1422",
+   "addr": "0x50e43a4d3cbf8f05ce07f3ebc80c7c840b351422",
+   "order": 54,
    "cards": [
     [
      "L",
-     1791395471,
+     1792145927,
      null,
      "revazial",
      917,
      null
+    ],
+    [
+     "L",
+     1791732035,
+     null,
+     "matazuu",
+     1031,
+     "t"
+    ],
+    [
+     "L",
+     1792009511,
+     null,
+     "revazial",
+     2508,
+     "t"
+    ],
+    [
+     "L",
+     1791976907,
+     null,
+     null,
+     4193,
+     null
+    ],
+    [
+     "L",
+     1791831851,
+     null,
+     "orven",
+     4647,
+     "t"
+    ],
+    [
+     "L",
+     1791831743,
+     null,
+     "marion",
+     5170,
+     "t"
     ]
    ],
    "marks": [
     {
      "k": "flipper",
-     "ally": "shelo"
-    },
-    {
-     "k": "flipper",
-     "ally": "orven"
+     "ally": "revazial"
     }
    ],
    "lost": [
     [
      "flipper",
      "L",
-     "shelo",
-     983
-    ],
-    [
-     "flipper",
-     "L",
-     "orven",
-     351
+     "revazial",
+     4288
     ]
    ],
    "gifted": [],
    "chance": [],
-   "bought": 0,
-   "spentUsd": 0,
+   "bought": 2,
+   "spentUsd": 269,
    "witness": []
   },
   {
@@ -2230,72 +2260,6 @@
    "chance": [],
    "bought": 0,
    "spentUsd": 0,
-   "witness": []
-  },
-  {
-   "w": "0x50e4…1422",
-   "addr": "0x50e43a4d3cbf8f05ce07f3ebc80c7c840b351422",
-   "order": 54,
-   "cards": [
-    [
-     "L",
-     1791732035,
-     null,
-     "matazuu",
-     1031,
-     "t"
-    ],
-    [
-     "L",
-     1792009511,
-     null,
-     "revazial",
-     2508,
-     "t"
-    ],
-    [
-     "L",
-     1791976907,
-     null,
-     null,
-     4193,
-     null
-    ],
-    [
-     "L",
-     1791831851,
-     null,
-     "orven",
-     4647,
-     "t"
-    ],
-    [
-     "L",
-     1791831743,
-     null,
-     "marion",
-     5170,
-     "t"
-    ]
-   ],
-   "marks": [
-    {
-     "k": "flipper",
-     "ally": "revazial"
-    }
-   ],
-   "lost": [
-    [
-     "flipper",
-     "L",
-     "revazial",
-     4288
-    ]
-   ],
-   "gifted": [],
-   "chance": [],
-   "bought": 1,
-   "spentUsd": 200,
    "witness": []
   },
   {
@@ -5788,6 +5752,41 @@
    "witness": []
   },
   {
+   "w": "0x0be9…1381",
+   "addr": "0x0be968d6d8ecaba2de75ca2cd008987289f01381",
+   "order": 0,
+   "cards": [],
+   "marks": [
+    {
+     "k": "flipper",
+     "ally": "shelo"
+    },
+    {
+     "k": "flipper",
+     "ally": "orven"
+    }
+   ],
+   "lost": [
+    [
+     "flipper",
+     "L",
+     "shelo",
+     983
+    ],
+    [
+     "flipper",
+     "L",
+     "orven",
+     351
+    ]
+   ],
+   "gifted": [],
+   "chance": [],
+   "bought": 0,
+   "spentUsd": 0,
+   "witness": []
+  },
+  {
    "w": "0xd9bf…b1e7",
    "addr": "0xd9bfbfa14002d12164e187cad7ae337d7f01b1e7",
    "order": 0,
@@ -5849,14 +5848,9 @@
   }
  ],
  "floors": {
-  "at": 1792145890,
-  "listed": 283,
+  "at": 1792146491,
+  "listed": 282,
   "offers": {
-   "revazial": {
-    "id": 917,
-    "eth": 0.028,
-    "tier": "L"
-   },
    "marion": {
     "id": 4392,
     "eth": 0.065,
@@ -5865,6 +5859,11 @@
    "morwen": {
     "id": 180,
     "eth": 0.0799,
+    "tier": "L"
+   },
+   "revazial": {
+    "id": 234,
+    "eth": 0.081,
     "tier": "L"
    },
    "shelo": {
@@ -5888,11 +5887,6 @@
     "tier": "L"
    }
   },
-  "revazial": {
-   "L": 0.028,
-   "M": null,
-   "U": null
-  },
   "marion": {
    "L": 0.065,
    "M": null,
@@ -5900,6 +5894,11 @@
   },
   "morwen": {
    "L": 0.0799,
+   "M": null,
+   "U": null
+  },
+  "revazial": {
+   "L": 0.081,
    "M": null,
    "U": null
   },
@@ -5923,6 +5922,6 @@
    "M": null,
    "U": null
   },
-  "usd": 2449.46
+  "usd": 2449.51
  }
 }
