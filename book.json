@@ -1,8 +1,8 @@
 {
- "updated": 1792157290,
+ "updated": 1792157891,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26205391,
+ "block": 26205441,
  "events": {
   "firstCard": 180
  },
@@ -5848,8 +5848,8 @@
   }
  ],
  "floors": {
-  "at": 1792157290,
-  "listed": 295,
+  "at": 1792157892,
+  "listed": 296,
   "offers": {
    "marion": {
     "id": 4392,
@@ -5882,8 +5882,8 @@
     "tier": "L"
    },
    "yomihime": {
-    "id": 877,
-    "eth": 0.444,
+    "id": 5238,
+    "eth": 0.29999,
     "tier": "L"
    }
   },
@@ -5918,10 +5918,10 @@
    "U": null
   },
   "yomihime": {
-   "L": 0.444,
+   "L": 0.29999,
    "M": null,
    "U": null
   },
-  "usd": 2458.09
+  "usd": 2453.58
  }
 }
