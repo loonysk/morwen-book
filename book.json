@@ -1,8 +1,8 @@
 {
- "updated": 1792179452,
+ "updated": 1792180058,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26207235,
+ "block": 26207285,
  "events": {
   "firstCard": 180
  },
@@ -178,7 +178,9 @@
     ]
    ],
    "marks": [],
-   "gifted": [],
+   "gifted": [
+    "L"
+   ],
    "chance": [],
    "bought": 0,
    "spentUsd": 0,
@@ -5848,7 +5850,7 @@
   }
  ],
  "floors": {
-  "at": 1792179453,
+  "at": 1792180059,
   "listed": 288,
   "offers": {
    "marion": {
@@ -5912,6 +5914,6 @@
    "M": null,
    "U": null
   },
-  "usd": 2403.19
+  "usd": 2403.62
  }
 }
