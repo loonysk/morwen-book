@@ -1,8 +1,8 @@
 {
- "updated": 1792202853,
+ "updated": 1792203454,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26209179,
+ "block": 26209228,
  "events": {
   "firstCard": 180
  },
@@ -5850,7 +5850,7 @@
   }
  ],
  "floors": {
-  "at": 1792202853,
+  "at": 1792203455,
   "listed": 290,
   "offers": {
    "marion": {
@@ -5865,7 +5865,7 @@
    },
    "morwen": {
     "id": 180,
-    "eth": 0.0799,
+    "eth": 0.075,
     "tier": "L"
    },
    "yomihime": {
@@ -5895,7 +5895,7 @@
    "U": null
   },
   "morwen": {
-   "L": 0.0799,
+   "L": 0.075,
    "M": null,
    "U": null
   },
@@ -5914,6 +5914,6 @@
    "M": null,
    "U": null
   },
-  "usd": 2419.94
+  "usd": 2420.02
  }
 }
