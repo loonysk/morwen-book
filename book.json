@@ -1,8 +1,8 @@
 {
- "updated": 1792349835,
+ "updated": 1792350436,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26221383,
+ "block": 26221432,
  "events": {
   "firstCard": 180
  },
@@ -5849,7 +5849,7 @@
   }
  ],
  "floors": {
-  "at": 1792349836,
+  "at": 1792350436,
   "listed": 265,
   "offers": {
    "morwen": {
@@ -5913,6 +5913,6 @@
    "M": null,
    "U": null
   },
-  "usd": 2365.37
+  "usd": 2365.92
  }
 }
