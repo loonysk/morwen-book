@@ -1,8 +1,8 @@
 {
- "updated": 1792350436,
+ "updated": 1792351036,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26221432,
+ "block": 26221482,
  "events": {
   "firstCard": 180
  },
@@ -2004,14 +2004,6 @@
      "revazial",
      2508,
      "t"
-    ],
-    [
-     "L",
-     1791976907,
-     null,
-     null,
-     4193,
-     null
     ]
    ],
    "marks": [
@@ -4162,6 +4154,27 @@
    "witness": []
   },
   {
+   "w": "0x31ab…20c9",
+   "addr": "0x31ab75fc20185490bd22a1d0d5ee6a3ff02720c9",
+   "order": 56,
+   "cards": [
+    [
+     "L",
+     1792350539,
+     null,
+     null,
+     4193,
+     "t"
+    ]
+   ],
+   "marks": [],
+   "gifted": [],
+   "chance": [],
+   "bought": 0,
+   "spentUsd": 0,
+   "witness": []
+  },
+  {
    "w": "0x1763…90cd",
    "addr": "0x1763d8f8a698e57ad1fd4f6df53c85bea51890cd",
    "order": 37,
@@ -5849,8 +5862,8 @@
   }
  ],
  "floors": {
-  "at": 1792350436,
-  "listed": 265,
+  "at": 1792351036,
+  "listed": 264,
   "offers": {
    "morwen": {
     "id": 4978,
@@ -5913,6 +5926,6 @@
    "M": null,
    "U": null
   },
-  "usd": 2365.92
+  "usd": 2366.63
  }
 }
