@@ -1,8 +1,8 @@
 {
- "updated": 1792306035,
+ "updated": 1792306633,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26217745,
+ "block": 26217795,
  "events": {
   "firstCard": 180
  },
@@ -108,7 +108,7 @@
    "images": {
     "L": "https://hov.fra1.digitaloceanspaces.com/prod/hov_orven.png"
    },
-   "holders": 32,
+   "holders": 31,
    "thumbs": {
     "L": "https://loonysk.github.io/morwen-book/cards/9887edeaf75c5a6b.webp"
    }
@@ -739,6 +739,14 @@
      "yomihime",
      3993,
      null
+    ],
+    [
+     "L",
+     1792306223,
+     null,
+     "orven",
+     4874,
+     "t"
     ]
    ],
    "marks": [],
@@ -4808,30 +4816,6 @@
    "witness": []
   },
   {
-   "w": "0xb81e…bb77",
-   "addr": "0xb81e10ee0055de228c42afce86b7e97014b7bb77",
-   "order": 0,
-   "cards": [
-    [
-     "L",
-     1791955367,
-     null,
-     "orven",
-     4874,
-     "t"
-    ]
-   ],
-   "marks": [],
-   "gifted": [
-    "L",
-    "L"
-   ],
-   "chance": [],
-   "bought": 0,
-   "spentUsd": 0,
-   "witness": []
-  },
-  {
    "w": "0xc693…d274",
    "addr": "0xc693173657c9cabcde2beb66e20e44745d8ad274",
    "order": 0,
@@ -5789,6 +5773,21 @@
    "witness": []
   },
   {
+   "w": "0xb81e…bb77",
+   "addr": "0xb81e10ee0055de228c42afce86b7e97014b7bb77",
+   "order": 0,
+   "cards": [],
+   "marks": [],
+   "gifted": [
+    "L",
+    "L"
+   ],
+   "chance": [],
+   "bought": 0,
+   "spentUsd": 0,
+   "witness": []
+  },
+  {
    "w": "0xd9bf…b1e7",
    "addr": "0xd9bfbfa14002d12164e187cad7ae337d7f01b1e7",
    "order": 0,
@@ -5850,7 +5849,7 @@
   }
  ],
  "floors": {
-  "at": 1792306035,
+  "at": 1792306633,
   "listed": 275,
   "offers": {
    "marion": {
@@ -5914,6 +5913,6 @@
    "M": null,
    "U": null
   },
-  "usd": 2410.58
+  "usd": 2407.79
  }
 }
