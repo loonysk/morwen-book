@@ -1,8 +1,8 @@
 {
- "updated": 1792353433,
+ "updated": 1792354033,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26221682,
+ "block": 26221732,
  "events": {
   "firstCard": 180
  },
@@ -93,7 +93,7 @@
    "images": {
     "L": "https://hov.fra1.digitaloceanspaces.com/prod/hov_morwen_greymoor.png"
    },
-   "holders": 40,
+   "holders": 41,
    "thumbs": {
     "L": "https://loonysk.github.io/morwen-book/cards/1ed0a45f92f6d78e.webp"
    }
@@ -116,10 +116,10 @@
  },
  "sales": {
   "L": {
-   "eth": 0.0311,
-   "usd": 74,
-   "ts": 1792059539,
-   "id": 180
+   "eth": 0.06,
+   "usd": 145,
+   "ts": 1792353899,
+   "id": 4978
   }
  },
  "entries": [
@@ -4911,10 +4911,23 @@
      null,
      4975,
      null
-    ],
+    ]
+   ],
+   "marks": [],
+   "gifted": [],
+   "chance": [],
+   "bought": 0,
+   "spentUsd": 0,
+   "witness": []
+  },
+  {
+   "w": "0x03cd…ed97",
+   "addr": "0x03cdb2cc8c72608a31d904700132396ee3f2ed97",
+   "order": 57,
+   "cards": [
     [
      "L",
-     1791557087,
+     1792353899,
      null,
      null,
      4978,
@@ -4924,8 +4937,8 @@
    "marks": [],
    "gifted": [],
    "chance": [],
-   "bought": 0,
-   "spentUsd": 0,
+   "bought": 1,
+   "spentUsd": 145,
    "witness": []
   },
   {
@@ -5862,17 +5875,17 @@
   }
  ],
  "floors": {
-  "at": 1792353433,
-  "listed": 265,
+  "at": 1792354033,
+  "listed": 268,
   "offers": {
-   "morwen": {
-    "id": 4978,
-    "eth": 0.06,
-    "tier": "L"
-   },
    "revazial": {
     "id": 2508,
     "eth": 0.066,
+    "tier": "L"
+   },
+   "morwen": {
+    "id": 180,
+    "eth": 0.07,
     "tier": "L"
    },
    "yomihime": {
@@ -5896,13 +5909,13 @@
     "tier": "L"
    }
   },
-  "morwen": {
-   "L": 0.06,
+  "revazial": {
+   "L": 0.066,
    "M": null,
    "U": null
   },
-  "revazial": {
-   "L": 0.066,
+  "morwen": {
+   "L": 0.07,
    "M": null,
    "U": null
   },
@@ -5926,6 +5939,6 @@
    "M": null,
    "U": null
   },
-  "usd": 2332.51
+  "usd": 2336.39
  }
 }
