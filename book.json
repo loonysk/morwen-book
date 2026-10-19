@@ -1,8 +1,8 @@
 {
- "updated": 1792415237,
+ "updated": 1792415834,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26226812,
+ "block": 26226861,
  "events": {
   "firstCard": 180
  },
@@ -6178,7 +6178,7 @@
   }
  },
  "floors": {
-  "at": 1792415238,
+  "at": 1792415834,
   "listed": 254,
   "offers": {
    "revazial": {
@@ -6207,14 +6207,14 @@
     "tier": "L"
    },
    "matazuu": {
-    "id": 1536,
-    "eth": 0.44,
+    "id": 3525,
+    "eth": 0.3,
     "tier": "L"
    }
   },
   "named": {
    "captain warrior": {
-    "L": 0.0286997,
+    "L": 0.0286999,
     "M": null,
     "U": null
    },
@@ -6250,10 +6250,10 @@
    "U": null
   },
   "matazuu": {
-   "L": 0.44,
+   "L": 0.3,
    "M": null,
    "U": null
   },
-  "usd": 2424.8
+  "usd": 2417.59
  }
 }
