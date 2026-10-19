@@ -1,8 +1,8 @@
 {
- "updated": 1792426036,
+ "updated": 1792426638,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26227710,
+ "block": 26227760,
  "events": {
   "firstCard": 180
  },
@@ -116,10 +116,10 @@
  },
  "sales": {
   "L": {
-   "eth": 0.06,
-   "usd": 144,
-   "ts": 1792353899,
-   "id": 4978
+   "eth": 0.063,
+   "usd": 153,
+   "ts": 1792426247,
+   "id": 4975
   }
  },
  "entries": [
@@ -1485,7 +1485,7 @@
   {
    "w": "0xc146…f619",
    "addr": "0xc146ce37af7dddfb4047610d01081d8a7e38f619",
-   "order": 0,
+   "order": 58,
    "cards": [
     [
      "L",
@@ -1493,6 +1493,14 @@
      null,
      "revazial",
      380,
+     null
+    ],
+    [
+     "L",
+     1792426247,
+     null,
+     null,
+     4975,
      null
     ]
    ],
@@ -1506,8 +1514,8 @@
    ],
    "gifted": [],
    "chance": [],
-   "bought": 1,
-   "spentUsd": 25,
+   "bought": 2,
+   "spentUsd": 178,
    "witness": []
   },
   {
@@ -4983,34 +4991,6 @@
    "witness": []
   },
   {
-   "w": "0x5f07…7f98",
-   "addr": "0x5f07c0fb246ca832c3d3305bec1c8bf21d877f98",
-   "order": 44,
-   "cards": [
-    [
-     "L",
-     1791557003,
-     null,
-     null,
-     4975,
-     null
-    ]
-   ],
-   "marks": [],
-   "gone": [
-    [
-     "L",
-     "morwen",
-     4978
-    ]
-   ],
-   "gifted": [],
-   "chance": [],
-   "bought": 0,
-   "spentUsd": 0,
-   "witness": []
-  },
-  {
    "w": "0x03cd…ed97",
    "addr": "0x03cdb2cc8c72608a31d904700132396ee3f2ed97",
    "order": 57,
@@ -5899,6 +5879,30 @@
    "witness": []
   },
   {
+   "w": "0x5f07…7f98",
+   "addr": "0x5f07c0fb246ca832c3d3305bec1c8bf21d877f98",
+   "order": 44,
+   "cards": [],
+   "marks": [],
+   "gone": [
+    [
+     "L",
+     "morwen",
+     4978
+    ],
+    [
+     "L",
+     "morwen",
+     4975
+    ]
+   ],
+   "gifted": [],
+   "chance": [],
+   "bought": 0,
+   "spentUsd": 0,
+   "witness": []
+  },
+  {
    "w": "0x3bf9…43c0",
    "addr": "0x3bf912ad06225b8a7889ac6044b0dec522a843c0",
    "order": 45,
@@ -6183,22 +6187,22 @@
   }
  },
  "floors": {
-  "at": 1792426037,
-  "listed": 255,
+  "at": 1792426638,
+  "listed": 254,
   "offers": {
    "revazial": {
     "id": 917,
     "eth": 0.0455,
     "tier": "L"
    },
-   "morwen": {
-    "id": 4975,
-    "eth": 0.063,
-    "tier": "L"
-   },
    "yomihime": {
     "id": 1104,
     "eth": 0.067,
+    "tier": "L"
+   },
+   "morwen": {
+    "id": 180,
+    "eth": 0.07,
     "tier": "L"
    },
    "marion": {
@@ -6234,13 +6238,13 @@
    "M": null,
    "U": null
   },
-  "morwen": {
-   "L": 0.063,
+  "yomihime": {
+   "L": 0.067,
    "M": null,
    "U": null
   },
-  "yomihime": {
-   "L": 0.067,
+  "morwen": {
+   "L": 0.07,
    "M": null,
    "U": null
   },
@@ -6259,6 +6263,6 @@
    "M": null,
    "U": null
   },
-  "usd": 2391.3
+  "usd": 2400.75
  }
 }
