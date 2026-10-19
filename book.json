@@ -1,8 +1,8 @@
 {
- "updated": 1792447636,
+ "updated": 1792448234,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26229501,
+ "block": 26229551,
  "events": {
   "firstCard": 180
  },
@@ -6187,7 +6187,7 @@
   }
  },
  "floors": {
-  "at": 1792447637,
+  "at": 1792448234,
   "listed": 257,
   "offers": {
    "revazial": {
@@ -6263,6 +6263,6 @@
    "M": null,
    "U": null
   },
-  "usd": 2405.32
+  "usd": 2412.17
  }
 }
