@@ -1,8 +1,8 @@
 {
- "updated": 1792420636,
+ "updated": 1792421237,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26227262,
+ "block": 26227311,
  "events": {
   "firstCard": 180
  },
@@ -2094,14 +2094,6 @@
     ],
     [
      "L",
-     1792407071,
-     null,
-     "shelo",
-     1409,
-     null
-    ],
-    [
-     "L",
      1792009511,
      null,
      "revazial",
@@ -2148,6 +2140,11 @@
      "L",
      "morwen",
      4193
+    ],
+    [
+     "L",
+     "shelo",
+     1409
     ]
    ],
    "gifted": [],
@@ -2674,6 +2671,68 @@
     ]
    ],
    "marks": [],
+   "gifted": [],
+   "chance": [],
+   "bought": 0,
+   "spentUsd": 0,
+   "witness": []
+  },
+  {
+   "w": "0xca45…01c7",
+   "addr": "0xca45e15a85ca65f0e3eefbf79a8213966fa701c7",
+   "order": 49,
+   "cards": [
+    [
+     "L",
+     1792420943,
+     null,
+     "shelo",
+     1409,
+     "t"
+    ],
+    [
+     "L",
+     1792155395,
+     null,
+     "marion",
+     4400,
+     "t"
+    ],
+    [
+     "L",
+     1791835799,
+     null,
+     "revazial",
+     4939,
+     "t"
+    ],
+    [
+     "L",
+     1791636575,
+     null,
+     null,
+     5061,
+     "t"
+    ]
+   ],
+   "marks": [],
+   "gone": [
+    [
+     "L",
+     "matazuu",
+     1931
+    ],
+    [
+     "L",
+     "yomihime",
+     5021
+    ],
+    [
+     "L",
+     "yomihime",
+     1159
+    ]
+   ],
    "gifted": [],
    "chance": [],
    "bought": 0,
@@ -4372,60 +4431,6 @@
     ]
    ],
    "marks": [],
-   "gifted": [],
-   "chance": [],
-   "bought": 0,
-   "spentUsd": 0,
-   "witness": []
-  },
-  {
-   "w": "0xca45…01c7",
-   "addr": "0xca45e15a85ca65f0e3eefbf79a8213966fa701c7",
-   "order": 49,
-   "cards": [
-    [
-     "L",
-     1792155395,
-     null,
-     "marion",
-     4400,
-     "t"
-    ],
-    [
-     "L",
-     1791835799,
-     null,
-     "revazial",
-     4939,
-     "t"
-    ],
-    [
-     "L",
-     1791636575,
-     null,
-     null,
-     5061,
-     "t"
-    ]
-   ],
-   "marks": [],
-   "gone": [
-    [
-     "L",
-     "matazuu",
-     1931
-    ],
-    [
-     "L",
-     "yomihime",
-     5021
-    ],
-    [
-     "L",
-     "yomihime",
-     1159
-    ]
-   ],
    "gifted": [],
    "chance": [],
    "bought": 0,
@@ -6178,8 +6183,8 @@
   }
  },
  "floors": {
-  "at": 1792420637,
-  "listed": 254,
+  "at": 1792421238,
+  "listed": 253,
   "offers": {
    "revazial": {
     "id": 917,
@@ -6196,14 +6201,14 @@
     "eth": 0.067,
     "tier": "L"
    },
-   "shelo": {
-    "id": 1409,
-    "eth": 0.078,
-    "tier": "L"
-   },
    "marion": {
     "id": 2045,
     "eth": 0.082,
+    "tier": "L"
+   },
+   "shelo": {
+    "id": 4258,
+    "eth": 0.1,
     "tier": "L"
    },
    "matazuu": {
@@ -6239,13 +6244,13 @@
    "M": null,
    "U": null
   },
-  "shelo": {
-   "L": 0.078,
+  "marion": {
+   "L": 0.082,
    "M": null,
    "U": null
   },
-  "marion": {
-   "L": 0.082,
+  "shelo": {
+   "L": 0.1,
    "M": null,
    "U": null
   },
@@ -6254,6 +6259,6 @@
    "M": null,
    "U": null
   },
-  "usd": 2390.32
+  "usd": 2412.69
  }
 }
