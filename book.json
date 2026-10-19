@@ -1,8 +1,8 @@
 {
- "updated": 1792413434,
+ "updated": 1792414034,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26226662,
+ "block": 26226711,
  "events": {
   "firstCard": 180
  },
@@ -6178,7 +6178,7 @@
   }
  },
  "floors": {
-  "at": 1792413434,
+  "at": 1792414034,
   "listed": 254,
   "offers": {
    "revazial": {
@@ -6214,7 +6214,7 @@
   },
   "named": {
    "captain warrior": {
-    "L": 0.0286999,
+    "L": 0.0286997,
     "M": null,
     "U": null
    },
@@ -6254,6 +6254,6 @@
    "M": null,
    "U": null
   },
-  "usd": 2425.54
+  "usd": 2423.15
  }
 }
