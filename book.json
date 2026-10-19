@@ -1,8 +1,8 @@
 {
- "updated": 1792403235,
+ "updated": 1792403834,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26225819,
+ "block": 26225869,
  "events": {
   "firstCard": 180
  },
@@ -6182,22 +6182,22 @@
   }
  },
  "floors": {
-  "at": 1792403236,
-  "listed": 267,
+  "at": 1792403835,
+  "listed": 268,
   "offers": {
    "shelo": {
     "id": 1409,
     "eth": 0.035,
     "tier": "L"
    },
+   "revazial": {
+    "id": 917,
+    "eth": 0.0455,
+    "tier": "L"
+   },
    "marion": {
     "id": 5002,
     "eth": 0.05,
-    "tier": "L"
-   },
-   "revazial": {
-    "id": 2508,
-    "eth": 0.066,
     "tier": "L"
    },
    "morwen": {
@@ -6218,7 +6218,7 @@
   },
   "named": {
    "captain warrior": {
-    "L": 0.0289999,
+    "L": 0.0286999,
     "M": null,
     "U": null
    },
@@ -6233,13 +6233,13 @@
    "M": null,
    "U": null
   },
-  "marion": {
-   "L": 0.05,
+  "revazial": {
+   "L": 0.0455,
    "M": null,
    "U": null
   },
-  "revazial": {
-   "L": 0.066,
+  "marion": {
+   "L": 0.05,
    "M": null,
    "U": null
   },
@@ -6258,6 +6258,6 @@
    "M": null,
    "U": null
   },
-  "usd": 2441.72
+  "usd": 2439.77
  }
 }
