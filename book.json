@@ -1,8 +1,8 @@
 {
- "updated": 1792366035,
+ "updated": 1792369540,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26222730,
+ "block": 26222764,
  "events": {
   "firstCard": 180
  },
@@ -117,7 +117,7 @@
  "sales": {
   "L": {
    "eth": 0.06,
-   "usd": 145,
+   "usd": 144,
    "ts": 1792353899,
    "id": 4978
   }
@@ -249,7 +249,7 @@
    "gifted": [],
    "chance": [],
    "bought": 3,
-   "spentUsd": 223,
+   "spentUsd": 225,
    "witness": []
   },
   {
@@ -315,7 +315,7 @@
    "gifted": [],
    "chance": [],
    "bought": 1,
-   "spentUsd": 267,
+   "spentUsd": 275,
    "witness": []
   },
   {
@@ -508,10 +508,17 @@
     ]
    ],
    "marks": [],
+   "gone": [
+    [
+     "L",
+     "revazial",
+     4288
+    ]
+   ],
    "gifted": [],
    "chance": [],
    "bought": 3,
-   "spentUsd": 192,
+   "spentUsd": 195,
    "witness": []
   },
   {
@@ -532,7 +539,7 @@
    "gifted": [],
    "chance": [],
    "bought": 1,
-   "spentUsd": 74,
+   "spentUsd": 76,
    "witness": []
   },
   {
@@ -1205,10 +1212,17 @@
     ]
    ],
    "marks": [],
+   "gone": [
+    [
+     "L",
+     "marion",
+     4400
+    ]
+   ],
    "gifted": [],
    "chance": [],
    "bought": 3,
-   "spentUsd": 176,
+   "spentUsd": 173,
    "witness": []
   },
   {
@@ -1327,7 +1341,7 @@
    "gifted": [],
    "chance": [],
    "bought": 1,
-   "spentUsd": 58,
+   "spentUsd": 56,
    "witness": []
   },
   {
@@ -1417,7 +1431,7 @@
    "gifted": [],
    "chance": [],
    "bought": 3,
-   "spentUsd": 206,
+   "spentUsd": 202,
    "witness": []
   },
   {
@@ -1435,6 +1449,13 @@
     ]
    ],
    "marks": [],
+   "gone": [
+    [
+     "L",
+     "revazial",
+     3564
+    ]
+   ],
    "gifted": [],
    "chance": [],
    "bought": 1,
@@ -1464,6 +1485,13 @@
     ]
    ],
    "marks": [],
+   "gone": [
+    [
+     "L",
+     "yomihime",
+     2354
+    ]
+   ],
    "gifted": [],
    "chance": [],
    "bought": 0,
@@ -1733,7 +1761,7 @@
    "gifted": [],
    "chance": [],
    "bought": 2,
-   "spentUsd": 209,
+   "spentUsd": 203,
    "witness": []
   },
   {
@@ -1891,10 +1919,17 @@
     ]
    ],
    "marks": [],
+   "gone": [
+    [
+     "L",
+     "revazial",
+     2508
+    ]
+   ],
    "gifted": [],
    "chance": [],
    "bought": 1,
-   "spentUsd": 54,
+   "spentUsd": 55,
    "witness": []
   },
   {
@@ -1920,6 +1955,18 @@
     ]
    ],
    "marks": [],
+   "gone": [
+    [
+     "L",
+     "matazuu",
+     1031
+    ],
+    [
+     "L",
+     "marion",
+     820
+    ]
+   ],
    "gifted": [],
    "chance": [],
    "bought": 0,
@@ -2020,10 +2067,37 @@
      4288
     ]
    ],
+   "gone": [
+    [
+     "L",
+     "marion",
+     820
+    ],
+    [
+     "L",
+     "orven",
+     4647
+    ],
+    [
+     "L",
+     "marion",
+     5170
+    ],
+    [
+     "L",
+     "matazuu",
+     1031
+    ],
+    [
+     "L",
+     "morwen",
+     4193
+    ]
+   ],
    "gifted": [],
    "chance": [],
    "bought": 2,
-   "spentUsd": 269,
+   "spentUsd": 261,
    "witness": []
   },
   {
@@ -2126,7 +2200,7 @@
    "gifted": [],
    "chance": [],
    "bought": 2,
-   "spentUsd": 289,
+   "spentUsd": 281,
    "witness": []
   },
   {
@@ -2258,6 +2332,13 @@
     ]
    ],
    "marks": [],
+   "gone": [
+    [
+     "L",
+     "marion",
+     2199
+    ]
+   ],
    "gifted": [],
    "chance": [],
    "bought": 0,
@@ -2295,6 +2376,18 @@
     ]
    ],
    "marks": [],
+   "gone": [
+    [
+     "L",
+     "yomihime",
+     1159
+    ],
+    [
+     "L",
+     "yomihime",
+     1104
+    ]
+   ],
    "gifted": [],
    "chance": [],
    "bought": 0,
@@ -2401,7 +2494,7 @@
    "gifted": [],
    "chance": [],
    "bought": 4,
-   "spentUsd": 204,
+   "spentUsd": 207,
    "witness": []
   },
   {
@@ -2496,7 +2589,7 @@
    "gifted": [],
    "chance": [],
    "bought": 2,
-   "spentUsd": 280,
+   "spentUsd": 272,
    "witness": [],
    "first": true
   },
@@ -3645,7 +3738,7 @@
    "gifted": [],
    "chance": [],
    "bought": 2,
-   "spentUsd": 261,
+   "spentUsd": 254,
    "witness": []
   },
   {
@@ -3942,7 +4035,7 @@
    "gifted": [],
    "chance": [],
    "bought": 6,
-   "spentUsd": 415,
+   "spentUsd": 418,
    "witness": []
   },
   {
@@ -4355,6 +4448,23 @@
     ]
    ],
    "marks": [],
+   "gone": [
+    [
+     "L",
+     "matazuu",
+     1931
+    ],
+    [
+     "L",
+     "yomihime",
+     5021
+    ],
+    [
+     "L",
+     "yomihime",
+     1159
+    ]
+   ],
    "gifted": [],
    "chance": [],
    "bought": 0,
@@ -4529,6 +4639,13 @@
     ]
    ],
    "marks": [],
+   "gone": [
+    [
+     "L",
+     "yomihime",
+     4580
+    ]
+   ],
    "gifted": [],
    "chance": [],
    "bought": 0,
@@ -4914,6 +5031,13 @@
     ]
    ],
    "marks": [],
+   "gone": [
+    [
+     "L",
+     "morwen",
+     4978
+    ]
+   ],
    "gifted": [],
    "chance": [],
    "bought": 0,
@@ -4938,7 +5062,7 @@
    "gifted": [],
    "chance": [],
    "bought": 1,
-   "spentUsd": 145,
+   "spentUsd": 144,
    "witness": []
   },
   {
@@ -4972,7 +5096,7 @@
    "gifted": [],
    "chance": [],
    "bought": 2,
-   "spentUsd": 111,
+   "spentUsd": 108,
    "witness": []
   },
   {
@@ -5044,6 +5168,13 @@
    "order": 1,
    "cards": [],
    "marks": [],
+   "gone": [
+    [
+     "L",
+     "morwen",
+     180
+    ]
+   ],
    "gifted": [],
    "chance": [],
    "bought": 0,
@@ -5108,6 +5239,13 @@
    "order": 9,
    "cards": [],
    "marks": [],
+   "gone": [
+    [
+     "L",
+     "morwen",
+     869
+    ]
+   ],
    "gifted": [],
    "chance": [],
    "bought": 0,
@@ -5120,6 +5258,23 @@
    "order": 10,
    "cards": [],
    "marks": [],
+   "gone": [
+    [
+     "L",
+     "morwen",
+     1039
+    ],
+    [
+     "L",
+     "matazuu",
+     1145
+    ],
+    [
+     "L",
+     "matazuu",
+     4008
+    ]
+   ],
    "gifted": [],
    "chance": [],
    "bought": 0,
@@ -5142,10 +5297,17 @@
      1332
     ]
    ],
+   "gone": [
+    [
+     "L",
+     "revazial",
+     539
+    ]
+   ],
    "gifted": [],
    "chance": [],
    "bought": 1,
-   "spentUsd": 69,
+   "spentUsd": 71,
    "witness": []
   },
   {
@@ -5321,6 +5483,13 @@
    "order": 19,
    "cards": [],
    "marks": [],
+   "gone": [
+    [
+     "L",
+     "morwen",
+     2485
+    ]
+   ],
    "gifted": [],
    "chance": [],
    "bought": 0,
@@ -5369,6 +5538,31 @@
      "L",
      "yomihime",
      160
+    ]
+   ],
+   "gifted": [],
+   "chance": [],
+   "bought": 0,
+   "spentUsd": 0,
+   "witness": []
+  },
+  {
+   "w": "0x7343…41f6",
+   "addr": "0x7343d91ef2c098b92995dafd496c3392960541f6",
+   "order": 0,
+   "cards": [],
+   "marks": [
+    {
+     "k": "flipper",
+     "ally": "matazuu"
+    }
+   ],
+   "lost": [
+    [
+     "flipper",
+     "L",
+     "matazuu",
+     49
     ]
    ],
    "gifted": [],
@@ -5485,6 +5679,58 @@
    "witness": []
   },
   {
+   "w": "0xb81e…bb77",
+   "addr": "0xb81e10ee0055de228c42afce86b7e97014b7bb77",
+   "order": 0,
+   "cards": [],
+   "marks": [],
+   "gone": [
+    [
+     "L",
+     "marion",
+     3918
+    ],
+    [
+     "L",
+     "matazuu",
+     3950
+    ],
+    [
+     "L",
+     "shelo",
+     3998
+    ],
+    [
+     "L",
+     "revazial",
+     3946
+    ],
+    [
+     "L",
+     "marion",
+     3953
+    ],
+    [
+     "L",
+     "matazuu",
+     4008
+    ],
+    [
+     "L",
+     "orven",
+     4874
+    ]
+   ],
+   "gifted": [
+    "L",
+    "L"
+   ],
+   "chance": [],
+   "bought": 0,
+   "spentUsd": 0,
+   "witness": []
+  },
+  {
    "w": "0x21b9…ae4f",
    "addr": "0x21b9093519fe64ae4fd30f1889c37799ac7cae4f",
    "order": 0,
@@ -5515,6 +5761,18 @@
    "order": 35,
    "cards": [],
    "marks": [],
+   "gone": [
+    [
+     "L",
+     "morwen",
+     4181
+    ],
+    [
+     "L",
+     "revazial",
+     4288
+    ]
+   ],
    "gifted": [],
    "chance": [],
    "bought": 0,
@@ -5613,6 +5871,13 @@
    "order": 40,
    "cards": [],
    "marks": [],
+   "gone": [
+    [
+     "L",
+     "morwen",
+     4676
+    ]
+   ],
    "gifted": [],
    "chance": [],
    "bought": 0,
@@ -5650,6 +5915,63 @@
    "order": 45,
    "cards": [],
    "marks": [],
+   "gone": [
+    [
+     "L",
+     "marion",
+     4285
+    ],
+    [
+     "L",
+     "matazuu",
+     4639
+    ],
+    [
+     "L",
+     "matazuu",
+     5063
+    ],
+    [
+     "L",
+     "revazial",
+     4957
+    ],
+    [
+     "L",
+     "morwen",
+     5061
+    ],
+    [
+     "L",
+     "matazuu",
+     4638
+    ],
+    [
+     "L",
+     "marion",
+     5170
+    ],
+    [
+     "L",
+     "orven",
+     4647
+    ],
+    [
+     "L",
+     "yomihime",
+     5021
+    ],
+    [
+     "L",
+     "revazial",
+     4939
+    ],
+    [
+     "L",
+     "shelo",
+     4985
+    ]
+   ],
    "gifted": [],
    "chance": [],
    "bought": 0,
@@ -5670,31 +5992,6 @@
      "L",
      "morwen",
      5094
-    ]
-   ],
-   "gifted": [],
-   "chance": [],
-   "bought": 0,
-   "spentUsd": 0,
-   "witness": []
-  },
-  {
-   "w": "0x7343…41f6",
-   "addr": "0x7343d91ef2c098b92995dafd496c3392960541f6",
-   "order": 0,
-   "cards": [],
-   "marks": [
-    {
-     "k": "flipper",
-     "ally": "matazuu"
-    }
-   ],
-   "lost": [
-    [
-     "flipper",
-     "L",
-     "matazuu",
-     49
     ]
    ],
    "gifted": [],
@@ -5792,22 +6089,14 @@
      351
     ]
    ],
-   "gifted": [],
-   "chance": [],
-   "bought": 0,
-   "spentUsd": 0,
-   "witness": []
-  },
-  {
-   "w": "0xb81e…bb77",
-   "addr": "0xb81e10ee0055de228c42afce86b7e97014b7bb77",
-   "order": 0,
-   "cards": [],
-   "marks": [],
-   "gifted": [
-    "L",
-    "L"
+   "gone": [
+    [
+     "L",
+     "revazial",
+     917
+    ]
    ],
+   "gifted": [],
    "chance": [],
    "bought": 0,
    "spentUsd": 0,
@@ -5867,6 +6156,13 @@
      3843
     ]
    ],
+   "gone": [
+    [
+     "L",
+     "shelo",
+     3614
+    ]
+   ],
    "gifted": [],
    "chance": [],
    "bought": 0,
@@ -5874,9 +6170,32 @@
    "witness": []
   }
  ],
+ "known": {
+  "1983": {
+   "name": "Captain Warrior",
+   "tier": "L",
+   "hero": null,
+   "image": "https://hov.fra1.digitaloceanspaces.com/prod/hov_captain_warrior.png",
+   "thumb": "https://loonysk.github.io/morwen-book/cards/dc0d6a73719cddc7.webp"
+  },
+  "2454": {
+   "name": "Morvane",
+   "tier": "L",
+   "hero": null,
+   "image": "https://hov.fra1.digitaloceanspaces.com/prod/hov_morvane.png",
+   "thumb": "https://loonysk.github.io/morwen-book/cards/aff3364758e78e2c.webp"
+  },
+  "4051": {
+   "name": "Kael Vorn",
+   "tier": "L",
+   "hero": null,
+   "image": "https://hov.fra1.digitaloceanspaces.com/prod/hov_kael_vorn.png",
+   "thumb": "https://loonysk.github.io/morwen-book/cards/dc04e19d6f5842c9.webp"
+  }
+ },
  "floors": {
-  "at": 1792366035,
-  "listed": 270,
+  "at": 1792369541,
+  "listed": 271,
   "offers": {
    "shelo": {
     "id": 1409,
@@ -5909,6 +6228,18 @@
     "tier": "L"
    }
   },
+  "named": {
+   "captain warrior": {
+    "L": 0.028,
+    "M": null,
+    "U": null
+   },
+   "morvane": {
+    "L": 0.099,
+    "M": null,
+    "U": null
+   }
+  },
   "shelo": {
    "L": 0.035,
    "M": null,
@@ -5939,6 +6270,6 @@
    "M": null,
    "U": null
   },
-  "usd": 2403.15
+  "usd": 2405.18
  }
 }
