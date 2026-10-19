@@ -1,8 +1,8 @@
 {
- "updated": 1792405636,
+ "updated": 1792406235,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26226018,
+ "block": 26226066,
  "events": {
   "firstCard": 180
  },
@@ -6182,7 +6182,7 @@
   }
  },
  "floors": {
-  "at": 1792405641,
+  "at": 1792406235,
   "listed": 268,
   "offers": {
    "shelo": {
@@ -6207,7 +6207,7 @@
    },
    "yomihime": {
     "id": 290,
-    "eth": 0.08,
+    "eth": 0.074,
     "tier": "L"
    },
    "matazuu": {
@@ -6249,7 +6249,7 @@
    "U": null
   },
   "yomihime": {
-   "L": 0.08,
+   "L": 0.074,
    "M": null,
    "U": null
   },
@@ -6258,6 +6258,6 @@
    "M": null,
    "U": null
   },
-  "usd": 2422.26
+  "usd": 2415.92
  }
 }
