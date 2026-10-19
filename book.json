@@ -1,8 +1,8 @@
 {
- "updated": 1792409234,
+ "updated": 1792409838,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26226313,
+ "block": 26226363,
  "events": {
   "firstCard": 180
  },
@@ -18,7 +18,7 @@
    "images": {
     "L": "https://hov.fra1.digitaloceanspaces.com/prod/hov_marion_soulthread.png"
    },
-   "holders": 50,
+   "holders": 49,
    "thumbs": {
     "L": "https://loonysk.github.io/morwen-book/cards/7c6a8d9b779aae2f.webp"
    }
@@ -1465,13 +1465,21 @@
      "marion",
      4285,
      "t"
+    ],
+    [
+     "L",
+     1792409639,
+     null,
+     "marion",
+     5002,
+     null
     ]
    ],
    "marks": [],
    "gifted": [],
    "chance": [],
-   "bought": 3,
-   "spentUsd": 202,
+   "bought": 4,
+   "spentUsd": 292,
    "witness": []
   },
   {
@@ -5019,40 +5027,6 @@
    "witness": []
   },
   {
-   "w": "0x340f…610a",
-   "addr": "0x340fa0f541d8ed0ef8fd73cb727ab0ae7a3c610a",
-   "order": 0,
-   "cards": [
-    [
-     "L",
-     1791812855,
-     null,
-     "marion",
-     5002,
-     null
-    ]
-   ],
-   "marks": [
-    {
-     "k": "flipper",
-     "ally": "revazial"
-    }
-   ],
-   "lost": [
-    [
-     "flipper",
-     "L",
-     "revazial",
-     539
-    ]
-   ],
-   "gifted": [],
-   "chance": [],
-   "bought": 2,
-   "spentUsd": 108,
-   "witness": []
-  },
-  {
    "w": "0xdc8f…9679",
    "addr": "0xdc8f62628e51bc4d371d6ea7378b915afb169679",
    "order": 0,
@@ -5841,6 +5815,41 @@
    "witness": []
   },
   {
+   "w": "0x340f…610a",
+   "addr": "0x340fa0f541d8ed0ef8fd73cb727ab0ae7a3c610a",
+   "order": 0,
+   "cards": [],
+   "marks": [
+    {
+     "k": "flipper",
+     "ally": "revazial"
+    },
+    {
+     "k": "flipper",
+     "ally": "marion"
+    }
+   ],
+   "lost": [
+    [
+     "flipper",
+     "L",
+     "revazial",
+     539
+    ],
+    [
+     "flipper",
+     "L",
+     "marion",
+     5002
+    ]
+   ],
+   "gifted": [],
+   "chance": [],
+   "bought": 2,
+   "spentUsd": 108,
+   "witness": []
+  },
+  {
    "w": "0x4d0e…d411",
    "addr": "0x4d0ebc2a9732c1be19c1f06c740352ccc427d411",
    "order": 40,
@@ -6169,17 +6178,12 @@
   }
  },
  "floors": {
-  "at": 1792409235,
-  "listed": 249,
+  "at": 1792409838,
+  "listed": 250,
   "offers": {
    "revazial": {
     "id": 917,
     "eth": 0.0455,
-    "tier": "L"
-   },
-   "marion": {
-    "id": 5002,
-    "eth": 0.05,
     "tier": "L"
    },
    "morwen": {
@@ -6190,6 +6194,11 @@
    "yomihime": {
     "id": 290,
     "eth": 0.074,
+    "tier": "L"
+   },
+   "marion": {
+    "id": 2045,
+    "eth": 0.082,
     "tier": "L"
    },
    "shelo": {
@@ -6220,11 +6229,6 @@
    "M": null,
    "U": null
   },
-  "marion": {
-   "L": 0.05,
-   "M": null,
-   "U": null
-  },
   "morwen": {
    "L": 0.07,
    "M": null,
@@ -6232,6 +6236,11 @@
   },
   "yomihime": {
    "L": 0.074,
+   "M": null,
+   "U": null
+  },
+  "marion": {
+   "L": 0.082,
    "M": null,
    "U": null
   },
@@ -6245,6 +6254,6 @@
    "M": null,
    "U": null
   },
-  "usd": 2415.38
+  "usd": 2410.91
  }
 }
