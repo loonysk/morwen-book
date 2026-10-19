@@ -1,8 +1,8 @@
 {
- "updated": 1792401434,
+ "updated": 1792402034,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26225668,
+ "block": 26225719,
  "events": {
   "firstCard": 180
  },
@@ -63,7 +63,7 @@
    "images": {
     "L": "https://hov.fra1.digitaloceanspaces.com/prod/hov_yomihime.png"
    },
-   "holders": 40,
+   "holders": 39,
    "thumbs": {
     "L": "https://loonysk.github.io/morwen-book/cards/dfa351374fb18253.webp"
    }
@@ -84,16 +84,16 @@
    }
   },
   "morwen": {
-   "cards": 47,
+   "cards": 46,
    "tiers": {
-    "L": 47,
+    "L": 46,
     "M": 0,
     "U": 0
    },
    "images": {
     "L": "https://hov.fra1.digitaloceanspaces.com/prod/hov_morwen_greymoor.png"
    },
-   "holders": 41,
+   "holders": 40,
    "thumbs": {
     "L": "https://loonysk.github.io/morwen-book/cards/1ed0a45f92f6d78e.webp"
    }
@@ -793,24 +793,64 @@
    "witness": []
   },
   {
-   "w": "0x0696…abc9",
-   "addr": "0x069647c83ac17dabc5caa22bb33c02fafa35abc9",
-   "order": 0,
+   "w": "0x89c8…b158",
+   "addr": "0x89c86d3423b190dc7accb2d5d6ff674f0647b158",
+   "order": 13,
    "cards": [
     [
      "L",
-     1791393227,
+     1792401551,
      null,
      "yomihime",
      193,
+     null
+    ],
+    [
+     "L",
+     1791396527,
+     null,
+     "revazial",
+     1201,
+     null
+    ],
+    [
+     "L",
+     1791397031,
+     null,
+     null,
+     1289,
+     null
+    ],
+    [
+     "L",
+     1791910967,
+     null,
+     "matazuu",
+     1765,
+     null
+    ],
+    [
+     "L",
+     1791452699,
+     null,
+     "matazuu",
+     3646,
+     null
+    ],
+    [
+     "L",
+     1791482087,
+     null,
+     "yomihime",
+     4227,
      null
     ]
    ],
    "marks": [],
    "gifted": [],
    "chance": [],
-   "bought": 0,
-   "spentUsd": 0,
+   "bought": 5,
+   "spentUsd": 317,
    "witness": []
   },
   {
@@ -2442,59 +2482,6 @@
    "chance": [],
    "bought": 0,
    "spentUsd": 0,
-   "witness": []
-  },
-  {
-   "w": "0x89c8…b158",
-   "addr": "0x89c86d3423b190dc7accb2d5d6ff674f0647b158",
-   "order": 13,
-   "cards": [
-    [
-     "L",
-     1791396527,
-     null,
-     "revazial",
-     1201,
-     null
-    ],
-    [
-     "L",
-     1791397031,
-     null,
-     null,
-     1289,
-     null
-    ],
-    [
-     "L",
-     1791910967,
-     null,
-     "matazuu",
-     1765,
-     null
-    ],
-    [
-     "L",
-     1791452699,
-     null,
-     "matazuu",
-     3646,
-     null
-    ],
-    [
-     "L",
-     1791482087,
-     null,
-     "yomihime",
-     4227,
-     null
-    ]
-   ],
-   "marks": [],
-   "gifted": [],
-   "chance": [],
-   "bought": 4,
-   "spentUsd": 207,
    "witness": []
   },
   {
@@ -4247,27 +4234,6 @@
    "witness": []
   },
   {
-   "w": "0x31ab…20c9",
-   "addr": "0x31ab75fc20185490bd22a1d0d5ee6a3ff02720c9",
-   "order": 56,
-   "cards": [
-    [
-     "L",
-     1792350539,
-     null,
-     null,
-     4193,
-     "t"
-    ]
-   ],
-   "marks": [],
-   "gifted": [],
-   "chance": [],
-   "bought": 0,
-   "spentUsd": 0,
-   "witness": []
-  },
-  {
    "w": "0x1763…90cd",
    "addr": "0x1763d8f8a698e57ad1fd4f6df53c85bea51890cd",
    "order": 37,
@@ -5453,6 +5419,28 @@
    "witness": []
   },
   {
+   "w": "0x31ab…20c9",
+   "addr": "0x31ab75fc20185490bd22a1d0d5ee6a3ff02720c9",
+   "order": 56,
+   "cards": [],
+   "marks": [
+    "betrayer"
+   ],
+   "lost": [
+    [
+     "betrayer",
+     "L",
+     "morwen",
+     4193
+    ]
+   ],
+   "gifted": [],
+   "chance": [],
+   "bought": 0,
+   "spentUsd": 0,
+   "witness": []
+  },
+  {
    "w": "0xf2ab…6a1e",
    "addr": "0xf2ab9453c0ab0123600006d0f5d0d27d25466a1e",
    "order": 0,
@@ -6194,17 +6182,12 @@
   }
  },
  "floors": {
-  "at": 1792401434,
-  "listed": 268,
+  "at": 1792402034,
+  "listed": 267,
   "offers": {
    "shelo": {
     "id": 1409,
     "eth": 0.035,
-    "tier": "L"
-   },
-   "yomihime": {
-    "id": 193,
-    "eth": 0.045,
     "tier": "L"
    },
    "marion": {
@@ -6220,6 +6203,11 @@
    "morwen": {
     "id": 180,
     "eth": 0.07,
+    "tier": "L"
+   },
+   "yomihime": {
+    "id": 290,
+    "eth": 0.08,
     "tier": "L"
    },
    "matazuu": {
@@ -6245,11 +6233,6 @@
    "M": null,
    "U": null
   },
-  "yomihime": {
-   "L": 0.045,
-   "M": null,
-   "U": null
-  },
   "marion": {
    "L": 0.05,
    "M": null,
@@ -6265,11 +6248,16 @@
    "M": null,
    "U": null
   },
+  "yomihime": {
+   "L": 0.08,
+   "M": null,
+   "U": null
+  },
   "matazuu": {
    "L": 0.44,
    "M": null,
    "U": null
   },
-  "usd": 2435
+  "usd": 2438.42
  }
 }
