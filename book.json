@@ -1,8 +1,8 @@
 {
- "updated": 1792490235,
+ "updated": 1792490835,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26233040,
+ "block": 26233090,
  "events": {
   "firstCard": 180
  },
@@ -1987,14 +1987,6 @@
      "matazuu",
      873,
      null
-    ],
-    [
-     "L",
-     1791395687,
-     null,
-     "yomihime",
-     993,
-     null
     ]
    ],
    "marks": [],
@@ -2008,6 +2000,11 @@
      "L",
      "marion",
      820
+    ],
+    [
+     "L",
+     "yomihime",
+     993
     ]
    ],
    "gifted": [],
@@ -2086,6 +2083,14 @@
      "revazial",
      917,
      null
+    ],
+    [
+     "L",
+     1792490543,
+     null,
+     "yomihime",
+     993,
+     "t"
     ],
     [
      "L",
@@ -6196,7 +6201,7 @@
   }
  },
  "floors": {
-  "at": 1792490235,
+  "at": 1792490836,
   "listed": 277,
   "offers": {
    "revazial": {
@@ -6272,6 +6277,6 @@
    "M": null,
    "U": null
   },
-  "usd": 2379.84
+  "usd": 2383.66
  }
 }
