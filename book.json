@@ -1,8 +1,8 @@
 {
- "updated": 1792508834,
+ "updated": 1792509435,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26234585,
+ "block": 26234635,
  "events": {
   "firstCard": 180
  },
@@ -6213,8 +6213,8 @@
   }
  },
  "floors": {
-  "at": 1792508835,
-  "listed": 277,
+  "at": 1792509436,
+  "listed": 280,
   "offers": {
    "yomihime": {
     "id": 290,
@@ -6249,7 +6249,7 @@
   },
   "named": {
    "captain warrior": {
-    "L": 0.031,
+    "L": 0.0304,
     "M": null,
     "U": null
    },
@@ -6289,6 +6289,6 @@
    "M": null,
    "U": null
   },
-  "usd": 2463.48
+  "usd": 2441.21
  }
 }
