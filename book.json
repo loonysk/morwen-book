@@ -1,8 +1,8 @@
 {
- "updated": 1792455435,
+ "updated": 1792456034,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26230150,
+ "block": 26230200,
  "events": {
   "firstCard": 180
  },
@@ -93,7 +93,7 @@
    "images": {
     "L": "https://hov.fra1.digitaloceanspaces.com/prod/hov_morwen_greymoor.png"
    },
-   "holders": 40,
+   "holders": 39,
    "thumbs": {
     "L": "https://loonysk.github.io/morwen-book/cards/1ed0a45f92f6d78e.webp"
    }
@@ -116,10 +116,10 @@
  },
  "sales": {
   "L": {
-   "eth": 0.063,
-   "usd": 153,
-   "ts": 1792426247,
-   "id": 4975
+   "eth": 0.07,
+   "usd": 168,
+   "ts": 1792455491,
+   "id": 180
   }
  },
  "entries": [
@@ -522,24 +522,88 @@
    "witness": []
   },
   {
-   "w": "0x77fb…2e47",
-   "addr": "0x77fb843c156c87633333b90ea9a308c8deb32e47",
-   "order": 55,
+   "w": "0xaab9…9eb3",
+   "addr": "0xaab98f0871b991ed3231cea344a2ef5564479eb3",
+   "order": 11,
    "cards": [
     [
      "L",
-     1792059539,
+     1792455491,
      null,
      null,
      180,
+     null
+    ],
+    [
+     "L",
+     1791976259,
+     null,
+     "orven",
+     351,
+     null
+    ],
+    [
+     "L",
+     1791915083,
+     null,
+     "revazial",
+     539,
+     "t"
+    ],
+    [
+     "L",
+     1791654335,
+     null,
+     "shelo",
+     622,
+     null
+    ],
+    [
+     "L",
+     1791396131,
+     null,
+     null,
+     1108,
+     null
+    ],
+    [
+     "L",
+     1791404483,
+     null,
+     "yomihime",
+     2215,
+     null
+    ],
+    [
+     "L",
+     1791451499,
+     null,
+     "matazuu",
+     3599,
+     null
+    ],
+    [
+     "L",
+     1791569723,
+     null,
+     "marion",
+     4285,
+     "t"
+    ],
+    [
+     "L",
+     1792409639,
+     null,
+     "marion",
+     5002,
      null
     ]
    ],
    "marks": [],
    "gifted": [],
    "chance": [],
-   "bought": 1,
-   "spentUsd": 76,
+   "bought": 5,
+   "spentUsd": 460,
    "witness": []
   },
   {
@@ -1403,83 +1467,6 @@
    "chance": [],
    "bought": 0,
    "spentUsd": 0,
-   "witness": []
-  },
-  {
-   "w": "0xaab9…9eb3",
-   "addr": "0xaab98f0871b991ed3231cea344a2ef5564479eb3",
-   "order": 11,
-   "cards": [
-    [
-     "L",
-     1791976259,
-     null,
-     "orven",
-     351,
-     null
-    ],
-    [
-     "L",
-     1791915083,
-     null,
-     "revazial",
-     539,
-     "t"
-    ],
-    [
-     "L",
-     1791654335,
-     null,
-     "shelo",
-     622,
-     null
-    ],
-    [
-     "L",
-     1791396131,
-     null,
-     null,
-     1108,
-     null
-    ],
-    [
-     "L",
-     1791404483,
-     null,
-     "yomihime",
-     2215,
-     null
-    ],
-    [
-     "L",
-     1791451499,
-     null,
-     "matazuu",
-     3599,
-     null
-    ],
-    [
-     "L",
-     1791569723,
-     null,
-     "marion",
-     4285,
-     "t"
-    ],
-    [
-     "L",
-     1792409639,
-     null,
-     "marion",
-     5002,
-     null
-    ]
-   ],
-   "marks": [],
-   "gifted": [],
-   "chance": [],
-   "bought": 4,
-   "spentUsd": 292,
    "witness": []
   },
   {
@@ -6161,6 +6148,28 @@
    "bought": 0,
    "spentUsd": 0,
    "witness": []
+  },
+  {
+   "w": "0x77fb…2e47",
+   "addr": "0x77fb843c156c87633333b90ea9a308c8deb32e47",
+   "order": 55,
+   "cards": [],
+   "marks": [
+    "flipper"
+   ],
+   "lost": [
+    [
+     "flipper",
+     "L",
+     "morwen",
+     180
+    ]
+   ],
+   "gifted": [],
+   "chance": [],
+   "bought": 1,
+   "spentUsd": 76,
+   "witness": []
   }
  ],
  "known": {
@@ -6187,8 +6196,8 @@
   }
  },
  "floors": {
-  "at": 1792455439,
-  "listed": 254,
+  "at": 1792456034,
+  "listed": 256,
   "offers": {
    "revazial": {
     "id": 917,
@@ -6198,11 +6207,6 @@
    "yomihime": {
     "id": 1104,
     "eth": 0.067,
-    "tier": "L"
-   },
-   "morwen": {
-    "id": 180,
-    "eth": 0.07,
     "tier": "L"
    },
    "marion": {
@@ -6218,6 +6222,11 @@
    "matazuu": {
     "id": 3525,
     "eth": 0.3,
+    "tier": "L"
+   },
+   "morwen": {
+    "id": 3222,
+    "eth": 0.367,
     "tier": "L"
    }
   },
@@ -6243,11 +6252,6 @@
    "M": null,
    "U": null
   },
-  "morwen": {
-   "L": 0.07,
-   "M": null,
-   "U": null
-  },
   "marion": {
    "L": 0.082,
    "M": null,
@@ -6263,6 +6267,11 @@
    "M": null,
    "U": null
   },
-  "usd": 2395.8
+  "morwen": {
+   "L": 0.367,
+   "M": null,
+   "U": null
+  },
+  "usd": 2395.23
  }
 }
