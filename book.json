@@ -1,8 +1,8 @@
 {
- "updated": 1792532236,
+ "updated": 1792532836,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26236528,
+ "block": 26236578,
  "events": {
   "firstCard": 180
  },
@@ -18,7 +18,7 @@
    "images": {
     "L": "https://hov.fra1.digitaloceanspaces.com/prod/hov_marion_soulthread.png"
    },
-   "holders": 49,
+   "holders": 50,
    "thumbs": {
     "L": "https://loonysk.github.io/morwen-book/cards/7c6a8d9b779aae2f.webp"
    }
@@ -115,6 +115,18 @@
   }
  },
  "recent": [
+  {
+   "ts": 1792532615,
+   "id": 4815,
+   "tier": "L",
+   "hero": "marion",
+   "kind": "buy",
+   "from": "0x024c178d8884e0722178c5ac7704665b996e3df7",
+   "to": "0x03cdb2cc8c72608a31d904700132396ee3f2ed97",
+   "tx": "0xd0012c2b0c9b686608dd26e064dc19a70ee108cdeb0b66100c04cdaff68a6a8c",
+   "eth": 0.045,
+   "usd": 108
+  },
   {
    "ts": 1792524011,
    "id": 4812,
@@ -3594,6 +3606,14 @@
     ],
     [
      "L",
+     1792532615,
+     null,
+     "marion",
+     4815,
+     null
+    ],
+    [
+     "L",
      1792353899,
      null,
      null,
@@ -3604,8 +3624,8 @@
    "marks": [],
    "gifted": [],
    "chance": [],
-   "bought": 2,
-   "spentUsd": 255,
+   "bought": 3,
+   "spentUsd": 363,
    "witness": []
   },
   {
@@ -4907,14 +4927,6 @@
    "cards": [
     [
      "L",
-     1791550091,
-     null,
-     "marion",
-     4815,
-     null
-    ],
-    [
-     "L",
      1791550943,
      null,
      "marion",
@@ -4936,6 +4948,11 @@
      "L",
      "orven",
      4812
+    ],
+    [
+     "L",
+     "marion",
+     4815
     ]
    ],
    "gifted": [],
@@ -6234,16 +6251,11 @@
   }
  },
  "floors": {
-  "at": 1792532237,
-  "listed": 279,
+  "at": 1792532836,
+  "listed": 278,
   "offers": {
    "shelo": {
     "id": 4840,
-    "eth": 0.045,
-    "tier": "L"
-   },
-   "marion": {
-    "id": 4815,
     "eth": 0.045,
     "tier": "L"
    },
@@ -6255,6 +6267,11 @@
    "revazial": {
     "id": 917,
     "eth": 0.055,
+    "tier": "L"
+   },
+   "marion": {
+    "id": 2045,
+    "eth": 0.082,
     "tier": "L"
    },
    "matazuu": {
@@ -6285,11 +6302,6 @@
    "M": null,
    "U": null
   },
-  "marion": {
-   "L": 0.045,
-   "M": null,
-   "U": null
-  },
   "yomihime": {
    "L": 0.054,
    "M": null,
@@ -6297,6 +6309,11 @@
   },
   "revazial": {
    "L": 0.055,
+   "M": null,
+   "U": null
+  },
+  "marion": {
+   "L": 0.082,
    "M": null,
    "U": null
   },
@@ -6310,6 +6327,6 @@
    "M": null,
    "U": null
   },
-  "usd": 2448.56
+  "usd": 2447.65
  }
 }
