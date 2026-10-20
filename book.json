@@ -1,8 +1,8 @@
 {
- "updated": 1792494434,
+ "updated": 1792495036,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26233390,
+ "block": 26233440,
  "events": {
   "firstCard": 180
  },
@@ -93,7 +93,7 @@
    "images": {
     "L": "https://hov.fra1.digitaloceanspaces.com/prod/hov_morwen_greymoor.png"
    },
-   "holders": 39,
+   "holders": 38,
    "thumbs": {
     "L": "https://loonysk.github.io/morwen-book/cards/1ed0a45f92f6d78e.webp"
    }
@@ -293,6 +293,14 @@
      null,
      447,
      null
+    ],
+    [
+     "L",
+     1792494851,
+     null,
+     null,
+     2421,
+     "t"
     ],
     [
      "L",
@@ -1517,14 +1525,6 @@
      "marion",
      450,
      null
-    ],
-    [
-     "L",
-     1791405947,
-     null,
-     null,
-     2421,
-     null
     ]
    ],
    "marks": [],
@@ -1535,7 +1535,9 @@
      2354
     ]
    ],
-   "gifted": [],
+   "gifted": [
+    "L*"
+   ],
    "chance": [],
    "bought": 0,
    "spentUsd": 0,
@@ -6211,8 +6213,8 @@
   }
  },
  "floors": {
-  "at": 1792494438,
-  "listed": 275,
+  "at": 1792495037,
+  "listed": 274,
   "offers": {
    "yomihime": {
     "id": 290,
@@ -6287,6 +6289,6 @@
    "M": null,
    "U": null
   },
-  "usd": 2382.95
+  "usd": 2383.04
  }
 }
