@@ -1,8 +1,8 @@
 {
- "updated": 1792523840,
+ "updated": 1792524439,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26235829,
+ "block": 26235879,
  "events": {
   "firstCard": 180
  },
@@ -114,6 +114,20 @@
    }
   }
  },
+ "recent": [
+  {
+   "ts": 1792524011,
+   "id": 4812,
+   "tier": "L",
+   "hero": "orven",
+   "kind": "buy",
+   "from": "0x024c178d8884e0722178c5ac7704665b996e3df7",
+   "to": "0x7932cb7ecd74b556d36ab8fabc12d44a3c1365d6",
+   "tx": "0x8adfc7583a419b423bb7a10513d82670cbd49e542604d17b72e34d19dd649008",
+   "eth": 0.05,
+   "usd": 120
+  }
+ ],
  "sales": {
   "L": {
    "eth": 0.07,
@@ -4098,6 +4112,14 @@
     ],
     [
      "L",
+     1792524011,
+     null,
+     "orven",
+     4812,
+     null
+    ],
+    [
+     "L",
      1792140935,
      null,
      "revazial",
@@ -4108,8 +4130,8 @@
    "marks": [],
    "gifted": [],
    "chance": [],
-   "bought": 6,
-   "spentUsd": 418,
+   "bought": 7,
+   "spentUsd": 538,
    "witness": []
   },
   {
@@ -4850,18 +4872,39 @@
    "witness": []
   },
   {
-   "w": "0x024c…3df7",
-   "addr": "0x024c178d8884e0722178c5ac7704665b996e3df7",
+   "w": "0xa3f8…a71b",
+   "addr": "0xa3f84ed7bd917e49d9ed3ef44e6987c00f19a71b",
    "order": 0,
    "cards": [
     [
      "L",
-     1791549971,
+     1791550043,
      null,
-     "orven",
-     4812,
+     "shelo",
+     4814,
      null
     ],
+    [
+     "L",
+     1791550679,
+     null,
+     "shelo",
+     4830,
+     null
+    ]
+   ],
+   "marks": [],
+   "gifted": [],
+   "chance": [],
+   "bought": 0,
+   "spentUsd": 0,
+   "witness": []
+  },
+  {
+   "w": "0x024c…3df7",
+   "addr": "0x024c178d8884e0722178c5ac7704665b996e3df7",
+   "order": 0,
+   "cards": [
     [
      "L",
      1791550091,
@@ -4888,35 +4931,13 @@
     ]
    ],
    "marks": [],
-   "gifted": [],
-   "chance": [],
-   "bought": 0,
-   "spentUsd": 0,
-   "witness": []
-  },
-  {
-   "w": "0xa3f8…a71b",
-   "addr": "0xa3f84ed7bd917e49d9ed3ef44e6987c00f19a71b",
-   "order": 0,
-   "cards": [
+   "gone": [
     [
      "L",
-     1791550043,
-     null,
-     "shelo",
-     4814,
-     null
-    ],
-    [
-     "L",
-     1791550679,
-     null,
-     "shelo",
-     4830,
-     null
+     "orven",
+     4812
     ]
    ],
-   "marks": [],
    "gifted": [],
    "chance": [],
    "bought": 0,
@@ -6213,8 +6234,8 @@
   }
  },
  "floors": {
-  "at": 1792523841,
-  "listed": 278,
+  "at": 1792524439,
+  "listed": 279,
   "offers": {
    "shelo": {
     "id": 4840,
@@ -6224,11 +6245,6 @@
    "marion": {
     "id": 4815,
     "eth": 0.045,
-    "tier": "L"
-   },
-   "orven": {
-    "id": 4812,
-    "eth": 0.05,
     "tier": "L"
    },
    "yomihime": {
@@ -6274,11 +6290,6 @@
    "M": null,
    "U": null
   },
-  "orven": {
-   "L": 0.05,
-   "M": null,
-   "U": null
-  },
   "yomihime": {
    "L": 0.054,
    "M": null,
@@ -6299,6 +6310,6 @@
    "M": null,
    "U": null
   },
-  "usd": 2432.69
+  "usd": 2426.03
  }
 }
