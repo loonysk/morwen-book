@@ -1,8 +1,8 @@
 {
- "updated": 1792492034,
+ "updated": 1792492637,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26233189,
+ "block": 26233240,
  "events": {
   "firstCard": 180
  },
@@ -33,7 +33,7 @@
    "images": {
     "L": "https://hov.fra1.digitaloceanspaces.com/prod/hov_revazial.png"
    },
-   "holders": 40,
+   "holders": 41,
    "thumbs": {
     "L": "https://loonysk.github.io/morwen-book/cards/92565182053f29b5.webp"
    }
@@ -2091,17 +2091,13 @@
      "yomihime",
      993,
      "t"
-    ],
-    [
-     "L",
-     1792009511,
-     null,
-     "revazial",
-     2508,
-     "t"
     ]
    ],
    "marks": [
+    {
+     "k": "flipper",
+     "ally": "revazial"
+    },
     {
      "k": "flipper",
      "ally": "revazial"
@@ -2113,6 +2109,12 @@
      "L",
      "revazial",
      4288
+    ],
+    [
+     "flipper",
+     "L",
+     "revazial",
+     2508
     ]
    ],
    "gone": [
@@ -3562,6 +3564,35 @@
    "witness": []
   },
   {
+   "w": "0x03cd…ed97",
+   "addr": "0x03cdb2cc8c72608a31d904700132396ee3f2ed97",
+   "order": 57,
+   "cards": [
+    [
+     "L",
+     1792492295,
+     null,
+     "revazial",
+     2508,
+     null
+    ],
+    [
+     "L",
+     1792353899,
+     null,
+     null,
+     4978,
+     null
+    ]
+   ],
+   "marks": [],
+   "gifted": [],
+   "chance": [],
+   "bought": 2,
+   "spentUsd": 255,
+   "witness": []
+  },
+  {
    "w": "0xd109…c837",
    "addr": "0xd1090f17355d83a82020d8921e0256eae9a4c837",
    "order": 21,
@@ -4983,27 +5014,6 @@
    "witness": []
   },
   {
-   "w": "0x03cd…ed97",
-   "addr": "0x03cdb2cc8c72608a31d904700132396ee3f2ed97",
-   "order": 57,
-   "cards": [
-    [
-     "L",
-     1792353899,
-     null,
-     null,
-     4978,
-     null
-    ]
-   ],
-   "marks": [],
-   "gifted": [],
-   "chance": [],
-   "bought": 1,
-   "spentUsd": 144,
-   "witness": []
-  },
-  {
    "w": "0xdc8f…9679",
    "addr": "0xdc8f62628e51bc4d371d6ea7378b915afb169679",
    "order": 0,
@@ -6201,17 +6211,17 @@
   }
  },
  "floors": {
-  "at": 1792492035,
-  "listed": 276,
+  "at": 1792492638,
+  "listed": 275,
   "offers": {
-   "revazial": {
-    "id": 2508,
-    "eth": 0.046,
-    "tier": "L"
-   },
    "yomihime": {
     "id": 290,
     "eth": 0.056,
+    "tier": "L"
+   },
+   "revazial": {
+    "id": 234,
+    "eth": 0.081,
     "tier": "L"
    },
    "marion": {
@@ -6247,13 +6257,13 @@
     "U": null
    }
   },
-  "revazial": {
-   "L": 0.046,
+  "yomihime": {
+   "L": 0.056,
    "M": null,
    "U": null
   },
-  "yomihime": {
-   "L": 0.056,
+  "revazial": {
+   "L": 0.081,
    "M": null,
    "U": null
   },
@@ -6277,6 +6287,6 @@
    "M": null,
    "U": null
   },
-  "usd": 2383.61
+  "usd": 2383.13
  }
 }
