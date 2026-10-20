@@ -1,8 +1,8 @@
 {
- "updated": 1792523237,
+ "updated": 1792523840,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26235779,
+ "block": 26235829,
  "events": {
   "firstCard": 180
  },
@@ -6213,9 +6213,24 @@
   }
  },
  "floors": {
-  "at": 1792523237,
-  "listed": 272,
+  "at": 1792523841,
+  "listed": 278,
   "offers": {
+   "shelo": {
+    "id": 4840,
+    "eth": 0.045,
+    "tier": "L"
+   },
+   "marion": {
+    "id": 4815,
+    "eth": 0.045,
+    "tier": "L"
+   },
+   "orven": {
+    "id": 4812,
+    "eth": 0.05,
+    "tier": "L"
+   },
    "yomihime": {
     "id": 290,
     "eth": 0.054,
@@ -6224,16 +6239,6 @@
    "revazial": {
     "id": 917,
     "eth": 0.055,
-    "tier": "L"
-   },
-   "marion": {
-    "id": 2045,
-    "eth": 0.082,
-    "tier": "L"
-   },
-   "shelo": {
-    "id": 4258,
-    "eth": 0.1,
     "tier": "L"
    },
    "matazuu": {
@@ -6259,6 +6264,21 @@
     "U": null
    }
   },
+  "shelo": {
+   "L": 0.045,
+   "M": null,
+   "U": null
+  },
+  "marion": {
+   "L": 0.045,
+   "M": null,
+   "U": null
+  },
+  "orven": {
+   "L": 0.05,
+   "M": null,
+   "U": null
+  },
   "yomihime": {
    "L": 0.054,
    "M": null,
@@ -6266,16 +6286,6 @@
   },
   "revazial": {
    "L": 0.055,
-   "M": null,
-   "U": null
-  },
-  "marion": {
-   "L": 0.082,
-   "M": null,
-   "U": null
-  },
-  "shelo": {
-   "L": 0.1,
    "M": null,
    "U": null
   },
@@ -6289,6 +6299,6 @@
    "M": null,
    "U": null
   },
-  "usd": 2435.11
+  "usd": 2432.69
  }
 }
