@@ -1,8 +1,8 @@
 {
- "updated": 1792574883,
+ "updated": 1792575482,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26240072,
+ "block": 26240122,
  "events": {
   "firstCard": 180
  },
@@ -6282,8 +6282,8 @@
   }
  },
  "floors": {
-  "at": 1792574883,
-  "listed": 274,
+  "at": 1792575483,
+  "listed": 273,
   "offers": {
    "shelo": {
     "id": 4840,
@@ -6318,7 +6318,7 @@
   },
   "named": {
    "captain warrior": {
-    "L": 0.0289,
+    "L": 0.031,
     "M": null,
     "U": null
    },
@@ -6358,6 +6358,6 @@
    "M": null,
    "U": null
   },
-  "usd": 2458.27
+  "usd": 2459.91
  }
 }
