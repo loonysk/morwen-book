@@ -1,8 +1,8 @@
 {
- "updated": 1792565283,
+ "updated": 1792565883,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26239274,
+ "block": 26239323,
  "events": {
   "firstCard": 180
  },
@@ -54,16 +54,16 @@
    }
   },
   "yomihime": {
-   "cards": 55,
+   "cards": 56,
    "tiers": {
-    "L": 55,
+    "L": 56,
     "M": 0,
     "U": 0
    },
    "images": {
     "L": "https://hov.fra1.digitaloceanspaces.com/prod/hov_yomihime.png"
    },
-   "holders": 39,
+   "holders": 40,
    "thumbs": {
     "L": "https://loonysk.github.io/morwen-book/cards/dfa351374fb18253.webp"
    }
@@ -115,6 +115,16 @@
   }
  },
  "recent": [
+  {
+   "ts": 1792565363,
+   "id": 5261,
+   "tier": "L",
+   "hero": "yomihime",
+   "kind": "mint",
+   "from": "0x0000000000000000000000000000000000000000",
+   "to": "0xd1777e34d96c569a984231980178274d28ae64c0",
+   "tx": "0x06a0f9ad3aca2c11a06d7e697318602e78ed521cc98f7291dc6d9346cad6d098"
+  },
   {
    "ts": 1792532615,
    "id": 4815,
@@ -5117,6 +5127,27 @@
    "witness": []
   },
   {
+   "w": "0xd177…64c0",
+   "addr": "0xd1777e34d96c569a984231980178274d28ae64c0",
+   "order": 0,
+   "cards": [
+    [
+     "L",
+     1792565363,
+     null,
+     "yomihime",
+     5261,
+     null
+    ]
+   ],
+   "marks": [],
+   "gifted": [],
+   "chance": [],
+   "bought": 0,
+   "spentUsd": 0,
+   "witness": []
+  },
+  {
    "w": "0x65cd…501f",
    "addr": "0x65cd7306aaccedfb658d19f83694b2bde08b501f",
    "order": 1,
@@ -6251,7 +6282,7 @@
   }
  },
  "floors": {
-  "at": 1792565284,
+  "at": 1792565883,
   "listed": 275,
   "offers": {
    "shelo": {
@@ -6327,6 +6358,6 @@
    "M": null,
    "U": null
   },
-  "usd": 2440.36
+  "usd": 2438.66
  }
 }
