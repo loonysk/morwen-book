@@ -1,8 +1,8 @@
 {
- "updated": 1792574281,
+ "updated": 1792574883,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26240021,
+ "block": 26240072,
  "events": {
   "firstCard": 180
  },
@@ -6282,7 +6282,7 @@
   }
  },
  "floors": {
-  "at": 1792574281,
+  "at": 1792574883,
   "listed": 274,
   "offers": {
    "shelo": {
@@ -6297,7 +6297,7 @@
    },
    "revazial": {
     "id": 917,
-    "eth": 0.055,
+    "eth": 0.05,
     "tier": "L"
    },
    "marion": {
@@ -6339,7 +6339,7 @@
    "U": null
   },
   "revazial": {
-   "L": 0.055,
+   "L": 0.05,
    "M": null,
    "U": null
   },
@@ -6358,6 +6358,6 @@
    "M": null,
    "U": null
   },
-  "usd": 2461.82
+  "usd": 2458.27
  }
 }
