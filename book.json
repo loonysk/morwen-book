@@ -1,8 +1,8 @@
 {
- "updated": 1792649280,
+ "updated": 1792649882,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26246259,
+ "block": 26246310,
  "events": {
   "firstCard": 180
  },
@@ -33,7 +33,7 @@
    "images": {
     "L": "https://hov.fra1.digitaloceanspaces.com/prod/hov_revazial.png"
    },
-   "holders": 41,
+   "holders": 42,
    "thumbs": {
     "L": "https://loonysk.github.io/morwen-book/cards/92565182053f29b5.webp"
    }
@@ -115,6 +115,16 @@
   }
  },
  "recent": [
+  {
+   "ts": 1792649303,
+   "id": 2346,
+   "tier": "L",
+   "hero": "revazial",
+   "kind": "hand",
+   "from": "0xf99bcaff5115e71c6f3c3a97c7d7476299af7bb5",
+   "to": "0x9facd62b81c21a4625ce07fba477e3278ea33cbe",
+   "tx": "0xc487a0542f0dfee3e935eadba361a95bf6d187196c5c419c3c5667ab2ae24a85"
+  },
   {
    "ts": 1792565363,
    "id": 5261,
@@ -3404,14 +3414,6 @@
     ],
     [
      "L",
-     1791405371,
-     null,
-     "revazial",
-     2346,
-     null
-    ],
-    [
-     "L",
      1791405803,
      null,
      "shelo",
@@ -3452,6 +3454,41 @@
     ]
    ],
    "marks": [],
+   "gone": [
+    [
+     "L",
+     "revazial",
+     2346
+    ]
+   ],
+   "gifted": [],
+   "chance": [],
+   "bought": 0,
+   "spentUsd": 0,
+   "witness": []
+  },
+  {
+   "w": "0x9fac…3cbe",
+   "addr": "0x9facd62b81c21a4625ce07fba477e3278ea33cbe",
+   "order": 0,
+   "cards": [
+    [
+     "L",
+     1792649303,
+     null,
+     "revazial",
+     2346,
+     "t"
+    ]
+   ],
+   "marks": [],
+   "gone": [
+    [
+     "L",
+     "shelo",
+     1663
+    ]
+   ],
    "gifted": [],
    "chance": [],
    "bought": 0,
@@ -6282,8 +6319,8 @@
   }
  },
  "floors": {
-  "at": 1792649281,
-  "listed": 258,
+  "at": 1792649882,
+  "listed": 256,
   "offers": {
    "yomihime": {
     "id": 5261,
@@ -6358,6 +6395,6 @@
    "M": null,
    "U": null
   },
-  "usd": 2439.68
+  "usd": 2435.68
  }
 }
