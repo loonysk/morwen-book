@@ -1,8 +1,8 @@
 {
- "updated": 1792671480,
+ "updated": 1792672082,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26248099,
+ "block": 26248150,
  "events": {
   "firstCard": 180
  },
@@ -146,18 +146,6 @@
    "from": "0x0000000000000000000000000000000000000000",
    "to": "0xd1777e34d96c569a984231980178274d28ae64c0",
    "tx": "0x06a0f9ad3aca2c11a06d7e697318602e78ed521cc98f7291dc6d9346cad6d098"
-  },
-  {
-   "ts": 1792532615,
-   "id": 4815,
-   "tier": "L",
-   "hero": "marion",
-   "kind": "buy",
-   "from": "0x024c178d8884e0722178c5ac7704665b996e3df7",
-   "to": "0x03cdb2cc8c72608a31d904700132396ee3f2ed97",
-   "tx": "0xd0012c2b0c9b686608dd26e064dc19a70ee108cdeb0b66100c04cdaff68a6a8c",
-   "eth": 0.045,
-   "usd": 108
   }
  ],
  "sales": {
@@ -6331,7 +6319,7 @@
   }
  },
  "floors": {
-  "at": 1792671481,
+  "at": 1792672083,
   "listed": 258,
   "offers": {
    "yomihime": {
@@ -6407,6 +6395,6 @@
    "M": null,
    "U": null
   },
-  "usd": 2402.14
+  "usd": 2403.64
  }
 }
