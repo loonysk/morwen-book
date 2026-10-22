@@ -1,8 +1,8 @@
 {
- "updated": 1792664282,
+ "updated": 1792664881,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26247502,
+ "block": 26247552,
  "events": {
   "firstCard": 180
  },
@@ -63,7 +63,7 @@
    "images": {
     "L": "https://hov.fra1.digitaloceanspaces.com/prod/hov_yomihime.png"
    },
-   "holders": 40,
+   "holders": 39,
    "thumbs": {
     "L": "https://loonysk.github.io/morwen-book/cards/dfa351374fb18253.webp"
    }
@@ -115,6 +115,18 @@
   }
  },
  "recent": [
+  {
+   "ts": 1792664843,
+   "id": 5261,
+   "tier": "L",
+   "hero": "yomihime",
+   "kind": "buy",
+   "from": "0xd1777e34d96c569a984231980178274d28ae64c0",
+   "to": "0x3861f41e66b0b6fd2d647e1a424599cd181a77c9",
+   "tx": "0x8d82c3b60ab2d42e5367adc279c25cc78ee2a7afcd2d3026a5068d098411f5c3",
+   "eth": 0.0272,
+   "usd": 66
+  },
   {
    "ts": 1792649303,
    "id": 2346,
@@ -1355,6 +1367,14 @@
      "shelo",
      4985,
      "t"
+    ],
+    [
+     "L",
+     1792664843,
+     null,
+     "yomihime",
+     5261,
+     null
     ]
    ],
    "marks": [],
@@ -1367,8 +1387,8 @@
    ],
    "gifted": [],
    "chance": [],
-   "bought": 3,
-   "spentUsd": 173,
+   "bought": 4,
+   "spentUsd": 240,
    "witness": []
   },
   {
@@ -5152,27 +5172,6 @@
    "witness": []
   },
   {
-   "w": "0xd177…64c0",
-   "addr": "0xd1777e34d96c569a984231980178274d28ae64c0",
-   "order": 0,
-   "cards": [
-    [
-     "L",
-     1792565363,
-     null,
-     "yomihime",
-     5261,
-     null
-    ]
-   ],
-   "marks": [],
-   "gifted": [],
-   "chance": [],
-   "bought": 0,
-   "spentUsd": 0,
-   "witness": []
-  },
-  {
    "w": "0x65cd…501f",
    "addr": "0x65cd7306aaccedfb658d19f83694b2bde08b501f",
    "order": 1,
@@ -6281,6 +6280,31 @@
    "bought": 1,
    "spentUsd": 76,
    "witness": []
+  },
+  {
+   "w": "0xd177…64c0",
+   "addr": "0xd1777e34d96c569a984231980178274d28ae64c0",
+   "order": 0,
+   "cards": [],
+   "marks": [
+    {
+     "k": "flipper",
+     "ally": "yomihime"
+    }
+   ],
+   "lost": [
+    [
+     "flipper",
+     "L",
+     "yomihime",
+     5261
+    ]
+   ],
+   "gifted": [],
+   "chance": [],
+   "bought": 0,
+   "spentUsd": 0,
+   "witness": []
   }
  ],
  "known": {
@@ -6307,16 +6331,16 @@
   }
  },
  "floors": {
-  "at": 1792664283,
-  "listed": 257,
+  "at": 1792664881,
+  "listed": 256,
   "offers": {
-   "yomihime": {
-    "id": 5261,
-    "eth": 0.04,
-    "tier": "L"
-   },
    "shelo": {
     "id": 4840,
+    "eth": 0.045,
+    "tier": "L"
+   },
+   "yomihime": {
+    "id": 290,
     "eth": 0.045,
     "tier": "L"
    },
@@ -6353,12 +6377,12 @@
     "U": null
    }
   },
-  "yomihime": {
-   "L": 0.04,
+  "shelo": {
+   "L": 0.045,
    "M": null,
    "U": null
   },
-  "shelo": {
+  "yomihime": {
    "L": 0.045,
    "M": null,
    "U": null
@@ -6383,6 +6407,6 @@
    "M": null,
    "U": null
   },
-  "usd": 2407.27
+  "usd": 2409.65
  }
 }
