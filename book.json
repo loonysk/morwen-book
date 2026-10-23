@@ -1,8 +1,8 @@
 {
- "updated": 1792787841,
+ "updated": 1792788441,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26257761,
+ "block": 26257811,
  "events": {
   "firstCard": 180
  },
@@ -115,6 +115,16 @@
   }
  },
  "recent": [
+  {
+   "ts": 1792787831,
+   "id": 911,
+   "tier": "L",
+   "hero": "matazuu",
+   "kind": "hand",
+   "from": "0x9109b470fa1187278b992f6fc44e03a0a77e7ae1",
+   "to": "0xd36d3f0d7f1b7053914d9bf8875acb86b375edfd",
+   "tx": "0x54f86e0bf88847a07937c0d5ddd4e38f57e0be5e1ed2e06f44fc7cdc45ee3026"
+  },
   {
    "ts": 1792787735,
    "id": 1169,
@@ -332,6 +342,14 @@
      "revazial",
      68,
      null
+    ],
+    [
+     "L",
+     1792787831,
+     null,
+     "matazuu",
+     911,
+     "t"
     ],
     [
      "L",
@@ -2109,34 +2127,6 @@
     ]
    ],
    "marks": [],
-   "gifted": [],
-   "chance": [],
-   "bought": 0,
-   "spentUsd": 0,
-   "witness": []
-  },
-  {
-   "w": "0x9109…7ae1",
-   "addr": "0x9109b470fa1187278b992f6fc44e03a0a77e7ae1",
-   "order": 0,
-   "cards": [
-    [
-     "L",
-     1791395447,
-     null,
-     "matazuu",
-     911,
-     null
-    ]
-   ],
-   "marks": [],
-   "gone": [
-    [
-     "L",
-     "orven",
-     1169
-    ]
-   ],
    "gifted": [],
    "chance": [],
    "bought": 0,
@@ -6356,7 +6346,7 @@
   }
  },
  "floors": {
-  "at": 1792787842,
+  "at": 1792788442,
   "listed": 241,
   "offers": {
    "yomihime": {
@@ -6432,6 +6422,6 @@
    "M": null,
    "U": null
   },
-  "usd": 2396.42
+  "usd": 2400.65
  }
 }
