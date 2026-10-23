@@ -1,8 +1,8 @@
 {
- "updated": 1792787243,
+ "updated": 1792787841,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26257711,
+ "block": 26257761,
  "events": {
   "firstCard": 180
  },
@@ -115,6 +115,16 @@
   }
  },
  "recent": [
+  {
+   "ts": 1792787735,
+   "id": 1169,
+   "tier": "L",
+   "hero": "orven",
+   "kind": "hand",
+   "from": "0x9109b470fa1187278b992f6fc44e03a0a77e7ae1",
+   "to": "0xd36d3f0d7f1b7053914d9bf8875acb86b375edfd",
+   "tx": "0xe15261b4181f7b92349543c951a583f7161bf5b94807e1b676331759953323ec"
+  },
   {
    "ts": 1792764911,
    "id": 917,
@@ -322,6 +332,14 @@
      "revazial",
      68,
      null
+    ],
+    [
+     "L",
+     1792787735,
+     null,
+     "orven",
+     1169,
+     "t"
     ]
    ],
    "marks": [],
@@ -2109,17 +2127,16 @@
      "matazuu",
      911,
      null
-    ],
-    [
-     "L",
-     1791396359,
-     null,
-     "orven",
-     1169,
-     null
     ]
    ],
    "marks": [],
+   "gone": [
+    [
+     "L",
+     "orven",
+     1169
+    ]
+   ],
    "gifted": [],
    "chance": [],
    "bought": 0,
@@ -6339,7 +6356,7 @@
   }
  },
  "floors": {
-  "at": 1792787243,
+  "at": 1792787842,
   "listed": 241,
   "offers": {
    "yomihime": {
@@ -6415,6 +6432,6 @@
    "M": null,
    "U": null
   },
-  "usd": 2393.17
+  "usd": 2396.42
  }
 }
