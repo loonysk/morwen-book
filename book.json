@@ -1,8 +1,8 @@
 {
- "updated": 1792761447,
+ "updated": 1792762046,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26255567,
+ "block": 26255617,
  "events": {
   "firstCard": 180
  },
@@ -63,7 +63,7 @@
    "images": {
     "L": "https://hov.fra1.digitaloceanspaces.com/prod/hov_yomihime.png"
    },
-   "holders": 39,
+   "holders": 38,
    "thumbs": {
     "L": "https://loonysk.github.io/morwen-book/cards/dfa351374fb18253.webp"
    }
@@ -115,6 +115,18 @@
   }
  },
  "recent": [
+  {
+   "ts": 1792761527,
+   "id": 290,
+   "tier": "L",
+   "hero": "yomihime",
+   "kind": "buy",
+   "from": "0x921d50a7e44a4ee3965d117050fb80e6aa1fb948",
+   "to": "0xaab98f0871b991ed3231cea344a2ef5564479eb3",
+   "tx": "0x02e223301b4b0ebfb4ad7cbb317640db1acb3f6f7742c1953d87cf7daa667b68",
+   "eth": 0.033,
+   "usd": 79
+  },
   {
    "ts": 1792702391,
    "id": 993,
@@ -578,6 +590,14 @@
     ],
     [
      "L",
+     1792761527,
+     null,
+     "yomihime",
+     290,
+     null
+    ],
+    [
+     "L",
      1791976259,
      null,
      "orven",
@@ -644,8 +664,8 @@
    "marks": [],
    "gifted": [],
    "chance": [],
-   "bought": 5,
-   "spentUsd": 460,
+   "bought": 6,
+   "spentUsd": 539,
    "witness": []
   },
   {
@@ -1264,27 +1284,6 @@
      null,
      "orven",
      285,
-     null
-    ]
-   ],
-   "marks": [],
-   "gifted": [],
-   "chance": [],
-   "bought": 0,
-   "spentUsd": 0,
-   "witness": []
-  },
-  {
-   "w": "0x921d…b948",
-   "addr": "0x921d50a7e44a4ee3965d117050fb80e6aa1fb948",
-   "order": 0,
-   "cards": [
-    [
-     "L",
-     1791393455,
-     null,
-     "yomihime",
-     290,
      null
     ]
    ],
@@ -6324,14 +6323,9 @@
   }
  },
  "floors": {
-  "at": 1792761448,
-  "listed": 249,
+  "at": 1792762046,
+  "listed": 248,
   "offers": {
-   "yomihime": {
-    "id": 290,
-    "eth": 0.033,
-    "tier": "L"
-   },
    "shelo": {
     "id": 4840,
     "eth": 0.045,
@@ -6340,6 +6334,11 @@
    "revazial": {
     "id": 917,
     "eth": 0.05,
+    "tier": "L"
+   },
+   "yomihime": {
+    "id": 1104,
+    "eth": 0.067,
     "tier": "L"
    },
    "marion": {
@@ -6357,11 +6356,6 @@
     "eth": 0.367,
     "tier": "L"
    }
-  },
-  "yomihime": {
-   "L": 0.033,
-   "M": null,
-   "U": null
   },
   "named": {
    "captain warrior": {
@@ -6385,6 +6379,11 @@
    "M": null,
    "U": null
   },
+  "yomihime": {
+   "L": 0.067,
+   "M": null,
+   "U": null
+  },
   "marion": {
    "L": 0.082,
    "M": null,
@@ -6400,6 +6399,6 @@
    "M": null,
    "U": null
   },
-  "usd": 2394.12
+  "usd": 2402.12
  }
 }
