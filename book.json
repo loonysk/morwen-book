@@ -1,8 +1,8 @@
 {
- "updated": 1792764445,
+ "updated": 1792765046,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26255816,
+ "block": 26255865,
  "events": {
   "firstCard": 180
  },
@@ -33,7 +33,7 @@
    "images": {
     "L": "https://hov.fra1.digitaloceanspaces.com/prod/hov_revazial.png"
    },
-   "holders": 42,
+   "holders": 41,
    "thumbs": {
     "L": "https://loonysk.github.io/morwen-book/cards/92565182053f29b5.webp"
    }
@@ -115,6 +115,18 @@
   }
  },
  "recent": [
+  {
+   "ts": 1792764911,
+   "id": 917,
+   "tier": "L",
+   "hero": "revazial",
+   "kind": "buy",
+   "from": "0x50e43a4d3cbf8f05ce07f3ebc80c7c840b351422",
+   "to": "0x9f6e3b66911fb65ee048b7a352c559f9aaab8c61",
+   "tx": "0x2e8e86a9d8854b483ab5260e8ea3d5a3ca5520bb6fa4552115f500a4ae4ae6db",
+   "eth": 0.024,
+   "usd": 58
+  },
   {
    "ts": 1792761527,
    "id": 290,
@@ -2115,112 +2127,18 @@
    "witness": []
   },
   {
-   "w": "0x50e4…1422",
-   "addr": "0x50e43a4d3cbf8f05ce07f3ebc80c7c840b351422",
-   "order": 54,
-   "cards": [
-    [
-     "L",
-     1792145927,
-     null,
-     "revazial",
-     917,
-     null
-    ]
-   ],
-   "marks": [
-    {
-     "k": "flipper",
-     "ally": "revazial"
-    },
-    {
-     "k": "flipper",
-     "ally": "revazial"
-    }
-   ],
-   "lost": [
-    [
-     "flipper",
-     "L",
-     "revazial",
-     4288
-    ],
-    [
-     "flipper",
-     "L",
-     "revazial",
-     2508
-    ]
-   ],
-   "gone": [
-    [
-     "L",
-     "marion",
-     820
-    ],
-    [
-     "L",
-     "orven",
-     4647
-    ],
-    [
-     "L",
-     "marion",
-     5170
-    ],
-    [
-     "L",
-     "matazuu",
-     1031
-    ],
-    [
-     "L",
-     "morwen",
-     4193
-    ],
-    [
-     "L",
-     "shelo",
-     1409
-    ],
-    [
-     "L",
-     "yomihime",
-     993
-    ]
-   ],
-   "gifted": [],
-   "chance": [],
-   "bought": 3,
-   "spentUsd": 346,
-   "witness": []
-  },
-  {
-   "w": "0x6817…6c9b",
-   "addr": "0x6817e765c1aed3a81affaa9d42da7f90b0796c9b",
-   "order": 0,
-   "cards": [
-    [
-     "L",
-     1792094207,
-     null,
-     "yomihime",
-     927,
-     "t"
-    ]
-   ],
-   "marks": [],
-   "gifted": [],
-   "chance": [],
-   "bought": 0,
-   "spentUsd": 0,
-   "witness": []
-  },
-  {
    "w": "0x9f6e…8c61",
    "addr": "0x9f6e3b66911fb65ee048b7a352c559f9aaab8c61",
    "order": 53,
    "cards": [
+    [
+     "L",
+     1792764911,
+     null,
+     "revazial",
+     917,
+     null
+    ],
     [
      "L",
      1791734519,
@@ -2294,8 +2212,29 @@
    ],
    "gifted": [],
    "chance": [],
-   "bought": 2,
-   "spentUsd": 281,
+   "bought": 3,
+   "spentUsd": 338,
+   "witness": []
+  },
+  {
+   "w": "0x6817…6c9b",
+   "addr": "0x6817e765c1aed3a81affaa9d42da7f90b0796c9b",
+   "order": 0,
+   "cards": [
+    [
+     "L",
+     1792094207,
+     null,
+     "yomihime",
+     927,
+     "t"
+    ]
+   ],
+   "marks": [],
+   "gifted": [],
+   "chance": [],
+   "bought": 0,
+   "spentUsd": 0,
    "witness": []
   },
   {
@@ -5476,6 +5415,83 @@
    "witness": []
   },
   {
+   "w": "0x50e4…1422",
+   "addr": "0x50e43a4d3cbf8f05ce07f3ebc80c7c840b351422",
+   "order": 54,
+   "cards": [],
+   "marks": [
+    {
+     "k": "flipper",
+     "ally": "revazial"
+    },
+    {
+     "k": "flipper",
+     "ally": "revazial"
+    }
+   ],
+   "lost": [
+    [
+     "flipper",
+     "L",
+     "revazial",
+     4288
+    ],
+    [
+     "flipper",
+     "L",
+     "revazial",
+     2508
+    ]
+   ],
+   "gone": [
+    [
+     "L",
+     "marion",
+     820
+    ],
+    [
+     "L",
+     "orven",
+     4647
+    ],
+    [
+     "L",
+     "marion",
+     5170
+    ],
+    [
+     "L",
+     "matazuu",
+     1031
+    ],
+    [
+     "L",
+     "morwen",
+     4193
+    ],
+    [
+     "L",
+     "shelo",
+     1409
+    ],
+    [
+     "L",
+     "yomihime",
+     993
+    ],
+    [
+     "L",
+     "revazial",
+     917
+    ]
+   ],
+   "gifted": [],
+   "chance": [],
+   "bought": 3,
+   "spentUsd": 346,
+   "witness": []
+  },
+  {
    "w": "0xf2ab…6a1e",
    "addr": "0xf2ab9453c0ab0123600006d0f5d0d27d25466a1e",
    "order": 0,
@@ -6323,22 +6339,22 @@
   }
  },
  "floors": {
-  "at": 1792764446,
-  "listed": 248,
+  "at": 1792765046,
+  "listed": 247,
   "offers": {
    "shelo": {
     "id": 4840,
     "eth": 0.045,
     "tier": "L"
    },
-   "revazial": {
-    "id": 917,
-    "eth": 0.06,
-    "tier": "L"
-   },
    "yomihime": {
     "id": 1104,
     "eth": 0.067,
+    "tier": "L"
+   },
+   "revazial": {
+    "id": 3540,
+    "eth": 0.07,
     "tier": "L"
    },
    "marion": {
@@ -6374,13 +6390,13 @@
    "M": null,
    "U": null
   },
-  "revazial": {
-   "L": 0.06,
+  "yomihime": {
+   "L": 0.067,
    "M": null,
    "U": null
   },
-  "yomihime": {
-   "L": 0.067,
+  "revazial": {
+   "L": 0.07,
    "M": null,
    "U": null
   },
@@ -6399,6 +6415,6 @@
    "M": null,
    "U": null
   },
-  "usd": 2406.84
+  "usd": 2381.94
  }
 }
