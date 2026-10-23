@@ -1,8 +1,8 @@
 {
- "updated": 1792724247,
+ "updated": 1792724843,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26252481,
+ "block": 26252530,
  "events": {
   "firstCard": 180
  },
@@ -6334,12 +6334,12 @@
   }
  },
  "floors": {
-  "at": 1792724248,
+  "at": 1792724843,
   "listed": 254,
   "offers": {
    "yomihime": {
     "id": 290,
-    "eth": 0.042,
+    "eth": 0.035,
     "tier": "L"
    },
    "shelo": {
@@ -6368,6 +6368,11 @@
     "tier": "L"
    }
   },
+  "yomihime": {
+   "L": 0.035,
+   "M": null,
+   "U": null
+  },
   "named": {
    "captain warrior": {
     "L": 0.0354,
@@ -6379,11 +6384,6 @@
     "M": null,
     "U": null
    }
-  },
-  "yomihime": {
-   "L": 0.042,
-   "M": null,
-   "U": null
   },
   "shelo": {
    "L": 0.045,
@@ -6410,6 +6410,6 @@
    "M": null,
    "U": null
   },
-  "usd": 2411.27
+  "usd": 2410.66
  }
 }
