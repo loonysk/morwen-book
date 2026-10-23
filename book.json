@@ -1,8 +1,8 @@
 {
- "updated": 1792738642,
+ "updated": 1792739243,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26253674,
+ "block": 26253724,
  "events": {
   "firstCard": 180
  },
@@ -146,16 +146,6 @@
    "from": "0xf99bcaff5115e71c6f3c3a97c7d7476299af7bb5",
    "to": "0x9facd62b81c21a4625ce07fba477e3278ea33cbe",
    "tx": "0xc487a0542f0dfee3e935eadba361a95bf6d187196c5c419c3c5667ab2ae24a85"
-  },
-  {
-   "ts": 1792565363,
-   "id": 5261,
-   "tier": "L",
-   "hero": "yomihime",
-   "kind": "mint",
-   "from": "0x0000000000000000000000000000000000000000",
-   "to": "0xd1777e34d96c569a984231980178274d28ae64c0",
-   "tx": "0x06a0f9ad3aca2c11a06d7e697318602e78ed521cc98f7291dc6d9346cad6d098"
   }
  ],
  "sales": {
@@ -6334,7 +6324,7 @@
   }
  },
  "floors": {
-  "at": 1792738643,
+  "at": 1792739243,
   "listed": 262,
   "offers": {
    "yomihime": {
@@ -6410,6 +6400,6 @@
    "M": null,
    "U": null
   },
-  "usd": 2405.88
+  "usd": 2402.54
  }
 }
