@@ -1,8 +1,8 @@
 {
- "updated": 1792822643,
+ "updated": 1792823242,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26260652,
+ "block": 26260702,
  "events": {
   "firstCard": 180
  },
@@ -6377,7 +6377,7 @@
   }
  },
  "floors": {
-  "at": 1792822644,
+  "at": 1792823243,
   "listed": 239,
   "offers": {
    "marion": {
@@ -6453,6 +6453,6 @@
    "M": null,
    "U": null
   },
-  "usd": 2377.29
+  "usd": 2375.97
  }
 }
