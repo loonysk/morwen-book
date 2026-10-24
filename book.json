@@ -1,8 +1,8 @@
 {
- "updated": 1792856240,
+ "updated": 1792856845,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26263446,
+ "block": 26263496,
  "events": {
   "firstCard": 180
  },
@@ -188,18 +188,6 @@
    "from": "0x50e43a4d3cbf8f05ce07f3ebc80c7c840b351422",
    "to": "0xca45e15a85ca65f0e3eefbf79a8213966fa701c7",
    "tx": "0xd8e2f00b41e0d8c8c23c25ca61a2d955b3f478de1959eaf7d3e9cbcf020cdbff"
-  },
-  {
-   "ts": 1792664843,
-   "id": 5261,
-   "tier": "L",
-   "hero": "yomihime",
-   "kind": "buy",
-   "from": "0xd1777e34d96c569a984231980178274d28ae64c0",
-   "to": "0x3861f41e66b0b6fd2d647e1a424599cd181a77c9",
-   "tx": "0x8d82c3b60ab2d42e5367adc279c25cc78ee2a7afcd2d3026a5068d098411f5c3",
-   "eth": 0.0272,
-   "usd": 66
   }
  ],
  "sales": {
@@ -6367,7 +6355,7 @@
   }
  },
  "floors": {
-  "at": 1792856241,
+  "at": 1792856845,
   "listed": 247,
   "offers": {
    "marion": {
@@ -6443,6 +6431,6 @@
    "M": null,
    "U": null
   },
-  "usd": 2293.71
+  "usd": 2294.33
  }
 }
