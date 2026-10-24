@@ -1,8 +1,8 @@
 {
- "updated": 1792864641,
+ "updated": 1792865244,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26264144,
+ "block": 26264194,
  "events": {
   "firstCard": 180
  },
@@ -18,7 +18,7 @@
    "images": {
     "L": "https://hov.fra1.digitaloceanspaces.com/prod/hov_marion_soulthread.png"
    },
-   "holders": 51,
+   "holders": 50,
    "thumbs": {
     "L": "https://loonysk.github.io/morwen-book/cards/7c6a8d9b779aae2f.webp"
    }
@@ -116,6 +116,18 @@
  },
  "recent": [
   {
+   "ts": 1792864823,
+   "id": 2676,
+   "tier": "L",
+   "hero": "marion",
+   "kind": "buy",
+   "from": "0x50e43a4d3cbf8f05ce07f3ebc80c7c840b351422",
+   "to": "0x3861f41e66b0b6fd2d647e1a424599cd181a77c9",
+   "tx": "0xa3ef3183858d0ea311ec5c23a2cbdc63d73ca99a1195ebeec120a85529a7d0f1",
+   "eth": 0.0302,
+   "usd": 71
+  },
+  {
    "ts": 1792819007,
    "id": 2558,
    "tier": "L",
@@ -178,16 +190,6 @@
    "tx": "0x02e223301b4b0ebfb4ad7cbb317640db1acb3f6f7742c1953d87cf7daa667b68",
    "eth": 0.033,
    "usd": 79
-  },
-  {
-   "ts": 1792702391,
-   "id": 993,
-   "tier": "L",
-   "hero": "yomihime",
-   "kind": "hand",
-   "from": "0x50e43a4d3cbf8f05ce07f3ebc80c7c840b351422",
-   "to": "0xca45e15a85ca65f0e3eefbf79a8213966fa701c7",
-   "tx": "0xd8e2f00b41e0d8c8c23c25ca61a2d955b3f478de1959eaf7d3e9cbcf020cdbff"
   }
  ],
  "sales": {
@@ -1387,6 +1389,14 @@
     ],
     [
      "L",
+     1792864823,
+     null,
+     "marion",
+     2676,
+     null
+    ],
+    [
+     "L",
      1791995423,
      null,
      "revazial",
@@ -1420,8 +1430,8 @@
    ],
    "gifted": [],
    "chance": [],
-   "bought": 4,
-   "spentUsd": 240,
+   "bought": 5,
+   "spentUsd": 311,
    "witness": []
   },
   {
@@ -3625,14 +3635,6 @@
      "orven",
      2558,
      "t"
-    ],
-    [
-     "L",
-     1792818935,
-     null,
-     "marion",
-     2676,
-     "t"
     ]
    ],
    "marks": [
@@ -3643,6 +3645,10 @@
     {
      "k": "flipper",
      "ally": "revazial"
+    },
+    {
+     "k": "flipper",
+     "ally": "marion"
     }
    ],
    "lost": [
@@ -3657,6 +3663,12 @@
      "L",
      "revazial",
      2508
+    ],
+    [
+     "flipper",
+     "L",
+     "marion",
+     2676
     ]
    ],
    "gone": [
@@ -6355,8 +6367,8 @@
   }
  },
  "floors": {
-  "at": 1792864641,
-  "listed": 243,
+  "at": 1792865245,
+  "listed": 244,
   "offers": {
    "marion": {
     "id": 4392,
@@ -6431,6 +6443,6 @@
    "M": null,
    "U": null
   },
-  "usd": 2320.54
+  "usd": 2322.45
  }
 }
