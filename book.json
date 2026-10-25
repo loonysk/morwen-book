@@ -1,8 +1,8 @@
 {
- "updated": 1792963643,
+ "updated": 1792964242,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26272373,
+ "block": 26272422,
  "events": {
   "firstCard": 180
  },
@@ -6337,8 +6337,8 @@
   }
  },
  "floors": {
-  "at": 1792963643,
-  "listed": 251,
+  "at": 1792964243,
+  "listed": 253,
   "offers": {
    "marion": {
     "id": 4392,
@@ -6377,13 +6377,13 @@
    }
   },
   "named": {
-   "captain warrior": {
-    "L": 0.0247,
+   "morvane": {
+    "L": 0.022,
     "M": null,
     "U": null
    },
-   "morvane": {
-    "L": 0.099,
+   "captain warrior": {
+    "L": 0.0247,
     "M": null,
     "U": null
    }
@@ -6423,6 +6423,6 @@
    "M": null,
    "U": null
   },
-  "usd": 2339.23
+  "usd": 2338.06
  }
 }
