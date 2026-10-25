@@ -1,8 +1,8 @@
 {
- "updated": 1792930646,
+ "updated": 1792931244,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26269635,
+ "block": 26269684,
  "events": {
   "firstCard": 180
  },
@@ -116,6 +116,16 @@
  },
  "recent": [
   {
+   "ts": 1792931183,
+   "id": 4460,
+   "tier": "L",
+   "hero": "orven",
+   "kind": "hand",
+   "from": "0x444e0c41f5001d5dbd11328df76c741fd9a3190b",
+   "to": "0x60c854881298f9913e059657fe97698b12256053",
+   "tx": "0x4f0004601dca5b50bd0c060691fcd5756a999622c6f0efae32bf52ed30972889"
+  },
+  {
    "ts": 1792864823,
    "id": 2676,
    "tier": "L",
@@ -146,26 +156,6 @@
    "from": "0xf99bcaff5115e71c6f3c3a97c7d7476299af7bb5",
    "to": "0x50e43a4d3cbf8f05ce07f3ebc80c7c840b351422",
    "tx": "0x24dc9d4017a466d4c82adc10b6f8fbdaa6b08aaf18cc4288ebe6ee072ec80123"
-  },
-  {
-   "ts": 1792787831,
-   "id": 911,
-   "tier": "L",
-   "hero": "matazuu",
-   "kind": "hand",
-   "from": "0x9109b470fa1187278b992f6fc44e03a0a77e7ae1",
-   "to": "0xd36d3f0d7f1b7053914d9bf8875acb86b375edfd",
-   "tx": "0x54f86e0bf88847a07937c0d5ddd4e38f57e0be5e1ed2e06f44fc7cdc45ee3026"
-  },
-  {
-   "ts": 1792787735,
-   "id": 1169,
-   "tier": "L",
-   "hero": "orven",
-   "kind": "hand",
-   "from": "0x9109b470fa1187278b992f6fc44e03a0a77e7ae1",
-   "to": "0xd36d3f0d7f1b7053914d9bf8875acb86b375edfd",
-   "tx": "0xe15261b4181f7b92349543c951a583f7161bf5b94807e1b676331759953323ec"
   }
  ],
  "sales": {
@@ -4630,18 +4620,31 @@
    "witness": []
   },
   {
-   "w": "0x444e…190b",
-   "addr": "0x444e0c41f5001d5dbd11328df76c741fd9a3190b",
+   "w": "0x60c8…6053",
+   "addr": "0x60c854881298f9913e059657fe97698b12256053",
    "order": 0,
    "cards": [
     [
      "L",
-     1791527099,
+     1792931183,
      null,
      "orven",
      4460,
-     null
-    ],
+     "t"
+    ]
+   ],
+   "marks": [],
+   "gifted": [],
+   "chance": [],
+   "bought": 0,
+   "spentUsd": 0,
+   "witness": []
+  },
+  {
+   "w": "0x444e…190b",
+   "addr": "0x444e0c41f5001d5dbd11328df76c741fd9a3190b",
+   "order": 0,
+   "cards": [
     [
      "L",
      1791527231,
@@ -4652,6 +4655,13 @@
     ]
    ],
    "marks": [],
+   "gone": [
+    [
+     "L",
+     "orven",
+     4460
+    ]
+   ],
    "gifted": [],
    "chance": [],
    "bought": 0,
@@ -6343,7 +6353,7 @@
   }
  },
  "floors": {
-  "at": 1792930646,
+  "at": 1792931245,
   "listed": 260,
   "offers": {
    "marion": {
@@ -6419,6 +6429,6 @@
    "M": null,
    "U": null
   },
-  "usd": 2331.38
+  "usd": 2327.08
  }
 }
