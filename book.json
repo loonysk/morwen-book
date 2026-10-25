@@ -1,8 +1,8 @@
 {
- "updated": 1792966642,
+ "updated": 1792967243,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26272622,
+ "block": 26272672,
  "events": {
   "firstCard": 180
  },
@@ -124,18 +124,6 @@
    "from": "0x444e0c41f5001d5dbd11328df76c741fd9a3190b",
    "to": "0x60c854881298f9913e059657fe97698b12256053",
    "tx": "0x4f0004601dca5b50bd0c060691fcd5756a999622c6f0efae32bf52ed30972889"
-  },
-  {
-   "ts": 1792864823,
-   "id": 2676,
-   "tier": "L",
-   "hero": "marion",
-   "kind": "buy",
-   "from": "0x50e43a4d3cbf8f05ce07f3ebc80c7c840b351422",
-   "to": "0x3861f41e66b0b6fd2d647e1a424599cd181a77c9",
-   "tx": "0xa3ef3183858d0ea311ec5c23a2cbdc63d73ca99a1195ebeec120a85529a7d0f1",
-   "eth": 0.0302,
-   "usd": 71
   }
  ],
  "sales": {
@@ -6337,7 +6325,7 @@
   }
  },
  "floors": {
-  "at": 1792966643,
+  "at": 1792967244,
   "listed": 253,
   "offers": {
    "marion": {
