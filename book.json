@@ -1,8 +1,8 @@
 {
- "updated": 1792999645,
+ "updated": 1793000244,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26275362,
+ "block": 26275411,
  "events": {
   "firstCard": 180
  },
@@ -18,7 +18,7 @@
    "images": {
     "L": "https://hov.fra1.digitaloceanspaces.com/prod/hov_marion_soulthread.png"
    },
-   "holders": 50,
+   "holders": 49,
    "thumbs": {
     "L": "https://loonysk.github.io/morwen-book/cards/7c6a8d9b779aae2f.webp"
    }
@@ -114,6 +114,18 @@
    }
   }
  },
+ "recent": [
+  {
+   "ts": 1792999811,
+   "id": 364,
+   "tier": "L",
+   "hero": "marion",
+   "kind": "hand",
+   "from": "0xa160fc3af4a0dce0f44eacc96258706543206059",
+   "to": "0x412cebecf4f4651029fcf7941e5460f8094cd98d",
+   "tx": "0x9b1906741754fecb064bd99c45f5ee395978721fe769eccf4e78f9b1e765e6d3"
+  }
+ ],
  "sales": {
   "L": {
    "eth": 0.07,
@@ -134,6 +146,14 @@
      null,
      "marion",
      17,
+     "t"
+    ],
+    [
+     "L",
+     1792999811,
+     null,
+     "marion",
+     364,
      "t"
     ],
     [
@@ -362,17 +382,16 @@
      "revazial",
      234,
      null
-    ],
-    [
-     "L",
-     1791393635,
-     null,
-     "marion",
-     364,
-     null
     ]
    ],
    "marks": [],
+   "gone": [
+    [
+     "L",
+     "marion",
+     364
+    ]
+   ],
    "gifted": [],
    "chance": [],
    "bought": 0,
@@ -6313,7 +6332,7 @@
   }
  },
  "floors": {
-  "at": 1792999646,
+  "at": 1793000245,
   "listed": 240,
   "offers": {
    "marion": {
@@ -6399,6 +6418,6 @@
    "M": null,
    "U": null
   },
-  "usd": 2316.43
+  "usd": 2310.97
  }
 }
