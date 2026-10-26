@@ -1,8 +1,8 @@
 {
- "updated": 1792990041,
+ "updated": 1792990645,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26274564,
+ "block": 26274615,
  "events": {
   "firstCard": 180
  },
@@ -6325,7 +6325,7 @@
   }
  },
  "floors": {
-  "at": 1792990047,
+  "at": 1792990646,
   "listed": 247,
   "offers": {
    "marion": {
@@ -6366,7 +6366,7 @@
   },
   "named": {
    "morvane": {
-    "L": 0.022,
+    "L": 0.018,
     "M": null,
     "U": null
    },
@@ -6411,6 +6411,6 @@
    "M": null,
    "U": null
   },
-  "usd": 2311.41
+  "usd": 2315.44
  }
 }
