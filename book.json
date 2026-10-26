@@ -1,8 +1,8 @@
 {
- "updated": 1793021242,
+ "updated": 1793021843,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26277152,
+ "block": 26277202,
  "events": {
   "firstCard": 180
  },
@@ -18,7 +18,7 @@
    "images": {
     "L": "https://hov.fra1.digitaloceanspaces.com/prod/hov_marion_soulthread.png"
    },
-   "holders": 49,
+   "holders": 48,
    "thumbs": {
     "L": "https://loonysk.github.io/morwen-book/cards/7c6a8d9b779aae2f.webp"
    }
@@ -115,6 +115,16 @@
   }
  },
  "recent": [
+  {
+   "ts": 1793021723,
+   "id": 3118,
+   "tier": "L",
+   "hero": "marion",
+   "kind": "hand",
+   "from": "0xbf05d6829a12752d41c1aabc6769d63960f4817a",
+   "to": "0x5ad8d6792b9bdd1844e27dc3f17a4924d9c4fe1b",
+   "tx": "0x527356d785196dac0251401c8c9f5ce49b975101cf190946f7233917559349cd"
+  },
   {
    "ts": 1792999811,
    "id": 364,
@@ -3934,14 +3944,6 @@
     ],
     [
      "L",
-     1791419399,
-     null,
-     "marion",
-     3118,
-     null
-    ],
-    [
-     "L",
      1791421559,
      null,
      null,
@@ -3955,6 +3957,50 @@
      "matazuu",
      3168,
      null
+    ]
+   ],
+   "marks": [],
+   "gone": [
+    [
+     "L",
+     "marion",
+     3118
+    ]
+   ],
+   "gifted": [],
+   "chance": [],
+   "bought": 0,
+   "spentUsd": 0,
+   "witness": []
+  },
+  {
+   "w": "0x5ad8…fe1b",
+   "addr": "0x5ad8d6792b9bdd1844e27dc3f17a4924d9c4fe1b",
+   "order": 0,
+   "cards": [
+    [
+     "L",
+     1793021723,
+     null,
+     "marion",
+     3118,
+     "t"
+    ],
+    [
+     "L",
+     1791641651,
+     null,
+     "marion",
+     3953,
+     "t"
+    ],
+    [
+     "L",
+     1791574547,
+     null,
+     "matazuu",
+     4639,
+     "t"
     ]
    ],
    "marks": [],
@@ -4280,35 +4326,6 @@
      null,
      "matazuu",
      3950,
-     "t"
-    ]
-   ],
-   "marks": [],
-   "gifted": [],
-   "chance": [],
-   "bought": 0,
-   "spentUsd": 0,
-   "witness": []
-  },
-  {
-   "w": "0x5ad8…fe1b",
-   "addr": "0x5ad8d6792b9bdd1844e27dc3f17a4924d9c4fe1b",
-   "order": 0,
-   "cards": [
-    [
-     "L",
-     1791641651,
-     null,
-     "marion",
-     3953,
-     "t"
-    ],
-    [
-     "L",
-     1791574547,
-     null,
-     "matazuu",
-     4639,
      "t"
     ]
    ],
@@ -6332,7 +6349,7 @@
   }
  },
  "floors": {
-  "at": 1793021243,
+  "at": 1793021843,
   "listed": 237,
   "offers": {
    "marion": {
@@ -6418,6 +6435,6 @@
    "M": null,
    "U": null
   },
-  "usd": 2308.08
+  "usd": 2306.79
  }
 }
