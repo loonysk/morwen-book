@@ -1,8 +1,8 @@
 {
- "updated": 1793091441,
+ "updated": 1793092045,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26282989,
+ "block": 26283039,
  "events": {
   "firstCard": 180
  },
@@ -6365,8 +6365,8 @@
   }
  },
  "floors": {
-  "at": 1793091442,
-  "listed": 226,
+  "at": 1793092045,
+  "listed": 225,
   "offers": {
    "yomihime": {
     "id": 1104,
@@ -6401,7 +6401,7 @@
   },
   "named": {
    "morvane": {
-    "L": 0.018,
+    "L": 0.016,
     "M": null,
     "U": null
    }
@@ -6436,6 +6436,6 @@
    "M": null,
    "U": null
   },
-  "usd": 2308.7
+  "usd": 2311.26
  }
 }
