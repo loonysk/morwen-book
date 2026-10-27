@@ -1,8 +1,8 @@
 {
- "updated": 1793141252,
+ "updated": 1793141853,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26287132,
+ "block": 26287181,
  "events": {
   "firstCard": 180
  },
@@ -6345,7 +6345,7 @@
   }
  },
  "floors": {
-  "at": 1793141253,
+  "at": 1793141854,
   "listed": 224,
   "offers": {
    "yomihime": {
@@ -6426,6 +6426,6 @@
    "M": null,
    "U": null
   },
-  "usd": 2346.16
+  "usd": 2347.28
  }
 }
