@@ -1,8 +1,8 @@
 {
- "updated": 1793217456,
+ "updated": 1793218062,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26293466,
+ "block": 26293517,
  "events": {
   "firstCard": 180,
   "firstUnique": 1793190815
@@ -124,6 +124,16 @@
   }
  },
  "recent": [
+  {
+   "ts": 1793217431,
+   "id": 450,
+   "tier": "L",
+   "hero": "marion",
+   "kind": "gift",
+   "from": "0xfbf38328de9fe7a14a17acdf57ff9d204f48f240",
+   "to": "0x858a23f7dceb98829d53034675c55e8cdd5db6a5",
+   "tx": "0x9ef028070def9cbe894b544d92e87d173139cba4f996df59c3c9083da3e5062d"
+  },
   {
    "ts": 1793215463,
    "id": 20009,
@@ -342,6 +352,14 @@
      null,
      447,
      null
+    ],
+    [
+     "L",
+     1793217431,
+     null,
+     "marion",
+     450,
+     "t"
     ],
     [
      "L",
@@ -1634,36 +1652,6 @@
    "witness": [
     "firstUnique"
    ]
-  },
-  {
-   "w": "0xfbf3…f240",
-   "addr": "0xfbf38328de9fe7a14a17acdf57ff9d204f48f240",
-   "order": 18,
-   "cards": [
-    [
-     "L",
-     1791393899,
-     null,
-     "marion",
-     450,
-     null
-    ]
-   ],
-   "marks": [],
-   "gone": [
-    [
-     "L",
-     "yomihime",
-     2354
-    ]
-   ],
-   "gifted": [
-    "L*"
-   ],
-   "chance": [],
-   "bought": 0,
-   "spentUsd": 0,
-   "witness": []
   },
   {
    "w": "0xbcb3…1fe1",
@@ -5623,6 +5611,28 @@
    "witness": []
   },
   {
+   "w": "0xfbf3…f240",
+   "addr": "0xfbf38328de9fe7a14a17acdf57ff9d204f48f240",
+   "order": 18,
+   "cards": [],
+   "marks": [],
+   "gone": [
+    [
+     "L",
+     "yomihime",
+     2354
+    ]
+   ],
+   "gifted": [
+    "L*",
+    "L"
+   ],
+   "chance": [],
+   "bought": 0,
+   "spentUsd": 0,
+   "witness": []
+  },
+  {
    "w": "0x4b1a…5833",
    "addr": "0x4b1a1e18af6c72e1dbfba85933793fe46e4d5833",
    "order": 19,
@@ -6477,8 +6487,8 @@
   }
  },
  "floors": {
-  "at": 1793217457,
-  "listed": 207,
+  "at": 1793218063,
+  "listed": 208,
   "offers": {
    "yomihime": {
     "id": 1104,
@@ -6558,6 +6568,6 @@
    "M": null,
    "U": null
   },
-  "usd": 2369.45
+  "usd": 2372.52
  }
 }
