@@ -1,10 +1,11 @@
 {
- "updated": 1793190457,
+ "updated": 1793191056,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26291221,
+ "block": 26291271,
  "events": {
-  "firstCard": 180
+  "firstCard": 180,
+  "firstUnique": 1793190815
  },
  "pending": 0,
  "heroes": {
@@ -84,18 +85,20 @@
    }
   },
   "morwen": {
-   "cards": 46,
+   "cards": 47,
    "tiers": {
     "L": 46,
     "M": 0,
-    "U": 0
+    "U": 1
    },
    "images": {
-    "L": "https://hov.fra1.digitaloceanspaces.com/prod/hov_morwen_greymoor.png"
+    "L": "https://hov.fra1.digitaloceanspaces.com/prod/hov_morwen_greymoor.png",
+    "U": "https://hov.fra1.digitaloceanspaces.com/prod/unique/hov_morwen_greymoor.png"
    },
    "holders": 38,
    "thumbs": {
-    "L": "https://loonysk.github.io/morwen-book/cards/1ed0a45f92f6d78e.webp"
+    "L": "https://loonysk.github.io/morwen-book/cards/1ed0a45f92f6d78e.webp",
+    "U": "https://loonysk.github.io/morwen-book/cards/3fe0bf745f1e5d46.webp"
    }
   },
   "orven": {
@@ -116,16 +119,14 @@
  },
  "recent": [
   {
-   "ts": 1793181971,
-   "id": 3084,
-   "tier": "L",
-   "hero": "orven",
-   "kind": "buy",
-   "from": "0x053d455805cf03fa2c585e933b843e9292ba1a53",
-   "to": "0x3861f41e66b0b6fd2d647e1a424599cd181a77c9",
-   "tx": "0x199c8c6b33abaa683a22443a07efdf82dce3a8375b89f0c53a27c92d4a344b51",
-   "eth": 0.04,
-   "usd": 94
+   "ts": 1793190815,
+   "id": 20001,
+   "tier": "U",
+   "hero": "morwen",
+   "kind": "forge",
+   "from": "0x0000000000000000000000000000000000000000",
+   "to": "0xca53a9af458591b6cd942d70cdd97326c46ef273",
+   "tx": "0x30d5e7b9aee55bdd2a2eb412e3a211ef7ca21987b9bee024e32c7e55c13a15c4"
   }
  ],
  "sales": {
@@ -206,7 +207,9 @@
    "chance": [],
    "bought": 0,
    "spentUsd": 0,
-   "witness": []
+   "witness": [
+    "firstUnique"
+   ]
   },
   {
    "w": "0x8a7e…79f0",
@@ -272,7 +275,9 @@
    "chance": [],
    "bought": 3,
    "spentUsd": 225,
-   "witness": []
+   "witness": [
+    "firstUnique"
+   ]
   },
   {
    "w": "0xd36d…edfd",
@@ -362,7 +367,9 @@
    "chance": [],
    "bought": 1,
    "spentUsd": 275,
-   "witness": []
+   "witness": [
+    "firstUnique"
+   ]
   },
   {
    "w": "0xa160…6059",
@@ -488,7 +495,9 @@
    "chance": [],
    "bought": 0,
    "spentUsd": 0,
-   "witness": []
+   "witness": [
+    "firstUnique"
+   ]
   },
   {
    "w": "0x9a25…8c95",
@@ -566,7 +575,9 @@
    "chance": [],
    "bought": 3,
    "spentUsd": 195,
-   "witness": []
+   "witness": [
+    "firstUnique"
+   ]
   },
   {
    "w": "0xaab9…9eb3",
@@ -659,7 +670,9 @@
    "chance": [],
    "bought": 6,
    "spentUsd": 539,
-   "witness": []
+   "witness": [
+    "firstUnique"
+   ]
   },
   {
    "w": "0xca53…f273",
@@ -873,14 +886,26 @@
      "orven",
      4874,
      "t"
+    ],
+    [
+     "U",
+     1793190815,
+     "chance",
+     null,
+     20001,
+     null
     ]
    ],
    "marks": [],
    "gifted": [],
-   "chance": [],
+   "chance": [
+    "U"
+   ],
    "bought": 1,
    "spentUsd": 27,
-   "witness": []
+   "witness": [
+    "firstUnique"
+   ]
   },
   {
    "w": "0xa802…8ecf",
@@ -970,7 +995,9 @@
    "chance": [],
    "bought": 5,
    "spentUsd": 317,
-   "witness": []
+   "witness": [
+    "firstUnique"
+   ]
   },
   {
    "w": "0x9a24…8cbc",
@@ -1020,7 +1047,9 @@
    "chance": [],
    "bought": 0,
    "spentUsd": 0,
-   "witness": []
+   "witness": [
+    "firstUnique"
+   ]
   },
   {
    "w": "0x2a3f…1000",
@@ -1387,7 +1416,9 @@
    "chance": [],
    "bought": 6,
    "spentUsd": 406,
-   "witness": []
+   "witness": [
+    "firstUnique"
+   ]
   },
   {
    "w": "0xf17e…f3fa",
@@ -1571,7 +1602,9 @@
    "chance": [],
    "bought": 2,
    "spentUsd": 178,
-   "witness": []
+   "witness": [
+    "firstUnique"
+   ]
   },
   {
    "w": "0xfbf3…f240",
@@ -1683,7 +1716,9 @@
    "chance": [],
    "bought": 0,
    "spentUsd": 0,
-   "witness": []
+   "witness": [
+    "firstUnique"
+   ]
   },
   {
    "w": "0x5613…b01e",
@@ -1780,7 +1815,9 @@
    "chance": [],
    "bought": 0,
    "spentUsd": 0,
-   "witness": []
+   "witness": [
+    "firstUnique"
+   ]
   },
   {
    "w": "0x867d…a14e",
@@ -1809,7 +1846,9 @@
    "chance": [],
    "bought": 0,
    "spentUsd": 0,
-   "witness": []
+   "witness": [
+    "firstUnique"
+   ]
   },
   {
    "w": "0xc17e…2980",
@@ -1867,7 +1906,9 @@
    "chance": [],
    "bought": 2,
    "spentUsd": 203,
-   "witness": []
+   "witness": [
+    "firstUnique"
+   ]
   },
   {
    "w": "0x6863…91f9",
@@ -2035,7 +2076,9 @@
    "chance": [],
    "bought": 1,
    "spentUsd": 55,
-   "witness": []
+   "witness": [
+    "firstUnique"
+   ]
   },
   {
    "w": "0xcb25…80b2",
@@ -2192,7 +2235,9 @@
    "chance": [],
    "bought": 3,
    "spentUsd": 338,
-   "witness": []
+   "witness": [
+    "firstUnique"
+   ]
   },
   {
    "w": "0x6817…6c9b",
@@ -2283,7 +2328,9 @@
    "chance": [],
    "bought": 0,
    "spentUsd": 0,
-   "witness": []
+   "witness": [
+    "firstUnique"
+   ]
   },
   {
    "w": "0x9947…e89c",
@@ -2545,7 +2592,9 @@
    "chance": [],
    "bought": 0,
    "spentUsd": 0,
-   "witness": []
+   "witness": [
+    "firstUnique"
+   ]
   },
   {
    "w": "0xa456…c996",
@@ -2619,7 +2668,9 @@
    "chance": [],
    "bought": 2,
    "spentUsd": 272,
-   "witness": [],
+   "witness": [
+    "firstUnique"
+   ],
    "first": true
   },
   {
@@ -2830,7 +2881,9 @@
    "chance": [],
    "bought": 0,
    "spentUsd": 0,
-   "witness": []
+   "witness": [
+    "firstUnique"
+   ]
   },
   {
    "w": "0x1f76…7773",
@@ -2925,7 +2978,9 @@
    "chance": [],
    "bought": 0,
    "spentUsd": 0,
-   "witness": []
+   "witness": [
+    "firstUnique"
+   ]
   },
   {
    "w": "0x8031…2a71",
@@ -2970,7 +3025,9 @@
    "chance": [],
    "bought": 0,
    "spentUsd": 0,
-   "witness": []
+   "witness": [
+    "firstUnique"
+   ]
   },
   {
    "w": "0x0c86…7225",
@@ -3507,7 +3564,9 @@
    "chance": [],
    "bought": 0,
    "spentUsd": 0,
-   "witness": []
+   "witness": [
+    "firstUnique"
+   ]
   },
   {
    "w": "0x720c…fa86",
@@ -3528,7 +3587,9 @@
    "chance": [],
    "bought": 0,
    "spentUsd": 0,
-   "witness": []
+   "witness": [
+    "firstUnique"
+   ]
   },
   {
    "w": "0x4b90…67e1",
@@ -3549,7 +3610,9 @@
    "chance": [],
    "bought": 0,
    "spentUsd": 0,
-   "witness": []
+   "witness": [
+    "firstUnique"
+   ]
   },
   {
    "w": "0x03cd…ed97",
@@ -3586,7 +3649,9 @@
    "chance": [],
    "bought": 3,
    "spentUsd": 363,
-   "witness": []
+   "witness": [
+    "firstUnique"
+   ]
   },
   {
    "w": "0xd109…c837",
@@ -3615,7 +3680,9 @@
    "chance": [],
    "bought": 0,
    "spentUsd": 0,
-   "witness": []
+   "witness": [
+    "firstUnique"
+   ]
   },
   {
    "w": "0x968b…c32b",
@@ -3644,7 +3711,9 @@
    "chance": [],
    "bought": 0,
    "spentUsd": 0,
-   "witness": []
+   "witness": [
+    "firstUnique"
+   ]
   },
   {
    "w": "0xee3c…54f7",
@@ -3757,7 +3826,9 @@
    "chance": [],
    "bought": 0,
    "spentUsd": 0,
-   "witness": []
+   "witness": [
+    "firstUnique"
+   ]
   },
   {
    "w": "0xc328…9011",
@@ -3851,7 +3922,9 @@
    "chance": [],
    "bought": 0,
    "spentUsd": 0,
-   "witness": []
+   "witness": [
+    "firstUnique"
+   ]
   },
   {
    "w": "0x5ad8…fe1b",
@@ -4045,7 +4118,9 @@
    "chance": [],
    "bought": 0,
    "spentUsd": 0,
-   "witness": []
+   "witness": [
+    "firstUnique"
+   ]
   },
   {
    "w": "0x7932…65d6",
@@ -4114,7 +4189,9 @@
    "chance": [],
    "bought": 7,
    "spentUsd": 538,
-   "witness": []
+   "witness": [
+    "firstUnique"
+   ]
   },
   {
    "w": "0x3b58…6c41",
@@ -4293,7 +4370,9 @@
    "chance": [],
    "bought": 0,
    "spentUsd": 0,
-   "witness": []
+   "witness": [
+    "firstUnique"
+   ]
   },
   {
    "w": "0x1763…90cd",
@@ -4314,7 +4393,9 @@
    "chance": [],
    "bought": 0,
    "spentUsd": 0,
-   "witness": []
+   "witness": [
+    "firstUnique"
+   ]
   },
   {
    "w": "0x1a21…c576",
@@ -4422,7 +4503,9 @@
    "chance": [],
    "bought": 0,
    "spentUsd": 0,
-   "witness": []
+   "witness": [
+    "firstUnique"
+   ]
   },
   {
    "w": "0x8458…21d8",
@@ -4723,7 +4806,9 @@
    "chance": [],
    "bought": 0,
    "spentUsd": 0,
-   "witness": []
+   "witness": [
+    "firstUnique"
+   ]
   },
   {
    "w": "0x1919…0aa2",
@@ -4933,7 +5018,9 @@
    "chance": [],
    "bought": 0,
    "spentUsd": 0,
-   "witness": []
+   "witness": [
+    "firstUnique"
+   ]
   },
   {
    "w": "0xc693…d274",
@@ -6353,8 +6440,8 @@
   }
  },
  "floors": {
-  "at": 1793190457,
-  "listed": 201,
+  "at": 1793191056,
+  "listed": 200,
   "offers": {
    "yomihime": {
     "id": 1104,
@@ -6434,6 +6521,6 @@
    "M": null,
    "U": null
   },
-  "usd": 2344.2
+  "usd": 2335.04
  }
 }
