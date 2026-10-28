@@ -1,8 +1,8 @@
 {
- "updated": 1793194654,
+ "updated": 1793195253,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26291571,
+ "block": 26291621,
  "events": {
   "firstCard": 180,
   "firstUnique": 1793190815
@@ -119,18 +119,6 @@
    }
   }
  },
- "recent": [
-  {
-   "ts": 1793192051,
-   "id": 20002,
-   "tier": "U",
-   "hero": "matazuu",
-   "kind": "forge",
-   "from": "0x0000000000000000000000000000000000000000",
-   "to": "0x08c8d10b3741343369787747111d1763af2f10e1",
-   "tx": "0x362aaa7b30f6649c4f552b563fcd7cbf5e331bc616ca2df419b520335a4f395f"
-  }
- ],
  "sales": {
   "L": {
    "eth": 0.07,
@@ -6450,7 +6438,7 @@
   }
  },
  "floors": {
-  "at": 1793194654,
+  "at": 1793195253,
   "listed": 201,
   "offers": {
    "yomihime": {
@@ -6531,6 +6519,6 @@
    "M": null,
    "U": null
   },
-  "usd": 2339.95
+  "usd": 2325.49
  }
 }
