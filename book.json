@@ -1,8 +1,8 @@
 {
- "updated": 1793191654,
+ "updated": 1793192252,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26291321,
+ "block": 26291371,
  "events": {
   "firstCard": 180,
   "firstUnique": 1793190815
@@ -40,18 +40,20 @@
    }
   },
   "matazuu": {
-   "cards": 60,
+   "cards": 61,
    "tiers": {
     "L": 60,
     "M": 0,
-    "U": 0
+    "U": 1
    },
    "images": {
-    "L": "https://hov.fra1.digitaloceanspaces.com/prod/hov_matazuu.png"
+    "L": "https://hov.fra1.digitaloceanspaces.com/prod/hov_matazuu.png",
+    "U": "https://hov.fra1.digitaloceanspaces.com/prod/unique/hov_matazuu.png"
    },
    "holders": 45,
    "thumbs": {
-    "L": "https://loonysk.github.io/morwen-book/cards/a56f14d57fe9da96.webp"
+    "L": "https://loonysk.github.io/morwen-book/cards/a56f14d57fe9da96.webp",
+    "U": "https://loonysk.github.io/morwen-book/cards/5493d5474d30812c.webp"
    }
   },
   "yomihime": {
@@ -118,6 +120,16 @@
   }
  },
  "recent": [
+  {
+   "ts": 1793192051,
+   "id": 20002,
+   "tier": "U",
+   "hero": "matazuu",
+   "kind": "forge",
+   "from": "0x0000000000000000000000000000000000000000",
+   "to": "0x08c8d10b3741343369787747111d1763af2f10e1",
+   "tx": "0x362aaa7b30f6649c4f552b563fcd7cbf5e331bc616ca2df419b520335a4f395f"
+  },
   {
    "ts": 1793190815,
    "id": 20001,
@@ -1235,6 +1247,14 @@
      null,
      "marion",
      2861,
+     null
+    ],
+    [
+     "U",
+     1793192051,
+     null,
+     "matazuu",
+     20002,
      null
     ]
    ],
@@ -6440,7 +6460,7 @@
   }
  },
  "floors": {
-  "at": 1793191654,
+  "at": 1793192253,
   "listed": 202,
   "offers": {
    "yomihime": {
@@ -6521,6 +6541,6 @@
    "M": null,
    "U": null
   },
-  "usd": 2337.5
+  "usd": 2335.79
  }
 }
