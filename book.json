@@ -1,8 +1,8 @@
 {
- "updated": 1793216257,
+ "updated": 1793216856,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26293367,
+ "block": 26293416,
  "events": {
   "firstCard": 180,
   "firstUnique": 1793190815
@@ -132,26 +132,6 @@
    "kind": "forge",
    "from": "0x0000000000000000000000000000000000000000",
    "to": "0x5687680d14d637707fe05f18da6985ee040eac73",
-   "tx": "0xf2d4cabcc4ed32ac7ba2ea098fbba23dc35068ad43735481c4620835023c1bc2"
-  },
-  {
-   "ts": 1793215463,
-   "id": 1912,
-   "tier": "L",
-   "hero": "matazuu",
-   "kind": "burn",
-   "from": "0x5687680d14d637707fe05f18da6985ee040eac73",
-   "to": "0x0000000000000000000000000000000000000000",
-   "tx": "0xf2d4cabcc4ed32ac7ba2ea098fbba23dc35068ad43735481c4620835023c1bc2"
-  },
-  {
-   "ts": 1793215463,
-   "id": 1552,
-   "tier": "L",
-   "hero": "revazial",
-   "kind": "burn",
-   "from": "0x5687680d14d637707fe05f18da6985ee040eac73",
-   "to": "0x0000000000000000000000000000000000000000",
    "tx": "0xf2d4cabcc4ed32ac7ba2ea098fbba23dc35068ad43735481c4620835023c1bc2"
   }
  ],
@@ -6497,7 +6477,7 @@
   }
  },
  "floors": {
-  "at": 1793216257,
+  "at": 1793216857,
   "listed": 207,
   "offers": {
    "yomihime": {
@@ -6578,6 +6558,6 @@
    "M": null,
    "U": null
   },
-  "usd": 2356.92
+  "usd": 2361.84
  }
 }
