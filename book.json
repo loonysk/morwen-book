@@ -1,8 +1,8 @@
 {
- "updated": 1793198252,
+ "updated": 1793198854,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26291871,
+ "block": 26291921,
  "events": {
   "firstCard": 180,
   "firstUnique": 1793190815
@@ -10,18 +10,20 @@
  "pending": 0,
  "heroes": {
   "marion": {
-   "cards": 64,
+   "cards": 65,
    "tiers": {
     "L": 64,
     "M": 0,
-    "U": 0
+    "U": 1
    },
    "images": {
-    "L": "https://hov.fra1.digitaloceanspaces.com/prod/hov_marion_soulthread.png"
+    "L": "https://hov.fra1.digitaloceanspaces.com/prod/hov_marion_soulthread.png",
+    "U": "https://hov.fra1.digitaloceanspaces.com/prod/unique/hov_marion_soulthread.png"
    },
-   "holders": 48,
+   "holders": 49,
    "thumbs": {
-    "L": "https://loonysk.github.io/morwen-book/cards/7c6a8d9b779aae2f.webp"
+    "L": "https://loonysk.github.io/morwen-book/cards/7c6a8d9b779aae2f.webp",
+    "U": "https://loonysk.github.io/morwen-book/cards/3aad52bc52db9e01.webp"
    }
   },
   "revazial": {
@@ -119,6 +121,18 @@
    }
   }
  },
+ "recent": [
+  {
+   "ts": 1793198255,
+   "id": 20005,
+   "tier": "U",
+   "hero": "marion",
+   "kind": "forge",
+   "from": "0x0000000000000000000000000000000000000000",
+   "to": "0x9f6e3b66911fb65ee048b7a352c559f9aaab8c61",
+   "tx": "0x42be324200fab598ef5043308f44c291d3ed108129d1be0adbe2bbfccd055571"
+  }
+ ],
  "sales": {
   "L": {
    "eth": 0.07,
@@ -2212,6 +2226,14 @@
      null,
      "revazial",
      3540,
+     null
+    ],
+    [
+     "U",
+     1793198255,
+     null,
+     "marion",
+     20005,
      null
     ]
    ],
@@ -6438,8 +6460,8 @@
   }
  },
  "floors": {
-  "at": 1793198252,
-  "listed": 203,
+  "at": 1793198855,
+  "listed": 202,
   "offers": {
    "yomihime": {
     "id": 1104,
@@ -6519,6 +6541,6 @@
    "M": null,
    "U": null
   },
-  "usd": 2324.28
+  "usd": 2330.37
  }
 }
