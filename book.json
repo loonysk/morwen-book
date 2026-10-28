@@ -1,8 +1,8 @@
 {
- "updated": 1793215055,
+ "updated": 1793215655,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26293267,
+ "block": 26293317,
  "events": {
   "firstCard": 180,
   "firstUnique": 1793190815
@@ -27,9 +27,9 @@
    }
   },
   "revazial": {
-   "cards": 56,
+   "cards": 55,
    "tiers": {
-    "L": 56,
+    "L": 55,
     "M": 0,
     "U": 0
    },
@@ -42,9 +42,9 @@
    }
   },
   "matazuu": {
-   "cards": 61,
+   "cards": 60,
    "tiers": {
-    "L": 60,
+    "L": 59,
     "M": 0,
     "U": 1
    },
@@ -52,7 +52,7 @@
     "L": "https://hov.fra1.digitaloceanspaces.com/prod/hov_matazuu.png",
     "U": "https://hov.fra1.digitaloceanspaces.com/prod/unique/hov_matazuu.png"
    },
-   "holders": 45,
+   "holders": 44,
    "thumbs": {
     "L": "https://loonysk.github.io/morwen-book/cards/a56f14d57fe9da96.webp",
     "U": "https://loonysk.github.io/morwen-book/cards/5493d5474d30812c.webp"
@@ -106,21 +106,55 @@
    }
   },
   "orven": {
-   "cards": 40,
+   "cards": 41,
    "tiers": {
     "L": 40,
     "M": 0,
-    "U": 0
+    "U": 1
    },
    "images": {
-    "L": "https://hov.fra1.digitaloceanspaces.com/prod/hov_orven.png"
+    "L": "https://hov.fra1.digitaloceanspaces.com/prod/hov_orven.png",
+    "U": "https://hov.fra1.digitaloceanspaces.com/prod/unique/hov_orven.png"
    },
-   "holders": 30,
+   "holders": 31,
    "thumbs": {
-    "L": "https://loonysk.github.io/morwen-book/cards/9887edeaf75c5a6b.webp"
+    "L": "https://loonysk.github.io/morwen-book/cards/9887edeaf75c5a6b.webp",
+    "U": "https://loonysk.github.io/morwen-book/cards/f648a007225d13e4.webp"
    }
   }
  },
+ "recent": [
+  {
+   "ts": 1793215463,
+   "id": 20009,
+   "tier": "U",
+   "hero": "orven",
+   "kind": "forge",
+   "from": "0x0000000000000000000000000000000000000000",
+   "to": "0x5687680d14d637707fe05f18da6985ee040eac73",
+   "tx": "0xf2d4cabcc4ed32ac7ba2ea098fbba23dc35068ad43735481c4620835023c1bc2"
+  },
+  {
+   "ts": 1793215463,
+   "id": 1912,
+   "tier": "L",
+   "hero": "matazuu",
+   "kind": "burn",
+   "from": "0x5687680d14d637707fe05f18da6985ee040eac73",
+   "to": "0x0000000000000000000000000000000000000000",
+   "tx": "0xf2d4cabcc4ed32ac7ba2ea098fbba23dc35068ad43735481c4620835023c1bc2"
+  },
+  {
+   "ts": 1793215463,
+   "id": 1552,
+   "tier": "L",
+   "hero": "revazial",
+   "kind": "burn",
+   "from": "0x5687680d14d637707fe05f18da6985ee040eac73",
+   "to": "0x0000000000000000000000000000000000000000",
+   "tx": "0xf2d4cabcc4ed32ac7ba2ea098fbba23dc35068ad43735481c4620835023c1bc2"
+  }
+ ],
  "sales": {
   "L": {
    "eth": 0.07,
@@ -435,26 +469,10 @@
     ],
     [
      "L",
-     1791399011,
-     null,
-     "revazial",
-     1552,
-     null
-    ],
-    [
-     "L",
      1791401543,
      null,
      "yomihime",
      1839,
-     null
-    ],
-    [
-     "L",
-     1791402167,
-     null,
-     "matazuu",
-     1912,
      null
     ],
     [
@@ -480,9 +498,40 @@
      "revazial",
      4127,
      null
+    ],
+    [
+     "U",
+     1793215463,
+     null,
+     "orven",
+     20009,
+     null
     ]
    ],
-   "marks": [],
+   "marks": [
+    {
+     "k": "betrayer",
+     "ally": "revazial"
+    },
+    {
+     "k": "betrayer",
+     "ally": "matazuu"
+    }
+   ],
+   "lost": [
+    [
+     "betrayer",
+     "L",
+     "revazial",
+     1552
+    ],
+    [
+     "betrayer",
+     "L",
+     "matazuu",
+     1912
+    ]
+   ],
    "gifted": [],
    "chance": [],
    "bought": 0,
@@ -6448,8 +6497,8 @@
   }
  },
  "floors": {
-  "at": 1793215056,
-  "listed": 205,
+  "at": 1793215656,
+  "listed": 207,
   "offers": {
    "yomihime": {
     "id": 1104,
@@ -6529,6 +6578,6 @@
    "M": null,
    "U": null
   },
-  "usd": 2351.7
+  "usd": 2354.78
  }
 }
