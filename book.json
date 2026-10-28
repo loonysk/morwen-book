@@ -1,8 +1,8 @@
 {
- "updated": 1793181455,
+ "updated": 1793182055,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26290471,
+ "block": 26290521,
  "events": {
   "firstCard": 180
  },
@@ -108,12 +108,26 @@
    "images": {
     "L": "https://hov.fra1.digitaloceanspaces.com/prod/hov_orven.png"
    },
-   "holders": 31,
+   "holders": 30,
    "thumbs": {
     "L": "https://loonysk.github.io/morwen-book/cards/9887edeaf75c5a6b.webp"
    }
   }
  },
+ "recent": [
+  {
+   "ts": 1793181971,
+   "id": 3084,
+   "tier": "L",
+   "hero": "orven",
+   "kind": "buy",
+   "from": "0x053d455805cf03fa2c585e933b843e9292ba1a53",
+   "to": "0x3861f41e66b0b6fd2d647e1a424599cd181a77c9",
+   "tx": "0x199c8c6b33abaa683a22443a07efdf82dce3a8375b89f0c53a27c92d4a344b51",
+   "eth": 0.04,
+   "usd": 94
+  }
+ ],
  "sales": {
   "L": {
    "eth": 0.07,
@@ -1328,6 +1342,14 @@
     ],
     [
      "L",
+     1793181971,
+     null,
+     "orven",
+     3084,
+     null
+    ],
+    [
+     "L",
      1791995423,
      null,
      "revazial",
@@ -1363,8 +1385,8 @@
     "L"
    ],
    "chance": [],
-   "bought": 5,
-   "spentUsd": 311,
+   "bought": 6,
+   "spentUsd": 406,
    "witness": []
   },
   {
@@ -3788,40 +3810,6 @@
    "witness": []
   },
   {
-   "w": "0x053d…1a53",
-   "addr": "0x053d455805cf03fa2c585e933b843e9292ba1a53",
-   "order": 0,
-   "cards": [
-    [
-     "L",
-     1791418799,
-     null,
-     "orven",
-     3084,
-     null
-    ]
-   ],
-   "marks": [
-    {
-     "k": "flipper",
-     "ally": "marion"
-    }
-   ],
-   "lost": [
-    [
-     "flipper",
-     "L",
-     "marion",
-     3050
-    ]
-   ],
-   "gifted": [],
-   "chance": [],
-   "bought": 0,
-   "spentUsd": 0,
-   "witness": []
-  },
-  {
    "w": "0xbf05…817a",
    "addr": "0xbf05d6829a12752d41c1aabc6769d63960f4817a",
    "order": 25,
@@ -5630,6 +5618,38 @@
    "witness": []
   },
   {
+   "w": "0x053d…1a53",
+   "addr": "0x053d455805cf03fa2c585e933b843e9292ba1a53",
+   "order": 0,
+   "cards": [],
+   "marks": [
+    {
+     "k": "flipper",
+     "ally": "marion"
+    }
+   ],
+   "lost": [
+    [
+     "flipper",
+     "L",
+     "marion",
+     3050
+    ]
+   ],
+   "gone": [
+    [
+     "L",
+     "orven",
+     3084
+    ]
+   ],
+   "gifted": [],
+   "chance": [],
+   "bought": 0,
+   "spentUsd": 0,
+   "witness": []
+  },
+  {
    "w": "0xfd14…e79a",
    "addr": "0xfd147e915b113fa92d25fa4ce8b6c19230f2e79a",
    "order": 29,
@@ -6333,7 +6353,7 @@
   }
  },
  "floors": {
-  "at": 1793181456,
+  "at": 1793182056,
   "listed": 210,
   "offers": {
    "yomihime": {
@@ -6414,6 +6434,6 @@
    "M": null,
    "U": null
   },
-  "usd": 2367.44
+  "usd": 2365.04
  }
 }
