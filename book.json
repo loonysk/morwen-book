@@ -1,8 +1,8 @@
 {
- "updated": 1793297277,
+ "updated": 1793297865,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26300042,
+ "block": 26300137,
  "events": {
   "firstCard": 180,
   "firstUnique": 1793190815,
@@ -11,10 +11,10 @@
  "pending": 0,
  "heroes": {
   "marion": {
-   "cards": 68,
+   "cards": 69,
    "tiers": {
     "L": 62,
-    "M": 5,
+    "M": 6,
     "U": 1
    },
    "images": {
@@ -104,10 +104,10 @@
    }
   },
   "morwen": {
-   "cards": 53,
+   "cards": 54,
    "tiers": {
     "L": 45,
-    "M": 7,
+    "M": 8,
     "U": 1
    },
    "images": {
@@ -115,7 +115,7 @@
     "M": "https://hov.fra1.digitaloceanspaces.com/prod/mythic/hov_morwen_greymoor.png",
     "U": "https://hov.fra1.digitaloceanspaces.com/prod/unique/hov_morwen_greymoor.png"
    },
-   "holders": 39,
+   "holders": 40,
    "thumbs": {
     "L": "https://loonysk.github.io/morwen-book/cards/1ed0a45f92f6d78e.webp",
     "M": "https://loonysk.github.io/morwen-book/cards/286a09f384f6685b.webp",
@@ -142,6 +142,28 @@
    }
   }
  },
+ "recent": [
+  {
+   "ts": 1793296883,
+   "id": 10395,
+   "tier": "M",
+   "hero": "marion",
+   "kind": "forge",
+   "from": "0x0000000000000000000000000000000000000000",
+   "to": "0xca53a9af458591b6cd942d70cdd97326c46ef273",
+   "tx": "0xec02601b298af7949289e4eddaf651ac6069c6971d32711449264a14517fe5ff"
+  },
+  {
+   "ts": 1793296679,
+   "id": 10394,
+   "tier": "M",
+   "hero": "morwen",
+   "kind": "forge",
+   "from": "0x0000000000000000000000000000000000000000",
+   "to": "0x58d2cac35db93287bca759cb1ef07855941a25b0",
+   "tx": "0xaf92016c9ffb81f1848235c9482490d4c2daf8af9bcde243154df2599503a92e"
+  }
+ ],
  "sales": {
   "L": {
    "eth": 0.07,
@@ -850,6 +872,14 @@
      "orven",
      4874,
      "t"
+    ],
+    [
+     "M",
+     1793296883,
+     null,
+     "marion",
+     10395,
+     null
     ],
     [
      "U",
@@ -5050,7 +5080,7 @@
   {
    "w": "0x58d2…25b0",
    "addr": "0x58d2cac35db93287bca759cb1ef07855941a25b0",
-   "order": 0,
+   "order": 62,
    "cards": [
     [
      "L",
@@ -5083,11 +5113,21 @@
      "yomihime",
      4761,
      null
+    ],
+    [
+     "M",
+     1793296679,
+     "chance",
+     null,
+     10394,
+     null
     ]
    ],
    "marks": [],
    "gifted": [],
-   "chance": [],
+   "chance": [
+    "M"
+   ],
    "bought": 0,
    "spentUsd": 0,
    "witness": []
@@ -7013,7 +7053,7 @@
   }
  },
  "floors": {
-  "at": 1793297277,
+  "at": 1793297866,
   "listed": 213,
   "offers": {
    "shelo": {
@@ -7047,14 +7087,14 @@
     "tier": "L"
    },
    "morwen": {
-    "id": 3222,
-    "eth": 0.367,
-    "tier": "L"
+    "id": 10394,
+    "eth": 0.24,
+    "tier": "M"
    }
   },
   "named": {
    "kael vorn": {
-    "L": 0.0266358,
+    "L": 0.026627,
     "M": 0.3,
     "U": null
    },
@@ -7096,9 +7136,9 @@
   },
   "morwen": {
    "L": 0.367,
-   "M": null,
+   "M": 0.24,
    "U": null
   },
-  "usd": 2337.02
+  "usd": 2338.24
  }
 }
