@@ -1,8 +1,8 @@
 {
- "updated": 1793290663,
+ "updated": 1793291262,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26299539,
+ "block": 26299589,
  "events": {
   "firstCard": 180,
   "firstUnique": 1793190815,
@@ -142,28 +142,6 @@
    }
   }
  },
- "recent": [
-  {
-   "ts": 1793289983,
-   "id": 10340,
-   "tier": "M",
-   "hero": "matazuu",
-   "kind": "burn",
-   "from": "0xd867f88065a281fc554b8bf7f0ac4b91c500560f",
-   "to": "0x0000000000000000000000000000000000000000",
-   "tx": "0x0b2ef94d2ffb51b19f62ec777535903ce45ddcc814a71c03a2e24f52f97aa78a"
-  },
-  {
-   "ts": 1793289947,
-   "id": 10362,
-   "tier": "M",
-   "hero": "yomihime",
-   "kind": "forge",
-   "from": "0x0000000000000000000000000000000000000000",
-   "to": "0xa1a0d287925da1d7e02f4071f1dba99c6e1ccd8e",
-   "tx": "0x23004aa84a3f697613fc3243cf8b69dbb55bc19216d432f396194037ce5fe1f5"
-  }
- ],
  "sales": {
   "L": {
    "eth": 0.07,
@@ -7029,7 +7007,7 @@
   }
  },
  "floors": {
-  "at": 1793290663,
+  "at": 1793291262,
   "listed": 209,
   "offers": {
    "shelo": {
@@ -7068,18 +7046,6 @@
     "tier": "L"
    }
   },
-  "named": {
-   "kael vorn": {
-    "L": 0.03,
-    "M": 0.3,
-    "U": null
-   },
-   "morvane": {
-    "L": 0.099,
-    "M": null,
-    "U": null
-   }
-  },
   "shelo": {
    "L": 0.065,
    "M": null,
@@ -7105,6 +7071,18 @@
    "M": 0.25,
    "U": null
   },
+  "named": {
+   "morvane": {
+    "L": 0.099,
+    "M": null,
+    "U": null
+   },
+   "kael vorn": {
+    "L": null,
+    "M": 0.3,
+    "U": null
+   }
+  },
   "matazuu": {
    "L": 0.13,
    "M": null,
@@ -7115,6 +7093,6 @@
    "M": null,
    "U": null
   },
-  "usd": 2356.82
+  "usd": 2356.57
  }
 }
