@@ -1,8 +1,8 @@
 {
- "updated": 1793278669,
+ "updated": 1793279268,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26298541,
+ "block": 26298591,
  "events": {
   "firstCard": 180,
   "firstUnique": 1793190815,
@@ -83,9 +83,9 @@
    }
   },
   "shelo": {
-   "cards": 55,
+   "cards": 54,
    "tiers": {
-    "L": 50,
+    "L": 49,
     "M": 4,
     "U": 1
    },
@@ -94,7 +94,7 @@
     "M": "https://hov.fra1.digitaloceanspaces.com/prod/mythic/hov_shelo.png",
     "U": "https://hov.fra1.digitaloceanspaces.com/prod/unique/hov_shelo.png"
    },
-   "holders": 42,
+   "holders": 41,
    "thumbs": {
     "L": "https://loonysk.github.io/morwen-book/cards/4dc0af14bb5ff744.webp",
     "M": "https://loonysk.github.io/morwen-book/cards/c250a6d2fb0b5b8c.webp",
@@ -3197,14 +3197,6 @@
    "cards": [
     [
      "L",
-     1791402455,
-     null,
-     "shelo",
-     1957,
-     null
-    ],
-    [
-     "L",
      1791403187,
      null,
      "marion",
@@ -3220,7 +3212,20 @@
      null
     ]
    ],
-   "marks": [],
+   "marks": [
+    {
+     "k": "betrayer",
+     "ally": "shelo"
+    }
+   ],
+   "lost": [
+    [
+     "betrayer",
+     "L",
+     "shelo",
+     1957
+    ]
+   ],
    "gifted": [],
    "chance": [],
    "bought": 0,
@@ -6859,8 +6864,8 @@
   }
  },
  "floors": {
-  "at": 1793278669,
-  "listed": 212,
+  "at": 1793279269,
+  "listed": 210,
   "offers": {
    "shelo": {
     "id": 2394,
@@ -6920,7 +6925,7 @@
   },
   "marion": {
    "L": 0.09,
-   "M": null,
+   "M": 0.25,
    "U": null
   },
   "named": {
@@ -6945,6 +6950,6 @@
    "M": null,
    "U": null
   },
-  "usd": 2318.59
+  "usd": 2322.95
  }
 }
