@@ -1,8 +1,8 @@
 {
- "updated": 1793286478,
+ "updated": 1793287066,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26299155,
+ "block": 26299239,
  "events": {
   "firstCard": 180,
   "firstUnique": 1793190815,
@@ -41,7 +41,7 @@
     "M": "https://hov.fra1.digitaloceanspaces.com/prod/mythic/hov_matazuu.png",
     "U": "https://hov.fra1.digitaloceanspaces.com/prod/unique/hov_matazuu.png"
    },
-   "holders": 46,
+   "holders": 47,
    "thumbs": {
     "L": "https://loonysk.github.io/morwen-book/cards/a56f14d57fe9da96.webp",
     "M": "https://loonysk.github.io/morwen-book/cards/b467fe8dc2755ffc.webp",
@@ -142,6 +142,18 @@
    }
   }
  },
+ "recent": [
+  {
+   "ts": 1793286671,
+   "id": 10179,
+   "tier": "M",
+   "hero": "matazuu",
+   "kind": "hand",
+   "from": "0xf99bcaff5115e71c6f3c3a97c7d7476299af7bb5",
+   "to": "0xfbf38328de9fe7a14a17acdf57ff9d204f48f240",
+   "tx": "0x4ef919e9a29fafd4943f418f3459f9261f8b90538a18a4f4b77fe528f36375d1"
+  }
+ ],
  "sales": {
   "L": {
    "eth": 0.07,
@@ -3826,14 +3838,6 @@
      "matazuu",
      2655,
      null
-    ],
-    [
-     "M",
-     1793276867,
-     null,
-     "matazuu",
-     10179,
-     null
     ]
    ],
    "marks": [],
@@ -3867,6 +3871,11 @@
      "L",
      "revazial",
      2544
+    ],
+    [
+     "M",
+     "matazuu",
+     10179
     ]
    ],
    "gifted": [],
@@ -5583,6 +5592,37 @@
    "witness": []
   },
   {
+   "w": "0xfbf3…f240",
+   "addr": "0xfbf38328de9fe7a14a17acdf57ff9d204f48f240",
+   "order": 18,
+   "cards": [
+    [
+     "M",
+     1793286671,
+     null,
+     "matazuu",
+     10179,
+     "t"
+    ]
+   ],
+   "marks": [],
+   "gone": [
+    [
+     "L",
+     "yomihime",
+     2354
+    ]
+   ],
+   "gifted": [
+    "L*",
+    "L"
+   ],
+   "chance": [],
+   "bought": 0,
+   "spentUsd": 0,
+   "witness": []
+  },
+  {
    "w": "0x4dae…f47d",
    "addr": "0x4dae51dcdb3c1382973fb827c2dee3f712d6f47d",
    "order": 0,
@@ -5994,28 +6034,6 @@
     ]
    ],
    "gifted": [],
-   "chance": [],
-   "bought": 0,
-   "spentUsd": 0,
-   "witness": []
-  },
-  {
-   "w": "0xfbf3…f240",
-   "addr": "0xfbf38328de9fe7a14a17acdf57ff9d204f48f240",
-   "order": 18,
-   "cards": [],
-   "marks": [],
-   "gone": [
-    [
-     "L",
-     "yomihime",
-     2354
-    ]
-   ],
-   "gifted": [
-    "L*",
-    "L"
-   ],
    "chance": [],
    "bought": 0,
    "spentUsd": 0,
@@ -6926,7 +6944,7 @@
   }
  },
  "floors": {
-  "at": 1793286478,
+  "at": 1793287066,
   "listed": 207,
   "offers": {
    "shelo": {
@@ -7012,6 +7030,6 @@
    "M": null,
    "U": null
   },
-  "usd": 2348.6
+  "usd": 2354.42
  }
 }
