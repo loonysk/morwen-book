@@ -1,8 +1,8 @@
 {
- "updated": 1793281066,
+ "updated": 1793281366,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26298741,
+ "block": 26298765,
  "events": {
   "firstCard": 180,
   "firstUnique": 1793190815,
@@ -68,9 +68,9 @@
    }
   },
   "yomihime": {
-   "cards": 56,
+   "cards": 55,
    "tiers": {
-    "L": 51,
+    "L": 50,
     "M": 5,
     "U": 0
    },
@@ -142,6 +142,18 @@
    }
   }
  },
+ "recent": [
+  {
+   "ts": 1793281151,
+   "id": 2309,
+   "tier": "L",
+   "hero": "yomihime",
+   "kind": "burn",
+   "from": "0x77f18b41dbf928b0cc2880b6342e7f24f96bf18b",
+   "to": "0x0000000000000000000000000000000000000000",
+   "tx": "0xb6ccc4421988c6926363b0a9899b54914a7abeb9cd760ebd8c92aa688039b863"
+  }
+ ],
  "sales": {
   "L": {
    "eth": 0.07,
@@ -3381,17 +3393,22 @@
      "yomihime",
      2240,
      null
-    ],
-    [
-     "L",
-     1791405071,
-     null,
-     "yomihime",
-     2309,
-     null
     ]
    ],
-   "marks": [],
+   "marks": [
+    {
+     "k": "betrayer",
+     "ally": "yomihime"
+    }
+   ],
+   "lost": [
+    [
+     "betrayer",
+     "L",
+     "yomihime",
+     2309
+    ]
+   ],
    "gifted": [],
    "chance": [],
    "bought": 0,
@@ -6899,7 +6916,7 @@
   }
  },
  "floors": {
-  "at": 1793281067,
+  "at": 1793281367,
   "listed": 208,
   "offers": {
    "shelo": {
@@ -6985,6 +7002,6 @@
    "M": null,
    "U": null
   },
-  "usd": 2319.63
+  "usd": 2317.55
  }
 }
