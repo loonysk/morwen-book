@@ -1,8 +1,8 @@
 {
- "updated": 1793305664,
+ "updated": 1793306263,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26300784,
+ "block": 26300834,
  "events": {
   "firstCard": 180,
   "firstUnique": 1793190815,
@@ -142,6 +142,18 @@
    }
   }
  },
+ "recent": [
+  {
+   "ts": 1793305907,
+   "id": 10009,
+   "tier": "M",
+   "hero": "marion",
+   "kind": "hand",
+   "from": "0x50e43a4d3cbf8f05ce07f3ebc80c7c840b351422",
+   "to": "0x9a2576eb8a2a55889572899a79d0bf2d76598c95",
+   "tx": "0x80db15efdabe3b21dcf2aa1efc5a59e077470837de88b7675aaaf085821ff84d"
+  }
+ ],
  "sales": {
   "L": {
    "eth": 0.07,
@@ -512,6 +524,14 @@
      null,
      "marion",
      5170,
+     "t"
+    ],
+    [
+     "M",
+     1793305907,
+     null,
+     "marion",
+     10009,
      "t"
     ]
    ],
@@ -3383,14 +3403,6 @@
      "revazial",
      2544,
      "t"
-    ],
-    [
-     "M",
-     1793275355,
-     null,
-     "marion",
-     10009,
-     null
     ]
    ],
    "marks": [
@@ -3472,6 +3484,11 @@
      "L",
      "orven",
      2558
+    ],
+    [
+     "M",
+     "marion",
+     10009
     ]
    ],
    "gifted": [],
@@ -7039,8 +7056,8 @@
   }
  },
  "floors": {
-  "at": 1793305666,
-  "listed": 218,
+  "at": 1793306266,
+  "listed": 216,
   "offers": {
    "shelo": {
     "id": 1760,
@@ -7080,7 +7097,7 @@
   },
   "named": {
    "kael vorn": {
-    "L": 0.0249508,
+    "L": 0.0249234,
     "M": 0.3,
     "U": null
    },
@@ -7112,7 +7129,7 @@
   },
   "marion": {
    "L": 0.09,
-   "M": 0.25,
+   "M": null,
    "U": null
   },
   "matazuu": {
@@ -7125,6 +7142,6 @@
    "M": 0.24,
    "U": null
   },
-  "usd": 2315.45
+  "usd": 2294.06
  }
 }
