@@ -1,8 +1,8 @@
 {
- "updated": 1793290068,
+ "updated": 1793290663,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26299489,
+ "block": 26299539,
  "events": {
   "firstCard": 180,
   "firstUnique": 1793190815,
@@ -162,16 +162,6 @@
    "from": "0x0000000000000000000000000000000000000000",
    "to": "0xa1a0d287925da1d7e02f4071f1dba99c6e1ccd8e",
    "tx": "0x23004aa84a3f697613fc3243cf8b69dbb55bc19216d432f396194037ce5fe1f5"
-  },
-  {
-   "ts": 1793289587,
-   "id": 4592,
-   "tier": "L",
-   "hero": "matazuu",
-   "kind": "burn",
-   "from": "0x40f5ad87374c1fe5c256db69ddce9e3741519e8e",
-   "to": "0x0000000000000000000000000000000000000000",
-   "tx": "0xfebcf76df544e8ca77bf82dcc9baf15a0b523033d7b56b7a1482903491e03c22"
   }
  ],
  "sales": {
@@ -7039,7 +7029,7 @@
   }
  },
  "floors": {
-  "at": 1793290069,
+  "at": 1793290663,
   "listed": 209,
   "offers": {
    "shelo": {
@@ -7125,6 +7115,6 @@
    "M": null,
    "U": null
   },
-  "usd": 2368.63
+  "usd": 2356.82
  }
 }
