@@ -1,8 +1,8 @@
 {
- "updated": 1793279870,
+ "updated": 1793280466,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26298641,
+ "block": 26298691,
  "events": {
   "firstCard": 180,
   "firstUnique": 1793190815,
@@ -142,18 +142,6 @@
    }
   }
  },
- "recent": [
-  {
-   "ts": 1793279615,
-   "id": 10287,
-   "tier": "M",
-   "hero": "yomihime",
-   "kind": "forge",
-   "from": "0x0000000000000000000000000000000000000000",
-   "to": "0x5917b36b7d068377272a9f87786655afce9395d2",
-   "tx": "0xfeff2148c2bed4024ed0049e8c36c054d5a7efb042d843ee6f641187a4e1662e"
-  }
- ],
  "sales": {
   "L": {
    "eth": 0.07,
@@ -6911,8 +6899,8 @@
   }
  },
  "floors": {
-  "at": 1793279871,
-  "listed": 211,
+  "at": 1793280466,
+  "listed": 212,
   "offers": {
    "shelo": {
     "id": 2394,
@@ -6997,6 +6985,6 @@
    "M": null,
    "U": null
   },
-  "usd": 2325.58
+  "usd": 2323.24
  }
 }
