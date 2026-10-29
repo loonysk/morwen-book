@@ -1,8 +1,8 @@
 {
- "updated": 1793288265,
+ "updated": 1793288881,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26299339,
+ "block": 26299340,
  "events": {
   "firstCard": 180,
   "firstUnique": 1793190815,
@@ -142,18 +142,6 @@
    }
   }
  },
- "recent": [
-  {
-   "ts": 1793286671,
-   "id": 10179,
-   "tier": "M",
-   "hero": "matazuu",
-   "kind": "hand",
-   "from": "0xf99bcaff5115e71c6f3c3a97c7d7476299af7bb5",
-   "to": "0xfbf38328de9fe7a14a17acdf57ff9d204f48f240",
-   "tx": "0x4ef919e9a29fafd4943f418f3459f9261f8b90538a18a4f4b77fe528f36375d1"
-  }
- ],
  "sales": {
   "L": {
    "eth": 0.07,
@@ -6944,8 +6932,8 @@
   }
  },
  "floors": {
-  "at": 1793288265,
-  "listed": 207,
+  "at": 1793288881,
+  "listed": 208,
   "offers": {
    "shelo": {
     "id": 2394,
@@ -6983,6 +6971,18 @@
     "tier": "L"
    }
   },
+  "named": {
+   "kael vorn": {
+    "L": 0.03,
+    "M": 0.3,
+    "U": null
+   },
+   "morvane": {
+    "L": 0.099,
+    "M": null,
+    "U": null
+   }
+  },
   "shelo": {
    "L": 0.065,
    "M": null,
@@ -7008,18 +7008,6 @@
    "M": 0.25,
    "U": null
   },
-  "named": {
-   "morvane": {
-    "L": 0.099,
-    "M": null,
-    "U": null
-   },
-   "kael vorn": {
-    "L": null,
-    "M": 0.3,
-    "U": null
-   }
-  },
   "matazuu": {
    "L": 0.13,
    "M": null,
@@ -7030,6 +7018,6 @@
    "M": null,
    "U": null
   },
-  "usd": 2361.78
+  "usd": 2366.2
  }
 }
