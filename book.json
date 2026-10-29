@@ -1,29 +1,32 @@
 {
- "updated": 1793275065,
+ "updated": 1793275679,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26298243,
+ "block": 26298292,
  "events": {
   "firstCard": 180,
-  "firstUnique": 1793190815
+  "firstUnique": 1793190815,
+  "firstMythic": 1793275535
  },
  "pending": 0,
  "heroes": {
   "marion": {
-   "cards": 65,
+   "cards": 66,
    "tiers": {
-    "L": 64,
-    "M": 0,
+    "L": 63,
+    "M": 2,
     "U": 1
    },
    "images": {
     "L": "https://hov.fra1.digitaloceanspaces.com/prod/hov_marion_soulthread.png",
+    "M": "https://hov.fra1.digitaloceanspaces.com/prod/mythic/hov_marion_soulthread.png",
     "U": "https://hov.fra1.digitaloceanspaces.com/prod/unique/hov_marion_soulthread.png"
    },
    "holders": 49,
    "thumbs": {
     "L": "https://loonysk.github.io/morwen-book/cards/7c6a8d9b779aae2f.webp",
-    "U": "https://loonysk.github.io/morwen-book/cards/3aad52bc52db9e01.webp"
+    "U": "https://loonysk.github.io/morwen-book/cards/3aad52bc52db9e01.webp",
+    "M": "https://loonysk.github.io/morwen-book/cards/1e089d084816c39a.webp"
    }
   },
   "revazial": {
@@ -59,50 +62,54 @@
    }
   },
   "yomihime": {
-   "cards": 56,
+   "cards": 54,
    "tiers": {
-    "L": 56,
+    "L": 54,
     "M": 0,
     "U": 0
    },
    "images": {
     "L": "https://hov.fra1.digitaloceanspaces.com/prod/hov_yomihime.png"
    },
-   "holders": 38,
+   "holders": 37,
    "thumbs": {
     "L": "https://loonysk.github.io/morwen-book/cards/dfa351374fb18253.webp"
    }
   },
   "shelo": {
-   "cards": 50,
+   "cards": 51,
    "tiers": {
     "L": 50,
-    "M": 0,
+    "M": 1,
     "U": 0
    },
    "images": {
-    "L": "https://hov.fra1.digitaloceanspaces.com/prod/hov_shelo.png"
+    "L": "https://hov.fra1.digitaloceanspaces.com/prod/hov_shelo.png",
+    "M": "https://hov.fra1.digitaloceanspaces.com/prod/mythic/hov_shelo.png"
    },
    "holders": 42,
    "thumbs": {
-    "L": "https://loonysk.github.io/morwen-book/cards/4dc0af14bb5ff744.webp"
+    "L": "https://loonysk.github.io/morwen-book/cards/4dc0af14bb5ff744.webp",
+    "M": "https://loonysk.github.io/morwen-book/cards/c250a6d2fb0b5b8c.webp"
    }
   },
   "morwen": {
-   "cards": 47,
+   "cards": 48,
    "tiers": {
     "L": 46,
-    "M": 0,
+    "M": 1,
     "U": 1
    },
    "images": {
     "L": "https://hov.fra1.digitaloceanspaces.com/prod/hov_morwen_greymoor.png",
+    "M": "https://hov.fra1.digitaloceanspaces.com/prod/mythic/hov_morwen_greymoor.png",
     "U": "https://hov.fra1.digitaloceanspaces.com/prod/unique/hov_morwen_greymoor.png"
    },
    "holders": 38,
    "thumbs": {
     "L": "https://loonysk.github.io/morwen-book/cards/1ed0a45f92f6d78e.webp",
-    "U": "https://loonysk.github.io/morwen-book/cards/3fe0bf745f1e5d46.webp"
+    "U": "https://loonysk.github.io/morwen-book/cards/3fe0bf745f1e5d46.webp",
+    "M": "https://loonysk.github.io/morwen-book/cards/286a09f384f6685b.webp"
    }
   },
   "orven": {
@@ -125,44 +132,14 @@
  },
  "recent": [
   {
-   "ts": 1793254115,
-   "id": 2544,
-   "tier": "L",
-   "hero": "revazial",
-   "kind": "hand",
-   "from": "0xf99bcaff5115e71c6f3c3a97c7d7476299af7bb5",
-   "to": "0x50e43a4d3cbf8f05ce07f3ebc80c7c840b351422",
-   "tx": "0xe002b9f23fb1797f479482a0999cf255d15a9a99edfdf9e80aa0d415f331cff4"
-  },
-  {
-   "ts": 1793250431,
-   "id": 2394,
-   "tier": "L",
+   "ts": 1793275631,
+   "id": 10065,
+   "tier": "M",
    "hero": "shelo",
-   "kind": "hand",
-   "from": "0xf99bcaff5115e71c6f3c3a97c7d7476299af7bb5",
-   "to": "0x50e43a4d3cbf8f05ce07f3ebc80c7c840b351422",
-   "tx": "0x15c1a672a6694f5d9d614cd1a5b287712eb5e8e28af4e32f1ac50420ec7f9904"
-  },
-  {
-   "ts": 1793250359,
-   "id": 2317,
-   "tier": "L",
-   "hero": "marion",
-   "kind": "hand",
-   "from": "0xf99bcaff5115e71c6f3c3a97c7d7476299af7bb5",
-   "to": "0x50e43a4d3cbf8f05ce07f3ebc80c7c840b351422",
-   "tx": "0x140a7bb46d109946b131030ef78283c1158241f876eb7d63addc2e4d31138441"
-  },
-  {
-   "ts": 1793229383,
-   "id": 1248,
-   "tier": "L",
-   "hero": "revazial",
-   "kind": "hand",
-   "from": "0xe9901475c146eea21f8e9b182611dc397c7f174a",
-   "to": "0xaab98f0871b991ed3231cea344a2ef5564479eb3",
-   "tx": "0xc5b8994bef1619025b657fa2b422ed13425e449c8c77c69328a9078072b05d8b"
+   "kind": "forge",
+   "from": "0x0000000000000000000000000000000000000000",
+   "to": "0x08c8d10b3741343369787747111d1763af2f10e1",
+   "tx": "0x075d9c0372ce59190f8842d3db22597c6b29508634dc99d206112a1c822cd03c"
   }
  ],
  "sales": {
@@ -244,7 +221,8 @@
    "bought": 0,
    "spentUsd": 0,
    "witness": [
-    "firstUnique"
+    "firstUnique",
+    "firstMythic"
    ]
   },
   {
@@ -312,7 +290,8 @@
    "bought": 3,
    "spentUsd": 225,
    "witness": [
-    "firstUnique"
+    "firstUnique",
+    "firstMythic"
    ]
   },
   {
@@ -412,7 +391,8 @@
    "bought": 1,
    "spentUsd": 275,
    "witness": [
-    "firstUnique"
+    "firstUnique",
+    "firstMythic"
    ]
   },
   {
@@ -555,7 +535,8 @@
    "bought": 0,
    "spentUsd": 0,
    "witness": [
-    "firstUnique"
+    "firstUnique",
+    "firstMythic"
    ]
   },
   {
@@ -635,7 +616,8 @@
    "bought": 3,
    "spentUsd": 195,
    "witness": [
-    "firstUnique"
+    "firstUnique",
+    "firstMythic"
    ]
   },
   {
@@ -738,7 +720,8 @@
    "bought": 6,
    "spentUsd": 539,
    "witness": [
-    "firstUnique"
+    "firstUnique",
+    "firstMythic"
    ]
   },
   {
@@ -971,7 +954,8 @@
    "bought": 1,
    "spentUsd": 27,
    "witness": [
-    "firstUnique"
+    "firstUnique",
+    "firstMythic"
    ]
   },
   {
@@ -1063,7 +1047,8 @@
    "bought": 5,
    "spentUsd": 317,
    "witness": [
-    "firstUnique"
+    "firstUnique",
+    "firstMythic"
    ]
   },
   {
@@ -1115,7 +1100,8 @@
    "bought": 0,
    "spentUsd": 0,
    "witness": [
-    "firstUnique"
+    "firstUnique",
+    "firstMythic"
    ]
   },
   {
@@ -1302,6 +1288,14 @@
      null,
      "marion",
      2861,
+     null
+    ],
+    [
+     "M",
+     1793275631,
+     null,
+     "shelo",
+     10065,
      null
     ],
     [
@@ -1492,7 +1486,8 @@
    "bought": 6,
    "spentUsd": 406,
    "witness": [
-    "firstUnique"
+    "firstUnique",
+    "firstMythic"
    ]
   },
   {
@@ -1678,7 +1673,8 @@
    "bought": 2,
    "spentUsd": 178,
    "witness": [
-    "firstUnique"
+    "firstUnique",
+    "firstMythic"
    ]
   },
   {
@@ -1762,7 +1758,8 @@
    "bought": 0,
    "spentUsd": 0,
    "witness": [
-    "firstUnique"
+    "firstUnique",
+    "firstMythic"
    ]
   },
   {
@@ -1861,7 +1858,8 @@
    "bought": 0,
    "spentUsd": 0,
    "witness": [
-    "firstUnique"
+    "firstUnique",
+    "firstMythic"
    ]
   },
   {
@@ -1892,7 +1890,8 @@
    "bought": 0,
    "spentUsd": 0,
    "witness": [
-    "firstUnique"
+    "firstUnique",
+    "firstMythic"
    ]
   },
   {
@@ -1952,7 +1951,8 @@
    "bought": 2,
    "spentUsd": 203,
    "witness": [
-    "firstUnique"
+    "firstUnique",
+    "firstMythic"
    ]
   },
   {
@@ -2122,7 +2122,8 @@
    "bought": 1,
    "spentUsd": 55,
    "witness": [
-    "firstUnique"
+    "firstUnique",
+    "firstMythic"
    ]
   },
   {
@@ -2289,7 +2290,8 @@
    "bought": 3,
    "spentUsd": 338,
    "witness": [
-    "firstUnique"
+    "firstUnique",
+    "firstMythic"
    ]
   },
   {
@@ -2382,7 +2384,8 @@
    "bought": 0,
    "spentUsd": 0,
    "witness": [
-    "firstUnique"
+    "firstUnique",
+    "firstMythic"
    ]
   },
   {
@@ -2643,7 +2646,8 @@
    "bought": 0,
    "spentUsd": 0,
    "witness": [
-    "firstUnique"
+    "firstUnique",
+    "firstMythic"
    ]
   },
   {
@@ -2719,7 +2723,8 @@
    "bought": 2,
    "spentUsd": 272,
    "witness": [
-    "firstUnique"
+    "firstUnique",
+    "firstMythic"
    ],
    "first": true
   },
@@ -2932,7 +2937,8 @@
    "bought": 0,
    "spentUsd": 0,
    "witness": [
-    "firstUnique"
+    "firstUnique",
+    "firstMythic"
    ]
   },
   {
@@ -3029,54 +3035,8 @@
    "bought": 0,
    "spentUsd": 0,
    "witness": [
-    "firstUnique"
-   ]
-  },
-  {
-   "w": "0x8031…2a71",
-   "addr": "0x803110a249192d846cadadabf8e081649d8a2a71",
-   "order": 31,
-   "cards": [
-    [
-     "L",
-     1791399335,
-     null,
-     "yomihime",
-     1597,
-     null
-    ],
-    [
-     "L",
-     1791457775,
-     null,
-     "marion",
-     3870,
-     null
-    ],
-    [
-     "L",
-     1791459563,
-     null,
-     null,
-     3883,
-     null
-    ],
-    [
-     "L",
-     1791460019,
-     null,
-     "yomihime",
-     3892,
-     null
-    ]
-   ],
-   "marks": [],
-   "gifted": [],
-   "chance": [],
-   "bought": 0,
-   "spentUsd": 0,
-   "witness": [
-    "firstUnique"
+    "firstUnique",
+    "firstMythic"
    ]
   },
   {
@@ -3453,6 +3413,14 @@
      "revazial",
      2544,
      "t"
+    ],
+    [
+     "M",
+     1793275355,
+     null,
+     "marion",
+     10009,
+     null
     ]
    ],
    "marks": [
@@ -3670,7 +3638,8 @@
    "bought": 0,
    "spentUsd": 0,
    "witness": [
-    "firstUnique"
+    "firstUnique",
+    "firstMythic"
    ]
   },
   {
@@ -3693,7 +3662,8 @@
    "bought": 0,
    "spentUsd": 0,
    "witness": [
-    "firstUnique"
+    "firstUnique",
+    "firstMythic"
    ]
   },
   {
@@ -3716,7 +3686,8 @@
    "bought": 0,
    "spentUsd": 0,
    "witness": [
-    "firstUnique"
+    "firstUnique",
+    "firstMythic"
    ]
   },
   {
@@ -3755,7 +3726,8 @@
    "bought": 3,
    "spentUsd": 363,
    "witness": [
-    "firstUnique"
+    "firstUnique",
+    "firstMythic"
    ]
   },
   {
@@ -3786,7 +3758,8 @@
    "bought": 0,
    "spentUsd": 0,
    "witness": [
-    "firstUnique"
+    "firstUnique",
+    "firstMythic"
    ]
   },
   {
@@ -3870,7 +3843,8 @@
    "bought": 0,
    "spentUsd": 0,
    "witness": [
-    "firstUnique"
+    "firstUnique",
+    "firstMythic"
    ]
   },
   {
@@ -3985,7 +3959,8 @@
    "bought": 0,
    "spentUsd": 0,
    "witness": [
-    "firstUnique"
+    "firstUnique",
+    "firstMythic"
    ]
   },
   {
@@ -4081,7 +4056,8 @@
    "bought": 0,
    "spentUsd": 0,
    "witness": [
-    "firstUnique"
+    "firstUnique",
+    "firstMythic"
    ]
   },
   {
@@ -4269,6 +4245,14 @@
      null,
      3392,
      null
+    ],
+    [
+     "M",
+     1793275595,
+     null,
+     "marion",
+     10057,
+     null
     ]
    ],
    "marks": [],
@@ -4277,7 +4261,8 @@
    "bought": 0,
    "spentUsd": 0,
    "witness": [
-    "firstUnique"
+    "firstUnique",
+    "firstMythic"
    ]
   },
   {
@@ -4340,15 +4325,26 @@
      "revazial",
      5006,
      null
+    ],
+    [
+     "M",
+     1793275535,
+     "chance",
+     null,
+     10044,
+     null
     ]
    ],
    "marks": [],
    "gifted": [],
-   "chance": [],
+   "chance": [
+    "M"
+   ],
    "bought": 7,
    "spentUsd": 538,
    "witness": [
-    "firstUnique"
+    "firstUnique",
+    "firstMythic"
    ]
   },
   {
@@ -4408,6 +4404,63 @@
    "bought": 0,
    "spentUsd": 0,
    "witness": []
+  },
+  {
+   "w": "0x8031…2a71",
+   "addr": "0x803110a249192d846cadadabf8e081649d8a2a71",
+   "order": 31,
+   "cards": [
+    [
+     "L",
+     1791459563,
+     null,
+     null,
+     3883,
+     null
+    ]
+   ],
+   "marks": [
+    {
+     "k": "betrayer",
+     "ally": "marion"
+    },
+    {
+     "k": "betrayer",
+     "ally": "yomihime"
+    },
+    {
+     "k": "betrayer",
+     "ally": "yomihime"
+    }
+   ],
+   "lost": [
+    [
+     "betrayer",
+     "L",
+     "marion",
+     3870
+    ],
+    [
+     "betrayer",
+     "L",
+     "yomihime",
+     3892
+    ],
+    [
+     "betrayer",
+     "L",
+     "yomihime",
+     1597
+    ]
+   ],
+   "gifted": [],
+   "chance": [],
+   "bought": 0,
+   "spentUsd": 0,
+   "witness": [
+    "firstUnique",
+    "firstMythic"
+   ]
   },
   {
    "w": "0x94cb…a5a4",
@@ -4529,7 +4582,8 @@
    "bought": 0,
    "spentUsd": 0,
    "witness": [
-    "firstUnique"
+    "firstUnique",
+    "firstMythic"
    ]
   },
   {
@@ -4552,7 +4606,8 @@
    "bought": 0,
    "spentUsd": 0,
    "witness": [
-    "firstUnique"
+    "firstUnique",
+    "firstMythic"
    ]
   },
   {
@@ -4662,7 +4717,8 @@
    "bought": 0,
    "spentUsd": 0,
    "witness": [
-    "firstUnique"
+    "firstUnique",
+    "firstMythic"
    ]
   },
   {
@@ -4965,7 +5021,8 @@
    "bought": 0,
    "spentUsd": 0,
    "witness": [
-    "firstUnique"
+    "firstUnique",
+    "firstMythic"
    ]
   },
   {
@@ -5177,7 +5234,8 @@
    "bought": 0,
    "spentUsd": 0,
    "witness": [
-    "firstUnique"
+    "firstUnique",
+    "firstMythic"
    ]
   },
   {
@@ -6528,8 +6586,8 @@
   }
  },
  "floors": {
-  "at": 1793275066,
-  "listed": 213,
+  "at": 1793275680,
+  "listed": 212,
   "offers": {
    "shelo": {
     "id": 2394,
@@ -6609,6 +6667,6 @@
    "M": null,
    "U": null
   },
-  "usd": 2322.57
+  "usd": 2319.95
  }
 }
