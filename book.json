@@ -1,8 +1,8 @@
 {
- "updated": 1793274462,
+ "updated": 1793275065,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26298193,
+ "block": 26298243,
  "events": {
   "firstCard": 180,
   "firstUnique": 1793190815
@@ -163,16 +163,6 @@
    "from": "0xe9901475c146eea21f8e9b182611dc397c7f174a",
    "to": "0xaab98f0871b991ed3231cea344a2ef5564479eb3",
    "tx": "0xc5b8994bef1619025b657fa2b422ed13425e449c8c77c69328a9078072b05d8b"
-  },
-  {
-   "ts": 1793217431,
-   "id": 450,
-   "tier": "L",
-   "hero": "marion",
-   "kind": "gift",
-   "from": "0xfbf38328de9fe7a14a17acdf57ff9d204f48f240",
-   "to": "0x858a23f7dceb98829d53034675c55e8cdd5db6a5",
-   "tx": "0x9ef028070def9cbe894b544d92e87d173139cba4f996df59c3c9083da3e5062d"
   }
  ],
  "sales": {
@@ -6538,8 +6528,8 @@
   }
  },
  "floors": {
-  "at": 1793274462,
-  "listed": 217,
+  "at": 1793275066,
+  "listed": 213,
   "offers": {
    "shelo": {
     "id": 2394,
@@ -6577,13 +6567,6 @@
     "tier": "L"
    }
   },
-  "named": {
-   "morvane": {
-    "L": 0.03,
-    "M": null,
-    "U": null
-   }
-  },
   "shelo": {
    "L": 0.065,
    "M": null,
@@ -6609,6 +6592,13 @@
    "M": null,
    "U": null
   },
+  "named": {
+   "morvane": {
+    "L": 0.099,
+    "M": null,
+    "U": null
+   }
+  },
   "matazuu": {
    "L": 0.13,
    "M": null,
@@ -6619,6 +6609,6 @@
    "M": null,
    "U": null
   },
-  "usd": 2321.83
+  "usd": 2322.57
  }
 }
