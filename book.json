@@ -1,8 +1,8 @@
 {
- "updated": 1793270861,
+ "updated": 1793271464,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26297893,
+ "block": 26297943,
  "events": {
   "firstCard": 180,
   "firstUnique": 1793190815
@@ -6538,7 +6538,7 @@
   }
  },
  "floors": {
-  "at": 1793270862,
+  "at": 1793271464,
   "listed": 217,
   "offers": {
    "shelo": {
@@ -6619,6 +6619,6 @@
    "M": null,
    "U": null
   },
-  "usd": 2323.83
+  "usd": 2322.72
  }
 }
