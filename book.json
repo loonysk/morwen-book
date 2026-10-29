@@ -1,8 +1,8 @@
 {
- "updated": 1793291866,
+ "updated": 1793292465,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26299639,
+ "block": 26299689,
  "events": {
   "firstCard": 180,
   "firstUnique": 1793190815,
@@ -152,16 +152,6 @@
    "from": "0x1f76261efaf3ea98b0fb659aa50bf7024e3f7773",
    "to": "0x0000000000000000000000000000000000000000",
    "tx": "0x64b408eae0ad5a41ef87a4a6d4c084fbf6b89dc86edec717ac7a35e3bc6bce50"
-  },
-  {
-   "ts": 1793291411,
-   "id": 3563,
-   "tier": "L",
-   "hero": "orven",
-   "kind": "burn",
-   "from": "0x1f76261efaf3ea98b0fb659aa50bf7024e3f7773",
-   "to": "0x0000000000000000000000000000000000000000",
-   "tx": "0x9394c02d0482ecdd70837c9a3b0b5230b4fafa5c0393843faf2f85268efda9b5"
   }
  ],
  "sales": {
@@ -7035,7 +7025,7 @@
   }
  },
  "floors": {
-  "at": 1793291866,
+  "at": 1793292466,
   "listed": 210,
   "offers": {
    "shelo": {
@@ -7076,7 +7066,7 @@
   },
   "named": {
    "kael vorn": {
-    "L": 0.026717,
+    "L": 0.026708,
     "M": 0.3,
     "U": null
    },
@@ -7121,6 +7111,6 @@
    "M": null,
    "U": null
   },
-  "usd": 2352.95
+  "usd": 2354.69
  }
 }
