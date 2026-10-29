@@ -1,8 +1,8 @@
 {
- "updated": 1793291262,
+ "updated": 1793291866,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26299589,
+ "block": 26299639,
  "events": {
   "firstCard": 180,
   "firstUnique": 1793190815,
@@ -85,9 +85,9 @@
    }
   },
   "shelo": {
-   "cards": 53,
+   "cards": 52,
    "tiers": {
-    "L": 48,
+    "L": 47,
     "M": 4,
     "U": 1
    },
@@ -96,7 +96,7 @@
     "M": "https://hov.fra1.digitaloceanspaces.com/prod/mythic/hov_shelo.png",
     "U": "https://hov.fra1.digitaloceanspaces.com/prod/unique/hov_shelo.png"
    },
-   "holders": 40,
+   "holders": 39,
    "thumbs": {
     "L": "https://loonysk.github.io/morwen-book/cards/4dc0af14bb5ff744.webp",
     "M": "https://loonysk.github.io/morwen-book/cards/c250a6d2fb0b5b8c.webp",
@@ -123,9 +123,9 @@
    }
   },
   "orven": {
-   "cards": 42,
+   "cards": 41,
    "tiers": {
-    "L": 40,
+    "L": 39,
     "M": 1,
     "U": 1
    },
@@ -134,7 +134,7 @@
     "M": "https://hov.fra1.digitaloceanspaces.com/prod/mythic/hov_orven.png",
     "U": "https://hov.fra1.digitaloceanspaces.com/prod/unique/hov_orven.png"
    },
-   "holders": 32,
+   "holders": 31,
    "thumbs": {
     "L": "https://loonysk.github.io/morwen-book/cards/9887edeaf75c5a6b.webp",
     "M": "https://loonysk.github.io/morwen-book/cards/32b22372e8f9af45.webp",
@@ -142,6 +142,28 @@
    }
   }
  },
+ "recent": [
+  {
+   "ts": 1793291459,
+   "id": 1540,
+   "tier": "L",
+   "hero": "shelo",
+   "kind": "burn",
+   "from": "0x1f76261efaf3ea98b0fb659aa50bf7024e3f7773",
+   "to": "0x0000000000000000000000000000000000000000",
+   "tx": "0x64b408eae0ad5a41ef87a4a6d4c084fbf6b89dc86edec717ac7a35e3bc6bce50"
+  },
+  {
+   "ts": 1793291411,
+   "id": 3563,
+   "tier": "L",
+   "hero": "orven",
+   "kind": "burn",
+   "from": "0x1f76261efaf3ea98b0fb659aa50bf7024e3f7773",
+   "to": "0x0000000000000000000000000000000000000000",
+   "tx": "0x9394c02d0482ecdd70837c9a3b0b5230b4fafa5c0393843faf2f85268efda9b5"
+  }
+ ],
  "sales": {
   "L": {
    "eth": 0.07,
@@ -2927,35 +2949,6 @@
     "firstUnique",
     "firstMythic"
    ]
-  },
-  {
-   "w": "0x1f76…7773",
-   "addr": "0x1f76261efaf3ea98b0fb659aa50bf7024e3f7773",
-   "order": 0,
-   "cards": [
-    [
-     "L",
-     1791401699,
-     null,
-     "shelo",
-     1540,
-     null
-    ],
-    [
-     "L",
-     1791453311,
-     null,
-     "orven",
-     3563,
-     null
-    ]
-   ],
-   "marks": [],
-   "gifted": [],
-   "chance": [],
-   "bought": 2,
-   "spentUsd": 63,
-   "witness": []
   },
   {
    "w": "0x45cc…44a2",
@@ -5963,6 +5956,41 @@
    "witness": []
   },
   {
+   "w": "0x1f76…7773",
+   "addr": "0x1f76261efaf3ea98b0fb659aa50bf7024e3f7773",
+   "order": 0,
+   "cards": [],
+   "marks": [
+    {
+     "k": "betrayer",
+     "ally": "orven"
+    },
+    {
+     "k": "betrayer",
+     "ally": "shelo"
+    }
+   ],
+   "lost": [
+    [
+     "betrayer",
+     "L",
+     "orven",
+     3563
+    ],
+    [
+     "betrayer",
+     "L",
+     "shelo",
+     1540
+    ]
+   ],
+   "gifted": [],
+   "chance": [],
+   "bought": 2,
+   "spentUsd": 63,
+   "witness": []
+  },
+  {
    "w": "0x3bb9…006a",
    "addr": "0x3bb9a62d2f91dbb7151351c988eef2b470f0006a",
    "order": 0,
@@ -7007,8 +7035,8 @@
   }
  },
  "floors": {
-  "at": 1793291262,
-  "listed": 209,
+  "at": 1793291866,
+  "listed": 210,
   "offers": {
    "shelo": {
     "id": 2394,
@@ -7046,6 +7074,18 @@
     "tier": "L"
    }
   },
+  "named": {
+   "kael vorn": {
+    "L": 0.026717,
+    "M": 0.3,
+    "U": null
+   },
+   "morvane": {
+    "L": 0.099,
+    "M": null,
+    "U": null
+   }
+  },
   "shelo": {
    "L": 0.065,
    "M": null,
@@ -7071,18 +7111,6 @@
    "M": 0.25,
    "U": null
   },
-  "named": {
-   "morvane": {
-    "L": 0.099,
-    "M": null,
-    "U": null
-   },
-   "kael vorn": {
-    "L": null,
-    "M": 0.3,
-    "U": null
-   }
-  },
   "matazuu": {
    "L": 0.13,
    "M": null,
@@ -7093,6 +7121,6 @@
    "M": null,
    "U": null
   },
-  "usd": 2356.57
+  "usd": 2352.95
  }
 }
