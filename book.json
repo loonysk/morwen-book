@@ -1,8 +1,8 @@
 {
- "updated": 1793289470,
+ "updated": 1793290068,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26299439,
+ "block": 26299489,
  "events": {
   "firstCard": 180,
   "firstUnique": 1793190815,
@@ -30,10 +30,10 @@
    }
   },
   "matazuu": {
-   "cards": 63,
+   "cards": 60,
    "tiers": {
-    "L": 57,
-    "M": 5,
+    "L": 55,
+    "M": 4,
     "U": 1
    },
    "images": {
@@ -41,7 +41,7 @@
     "M": "https://hov.fra1.digitaloceanspaces.com/prod/mythic/hov_matazuu.png",
     "U": "https://hov.fra1.digitaloceanspaces.com/prod/unique/hov_matazuu.png"
    },
-   "holders": 47,
+   "holders": 45,
    "thumbs": {
     "L": "https://loonysk.github.io/morwen-book/cards/a56f14d57fe9da96.webp",
     "M": "https://loonysk.github.io/morwen-book/cards/b467fe8dc2755ffc.webp",
@@ -68,17 +68,17 @@
    }
   },
   "yomihime": {
-   "cards": 55,
+   "cards": 56,
    "tiers": {
     "L": 50,
-    "M": 5,
+    "M": 6,
     "U": 0
    },
    "images": {
     "L": "https://hov.fra1.digitaloceanspaces.com/prod/hov_yomihime.png",
     "M": "https://hov.fra1.digitaloceanspaces.com/prod/mythic/hov_yomihime.png"
    },
-   "holders": 38,
+   "holders": 39,
    "thumbs": {
     "L": "https://loonysk.github.io/morwen-book/cards/dfa351374fb18253.webp",
     "M": "https://loonysk.github.io/morwen-book/cards/ee3066876d78a62d.webp"
@@ -142,6 +142,38 @@
    }
   }
  },
+ "recent": [
+  {
+   "ts": 1793289983,
+   "id": 10340,
+   "tier": "M",
+   "hero": "matazuu",
+   "kind": "burn",
+   "from": "0xd867f88065a281fc554b8bf7f0ac4b91c500560f",
+   "to": "0x0000000000000000000000000000000000000000",
+   "tx": "0x0b2ef94d2ffb51b19f62ec777535903ce45ddcc814a71c03a2e24f52f97aa78a"
+  },
+  {
+   "ts": 1793289947,
+   "id": 10362,
+   "tier": "M",
+   "hero": "yomihime",
+   "kind": "forge",
+   "from": "0x0000000000000000000000000000000000000000",
+   "to": "0xa1a0d287925da1d7e02f4071f1dba99c6e1ccd8e",
+   "tx": "0x23004aa84a3f697613fc3243cf8b69dbb55bc19216d432f396194037ce5fe1f5"
+  },
+  {
+   "ts": 1793289587,
+   "id": 4592,
+   "tier": "L",
+   "hero": "matazuu",
+   "kind": "burn",
+   "from": "0x40f5ad87374c1fe5c256db69ddce9e3741519e8e",
+   "to": "0x0000000000000000000000000000000000000000",
+   "tx": "0xfebcf76df544e8ca77bf82dcc9baf15a0b523033d7b56b7a1482903491e03c22"
+  }
+ ],
  "sales": {
   "L": {
    "eth": 0.07,
@@ -4930,35 +4962,6 @@
    "witness": []
   },
   {
-   "w": "0x40f5…9e8e",
-   "addr": "0x40f5ad87374c1fe5c256db69ddce9e3741519e8e",
-   "order": 0,
-   "cards": [
-    [
-     "L",
-     1791532787,
-     null,
-     "matazuu",
-     4525,
-     null
-    ],
-    [
-     "L",
-     1791535691,
-     null,
-     "matazuu",
-     4592,
-     null
-    ]
-   ],
-   "marks": [],
-   "gifted": [],
-   "chance": [],
-   "bought": 0,
-   "spentUsd": 0,
-   "witness": []
-  },
-  {
    "w": "0x39bb…2441",
    "addr": "0x39bba85d4abe244885c98fb42add933075062441",
    "order": 0,
@@ -5658,60 +5661,6 @@
    "witness": []
   },
   {
-   "w": "0xd867…560f",
-   "addr": "0xd867f88065a281fc554b8bf7f0ac4b91c500560f",
-   "order": 0,
-   "cards": [
-    [
-     "M",
-     1793288543,
-     null,
-     "matazuu",
-     10340,
-     null
-    ]
-   ],
-   "marks": [
-    {
-     "k": "betrayer",
-     "ally": "matazuu"
-    },
-    {
-     "k": "betrayer",
-     "ally": "marion"
-    },
-    {
-     "k": "betrayer",
-     "ally": "shelo"
-    }
-   ],
-   "lost": [
-    [
-     "betrayer",
-     "L",
-     "matazuu",
-     2276
-    ],
-    [
-     "betrayer",
-     "L",
-     "marion",
-     2162
-    ],
-    [
-     "betrayer",
-     "L",
-     "shelo",
-     1781
-    ]
-   ],
-   "gifted": [],
-   "chance": [],
-   "bought": 0,
-   "spentUsd": 0,
-   "witness": []
-  },
-  {
    "w": "0x1767…cb10",
    "addr": "0x17673736885594b8c86b281a5ab8ec381cb4cb10",
    "order": 46,
@@ -5736,6 +5685,27 @@
      5094
     ]
    ],
+   "gifted": [],
+   "chance": [],
+   "bought": 0,
+   "spentUsd": 0,
+   "witness": []
+  },
+  {
+   "w": "0xa1a0…cd8e",
+   "addr": "0xa1a0d287925da1d7e02f4071f1dba99c6e1ccd8e",
+   "order": 0,
+   "cards": [
+    [
+     "M",
+     1793289947,
+     null,
+     "yomihime",
+     10362,
+     null
+    ]
+   ],
+   "marks": [],
    "gifted": [],
    "chance": [],
    "bought": 0,
@@ -6643,6 +6613,61 @@
    "witness": []
   },
   {
+   "w": "0xd867…560f",
+   "addr": "0xd867f88065a281fc554b8bf7f0ac4b91c500560f",
+   "order": 0,
+   "cards": [],
+   "marks": [
+    {
+     "k": "betrayer",
+     "ally": "matazuu"
+    },
+    {
+     "k": "betrayer",
+     "ally": "marion"
+    },
+    {
+     "k": "betrayer",
+     "ally": "shelo"
+    },
+    {
+     "k": "defiler",
+     "ally": "matazuu"
+    }
+   ],
+   "lost": [
+    [
+     "betrayer",
+     "L",
+     "matazuu",
+     2276
+    ],
+    [
+     "betrayer",
+     "L",
+     "marion",
+     2162
+    ],
+    [
+     "betrayer",
+     "L",
+     "shelo",
+     1781
+    ],
+    [
+     "defiler",
+     "M",
+     "matazuu",
+     10340
+    ]
+   ],
+   "gifted": [],
+   "chance": [],
+   "bought": 0,
+   "spentUsd": 0,
+   "witness": []
+  },
+  {
    "w": "0x6623…bc7b",
    "addr": "0x66235dd8639fce9e3159ec19da411d2043b0bc7b",
    "order": 0,
@@ -6953,6 +6978,41 @@
    "bought": 0,
    "spentUsd": 0,
    "witness": []
+  },
+  {
+   "w": "0x40f5…9e8e",
+   "addr": "0x40f5ad87374c1fe5c256db69ddce9e3741519e8e",
+   "order": 0,
+   "cards": [],
+   "marks": [
+    {
+     "k": "betrayer",
+     "ally": "matazuu"
+    },
+    {
+     "k": "betrayer",
+     "ally": "matazuu"
+    }
+   ],
+   "lost": [
+    [
+     "betrayer",
+     "L",
+     "matazuu",
+     4525
+    ],
+    [
+     "betrayer",
+     "L",
+     "matazuu",
+     4592
+    ]
+   ],
+   "gifted": [],
+   "chance": [],
+   "bought": 0,
+   "spentUsd": 0,
+   "witness": []
   }
  ],
  "known": {
@@ -6979,8 +7039,8 @@
   }
  },
  "floors": {
-  "at": 1793289471,
-  "listed": 211,
+  "at": 1793290069,
+  "listed": 209,
   "offers": {
    "shelo": {
     "id": 2394,
@@ -7065,6 +7125,6 @@
    "M": null,
    "U": null
   },
-  "usd": 2365.68
+  "usd": 2368.63
  }
 }
