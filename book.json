@@ -1,8 +1,8 @@
 {
- "updated": 1793254060,
+ "updated": 1793254664,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26296496,
+ "block": 26296546,
  "events": {
   "firstCard": 180,
   "firstUnique": 1793190815
@@ -124,6 +124,16 @@
   }
  },
  "recent": [
+  {
+   "ts": 1793254115,
+   "id": 2544,
+   "tier": "L",
+   "hero": "revazial",
+   "kind": "hand",
+   "from": "0xf99bcaff5115e71c6f3c3a97c7d7476299af7bb5",
+   "to": "0x50e43a4d3cbf8f05ce07f3ebc80c7c840b351422",
+   "tx": "0xe002b9f23fb1797f479482a0999cf255d15a9a99edfdf9e80aa0d415f331cff4"
+  },
   {
    "ts": 1793250431,
    "id": 2394,
@@ -3445,6 +3455,14 @@
      "shelo",
      2394,
      "t"
+    ],
+    [
+     "L",
+     1793254115,
+     null,
+     "revazial",
+     2544,
+     "t"
     ]
    ],
    "marks": [
@@ -3751,18 +3769,41 @@
    ]
   },
   {
+   "w": "0xd109…c837",
+   "addr": "0xd1090f17355d83a82020d8921e0256eae9a4c837",
+   "order": 21,
+   "cards": [
+    [
+     "L",
+     1791408239,
+     null,
+     "marion",
+     2611,
+     null
+    ],
+    [
+     "L",
+     1791408419,
+     null,
+     null,
+     2630,
+     null
+    ]
+   ],
+   "marks": [],
+   "gifted": [],
+   "chance": [],
+   "bought": 0,
+   "spentUsd": 0,
+   "witness": [
+    "firstUnique"
+   ]
+  },
+  {
    "w": "0xf99b…7bb5",
    "addr": "0xf99bcaff5115e71c6f3c3a97c7d7476299af7bb5",
    "order": 0,
    "cards": [
-    [
-     "L",
-     1791407555,
-     null,
-     "revazial",
-     2544,
-     null
-    ],
     [
      "L",
      1791408623,
@@ -3798,6 +3839,11 @@
      "L",
      "shelo",
      2394
+    ],
+    [
+     "L",
+     "revazial",
+     2544
     ]
    ],
    "gifted": [],
@@ -3805,37 +3851,6 @@
    "bought": 0,
    "spentUsd": 0,
    "witness": []
-  },
-  {
-   "w": "0xd109…c837",
-   "addr": "0xd1090f17355d83a82020d8921e0256eae9a4c837",
-   "order": 21,
-   "cards": [
-    [
-     "L",
-     1791408239,
-     null,
-     "marion",
-     2611,
-     null
-    ],
-    [
-     "L",
-     1791408419,
-     null,
-     null,
-     2630,
-     null
-    ]
-   ],
-   "marks": [],
-   "gifted": [],
-   "chance": [],
-   "bought": 0,
-   "spentUsd": 0,
-   "witness": [
-    "firstUnique"
-   ]
   },
   {
    "w": "0x968b…c32b",
@@ -6523,7 +6538,7 @@
   }
  },
  "floors": {
-  "at": 1793254061,
+  "at": 1793254664,
   "listed": 211,
   "offers": {
    "yomihime": {
@@ -6594,6 +6609,6 @@
    "M": null,
    "U": null
   },
-  "usd": 2319.18
+  "usd": 2313.78
  }
 }
