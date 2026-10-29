@@ -1,8 +1,8 @@
 {
- "updated": 1793277474,
+ "updated": 1793278072,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26298442,
+ "block": 26298491,
  "events": {
   "firstCard": 180,
   "firstUnique": 1793190815,
@@ -11,10 +11,10 @@
  "pending": 0,
  "heroes": {
   "marion": {
-   "cards": 67,
+   "cards": 68,
    "tiers": {
     "L": 63,
-    "M": 3,
+    "M": 4,
     "U": 1
    },
    "images": {
@@ -22,7 +22,7 @@
     "M": "https://hov.fra1.digitaloceanspaces.com/prod/mythic/hov_marion_soulthread.png",
     "U": "https://hov.fra1.digitaloceanspaces.com/prod/unique/hov_marion_soulthread.png"
    },
-   "holders": 50,
+   "holders": 51,
    "thumbs": {
     "L": "https://loonysk.github.io/morwen-book/cards/7c6a8d9b779aae2f.webp",
     "M": "https://loonysk.github.io/morwen-book/cards/1e089d084816c39a.webp",
@@ -83,10 +83,10 @@
    }
   },
   "shelo": {
-   "cards": 53,
+   "cards": 55,
    "tiers": {
     "L": 50,
-    "M": 2,
+    "M": 4,
     "U": 1
    },
    "images": {
@@ -135,21 +135,21 @@
    "holders": 32,
    "thumbs": {
     "L": "https://loonysk.github.io/morwen-book/cards/9887edeaf75c5a6b.webp",
-    "U": "https://loonysk.github.io/morwen-book/cards/f648a007225d13e4.webp",
-    "M": "https://loonysk.github.io/morwen-book/cards/32b22372e8f9af45.webp"
+    "M": "https://loonysk.github.io/morwen-book/cards/32b22372e8f9af45.webp",
+    "U": "https://loonysk.github.io/morwen-book/cards/f648a007225d13e4.webp"
    }
   }
  },
  "recent": [
   {
-   "ts": 1793277335,
-   "id": 10219,
+   "ts": 1793277971,
+   "id": 10242,
    "tier": "M",
-   "hero": "yomihime",
+   "hero": "shelo",
    "kind": "forge",
    "from": "0x0000000000000000000000000000000000000000",
-   "to": "0x398ebe40c91cd0e5da4499806bc3efe706fcc6f6",
-   "tx": "0x3752ba1d4732e587302d67d6099b7f7a11542ecf540319231f3b22766a616fd7"
+   "to": "0xedbe25c158ac7cfc9f44f4acf982be53b46d2f2a",
+   "tx": "0x43fad03bf19107d36b6dcbcff6629d05d3ae1ecec06850e22921bc8dfd4855f5"
   }
  ],
  "sales": {
@@ -3317,6 +3317,14 @@
      null,
      10094,
      null
+    ],
+    [
+     "M",
+     1793277971,
+     null,
+     "shelo",
+     10242,
+     null
     ]
    ],
    "marks": [],
@@ -3609,6 +3617,14 @@
      null,
      "shelo",
      10210,
+     null
+    ],
+    [
+     "M",
+     1793277755,
+     null,
+     "shelo",
+     10233,
      null
     ],
     [
@@ -5485,6 +5501,14 @@
      "matazuu",
      10088,
      null
+    ],
+    [
+     "M",
+     1793277935,
+     null,
+     "marion",
+     10239,
+     null
     ]
    ],
    "marks": [],
@@ -6821,8 +6845,8 @@
   }
  },
  "floors": {
-  "at": 1793277474,
-  "listed": 212,
+  "at": 1793278072,
+  "listed": 214,
   "offers": {
    "shelo": {
     "id": 2394,
@@ -6893,7 +6917,7 @@
    },
    "kael vorn": {
     "L": null,
-    "M": 0.25,
+    "M": 0.24,
     "U": null
    }
   },
@@ -6907,6 +6931,6 @@
    "M": null,
    "U": null
   },
-  "usd": 2318.26
+  "usd": 2318.03
  }
 }
