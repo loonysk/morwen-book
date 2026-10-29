@@ -1,8 +1,8 @@
 {
- "updated": 1793275679,
+ "updated": 1793276283,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26298292,
+ "block": 26298342,
  "events": {
   "firstCard": 180,
   "firstUnique": 1793190815,
@@ -25,55 +25,61 @@
    "holders": 49,
    "thumbs": {
     "L": "https://loonysk.github.io/morwen-book/cards/7c6a8d9b779aae2f.webp",
-    "U": "https://loonysk.github.io/morwen-book/cards/3aad52bc52db9e01.webp",
-    "M": "https://loonysk.github.io/morwen-book/cards/1e089d084816c39a.webp"
+    "M": "https://loonysk.github.io/morwen-book/cards/1e089d084816c39a.webp",
+    "U": "https://loonysk.github.io/morwen-book/cards/3aad52bc52db9e01.webp"
    }
   },
   "revazial": {
    "cards": 55,
    "tiers": {
-    "L": 55,
-    "M": 0,
+    "L": 53,
+    "M": 2,
     "U": 0
    },
    "images": {
-    "L": "https://hov.fra1.digitaloceanspaces.com/prod/hov_revazial.png"
+    "L": "https://hov.fra1.digitaloceanspaces.com/prod/hov_revazial.png",
+    "M": "https://hov.fra1.digitaloceanspaces.com/prod/mythic/hov_revazial.png"
    },
-   "holders": 41,
+   "holders": 42,
    "thumbs": {
-    "L": "https://loonysk.github.io/morwen-book/cards/92565182053f29b5.webp"
+    "L": "https://loonysk.github.io/morwen-book/cards/92565182053f29b5.webp",
+    "M": "https://loonysk.github.io/morwen-book/cards/aef39d1969af82a5.webp"
    }
   },
   "matazuu": {
-   "cards": 60,
+   "cards": 61,
    "tiers": {
     "L": 59,
-    "M": 0,
+    "M": 1,
     "U": 1
    },
    "images": {
     "L": "https://hov.fra1.digitaloceanspaces.com/prod/hov_matazuu.png",
+    "M": "https://hov.fra1.digitaloceanspaces.com/prod/mythic/hov_matazuu.png",
     "U": "https://hov.fra1.digitaloceanspaces.com/prod/unique/hov_matazuu.png"
    },
-   "holders": 44,
+   "holders": 45,
    "thumbs": {
     "L": "https://loonysk.github.io/morwen-book/cards/a56f14d57fe9da96.webp",
-    "U": "https://loonysk.github.io/morwen-book/cards/5493d5474d30812c.webp"
+    "U": "https://loonysk.github.io/morwen-book/cards/5493d5474d30812c.webp",
+    "M": "https://loonysk.github.io/morwen-book/cards/b467fe8dc2755ffc.webp"
    }
   },
   "yomihime": {
-   "cards": 54,
+   "cards": 52,
    "tiers": {
-    "L": 54,
-    "M": 0,
+    "L": 51,
+    "M": 1,
     "U": 0
    },
    "images": {
-    "L": "https://hov.fra1.digitaloceanspaces.com/prod/hov_yomihime.png"
+    "L": "https://hov.fra1.digitaloceanspaces.com/prod/hov_yomihime.png",
+    "M": "https://hov.fra1.digitaloceanspaces.com/prod/mythic/hov_yomihime.png"
    },
-   "holders": 37,
+   "holders": 35,
    "thumbs": {
-    "L": "https://loonysk.github.io/morwen-book/cards/dfa351374fb18253.webp"
+    "L": "https://loonysk.github.io/morwen-book/cards/dfa351374fb18253.webp",
+    "M": "https://loonysk.github.io/morwen-book/cards/ee3066876d78a62d.webp"
    }
   },
   "shelo": {
@@ -94,10 +100,10 @@
    }
   },
   "morwen": {
-   "cards": 48,
+   "cards": 51,
    "tiers": {
-    "L": 46,
-    "M": 1,
+    "L": 45,
+    "M": 5,
     "U": 1
    },
    "images": {
@@ -105,11 +111,11 @@
     "M": "https://hov.fra1.digitaloceanspaces.com/prod/mythic/hov_morwen_greymoor.png",
     "U": "https://hov.fra1.digitaloceanspaces.com/prod/unique/hov_morwen_greymoor.png"
    },
-   "holders": 38,
+   "holders": 40,
    "thumbs": {
     "L": "https://loonysk.github.io/morwen-book/cards/1ed0a45f92f6d78e.webp",
-    "U": "https://loonysk.github.io/morwen-book/cards/3fe0bf745f1e5d46.webp",
-    "M": "https://loonysk.github.io/morwen-book/cards/286a09f384f6685b.webp"
+    "M": "https://loonysk.github.io/morwen-book/cards/286a09f384f6685b.webp",
+    "U": "https://loonysk.github.io/morwen-book/cards/3fe0bf745f1e5d46.webp"
    }
   },
   "orven": {
@@ -132,14 +138,24 @@
  },
  "recent": [
   {
-   "ts": 1793275631,
-   "id": 10065,
-   "tier": "M",
-   "hero": "shelo",
-   "kind": "forge",
-   "from": "0x0000000000000000000000000000000000000000",
-   "to": "0x08c8d10b3741343369787747111d1763af2f10e1",
-   "tx": "0x075d9c0372ce59190f8842d3db22597c6b29508634dc99d206112a1c822cd03c"
+   "ts": 1793276183,
+   "id": 4127,
+   "tier": "L",
+   "hero": "revazial",
+   "kind": "burn",
+   "from": "0x5687680d14d637707fe05f18da6985ee040eac73",
+   "to": "0x0000000000000000000000000000000000000000",
+   "tx": "0x07fc189ae33786011331bd7187983b078ae9f3578482000f63b2060208eefa0a"
+  },
+  {
+   "ts": 1793276183,
+   "id": 4093,
+   "tier": "L",
+   "hero": "revazial",
+   "kind": "burn",
+   "from": "0x5687680d14d637707fe05f18da6985ee040eac73",
+   "to": "0x0000000000000000000000000000000000000000",
+   "tx": "0x07fc189ae33786011331bd7187983b078ae9f3578482000f63b2060208eefa0a"
   }
  ],
  "sales": {
@@ -451,93 +467,6 @@
    "bought": 0,
    "spentUsd": 0,
    "witness": []
-  },
-  {
-   "w": "0x5687…ac73",
-   "addr": "0x5687680d14d637707fe05f18da6985ee040eac73",
-   "order": 32,
-   "cards": [
-    [
-     "L",
-     1791393119,
-     null,
-     "yomihime",
-     159,
-     null
-    ],
-    [
-     "L",
-     1791401543,
-     null,
-     "yomihime",
-     1839,
-     null
-    ],
-    [
-     "L",
-     1791465107,
-     null,
-     null,
-     4078,
-     null
-    ],
-    [
-     "L",
-     1791465455,
-     null,
-     "revazial",
-     4093,
-     null
-    ],
-    [
-     "L",
-     1791466055,
-     null,
-     "revazial",
-     4127,
-     null
-    ],
-    [
-     "U",
-     1793215463,
-     null,
-     "orven",
-     20009,
-     null
-    ]
-   ],
-   "marks": [
-    {
-     "k": "betrayer",
-     "ally": "revazial"
-    },
-    {
-     "k": "betrayer",
-     "ally": "matazuu"
-    }
-   ],
-   "lost": [
-    [
-     "betrayer",
-     "L",
-     "revazial",
-     1552
-    ],
-    [
-     "betrayer",
-     "L",
-     "matazuu",
-     1912
-    ]
-   ],
-   "gifted": [],
-   "chance": [],
-   "bought": 0,
-   "spentUsd": 0,
-   "witness": [
-    "firstUnique",
-    "firstMythic"
-   ]
   },
   {
    "w": "0x9a25…8c95",
@@ -1128,7 +1057,7 @@
   {
    "w": "0x08c8…10e1",
    "addr": "0x08c8d10b3741343369787747111d1763af2f10e1",
-   "order": 0,
+   "order": 60,
    "cards": [
     [
      "L",
@@ -1299,6 +1228,14 @@
      null
     ],
     [
+     "M",
+     1793275871,
+     "chance",
+     null,
+     10105,
+     null
+    ],
+    [
      "U",
      1793192051,
      null,
@@ -1309,7 +1246,9 @@
    ],
    "marks": [],
    "gifted": [],
-   "chance": [],
+   "chance": [
+    "M"
+   ],
    "bought": 0,
    "spentUsd": 0,
    "witness": []
@@ -1842,17 +1781,22 @@
      "marion",
      624,
      null
-    ],
-    [
-     "L",
-     1791394739,
-     null,
-     "yomihime",
-     701,
-     null
     ]
    ],
-   "marks": [],
+   "marks": [
+    {
+     "k": "betrayer",
+     "ally": "yomihime"
+    }
+   ],
+   "lost": [
+    [
+     "betrayer",
+     "L",
+     "yomihime",
+     701
+    ]
+   ],
    "gifted": [],
    "chance": [],
    "bought": 0,
@@ -2513,6 +2457,14 @@
      null,
      "matazuu",
      4032,
+     null
+    ],
+    [
+     "M",
+     1793276027,
+     null,
+     "yomihime",
+     10120,
      null
     ]
    ],
@@ -3258,7 +3210,7 @@
   {
    "w": "0xedbe…2f2a",
    "addr": "0xedbe25c158ac7cfc9f44f4acf982be53b46d2f2a",
-   "order": 0,
+   "order": 59,
    "cards": [
     [
      "L",
@@ -3347,11 +3299,21 @@
      "marion",
      3806,
      "t"
+    ],
+    [
+     "M",
+     1793275775,
+     "chance",
+     null,
+     10094,
+     null
     ]
    ],
    "marks": [],
    "gifted": [],
-   "chance": [],
+   "chance": [
+    "M"
+   ],
    "bought": 0,
    "spentUsd": 0,
    "witness": []
@@ -4333,11 +4295,20 @@
      null,
      10044,
      null
+    ],
+    [
+     "M",
+     1793276135,
+     "chance",
+     null,
+     10132,
+     null
     ]
    ],
    "marks": [],
    "gifted": [],
    "chance": [
+    "M",
     "M"
    ],
    "bought": 7,
@@ -4404,63 +4375,6 @@
    "bought": 0,
    "spentUsd": 0,
    "witness": []
-  },
-  {
-   "w": "0x8031…2a71",
-   "addr": "0x803110a249192d846cadadabf8e081649d8a2a71",
-   "order": 31,
-   "cards": [
-    [
-     "L",
-     1791459563,
-     null,
-     null,
-     3883,
-     null
-    ]
-   ],
-   "marks": [
-    {
-     "k": "betrayer",
-     "ally": "marion"
-    },
-    {
-     "k": "betrayer",
-     "ally": "yomihime"
-    },
-    {
-     "k": "betrayer",
-     "ally": "yomihime"
-    }
-   ],
-   "lost": [
-    [
-     "betrayer",
-     "L",
-     "marion",
-     3870
-    ],
-    [
-     "betrayer",
-     "L",
-     "yomihime",
-     3892
-    ],
-    [
-     "betrayer",
-     "L",
-     "yomihime",
-     1597
-    ]
-   ],
-   "gifted": [],
-   "chance": [],
-   "bought": 0,
-   "spentUsd": 0,
-   "witness": [
-    "firstUnique",
-    "firstMythic"
-   ]
   },
   {
    "w": "0x94cb…a5a4",
@@ -4545,6 +4459,111 @@
    "bought": 0,
    "spentUsd": 0,
    "witness": []
+  },
+  {
+   "w": "0x5687…ac73",
+   "addr": "0x5687680d14d637707fe05f18da6985ee040eac73",
+   "order": 32,
+   "cards": [
+    [
+     "L",
+     1791465107,
+     null,
+     null,
+     4078,
+     null
+    ],
+    [
+     "U",
+     1793215463,
+     null,
+     "orven",
+     20009,
+     null
+    ]
+   ],
+   "marks": [
+    {
+     "k": "betrayer",
+     "ally": "revazial"
+    },
+    {
+     "k": "betrayer",
+     "ally": "matazuu"
+    },
+    {
+     "k": "betrayer",
+     "ally": "yomihime"
+    },
+    {
+     "k": "betrayer",
+     "ally": "yomihime"
+    },
+    {
+     "k": "defiler",
+     "ally": "shelo"
+    },
+    {
+     "k": "betrayer",
+     "ally": "revazial"
+    },
+    {
+     "k": "betrayer",
+     "ally": "revazial"
+    }
+   ],
+   "lost": [
+    [
+     "betrayer",
+     "L",
+     "revazial",
+     1552
+    ],
+    [
+     "betrayer",
+     "L",
+     "matazuu",
+     1912
+    ],
+    [
+     "betrayer",
+     "L",
+     "yomihime",
+     159
+    ],
+    [
+     "betrayer",
+     "L",
+     "yomihime",
+     1839
+    ],
+    [
+     "defiler",
+     "M",
+     "shelo",
+     10072
+    ],
+    [
+     "betrayer",
+     "L",
+     "revazial",
+     4093
+    ],
+    [
+     "betrayer",
+     "L",
+     "revazial",
+     4127
+    ]
+   ],
+   "gifted": [],
+   "chance": [],
+   "bought": 0,
+   "spentUsd": 0,
+   "witness": [
+    "firstUnique",
+    "firstMythic"
+   ]
   },
   {
    "w": "0x2824…294a",
@@ -5373,6 +5392,173 @@
    "witness": []
   },
   {
+   "w": "0xd7ac…deb9",
+   "addr": "0xd7ac10db879fc98e43c4c2f5ab9920add957deb9",
+   "order": 10,
+   "cards": [
+    [
+     "M",
+     1793275703,
+     "chance",
+     null,
+     10081,
+     null
+    ],
+    [
+     "M",
+     1793275919,
+     null,
+     "revazial",
+     10110,
+     null
+    ]
+   ],
+   "marks": [],
+   "gone": [
+    [
+     "L",
+     "morwen",
+     1039
+    ],
+    [
+     "L",
+     "matazuu",
+     1145
+    ],
+    [
+     "L",
+     "matazuu",
+     4008
+    ]
+   ],
+   "gifted": [],
+   "chance": [
+    "M"
+   ],
+   "bought": 0,
+   "spentUsd": 0,
+   "witness": []
+  },
+  {
+   "w": "0x3bf9…43c0",
+   "addr": "0x3bf912ad06225b8a7889ac6044b0dec522a843c0",
+   "order": 45,
+   "cards": [
+    [
+     "M",
+     1793275763,
+     null,
+     "matazuu",
+     10088,
+     null
+    ]
+   ],
+   "marks": [],
+   "gone": [
+    [
+     "L",
+     "marion",
+     4285
+    ],
+    [
+     "L",
+     "matazuu",
+     4639
+    ],
+    [
+     "L",
+     "matazuu",
+     5063
+    ],
+    [
+     "L",
+     "revazial",
+     4957
+    ],
+    [
+     "L",
+     "morwen",
+     5061
+    ],
+    [
+     "L",
+     "matazuu",
+     4638
+    ],
+    [
+     "L",
+     "marion",
+     5170
+    ],
+    [
+     "L",
+     "orven",
+     4647
+    ],
+    [
+     "L",
+     "yomihime",
+     5021
+    ],
+    [
+     "L",
+     "revazial",
+     4939
+    ],
+    [
+     "L",
+     "shelo",
+     4985
+    ]
+   ],
+   "gifted": [],
+   "chance": [],
+   "bought": 0,
+   "spentUsd": 0,
+   "witness": []
+  },
+  {
+   "w": "0x053d…1a53",
+   "addr": "0x053d455805cf03fa2c585e933b843e9292ba1a53",
+   "order": 0,
+   "cards": [
+    [
+     "M",
+     1793276039,
+     null,
+     "revazial",
+     10123,
+     null
+    ]
+   ],
+   "marks": [
+    {
+     "k": "flipper",
+     "ally": "marion"
+    }
+   ],
+   "lost": [
+    [
+     "flipper",
+     "L",
+     "marion",
+     3050
+    ]
+   ],
+   "gone": [
+    [
+     "L",
+     "orven",
+     3084
+    ]
+   ],
+   "gifted": [],
+   "chance": [],
+   "bought": 0,
+   "spentUsd": 0,
+   "witness": []
+  },
+  {
    "w": "0x65cd…501f",
    "addr": "0x65cd7306aaccedfb658d19f83694b2bde08b501f",
    "order": 1,
@@ -5454,35 +5640,6 @@
      "L",
      "morwen",
      869
-    ]
-   ],
-   "gifted": [],
-   "chance": [],
-   "bought": 0,
-   "spentUsd": 0,
-   "witness": []
-  },
-  {
-   "w": "0xd7ac…deb9",
-   "addr": "0xd7ac10db879fc98e43c4c2f5ab9920add957deb9",
-   "order": 10,
-   "cards": [],
-   "marks": [],
-   "gone": [
-    [
-     "L",
-     "morwen",
-     1039
-    ],
-    [
-     "L",
-     "matazuu",
-     1145
-    ],
-    [
-     "L",
-     "matazuu",
-     4008
     ]
    ],
    "gifted": [],
@@ -5851,38 +6008,6 @@
    "witness": []
   },
   {
-   "w": "0x053d…1a53",
-   "addr": "0x053d455805cf03fa2c585e933b843e9292ba1a53",
-   "order": 0,
-   "cards": [],
-   "marks": [
-    {
-     "k": "flipper",
-     "ally": "marion"
-    }
-   ],
-   "lost": [
-    [
-     "flipper",
-     "L",
-     "marion",
-     3050
-    ]
-   ],
-   "gone": [
-    [
-     "L",
-     "orven",
-     3084
-    ]
-   ],
-   "gifted": [],
-   "chance": [],
-   "bought": 0,
-   "spentUsd": 0,
-   "witness": []
-  },
-  {
    "w": "0xfd14…e79a",
    "addr": "0xfd147e915b113fa92d25fa4ce8b6c19230f2e79a",
    "order": 29,
@@ -5963,6 +6088,61 @@
    "bought": 0,
    "spentUsd": 0,
    "witness": []
+  },
+  {
+   "w": "0x8031…2a71",
+   "addr": "0x803110a249192d846cadadabf8e081649d8a2a71",
+   "order": 31,
+   "cards": [],
+   "marks": [
+    {
+     "k": "betrayer",
+     "ally": "marion"
+    },
+    {
+     "k": "betrayer",
+     "ally": "yomihime"
+    },
+    {
+     "k": "betrayer",
+     "ally": "yomihime"
+    },
+    "betrayer"
+   ],
+   "lost": [
+    [
+     "betrayer",
+     "L",
+     "marion",
+     3870
+    ],
+    [
+     "betrayer",
+     "L",
+     "yomihime",
+     3892
+    ],
+    [
+     "betrayer",
+     "L",
+     "yomihime",
+     1597
+    ],
+    [
+     "betrayer",
+     "L",
+     "morwen",
+     3883
+    ]
+   ],
+   "gifted": [],
+   "chance": [],
+   "bought": 0,
+   "spentUsd": 0,
+   "witness": [
+    "firstUnique",
+    "firstMythic"
+   ]
   },
   {
    "w": "0xb81e…bb77",
@@ -6255,75 +6435,6 @@
    "witness": []
   },
   {
-   "w": "0x3bf9…43c0",
-   "addr": "0x3bf912ad06225b8a7889ac6044b0dec522a843c0",
-   "order": 45,
-   "cards": [],
-   "marks": [],
-   "gone": [
-    [
-     "L",
-     "marion",
-     4285
-    ],
-    [
-     "L",
-     "matazuu",
-     4639
-    ],
-    [
-     "L",
-     "matazuu",
-     5063
-    ],
-    [
-     "L",
-     "revazial",
-     4957
-    ],
-    [
-     "L",
-     "morwen",
-     5061
-    ],
-    [
-     "L",
-     "matazuu",
-     4638
-    ],
-    [
-     "L",
-     "marion",
-     5170
-    ],
-    [
-     "L",
-     "orven",
-     4647
-    ],
-    [
-     "L",
-     "yomihime",
-     5021
-    ],
-    [
-     "L",
-     "revazial",
-     4939
-    ],
-    [
-     "L",
-     "shelo",
-     4985
-    ]
-   ],
-   "gifted": [],
-   "chance": [],
-   "bought": 0,
-   "spentUsd": 0,
-   "witness": []
-  },
-  {
    "w": "0x1767…cb10",
    "addr": "0x17673736885594b8c86b281a5ab8ec381cb4cb10",
    "order": 46,
@@ -6586,8 +6697,8 @@
   }
  },
  "floors": {
-  "at": 1793275680,
-  "listed": 212,
+  "at": 1793276284,
+  "listed": 213,
   "offers": {
    "shelo": {
     "id": 2394,
@@ -6667,6 +6778,6 @@
    "M": null,
    "U": null
   },
-  "usd": 2319.95
+  "usd": 2321.76
  }
 }
