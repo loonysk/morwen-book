@@ -1,8 +1,8 @@
 {
- "updated": 1793276283,
+ "updated": 1793276875,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26298342,
+ "block": 26298392,
  "events": {
   "firstCard": 180,
   "firstUnique": 1793190815,
@@ -11,10 +11,10 @@
  "pending": 0,
  "heroes": {
   "marion": {
-   "cards": 66,
+   "cards": 67,
    "tiers": {
     "L": 63,
-    "M": 2,
+    "M": 3,
     "U": 1
    },
    "images": {
@@ -22,28 +22,11 @@
     "M": "https://hov.fra1.digitaloceanspaces.com/prod/mythic/hov_marion_soulthread.png",
     "U": "https://hov.fra1.digitaloceanspaces.com/prod/unique/hov_marion_soulthread.png"
    },
-   "holders": 49,
+   "holders": 50,
    "thumbs": {
     "L": "https://loonysk.github.io/morwen-book/cards/7c6a8d9b779aae2f.webp",
     "M": "https://loonysk.github.io/morwen-book/cards/1e089d084816c39a.webp",
     "U": "https://loonysk.github.io/morwen-book/cards/3aad52bc52db9e01.webp"
-   }
-  },
-  "revazial": {
-   "cards": 55,
-   "tiers": {
-    "L": 53,
-    "M": 2,
-    "U": 0
-   },
-   "images": {
-    "L": "https://hov.fra1.digitaloceanspaces.com/prod/hov_revazial.png",
-    "M": "https://hov.fra1.digitaloceanspaces.com/prod/mythic/hov_revazial.png"
-   },
-   "holders": 42,
-   "thumbs": {
-    "L": "https://loonysk.github.io/morwen-book/cards/92565182053f29b5.webp",
-    "M": "https://loonysk.github.io/morwen-book/cards/aef39d1969af82a5.webp"
    }
   },
   "matazuu": {
@@ -61,8 +44,25 @@
    "holders": 45,
    "thumbs": {
     "L": "https://loonysk.github.io/morwen-book/cards/a56f14d57fe9da96.webp",
-    "U": "https://loonysk.github.io/morwen-book/cards/5493d5474d30812c.webp",
-    "M": "https://loonysk.github.io/morwen-book/cards/b467fe8dc2755ffc.webp"
+    "M": "https://loonysk.github.io/morwen-book/cards/b467fe8dc2755ffc.webp",
+    "U": "https://loonysk.github.io/morwen-book/cards/5493d5474d30812c.webp"
+   }
+  },
+  "revazial": {
+   "cards": 54,
+   "tiers": {
+    "L": 52,
+    "M": 2,
+    "U": 0
+   },
+   "images": {
+    "L": "https://hov.fra1.digitaloceanspaces.com/prod/hov_revazial.png",
+    "M": "https://hov.fra1.digitaloceanspaces.com/prod/mythic/hov_revazial.png"
+   },
+   "holders": 41,
+   "thumbs": {
+    "L": "https://loonysk.github.io/morwen-book/cards/92565182053f29b5.webp",
+    "M": "https://loonysk.github.io/morwen-book/cards/aef39d1969af82a5.webp"
    }
   },
   "yomihime": {
@@ -100,10 +100,10 @@
    }
   },
   "morwen": {
-   "cards": 51,
+   "cards": 52,
    "tiers": {
     "L": 45,
-    "M": 5,
+    "M": 6,
     "U": 1
    },
    "images": {
@@ -111,7 +111,7 @@
     "M": "https://hov.fra1.digitaloceanspaces.com/prod/mythic/hov_morwen_greymoor.png",
     "U": "https://hov.fra1.digitaloceanspaces.com/prod/unique/hov_morwen_greymoor.png"
    },
-   "holders": 40,
+   "holders": 41,
    "thumbs": {
     "L": "https://loonysk.github.io/morwen-book/cards/1ed0a45f92f6d78e.webp",
     "M": "https://loonysk.github.io/morwen-book/cards/286a09f384f6685b.webp",
@@ -138,24 +138,24 @@
  },
  "recent": [
   {
-   "ts": 1793276183,
-   "id": 4127,
-   "tier": "L",
-   "hero": "revazial",
-   "kind": "burn",
-   "from": "0x5687680d14d637707fe05f18da6985ee040eac73",
-   "to": "0x0000000000000000000000000000000000000000",
-   "tx": "0x07fc189ae33786011331bd7187983b078ae9f3578482000f63b2060208eefa0a"
+   "ts": 1793276807,
+   "id": 10175,
+   "tier": "M",
+   "hero": "morwen",
+   "kind": "forge",
+   "from": "0x0000000000000000000000000000000000000000",
+   "to": "0xd76d2f3d30b14883b63543115163179a1050b088",
+   "tx": "0x63f223dea8e93aa006d3a7dccabfd22ab3b8ae3139e52212c33a1d08152ef651"
   },
   {
-   "ts": 1793276183,
-   "id": 4093,
+   "ts": 1793276807,
+   "id": 18,
    "tier": "L",
    "hero": "revazial",
    "kind": "burn",
-   "from": "0x5687680d14d637707fe05f18da6985ee040eac73",
+   "from": "0x8a7ebab40f18257235ed24584dd3c008003f79f0",
    "to": "0x0000000000000000000000000000000000000000",
-   "tx": "0x07fc189ae33786011331bd7187983b078ae9f3578482000f63b2060208eefa0a"
+   "tx": "0xb5bb02ce248ce7f22edaad4429c528b8fe0249ea1c27c4a43dcc353f8f938a44"
   }
  ],
  "sales": {
@@ -240,27 +240,6 @@
     "firstUnique",
     "firstMythic"
    ]
-  },
-  {
-   "w": "0x8a7e…79f0",
-   "addr": "0x8a7ebab40f18257235ed24584dd3c008003f79f0",
-   "order": 0,
-   "cards": [
-    [
-     "L",
-     1791392711,
-     null,
-     "revazial",
-     18,
-     null
-    ]
-   ],
-   "marks": [],
-   "gifted": [],
-   "chance": [],
-   "bought": 0,
-   "spentUsd": 0,
-   "witness": []
   },
   {
    "w": "0x3df4…ba17",
@@ -967,6 +946,14 @@
      null,
      "yomihime",
      4227,
+     null
+    ],
+    [
+     "M",
+     1793276387,
+     null,
+     "marion",
+     10149,
      null
     ]
    ],
@@ -5559,6 +5546,29 @@
    "witness": []
   },
   {
+   "w": "0xd76d…b088",
+   "addr": "0xd76d2f3d30b14883b63543115163179a1050b088",
+   "order": 61,
+   "cards": [
+    [
+     "M",
+     1793276807,
+     "chance",
+     null,
+     10175,
+     null
+    ]
+   ],
+   "marks": [],
+   "gifted": [],
+   "chance": [
+    "M"
+   ],
+   "bought": 0,
+   "spentUsd": 0,
+   "witness": []
+  },
+  {
    "w": "0x65cd…501f",
    "addr": "0x65cd7306aaccedfb658d19f83694b2bde08b501f",
    "order": 1,
@@ -6671,6 +6681,31 @@
    "bought": 0,
    "spentUsd": 0,
    "witness": []
+  },
+  {
+   "w": "0x8a7e…79f0",
+   "addr": "0x8a7ebab40f18257235ed24584dd3c008003f79f0",
+   "order": 0,
+   "cards": [],
+   "marks": [
+    {
+     "k": "betrayer",
+     "ally": "revazial"
+    }
+   ],
+   "lost": [
+    [
+     "betrayer",
+     "L",
+     "revazial",
+     18
+    ]
+   ],
+   "gifted": [],
+   "chance": [],
+   "bought": 0,
+   "spentUsd": 0,
+   "witness": []
   }
  ],
  "known": {
@@ -6697,8 +6732,8 @@
   }
  },
  "floors": {
-  "at": 1793276284,
-  "listed": 213,
+  "at": 1793276875,
+  "listed": 211,
   "offers": {
    "shelo": {
     "id": 2394,
@@ -6766,6 +6801,11 @@
     "L": 0.099,
     "M": null,
     "U": null
+   },
+   "kael vorn": {
+    "L": null,
+    "M": 0.25,
+    "U": null
    }
   },
   "matazuu": {
@@ -6778,6 +6818,6 @@
    "M": null,
    "U": null
   },
-  "usd": 2321.76
+  "usd": 2319.88
  }
 }
