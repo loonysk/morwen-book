@@ -1,8 +1,8 @@
 {
- "updated": 1793250463,
+ "updated": 1793251063,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26296199,
+ "block": 26296249,
  "events": {
   "firstCard": 180,
   "firstUnique": 1793190815
@@ -125,6 +125,16 @@
  },
  "recent": [
   {
+   "ts": 1793250431,
+   "id": 2394,
+   "tier": "L",
+   "hero": "shelo",
+   "kind": "hand",
+   "from": "0xf99bcaff5115e71c6f3c3a97c7d7476299af7bb5",
+   "to": "0x50e43a4d3cbf8f05ce07f3ebc80c7c840b351422",
+   "tx": "0x15c1a672a6694f5d9d614cd1a5b287712eb5e8e28af4e32f1ac50420ec7f9904"
+  },
+  {
    "ts": 1793250359,
    "id": 2317,
    "tier": "L",
@@ -153,16 +163,6 @@
    "from": "0xfbf38328de9fe7a14a17acdf57ff9d204f48f240",
    "to": "0x858a23f7dceb98829d53034675c55e8cdd5db6a5",
    "tx": "0x9ef028070def9cbe894b544d92e87d173139cba4f996df59c3c9083da3e5062d"
-  },
-  {
-   "ts": 1793215463,
-   "id": 20009,
-   "tier": "U",
-   "hero": "orven",
-   "kind": "forge",
-   "from": "0x0000000000000000000000000000000000000000",
-   "to": "0x5687680d14d637707fe05f18da6985ee040eac73",
-   "tx": "0xf2d4cabcc4ed32ac7ba2ea098fbba23dc35068ad43735481c4620835023c1bc2"
   }
  ],
  "sales": {
@@ -3437,6 +3437,14 @@
      "marion",
      2317,
      "t"
+    ],
+    [
+     "L",
+     1793250431,
+     null,
+     "shelo",
+     2394,
+     "t"
     ]
    ],
    "marks": [
@@ -3546,65 +3554,6 @@
      "L",
      "shelo",
      1663
-    ]
-   ],
-   "gifted": [],
-   "chance": [],
-   "bought": 0,
-   "spentUsd": 0,
-   "witness": []
-  },
-  {
-   "w": "0xf99b…7bb5",
-   "addr": "0xf99bcaff5115e71c6f3c3a97c7d7476299af7bb5",
-   "order": 0,
-   "cards": [
-    [
-     "L",
-     1791405803,
-     null,
-     "shelo",
-     2394,
-     null
-    ],
-    [
-     "L",
-     1791407555,
-     null,
-     "revazial",
-     2544,
-     null
-    ],
-    [
-     "L",
-     1791408623,
-     null,
-     "matazuu",
-     2655,
-     null
-    ]
-   ],
-   "marks": [],
-   "gone": [
-    [
-     "L",
-     "revazial",
-     2346
-    ],
-    [
-     "L",
-     "marion",
-     2676
-    ],
-    [
-     "L",
-     "orven",
-     2558
-    ],
-    [
-     "L",
-     "marion",
-     2317
     ]
    ],
    "gifted": [],
@@ -3800,6 +3749,62 @@
    "witness": [
     "firstUnique"
    ]
+  },
+  {
+   "w": "0xf99b…7bb5",
+   "addr": "0xf99bcaff5115e71c6f3c3a97c7d7476299af7bb5",
+   "order": 0,
+   "cards": [
+    [
+     "L",
+     1791407555,
+     null,
+     "revazial",
+     2544,
+     null
+    ],
+    [
+     "L",
+     1791408623,
+     null,
+     "matazuu",
+     2655,
+     null
+    ]
+   ],
+   "marks": [],
+   "gone": [
+    [
+     "L",
+     "revazial",
+     2346
+    ],
+    [
+     "L",
+     "marion",
+     2676
+    ],
+    [
+     "L",
+     "orven",
+     2558
+    ],
+    [
+     "L",
+     "marion",
+     2317
+    ],
+    [
+     "L",
+     "shelo",
+     2394
+    ]
+   ],
+   "gifted": [],
+   "chance": [],
+   "bought": 0,
+   "spentUsd": 0,
+   "witness": []
   },
   {
    "w": "0xd109…c837",
@@ -6518,7 +6523,7 @@
   }
  },
  "floors": {
-  "at": 1793250463,
+  "at": 1793251064,
   "listed": 211,
   "offers": {
    "yomihime": {
@@ -6589,6 +6594,6 @@
    "M": null,
    "U": null
   },
-  "usd": 2325.31
+  "usd": 2328.9
  }
 }
