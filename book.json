@@ -1,8 +1,8 @@
 {
- "updated": 1793365667,
+ "updated": 1793366268,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26305765,
+ "block": 26305814,
  "events": {
   "firstCard": 180,
   "firstUnique": 1793190815,
@@ -68,17 +68,17 @@
    }
   },
   "yomihime": {
-   "cards": 56,
+   "cards": 57,
    "tiers": {
     "L": 50,
-    "M": 6,
+    "M": 7,
     "U": 0
    },
    "images": {
     "L": "https://hov.fra1.digitaloceanspaces.com/prod/hov_yomihime.png",
     "M": "https://hov.fra1.digitaloceanspaces.com/prod/mythic/hov_yomihime.png"
    },
-   "holders": 39,
+   "holders": 40,
    "thumbs": {
     "L": "https://loonysk.github.io/morwen-book/cards/dfa351374fb18253.webp",
     "M": "https://loonysk.github.io/morwen-book/cards/ee3066876d78a62d.webp"
@@ -143,6 +143,16 @@
   }
  },
  "recent": [
+  {
+   "ts": 1793365691,
+   "id": 10441,
+   "tier": "M",
+   "hero": "yomihime",
+   "kind": "forge",
+   "from": "0x0000000000000000000000000000000000000000",
+   "to": "0xcb1e9c251b49c058e0649522b8c677ec70a95f4e",
+   "tx": "0x900727a522b4de239ecc267381075e3b989c7a165870764a9214b0089c8d7769"
+  },
   {
    "ts": 1793360219,
    "id": 4957,
@@ -232,16 +242,6 @@
    "from": "0xbcb3cc6350bb56ce40ec8db12761a3ed81f51fe1",
    "to": "0x0000000000000000000000000000000000000000",
    "tx": "0xde1868c161dc36df64f4783543a0b48434dc9e984b099f1a86d2923ee5428cbf"
-  },
-  {
-   "ts": 1793330867,
-   "id": 1622,
-   "tier": "L",
-   "hero": "marion",
-   "kind": "burn",
-   "from": "0xbcb3cc6350bb56ce40ec8db12761a3ed81f51fe1",
-   "to": "0x0000000000000000000000000000000000000000",
-   "tx": "0xdfd35cdd9e811513510f86784f70ce5b9a3e9c8fb9e059ed0cacea2bf661ca71"
   }
  ],
  "sales": {
@@ -1636,6 +1636,14 @@
      null,
      "orven",
      635,
+     null
+    ],
+    [
+     "M",
+     1793365691,
+     null,
+     "yomihime",
+     10441,
      null
     ]
    ],
@@ -7239,8 +7247,8 @@
   }
  },
  "floors": {
-  "at": 1793365667,
-  "listed": 201,
+  "at": 1793366269,
+  "listed": 200,
   "offers": {
    "shelo": {
     "id": 4258,
@@ -7325,6 +7333,6 @@
    "M": null,
    "U": null
   },
-  "usd": 2227.14
+  "usd": 2227.12
  }
 }
