@@ -1,8 +1,8 @@
 {
- "updated": 1793371662,
+ "updated": 1793372262,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26306263,
+ "block": 26306313,
  "events": {
   "firstCard": 180,
   "firstUnique": 1793190815,
@@ -144,6 +144,16 @@
  },
  "recent": [
   {
+   "ts": 1793372171,
+   "id": 10187,
+   "tier": "M",
+   "hero": "orven",
+   "kind": "hand",
+   "from": "0x4dae51dcdb3c1382973fb827c2dee3f712d6f47d",
+   "to": "0x921d50a7e44a4ee3965d117050fb80e6aa1fb948",
+   "tx": "0x7bb68b24570ed9c3ea874460619348c21561b698a7650f6b1ce22c5776394d12"
+  },
+  {
    "ts": 1793368547,
    "id": 2317,
    "tier": "L",
@@ -232,16 +242,6 @@
    "from": "0x0000000000000000000000000000000000000000",
    "to": "0x5f07c0fb246ca832c3d3305bec1c8bf21d877f98",
    "tx": "0xbe1ba534a7147dcce7b30625d75a8cd28e8c70736b49da9b229a7bdeb9038cf0"
-  },
-  {
-   "ts": 1793340035,
-   "id": 10418,
-   "tier": "M",
-   "hero": "marion",
-   "kind": "forge",
-   "from": "0x0000000000000000000000000000000000000000",
-   "to": "0xa6f7a9ee9c289e3249c2b756a2f580fb74262030",
-   "tx": "0x223aa9e508cbe3bd61a2cd2a14f395032cdd6349162f49b439bf4b3686f4e149"
   }
  ],
  "sales": {
@@ -5669,20 +5669,27 @@
    "witness": []
   },
   {
-   "w": "0x4dae…f47d",
-   "addr": "0x4dae51dcdb3c1382973fb827c2dee3f712d6f47d",
+   "w": "0x921d…b948",
+   "addr": "0x921d50a7e44a4ee3965d117050fb80e6aa1fb948",
    "order": 0,
    "cards": [
     [
      "M",
-     1793276939,
+     1793372171,
      null,
      "orven",
      10187,
-     null
+     "t"
     ]
    ],
    "marks": [],
+   "gone": [
+    [
+     "L",
+     "yomihime",
+     290
+    ]
+   ],
    "gifted": [],
    "chance": [],
    "bought": 0,
@@ -7272,8 +7279,8 @@
   }
  },
  "floors": {
-  "at": 1793371663,
-  "listed": 198,
+  "at": 1793372263,
+  "listed": 196,
   "offers": {
    "shelo": {
     "id": 4258,
@@ -7340,7 +7347,7 @@
   },
   "orven": {
    "L": 0.07,
-   "M": 0.35,
+   "M": null,
    "U": null
   },
   "marion": {
@@ -7358,6 +7365,6 @@
    "M": null,
    "U": null
   },
-  "usd": 2230.99
+  "usd": 2231.79
  }
 }
