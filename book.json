@@ -1,8 +1,8 @@
 {
- "updated": 1793368062,
+ "updated": 1793368664,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26305963,
+ "block": 26306013,
  "events": {
   "firstCard": 180,
   "firstUnique": 1793190815,
@@ -22,7 +22,7 @@
     "M": "https://hov.fra1.digitaloceanspaces.com/prod/mythic/hov_marion_soulthread.png",
     "U": "https://hov.fra1.digitaloceanspaces.com/prod/unique/hov_marion_soulthread.png"
    },
-   "holders": 51,
+   "holders": 52,
    "thumbs": {
     "L": "https://loonysk.github.io/morwen-book/cards/7c6a8d9b779aae2f.webp",
     "M": "https://loonysk.github.io/morwen-book/cards/1e089d084816c39a.webp",
@@ -144,6 +144,16 @@
  },
  "recent": [
   {
+   "ts": 1793368547,
+   "id": 2317,
+   "tier": "L",
+   "hero": "marion",
+   "kind": "hand",
+   "from": "0x9a2576eb8a2a55889572899a79d0bf2d76598c95",
+   "to": "0x08629e963045de35b8eb42161a314108f952bcae",
+   "tx": "0xcb0e6ee1f56c01900f97712cd8b063dedac771e9fb4c1f97511e6b5b4b55c788"
+  },
+  {
    "ts": 1793365691,
    "id": 10441,
    "tier": "M",
@@ -232,16 +242,6 @@
    "from": "0x0000000000000000000000000000000000000000",
    "to": "0xa6f7a9ee9c289e3249c2b756a2f580fb74262030",
    "tx": "0x223aa9e508cbe3bd61a2cd2a14f395032cdd6349162f49b439bf4b3686f4e149"
-  },
-  {
-   "ts": 1793331035,
-   "id": 1751,
-   "tier": "L",
-   "hero": "revazial",
-   "kind": "burn",
-   "from": "0xbcb3cc6350bb56ce40ec8db12761a3ed81f51fe1",
-   "to": "0x0000000000000000000000000000000000000000",
-   "tx": "0xde1868c161dc36df64f4783543a0b48434dc9e984b099f1a86d2923ee5428cbf"
   }
  ],
  "sales": {
@@ -586,14 +586,6 @@
     ],
     [
      "L",
-     1793351183,
-     null,
-     "marion",
-     2317,
-     "t"
-    ],
-    [
-     "L",
      1793351243,
      null,
      "shelo",
@@ -663,6 +655,11 @@
      "L",
      "revazial",
      4288
+    ],
+    [
+     "L",
+     "marion",
+     2317
     ]
    ],
    "gifted": [
@@ -3572,6 +3569,34 @@
      "L",
      "yomihime",
      2309
+    ]
+   ],
+   "gifted": [],
+   "chance": [],
+   "bought": 0,
+   "spentUsd": 0,
+   "witness": []
+  },
+  {
+   "w": "0x0862…bcae",
+   "addr": "0x08629e963045de35b8eb42161a314108f952bcae",
+   "order": 0,
+   "cards": [
+    [
+     "L",
+     1793368547,
+     null,
+     "marion",
+     2317,
+     "t"
+    ]
+   ],
+   "marks": [],
+   "gone": [
+    [
+     "L",
+     "revazial",
+     3564
     ]
    ],
    "gifted": [],
@@ -7247,7 +7272,7 @@
   }
  },
  "floors": {
-  "at": 1793368063,
+  "at": 1793368665,
   "listed": 200,
   "offers": {
    "shelo": {
@@ -7333,6 +7358,6 @@
    "M": null,
    "U": null
   },
-  "usd": 2217.34
+  "usd": 2215.06
  }
 }
