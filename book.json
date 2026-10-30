@@ -1,8 +1,8 @@
 {
- "updated": 1793337464,
+ "updated": 1793338059,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26303423,
+ "block": 26303473,
  "events": {
   "firstCard": 180,
   "firstUnique": 1793190815,
@@ -7128,8 +7128,8 @@
   }
  },
  "floors": {
-  "at": 1793337465,
-  "listed": 216,
+  "at": 1793338060,
+  "listed": 215,
   "offers": {
    "shelo": {
     "id": 1760,
@@ -7169,7 +7169,7 @@
   },
   "named": {
    "kael vorn": {
-    "L": 0.0234128,
+    "L": 0.0233837,
     "M": 0.15,
     "U": null
    },
@@ -7214,6 +7214,6 @@
    "M": null,
    "U": null
   },
-  "usd": 2243.25
+  "usd": 2244.31
  }
 }
