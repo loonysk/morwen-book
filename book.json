@@ -1,8 +1,8 @@
 {
- "updated": 1793347061,
+ "updated": 1793347660,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26304222,
+ "block": 26304272,
  "events": {
   "firstCard": 180,
   "firstUnique": 1793190815,
@@ -11,10 +11,10 @@
  "pending": 0,
  "heroes": {
   "marion": {
-   "cards": 69,
+   "cards": 70,
    "tiers": {
     "L": 61,
-    "M": 7,
+    "M": 8,
     "U": 1
    },
    "images": {
@@ -22,7 +22,7 @@
     "M": "https://hov.fra1.digitaloceanspaces.com/prod/mythic/hov_marion_soulthread.png",
     "U": "https://hov.fra1.digitaloceanspaces.com/prod/unique/hov_marion_soulthread.png"
    },
-   "holders": 51,
+   "holders": 52,
    "thumbs": {
     "L": "https://loonysk.github.io/morwen-book/cards/7c6a8d9b779aae2f.webp",
     "M": "https://loonysk.github.io/morwen-book/cards/1e089d084816c39a.webp",
@@ -143,6 +143,16 @@
   }
  },
  "recent": [
+  {
+   "ts": 1793347523,
+   "id": 10428,
+   "tier": "M",
+   "hero": "marion",
+   "kind": "forge",
+   "from": "0x0000000000000000000000000000000000000000",
+   "to": "0x5f07c0fb246ca832c3d3305bec1c8bf21d877f98",
+   "tx": "0xbe1ba534a7147dcce7b30625d75a8cd28e8c70736b49da9b229a7bdeb9038cf0"
+  },
   {
    "ts": 1793340035,
    "id": 10418,
@@ -5743,6 +5753,39 @@
    "witness": []
   },
   {
+   "w": "0x5f07…7f98",
+   "addr": "0x5f07c0fb246ca832c3d3305bec1c8bf21d877f98",
+   "order": 44,
+   "cards": [
+    [
+     "M",
+     1793347523,
+     null,
+     "marion",
+     10428,
+     null
+    ]
+   ],
+   "marks": [],
+   "gone": [
+    [
+     "L",
+     "morwen",
+     4978
+    ],
+    [
+     "L",
+     "morwen",
+     4975
+    ]
+   ],
+   "gifted": [],
+   "chance": [],
+   "bought": 0,
+   "spentUsd": 0,
+   "witness": []
+  },
+  {
    "w": "0x65cd…501f",
    "addr": "0x65cd7306aaccedfb658d19f83694b2bde08b501f",
    "order": 1,
@@ -6709,30 +6752,6 @@
    "witness": []
   },
   {
-   "w": "0x5f07…7f98",
-   "addr": "0x5f07c0fb246ca832c3d3305bec1c8bf21d877f98",
-   "order": 44,
-   "cards": [],
-   "marks": [],
-   "gone": [
-    [
-     "L",
-     "morwen",
-     4978
-    ],
-    [
-     "L",
-     "morwen",
-     4975
-    ]
-   ],
-   "gifted": [],
-   "chance": [],
-   "bought": 0,
-   "spentUsd": 0,
-   "witness": []
-  },
-  {
    "w": "0xd867…560f",
    "addr": "0xd867f88065a281fc554b8bf7f0ac4b91c500560f",
    "order": 0,
@@ -7159,7 +7178,7 @@
   }
  },
  "floors": {
-  "at": 1793347061,
+  "at": 1793347660,
   "listed": 200,
   "offers": {
    "shelo": {
@@ -7245,6 +7264,6 @@
    "M": null,
    "U": null
   },
-  "usd": 2230.88
+  "usd": 2226.01
  }
 }
