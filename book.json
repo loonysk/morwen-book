@@ -1,8 +1,8 @@
 {
- "updated": 1793376464,
+ "updated": 1793377063,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26306662,
+ "block": 26306712,
  "events": {
   "firstCard": 180,
   "firstUnique": 1793190815,
@@ -68,20 +68,22 @@
    }
   },
   "yomihime": {
-   "cards": 57,
+   "cards": 58,
    "tiers": {
     "L": 50,
     "M": 7,
-    "U": 0
+    "U": 1
    },
    "images": {
     "L": "https://hov.fra1.digitaloceanspaces.com/prod/hov_yomihime.png",
-    "M": "https://hov.fra1.digitaloceanspaces.com/prod/mythic/hov_yomihime.png"
+    "M": "https://hov.fra1.digitaloceanspaces.com/prod/mythic/hov_yomihime.png",
+    "U": "https://hov.fra1.digitaloceanspaces.com/prod/unique/hov_yomihime.png"
    },
-   "holders": 40,
+   "holders": 41,
    "thumbs": {
     "L": "https://loonysk.github.io/morwen-book/cards/dfa351374fb18253.webp",
-    "M": "https://loonysk.github.io/morwen-book/cards/ee3066876d78a62d.webp"
+    "M": "https://loonysk.github.io/morwen-book/cards/ee3066876d78a62d.webp",
+    "U": "https://loonysk.github.io/morwen-book/cards/8712bbddcbd8ef7f.webp"
    }
   },
   "shelo": {
@@ -143,6 +145,16 @@
   }
  },
  "recent": [
+  {
+   "ts": 1793376563,
+   "id": 20042,
+   "tier": "U",
+   "hero": "yomihime",
+   "kind": "forge",
+   "from": "0x0000000000000000000000000000000000000000",
+   "to": "0x890f52769d7351ec04b4e370962736c0d143bb56",
+   "tx": "0x3a571b6cd3663a7f5aff95757a4fea40be559c645157ec0a3155b3f72c1a5e47"
+  },
   {
    "ts": 1793372171,
    "id": 10187,
@@ -232,16 +244,6 @@
    "from": "0x50e43a4d3cbf8f05ce07f3ebc80c7c840b351422",
    "to": "0x9a2576eb8a2a55889572899a79d0bf2d76598c95",
    "tx": "0x7a6cc69490691967f1feeaf5969634b6bb61cd8bcfece004f08e714eef15fac4"
-  },
-  {
-   "ts": 1793347523,
-   "id": 10428,
-   "tier": "M",
-   "hero": "marion",
-   "kind": "forge",
-   "from": "0x0000000000000000000000000000000000000000",
-   "to": "0x5f07c0fb246ca832c3d3305bec1c8bf21d877f98",
-   "tx": "0xbe1ba534a7147dcce7b30625d75a8cd28e8c70736b49da9b229a7bdeb9038cf0"
   }
  ],
  "sales": {
@@ -5417,6 +5419,14 @@
      "revazial",
      4924,
      null
+    ],
+    [
+     "U",
+     1793376563,
+     null,
+     "yomihime",
+     20042,
+     null
     ]
    ],
    "marks": [],
@@ -7279,7 +7289,7 @@
   }
  },
  "floors": {
-  "at": 1793376465,
+  "at": 1793377063,
   "listed": 198,
   "offers": {
    "shelo": {
@@ -7365,6 +7375,6 @@
    "M": null,
    "U": null
   },
-  "usd": 2223.31
+  "usd": 2234.49
  }
 }
