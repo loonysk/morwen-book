@@ -1,8 +1,8 @@
 {
- "updated": 1793390863,
+ "updated": 1793391463,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26307859,
+ "block": 26307909,
  "events": {
   "firstCard": 180,
   "firstUnique": 1793190815,
@@ -22,7 +22,7 @@
     "M": "https://hov.fra1.digitaloceanspaces.com/prod/mythic/hov_marion_soulthread.png",
     "U": "https://hov.fra1.digitaloceanspaces.com/prod/unique/hov_marion_soulthread.png"
    },
-   "holders": 51,
+   "holders": 50,
    "thumbs": {
     "L": "https://loonysk.github.io/morwen-book/cards/7c6a8d9b779aae2f.webp",
     "M": "https://loonysk.github.io/morwen-book/cards/1e089d084816c39a.webp",
@@ -146,6 +146,18 @@
  },
  "recent": [
   {
+   "ts": 1793391203,
+   "id": 2317,
+   "tier": "L",
+   "hero": "marion",
+   "kind": "buy",
+   "from": "0x08629e963045de35b8eb42161a314108f952bcae",
+   "to": "0x3861f41e66b0b6fd2d647e1a424599cd181a77c9",
+   "tx": "0x9e8612392a461e42ad43cf7c145349a53a2fbf4da00566660353a84f614c7fb4",
+   "eth": 0.032,
+   "usd": 72
+  },
+  {
    "ts": 1793390735,
    "id": 10341,
    "tier": "M",
@@ -236,16 +248,6 @@
    "from": "0x7e8f45a6d14cb20395f7f7a0b445683a5d72bc68",
    "to": "0x50e43a4d3cbf8f05ce07f3ebc80c7c840b351422",
    "tx": "0xa58a9197fc4c301a6e584f448aabc7374fce62a6b3db70771a1b604c0ed874ac"
-  },
-  {
-   "ts": 1793357567,
-   "id": 10434,
-   "tier": "M",
-   "hero": "matazuu",
-   "kind": "forge",
-   "from": "0x0000000000000000000000000000000000000000",
-   "to": "0x57de016fcbcafb180cc10302d176b88a83ded9a8",
-   "tx": "0xa949418999e33820b6baeb0ed62c7951cba685a5a8c0d791459cd310d5235fe0"
   }
  ],
  "sales": {
@@ -1515,6 +1517,14 @@
     ],
     [
      "L",
+     1793391203,
+     null,
+     "marion",
+     2317,
+     null
+    ],
+    [
+     "L",
      1792864823,
      null,
      "marion",
@@ -1582,8 +1592,8 @@
     "L"
    ],
    "chance": [],
-   "bought": 8,
-   "spentUsd": 1022,
+   "bought": 9,
+   "spentUsd": 1094,
    "witness": [
     "firstUnique",
     "firstMythic"
@@ -3594,34 +3604,6 @@
      "L",
      "yomihime",
      2309
-    ]
-   ],
-   "gifted": [],
-   "chance": [],
-   "bought": 0,
-   "spentUsd": 0,
-   "witness": []
-  },
-  {
-   "w": "0x0862…bcae",
-   "addr": "0x08629e963045de35b8eb42161a314108f952bcae",
-   "order": 0,
-   "cards": [
-    [
-     "L",
-     1793368547,
-     null,
-     "marion",
-     2317,
-     "t"
-    ]
-   ],
-   "marks": [],
-   "gone": [
-    [
-     "L",
-     "revazial",
-     3564
     ]
    ],
    "gifted": [],
@@ -7002,6 +6984,38 @@
    "witness": []
   },
   {
+   "w": "0x0862…bcae",
+   "addr": "0x08629e963045de35b8eb42161a314108f952bcae",
+   "order": 0,
+   "cards": [],
+   "marks": [
+    {
+     "k": "flipper",
+     "ally": "marion"
+    }
+   ],
+   "lost": [
+    [
+     "flipper",
+     "L",
+     "marion",
+     2317
+    ]
+   ],
+   "gone": [
+    [
+     "L",
+     "revazial",
+     3564
+    ]
+   ],
+   "gifted": [],
+   "chance": [],
+   "bought": 0,
+   "spentUsd": 0,
+   "witness": []
+  },
+  {
    "w": "0xd76d…b088",
    "addr": "0xd76d2f3d30b14883b63543115163179a1050b088",
    "order": 61,
@@ -7313,7 +7327,7 @@
   }
  },
  "floors": {
-  "at": 1793390864,
+  "at": 1793391464,
   "listed": 202,
   "offers": {
    "shelo": {
@@ -7399,6 +7413,6 @@
    "M": 0.3,
    "U": null
   },
-  "usd": 2235.95
+  "usd": 2237.92
  }
 }
