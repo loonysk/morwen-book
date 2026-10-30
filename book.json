@@ -1,8 +1,8 @@
 {
- "updated": 1793330863,
+ "updated": 1793331464,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26302874,
+ "block": 26302923,
  "events": {
   "firstCard": 180,
   "firstUnique": 1793190815,
@@ -11,9 +11,9 @@
  "pending": 0,
  "heroes": {
   "marion": {
-   "cards": 69,
+   "cards": 68,
    "tiers": {
-    "L": 62,
+    "L": 61,
     "M": 6,
     "U": 1
    },
@@ -22,7 +22,7 @@
     "M": "https://hov.fra1.digitaloceanspaces.com/prod/mythic/hov_marion_soulthread.png",
     "U": "https://hov.fra1.digitaloceanspaces.com/prod/unique/hov_marion_soulthread.png"
    },
-   "holders": 51,
+   "holders": 50,
    "thumbs": {
     "L": "https://loonysk.github.io/morwen-book/cards/7c6a8d9b779aae2f.webp",
     "M": "https://loonysk.github.io/morwen-book/cards/1e089d084816c39a.webp",
@@ -30,9 +30,9 @@
    }
   },
   "matazuu": {
-   "cards": 60,
+   "cards": 59,
    "tiers": {
-    "L": 55,
+    "L": 54,
     "M": 4,
     "U": 1
    },
@@ -41,7 +41,7 @@
     "M": "https://hov.fra1.digitaloceanspaces.com/prod/mythic/hov_matazuu.png",
     "U": "https://hov.fra1.digitaloceanspaces.com/prod/unique/hov_matazuu.png"
    },
-   "holders": 45,
+   "holders": 44,
    "thumbs": {
     "L": "https://loonysk.github.io/morwen-book/cards/a56f14d57fe9da96.webp",
     "M": "https://loonysk.github.io/morwen-book/cards/b467fe8dc2755ffc.webp",
@@ -49,9 +49,9 @@
    }
   },
   "revazial": {
-   "cards": 54,
+   "cards": 53,
    "tiers": {
-    "L": 50,
+    "L": 49,
     "M": 3,
     "U": 1
    },
@@ -60,7 +60,7 @@
     "M": "https://hov.fra1.digitaloceanspaces.com/prod/mythic/hov_revazial.png",
     "U": "https://hov.fra1.digitaloceanspaces.com/prod/unique/hov_revazial.png"
    },
-   "holders": 39,
+   "holders": 38,
    "thumbs": {
     "L": "https://loonysk.github.io/morwen-book/cards/92565182053f29b5.webp",
     "M": "https://loonysk.github.io/morwen-book/cards/aef39d1969af82a5.webp",
@@ -143,6 +143,36 @@
   }
  },
  "recent": [
+  {
+   "ts": 1793331035,
+   "id": 1751,
+   "tier": "L",
+   "hero": "revazial",
+   "kind": "burn",
+   "from": "0xbcb3cc6350bb56ce40ec8db12761a3ed81f51fe1",
+   "to": "0x0000000000000000000000000000000000000000",
+   "tx": "0xde1868c161dc36df64f4783543a0b48434dc9e984b099f1a86d2923ee5428cbf"
+  },
+  {
+   "ts": 1793330867,
+   "id": 1622,
+   "tier": "L",
+   "hero": "marion",
+   "kind": "burn",
+   "from": "0xbcb3cc6350bb56ce40ec8db12761a3ed81f51fe1",
+   "to": "0x0000000000000000000000000000000000000000",
+   "tx": "0xdfd35cdd9e811513510f86784f70ce5b9a3e9c8fb9e059ed0cacea2bf661ca71"
+  },
+  {
+   "ts": 1793330867,
+   "id": 750,
+   "tier": "L",
+   "hero": "matazuu",
+   "kind": "burn",
+   "from": "0xbcb3cc6350bb56ce40ec8db12761a3ed81f51fe1",
+   "to": "0x0000000000000000000000000000000000000000",
+   "tx": "0xdfd35cdd9e811513510f86784f70ce5b9a3e9c8fb9e059ed0cacea2bf661ca71"
+  },
   {
    "ts": 1793330795,
    "id": 534,
@@ -1875,56 +1905,6 @@
     ]
    ],
    "marks": [],
-   "gifted": [],
-   "chance": [],
-   "bought": 0,
-   "spentUsd": 0,
-   "witness": []
-  },
-  {
-   "w": "0xbcb3…1fe1",
-   "addr": "0xbcb3cc6350bb56ce40ec8db12761a3ed81f51fe1",
-   "order": 0,
-   "cards": [
-    [
-     "L",
-     1791394883,
-     null,
-     "matazuu",
-     750,
-     null
-    ],
-    [
-     "L",
-     1791399539,
-     null,
-     "marion",
-     1622,
-     null
-    ],
-    [
-     "L",
-     1791400571,
-     null,
-     "revazial",
-     1751,
-     null
-    ]
-   ],
-   "marks": [
-    {
-     "k": "betrayer",
-     "ally": "shelo"
-    }
-   ],
-   "lost": [
-    [
-     "betrayer",
-     "L",
-     "shelo",
-     534
-    ]
-   ],
    "gifted": [],
    "chance": [],
    "bought": 0,
@@ -6377,6 +6357,61 @@
    ]
   },
   {
+   "w": "0xbcb3…1fe1",
+   "addr": "0xbcb3cc6350bb56ce40ec8db12761a3ed81f51fe1",
+   "order": 0,
+   "cards": [],
+   "marks": [
+    {
+     "k": "betrayer",
+     "ally": "shelo"
+    },
+    {
+     "k": "betrayer",
+     "ally": "matazuu"
+    },
+    {
+     "k": "betrayer",
+     "ally": "marion"
+    },
+    {
+     "k": "betrayer",
+     "ally": "revazial"
+    }
+   ],
+   "lost": [
+    [
+     "betrayer",
+     "L",
+     "shelo",
+     534
+    ],
+    [
+     "betrayer",
+     "L",
+     "matazuu",
+     750
+    ],
+    [
+     "betrayer",
+     "L",
+     "marion",
+     1622
+    ],
+    [
+     "betrayer",
+     "L",
+     "revazial",
+     1751
+    ]
+   ],
+   "gifted": [],
+   "chance": [],
+   "bought": 0,
+   "spentUsd": 0,
+   "witness": []
+  },
+  {
    "w": "0xb81e…bb77",
    "addr": "0xb81e10ee0055de228c42afce86b7e97014b7bb77",
    "order": 0,
@@ -7093,7 +7128,7 @@
   }
  },
  "floors": {
-  "at": 1793330865,
+  "at": 1793331466,
   "listed": 216,
   "offers": {
    "shelo": {
@@ -7134,7 +7169,7 @@
   },
   "named": {
    "kael vorn": {
-    "L": 0.0237276,
+    "L": 0.0237026,
     "M": 0.3,
     "U": null
    },
@@ -7179,6 +7214,6 @@
    "M": null,
    "U": null
   },
-  "usd": 2216.23
+  "usd": 2222.75
  }
 }
