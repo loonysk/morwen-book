@@ -1,8 +1,8 @@
 {
- "updated": 1793351263,
+ "updated": 1793351864,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26304570,
+ "block": 26304620,
  "events": {
   "firstCard": 180,
   "firstUnique": 1793190815,
@@ -60,7 +60,7 @@
     "M": "https://hov.fra1.digitaloceanspaces.com/prod/mythic/hov_revazial.png",
     "U": "https://hov.fra1.digitaloceanspaces.com/prod/unique/hov_revazial.png"
    },
-   "holders": 38,
+   "holders": 37,
    "thumbs": {
     "L": "https://loonysk.github.io/morwen-book/cards/92565182053f29b5.webp",
     "M": "https://loonysk.github.io/morwen-book/cards/aef39d1969af82a5.webp",
@@ -96,7 +96,7 @@
     "M": "https://hov.fra1.digitaloceanspaces.com/prod/mythic/hov_shelo.png",
     "U": "https://hov.fra1.digitaloceanspaces.com/prod/unique/hov_shelo.png"
    },
-   "holders": 38,
+   "holders": 37,
    "thumbs": {
     "L": "https://loonysk.github.io/morwen-book/cards/4dc0af14bb5ff744.webp",
     "M": "https://loonysk.github.io/morwen-book/cards/c250a6d2fb0b5b8c.webp",
@@ -143,6 +143,26 @@
   }
  },
  "recent": [
+  {
+   "ts": 1793351291,
+   "id": 2544,
+   "tier": "L",
+   "hero": "revazial",
+   "kind": "hand",
+   "from": "0x50e43a4d3cbf8f05ce07f3ebc80c7c840b351422",
+   "to": "0x9a2576eb8a2a55889572899a79d0bf2d76598c95",
+   "tx": "0xfdd75f776e64ca05e16bebc37c7dbd59d0a72f5761dfa816c0bbc1dbb4838b85"
+  },
+  {
+   "ts": 1793351243,
+   "id": 2394,
+   "tier": "L",
+   "hero": "shelo",
+   "kind": "hand",
+   "from": "0x50e43a4d3cbf8f05ce07f3ebc80c7c840b351422",
+   "to": "0x9a2576eb8a2a55889572899a79d0bf2d76598c95",
+   "tx": "0x82b92be6f6d2a86f4840805490a9ca3e03e416415799e97aa1c50f9fa03be546"
+  },
   {
    "ts": 1793351183,
    "id": 2317,
@@ -224,16 +244,6 @@
    "tx": "0xfbab9e6dfcba094bd9490d9146dceded225a44fbfd5b69090d2ba41e39e73174",
    "eth": 0.24,
    "usd": 539
-  },
-  {
-   "ts": 1793305907,
-   "id": 10009,
-   "tier": "M",
-   "hero": "marion",
-   "kind": "hand",
-   "from": "0x50e43a4d3cbf8f05ce07f3ebc80c7c840b351422",
-   "to": "0x9a2576eb8a2a55889572899a79d0bf2d76598c95",
-   "tx": "0x80db15efdabe3b21dcf2aa1efc5a59e077470837de88b7675aaaf085821ff84d"
   }
  ],
  "sales": {
@@ -582,6 +592,22 @@
      null,
      "marion",
      2317,
+     "t"
+    ],
+    [
+     "L",
+     1793351243,
+     null,
+     "shelo",
+     2394,
+     "t"
+    ],
+    [
+     "L",
+     1793351291,
+     null,
+     "revazial",
+     2544,
      "t"
     ],
     [
@@ -3457,125 +3483,6 @@
    "witness": []
   },
   {
-   "w": "0x50e4…1422",
-   "addr": "0x50e43a4d3cbf8f05ce07f3ebc80c7c840b351422",
-   "order": 54,
-   "cards": [
-    [
-     "L",
-     1793250431,
-     null,
-     "shelo",
-     2394,
-     "t"
-    ],
-    [
-     "L",
-     1793254115,
-     null,
-     "revazial",
-     2544,
-     "t"
-    ]
-   ],
-   "marks": [
-    {
-     "k": "flipper",
-     "ally": "revazial"
-    },
-    {
-     "k": "flipper",
-     "ally": "revazial"
-    },
-    {
-     "k": "flipper",
-     "ally": "marion"
-    }
-   ],
-   "lost": [
-    [
-     "flipper",
-     "L",
-     "revazial",
-     4288
-    ],
-    [
-     "flipper",
-     "L",
-     "revazial",
-     2508
-    ],
-    [
-     "flipper",
-     "L",
-     "marion",
-     2676
-    ]
-   ],
-   "gone": [
-    [
-     "L",
-     "marion",
-     820
-    ],
-    [
-     "L",
-     "orven",
-     4647
-    ],
-    [
-     "L",
-     "marion",
-     5170
-    ],
-    [
-     "L",
-     "matazuu",
-     1031
-    ],
-    [
-     "L",
-     "morwen",
-     4193
-    ],
-    [
-     "L",
-     "shelo",
-     1409
-    ],
-    [
-     "L",
-     "yomihime",
-     993
-    ],
-    [
-     "L",
-     "revazial",
-     917
-    ],
-    [
-     "L",
-     "orven",
-     2558
-    ],
-    [
-     "M",
-     "marion",
-     10009
-    ],
-    [
-     "L",
-     "marion",
-     2317
-    ]
-   ],
-   "gifted": [],
-   "chance": [],
-   "bought": 3,
-   "spentUsd": 346,
-   "witness": []
-  },
-  {
    "w": "0x6d5a…e124",
    "addr": "0x6d5aba28442195b3eb575702e6b418c7eb0ee124",
    "order": 24,
@@ -6165,6 +6072,118 @@
    "witness": []
   },
   {
+   "w": "0x50e4…1422",
+   "addr": "0x50e43a4d3cbf8f05ce07f3ebc80c7c840b351422",
+   "order": 54,
+   "cards": [],
+   "marks": [
+    {
+     "k": "flipper",
+     "ally": "revazial"
+    },
+    {
+     "k": "flipper",
+     "ally": "revazial"
+    },
+    {
+     "k": "flipper",
+     "ally": "marion"
+    }
+   ],
+   "lost": [
+    [
+     "flipper",
+     "L",
+     "revazial",
+     4288
+    ],
+    [
+     "flipper",
+     "L",
+     "revazial",
+     2508
+    ],
+    [
+     "flipper",
+     "L",
+     "marion",
+     2676
+    ]
+   ],
+   "gone": [
+    [
+     "L",
+     "marion",
+     820
+    ],
+    [
+     "L",
+     "orven",
+     4647
+    ],
+    [
+     "L",
+     "marion",
+     5170
+    ],
+    [
+     "L",
+     "matazuu",
+     1031
+    ],
+    [
+     "L",
+     "morwen",
+     4193
+    ],
+    [
+     "L",
+     "shelo",
+     1409
+    ],
+    [
+     "L",
+     "yomihime",
+     993
+    ],
+    [
+     "L",
+     "revazial",
+     917
+    ],
+    [
+     "L",
+     "orven",
+     2558
+    ],
+    [
+     "M",
+     "marion",
+     10009
+    ],
+    [
+     "L",
+     "marion",
+     2317
+    ],
+    [
+     "L",
+     "shelo",
+     2394
+    ],
+    [
+     "L",
+     "revazial",
+     2544
+    ]
+   ],
+   "gifted": [],
+   "chance": [],
+   "bought": 3,
+   "spentUsd": 346,
+   "witness": []
+  },
+  {
    "w": "0xf2ab…6a1e",
    "addr": "0xf2ab9453c0ab0123600006d0f5d0d27d25466a1e",
    "order": 0,
@@ -7193,22 +7212,22 @@
   }
  },
  "floors": {
-  "at": 1793351264,
-  "listed": 197,
+  "at": 1793351864,
+  "listed": 195,
   "offers": {
    "shelo": {
     "id": 4258,
     "eth": 0.05,
     "tier": "L"
    },
-   "revazial": {
-    "id": 2544,
-    "eth": 0.065,
-    "tier": "L"
-   },
    "yomihime": {
     "id": 1104,
     "eth": 0.067,
+    "tier": "L"
+   },
+   "revazial": {
+    "id": 3540,
+    "eth": 0.07,
     "tier": "L"
    },
    "orven": {
@@ -7249,13 +7268,13 @@
    "M": null,
    "U": null
   },
-  "revazial": {
-   "L": 0.065,
+  "yomihime": {
+   "L": 0.067,
    "M": null,
    "U": null
   },
-  "yomihime": {
-   "L": 0.067,
+  "revazial": {
+   "L": 0.07,
    "M": null,
    "U": null
   },
@@ -7279,6 +7298,6 @@
    "M": null,
    "U": null
   },
-  "usd": 2220.6
+  "usd": 2221.64
  }
 }
