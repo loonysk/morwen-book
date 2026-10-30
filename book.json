@@ -1,8 +1,8 @@
 {
- "updated": 1793357263,
+ "updated": 1793357864,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26305068,
+ "block": 26305118,
  "events": {
   "firstCard": 180,
   "firstUnique": 1793190815,
@@ -30,10 +30,10 @@
    }
   },
   "matazuu": {
-   "cards": 59,
+   "cards": 60,
    "tiers": {
     "L": 54,
-    "M": 4,
+    "M": 5,
     "U": 1
    },
    "images": {
@@ -41,7 +41,7 @@
     "M": "https://hov.fra1.digitaloceanspaces.com/prod/mythic/hov_matazuu.png",
     "U": "https://hov.fra1.digitaloceanspaces.com/prod/unique/hov_matazuu.png"
    },
-   "holders": 44,
+   "holders": 45,
    "thumbs": {
     "L": "https://loonysk.github.io/morwen-book/cards/a56f14d57fe9da96.webp",
     "M": "https://loonysk.github.io/morwen-book/cards/b467fe8dc2755ffc.webp",
@@ -144,6 +144,16 @@
  },
  "recent": [
   {
+   "ts": 1793357567,
+   "id": 10434,
+   "tier": "M",
+   "hero": "matazuu",
+   "kind": "forge",
+   "from": "0x0000000000000000000000000000000000000000",
+   "to": "0x57de016fcbcafb180cc10302d176b88a83ded9a8",
+   "tx": "0xa949418999e33820b6baeb0ed62c7951cba685a5a8c0d791459cd310d5235fe0"
+  },
+  {
    "ts": 1793351291,
    "id": 2544,
    "tier": "L",
@@ -232,18 +242,6 @@
    "from": "0xbcb3cc6350bb56ce40ec8db12761a3ed81f51fe1",
    "to": "0x0000000000000000000000000000000000000000",
    "tx": "0x1452b98672d03241f263fd7da53bfda8028cabf15b3a8cea6f158ae73d94ea38"
-  },
-  {
-   "ts": 1793318723,
-   "id": 10394,
-   "tier": "M",
-   "hero": "morwen",
-   "kind": "buy",
-   "from": "0x58d2cac35db93287bca759cb1ef07855941a25b0",
-   "to": "0x9a2576eb8a2a55889572899a79d0bf2d76598c95",
-   "tx": "0xfbab9e6dfcba094bd9490d9146dceded225a44fbfd5b69090d2ba41e39e73174",
-   "eth": 0.24,
-   "usd": 539
   }
  ],
  "sales": {
@@ -5708,6 +5706,27 @@
    "witness": []
   },
   {
+   "w": "0x57de…d9a8",
+   "addr": "0x57de016fcbcafb180cc10302d176b88a83ded9a8",
+   "order": 0,
+   "cards": [
+    [
+     "M",
+     1793357567,
+     null,
+     "matazuu",
+     10434,
+     null
+    ]
+   ],
+   "marks": [],
+   "gifted": [],
+   "chance": [],
+   "bought": 0,
+   "spentUsd": 0,
+   "witness": []
+  },
+  {
    "w": "0x65cd…501f",
    "addr": "0x65cd7306aaccedfb658d19f83694b2bde08b501f",
    "order": 1,
@@ -7212,8 +7231,8 @@
   }
  },
  "floors": {
-  "at": 1793357263,
-  "listed": 196,
+  "at": 1793357864,
+  "listed": 197,
   "offers": {
    "shelo": {
     "id": 4258,
@@ -7293,6 +7312,6 @@
    "M": null,
    "U": null
   },
-  "usd": 2239.16
+  "usd": 2243.48
  }
 }
