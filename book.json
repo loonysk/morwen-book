@@ -1,8 +1,8 @@
 {
- "updated": 1793318262,
+ "updated": 1793318862,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26301830,
+ "block": 26301879,
  "events": {
   "firstCard": 180,
   "firstUnique": 1793190815,
@@ -115,7 +115,7 @@
     "M": "https://hov.fra1.digitaloceanspaces.com/prod/mythic/hov_morwen_greymoor.png",
     "U": "https://hov.fra1.digitaloceanspaces.com/prod/unique/hov_morwen_greymoor.png"
    },
-   "holders": 40,
+   "holders": 39,
    "thumbs": {
     "L": "https://loonysk.github.io/morwen-book/cards/1ed0a45f92f6d78e.webp",
     "M": "https://loonysk.github.io/morwen-book/cards/286a09f384f6685b.webp",
@@ -144,6 +144,18 @@
  },
  "recent": [
   {
+   "ts": 1793318723,
+   "id": 10394,
+   "tier": "M",
+   "hero": "morwen",
+   "kind": "buy",
+   "from": "0x58d2cac35db93287bca759cb1ef07855941a25b0",
+   "to": "0x9a2576eb8a2a55889572899a79d0bf2d76598c95",
+   "tx": "0xfbab9e6dfcba094bd9490d9146dceded225a44fbfd5b69090d2ba41e39e73174",
+   "eth": 0.24,
+   "usd": 539
+  },
+  {
    "ts": 1793305907,
    "id": 10009,
    "tier": "M",
@@ -162,10 +174,10 @@
    "id": 180
   },
   "M": {
-   "eth": 0.135,
-   "usd": 311,
-   "ts": 1793278343,
-   "id": 10081
+   "eth": 0.24,
+   "usd": 539,
+   "ts": 1793318723,
+   "id": 10394
   }
  },
  "entries": [
@@ -533,6 +545,14 @@
      "marion",
      10009,
      "t"
+    ],
+    [
+     "M",
+     1793318723,
+     "chance",
+     null,
+     10394,
+     null
     ]
    ],
    "marks": [],
@@ -547,8 +567,8 @@
     "L"
    ],
    "chance": [],
-   "bought": 3,
-   "spentUsd": 195,
+   "bought": 4,
+   "spentUsd": 734,
    "witness": [
     "firstUnique",
     "firstMythic"
@@ -5116,17 +5136,19 @@
      "yomihime",
      4761,
      null
-    ],
-    [
-     "M",
-     1793296679,
-     "chance",
-     null,
-     10394,
-     null
     ]
    ],
-   "marks": [],
+   "marks": [
+    "flipper"
+   ],
+   "lost": [
+    [
+     "flipper",
+     "M",
+     "morwen",
+     10394
+    ]
+   ],
    "gifted": [],
    "chance": [
     "M"
@@ -7056,8 +7078,8 @@
   }
  },
  "floors": {
-  "at": 1793318264,
-  "listed": 217,
+  "at": 1793318863,
+  "listed": 216,
   "offers": {
    "shelo": {
     "id": 1760,
@@ -7090,14 +7112,14 @@
     "tier": "L"
    },
    "morwen": {
-    "id": 10394,
-    "eth": 0.24,
-    "tier": "M"
+    "id": 3222,
+    "eth": 0.367,
+    "tier": "L"
    }
   },
   "named": {
    "kael vorn": {
-    "L": 0.0243451,
+    "L": 0.0243162,
     "M": 0.3,
     "U": null
    },
@@ -7139,9 +7161,9 @@
   },
   "morwen": {
    "L": 0.367,
-   "M": 0.24,
+   "M": null,
    "U": null
   },
-  "usd": 2249.13
+  "usd": 2246.33
  }
 }
