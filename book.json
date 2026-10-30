@@ -1,8 +1,8 @@
 {
- "updated": 1793339861,
+ "updated": 1793340465,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26303622,
+ "block": 26303672,
  "events": {
   "firstCard": 180,
   "firstUnique": 1793190815,
@@ -11,10 +11,10 @@
  "pending": 0,
  "heroes": {
   "marion": {
-   "cards": 68,
+   "cards": 69,
    "tiers": {
     "L": 61,
-    "M": 6,
+    "M": 7,
     "U": 1
    },
    "images": {
@@ -22,7 +22,7 @@
     "M": "https://hov.fra1.digitaloceanspaces.com/prod/mythic/hov_marion_soulthread.png",
     "U": "https://hov.fra1.digitaloceanspaces.com/prod/unique/hov_marion_soulthread.png"
    },
-   "holders": 50,
+   "holders": 51,
    "thumbs": {
     "L": "https://loonysk.github.io/morwen-book/cards/7c6a8d9b779aae2f.webp",
     "M": "https://loonysk.github.io/morwen-book/cards/1e089d084816c39a.webp",
@@ -143,6 +143,16 @@
   }
  },
  "recent": [
+  {
+   "ts": 1793340035,
+   "id": 10418,
+   "tier": "M",
+   "hero": "marion",
+   "kind": "forge",
+   "from": "0x0000000000000000000000000000000000000000",
+   "to": "0xa6f7a9ee9c289e3249c2b756a2f580fb74262030",
+   "tx": "0x223aa9e508cbe3bd61a2cd2a14f395032cdd6349162f49b439bf4b3686f4e149"
+  },
   {
    "ts": 1793331035,
    "id": 1751,
@@ -5712,6 +5722,27 @@
    "witness": []
   },
   {
+   "w": "0xa6f7…2030",
+   "addr": "0xa6f7a9ee9c289e3249c2b756a2f580fb74262030",
+   "order": 0,
+   "cards": [
+    [
+     "M",
+     1793340035,
+     null,
+     "marion",
+     10418,
+     null
+    ]
+   ],
+   "marks": [],
+   "gifted": [],
+   "chance": [],
+   "bought": 0,
+   "spentUsd": 0,
+   "witness": []
+  },
+  {
    "w": "0x65cd…501f",
    "addr": "0x65cd7306aaccedfb658d19f83694b2bde08b501f",
    "order": 1,
@@ -7128,8 +7159,8 @@
   }
  },
  "floors": {
-  "at": 1793339862,
-  "listed": 214,
+  "at": 1793340467,
+  "listed": 209,
   "offers": {
    "shelo": {
     "id": 1760,
@@ -7169,7 +7200,7 @@
   },
   "named": {
    "kael vorn": {
-    "L": 0.0232956,
+    "L": 0.0219999,
     "M": 0.15,
     "U": null
    },
@@ -7214,6 +7245,6 @@
    "M": null,
    "U": null
   },
-  "usd": 2235.28
+  "usd": 2238.32
  }
 }
