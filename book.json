@@ -1,8 +1,8 @@
 {
- "updated": 1793418460,
+ "updated": 1793419061,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26310149,
+ "block": 26310199,
  "events": {
   "firstCard": 180,
   "firstUnique": 1793190815,
@@ -49,9 +49,9 @@
    }
   },
   "revazial": {
-   "cards": 53,
+   "cards": 52,
    "tiers": {
-    "L": 49,
+    "L": 48,
     "M": 3,
     "U": 1
    },
@@ -60,7 +60,7 @@
     "M": "https://hov.fra1.digitaloceanspaces.com/prod/mythic/hov_revazial.png",
     "U": "https://hov.fra1.digitaloceanspaces.com/prod/unique/hov_revazial.png"
    },
-   "holders": 37,
+   "holders": 36,
    "thumbs": {
     "L": "https://loonysk.github.io/morwen-book/cards/92565182053f29b5.webp",
     "M": "https://loonysk.github.io/morwen-book/cards/aef39d1969af82a5.webp",
@@ -145,6 +145,16 @@
   }
  },
  "recent": [
+  {
+   "ts": 1793418971,
+   "id": 1608,
+   "tier": "L",
+   "hero": "revazial",
+   "kind": "burn",
+   "from": "0xa456e2322ce1a59ee273e8ffafdb26e87c87c996",
+   "to": "0x0000000000000000000000000000000000000000",
+   "tx": "0x5035fe7acd3f078efb2b82f20688293b7d8939979baf8a7f6301f7c33c0933da"
+  },
   {
    "ts": 1793395763,
    "id": 10459,
@@ -238,16 +248,6 @@
    "from": "0xcb1e9c251b49c058e0649522b8c677ec70a95f4e",
    "to": "0x0000000000000000000000000000000000000000",
    "tx": "0xfc8fa296a9f9a79ad0dd4faaf1bef9948d0fb23b135b17c7a3a5f8cfd1471c7a"
-  },
-  {
-   "ts": 1793376563,
-   "id": 20042,
-   "tier": "U",
-   "hero": "yomihime",
-   "kind": "forge",
-   "from": "0x0000000000000000000000000000000000000000",
-   "to": "0x890f52769d7351ec04b4e370962736c0d143bb56",
-   "tx": "0x3a571b6cd3663a7f5aff95757a4fea40be559c645157ec0a3155b3f72c1a5e47"
   }
  ],
  "sales": {
@@ -2797,17 +2797,22 @@
      "matazuu",
      1308,
      null
-    ],
-    [
-     "L",
-     1791399407,
-     null,
-     "revazial",
-     1608,
-     null
     ]
    ],
-   "marks": [],
+   "marks": [
+    {
+     "k": "betrayer",
+     "ally": "revazial"
+    }
+   ],
+   "lost": [
+    [
+     "betrayer",
+     "L",
+     "revazial",
+     1608
+    ]
+   ],
    "gifted": [],
    "chance": [],
    "bought": 0,
@@ -7336,7 +7341,7 @@
   }
  },
  "floors": {
-  "at": 1793418461,
+  "at": 1793419061,
   "listed": 201,
   "offers": {
    "shelo": {
@@ -7422,6 +7427,6 @@
    "M": 0.3,
    "U": null
   },
-  "usd": 2239.24
+  "usd": 2235.46
  }
 }
