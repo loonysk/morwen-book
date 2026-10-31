@@ -1,8 +1,8 @@
 {
- "updated": 1793419061,
+ "updated": 1793419667,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26310199,
+ "block": 26310249,
  "events": {
   "firstCard": 180,
   "firstUnique": 1793190815,
@@ -146,6 +146,26 @@
  },
  "recent": [
   {
+   "ts": 1793419403,
+   "id": 10474,
+   "tier": "M",
+   "hero": "orven",
+   "kind": "burn",
+   "from": "0xa456e2322ce1a59ee273e8ffafdb26e87c87c996",
+   "to": "0x0000000000000000000000000000000000000000",
+   "tx": "0xde8f1bae087591954e64b7b7f6771c8de6c1fbb43784f3c8f4a17c5a12cc6c95"
+  },
+  {
+   "ts": 1793419139,
+   "id": 10474,
+   "tier": "M",
+   "hero": "orven",
+   "kind": "forge",
+   "from": "0x0000000000000000000000000000000000000000",
+   "to": "0xa456e2322ce1a59ee273e8ffafdb26e87c87c996",
+   "tx": "0xa7db36f4b2791dff53a79f5f8b500d27928993328b06ce8086614429313a0ee6"
+  },
+  {
    "ts": 1793418971,
    "id": 1608,
    "tier": "L",
@@ -228,26 +248,6 @@
    "tx": "0xcbbd0417e26db598735f112e74e7ac6bb888f3ea51815b2a21d06f3e24259654",
    "eth": 0.136,
    "usd": 305
-  },
-  {
-   "ts": 1793390651,
-   "id": 10459,
-   "tier": "M",
-   "hero": "orven",
-   "kind": "forge",
-   "from": "0x0000000000000000000000000000000000000000",
-   "to": "0xcb1e9c251b49c058e0649522b8c677ec70a95f4e",
-   "tx": "0xfc8fa296a9f9a79ad0dd4faaf1bef9948d0fb23b135b17c7a3a5f8cfd1471c7a"
-  },
-  {
-   "ts": 1793390651,
-   "id": 305,
-   "tier": "L",
-   "hero": "shelo",
-   "kind": "burn",
-   "from": "0xcb1e9c251b49c058e0649522b8c677ec70a95f4e",
-   "to": "0x0000000000000000000000000000000000000000",
-   "tx": "0xfc8fa296a9f9a79ad0dd4faaf1bef9948d0fb23b135b17c7a3a5f8cfd1471c7a"
   }
  ],
  "sales": {
@@ -2803,6 +2803,10 @@
     {
      "k": "betrayer",
      "ally": "revazial"
+    },
+    {
+     "k": "defiler",
+     "ally": "orven"
     }
    ],
    "lost": [
@@ -2811,6 +2815,12 @@
      "L",
      "revazial",
      1608
+    ],
+    [
+     "defiler",
+     "M",
+     "orven",
+     10474
     ]
    ],
    "gifted": [],
@@ -7341,7 +7351,7 @@
   }
  },
  "floors": {
-  "at": 1793419061,
+  "at": 1793419667,
   "listed": 201,
   "offers": {
    "shelo": {
@@ -7427,6 +7437,6 @@
    "M": 0.3,
    "U": null
   },
-  "usd": 2235.46
+  "usd": 2237.62
  }
 }
