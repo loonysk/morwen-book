@@ -1,8 +1,8 @@
 {
- "updated": 1793459861,
+ "updated": 1793460464,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26313585,
+ "block": 26313635,
  "events": {
   "firstCard": 180,
   "firstUnique": 1793190815,
@@ -106,10 +106,10 @@
    }
   },
   "morwen": {
-   "cards": 54,
+   "cards": 55,
    "tiers": {
     "L": 45,
-    "M": 8,
+    "M": 9,
     "U": 1
    },
    "images": {
@@ -145,6 +145,16 @@
   }
  },
  "recent": [
+  {
+   "ts": 1793460227,
+   "id": 10497,
+   "tier": "M",
+   "hero": "morwen",
+   "kind": "forge",
+   "from": "0x0000000000000000000000000000000000000000",
+   "to": "0xca53a9af458591b6cd942d70cdd97326c46ef273",
+   "tx": "0x7ea5f5eabfa0329d4d6f54d8f122d03dbc97a40efe5aa0cf666bde4e28b9315e"
+  },
   {
    "ts": 1793439083,
    "id": 2236,
@@ -230,16 +240,6 @@
    "id": 635,
    "tier": "L",
    "hero": "orven",
-   "kind": "burn",
-   "from": "0xcb1e9c251b49c058e0649522b8c677ec70a95f4e",
-   "to": "0x0000000000000000000000000000000000000000",
-   "tx": "0xedd435fd0e334bfe6d37be2bd6fe2697095637008f6a99f2cd27096b0974f502"
-  },
-  {
-   "ts": 1793392523,
-   "id": 619,
-   "tier": "L",
-   "hero": "matazuu",
    "kind": "burn",
    "from": "0xcb1e9c251b49c058e0649522b8c677ec70a95f4e",
    "to": "0x0000000000000000000000000000000000000000",
@@ -1001,6 +1001,14 @@
      null
     ],
     [
+     "M",
+     1793460227,
+     "chance",
+     null,
+     10497,
+     null
+    ],
+    [
      "U",
      1793190815,
      "chance",
@@ -1012,7 +1020,8 @@
    "marks": [],
    "gifted": [],
    "chance": [
-    "U"
+    "U",
+    "M"
    ],
    "bought": 1,
    "spentUsd": 27,
@@ -7378,7 +7387,7 @@
   }
  },
  "floors": {
-  "at": 1793459861,
+  "at": 1793460464,
   "listed": 199,
   "offers": {
    "shelo": {
@@ -7464,6 +7473,6 @@
    "M": 0.25,
    "U": null
   },
-  "usd": 2245.24
+  "usd": 2245.08
  }
 }
