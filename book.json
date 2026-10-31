@@ -1,8 +1,8 @@
 {
- "updated": 1793438861,
+ "updated": 1793439461,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26311843,
+ "block": 26311893,
  "events": {
   "firstCard": 180,
   "firstUnique": 1793190815,
@@ -11,9 +11,9 @@
  "pending": 0,
  "heroes": {
   "marion": {
-   "cards": 70,
+   "cards": 68,
    "tiers": {
-    "L": 61,
+    "L": 59,
     "M": 8,
     "U": 1
    },
@@ -22,7 +22,7 @@
     "M": "https://hov.fra1.digitaloceanspaces.com/prod/mythic/hov_marion_soulthread.png",
     "U": "https://hov.fra1.digitaloceanspaces.com/prod/unique/hov_marion_soulthread.png"
    },
-   "holders": 50,
+   "holders": 49,
    "thumbs": {
     "L": "https://loonysk.github.io/morwen-book/cards/7c6a8d9b779aae2f.webp",
     "M": "https://loonysk.github.io/morwen-book/cards/1e089d084816c39a.webp",
@@ -146,6 +146,26 @@
  },
  "recent": [
   {
+   "ts": 1793439083,
+   "id": 2236,
+   "tier": "L",
+   "hero": "marion",
+   "kind": "burn",
+   "from": "0x76e7e4d744ad0746f26a2746efe7b6a91b05dc00",
+   "to": "0x0000000000000000000000000000000000000000",
+   "tx": "0x338a357cb5af91c0dbf762bcc986bccc63d0e51428bde58287980960eefe9a86"
+  },
+  {
+   "ts": 1793439083,
+   "id": 2058,
+   "tier": "L",
+   "hero": "marion",
+   "kind": "burn",
+   "from": "0x76e7e4d744ad0746f26a2746efe7b6a91b05dc00",
+   "to": "0x0000000000000000000000000000000000000000",
+   "tx": "0x338a357cb5af91c0dbf762bcc986bccc63d0e51428bde58287980960eefe9a86"
+  },
+  {
    "ts": 1793430035,
    "id": 10478,
    "tier": "M",
@@ -224,28 +244,6 @@
    "from": "0xcb1e9c251b49c058e0649522b8c677ec70a95f4e",
    "to": "0x0000000000000000000000000000000000000000",
    "tx": "0xedd435fd0e334bfe6d37be2bd6fe2697095637008f6a99f2cd27096b0974f502"
-  },
-  {
-   "ts": 1793392523,
-   "id": 444,
-   "tier": "L",
-   "hero": "shelo",
-   "kind": "burn",
-   "from": "0xcb1e9c251b49c058e0649522b8c677ec70a95f4e",
-   "to": "0x0000000000000000000000000000000000000000",
-   "tx": "0xedd435fd0e334bfe6d37be2bd6fe2697095637008f6a99f2cd27096b0974f502"
-  },
-  {
-   "ts": 1793391203,
-   "id": 2317,
-   "tier": "L",
-   "hero": "marion",
-   "kind": "buy",
-   "from": "0x08629e963045de35b8eb42161a314108f952bcae",
-   "to": "0x3861f41e66b0b6fd2d647e1a424599cd181a77c9",
-   "tx": "0x9e8612392a461e42ad43cf7c145349a53a2fbf4da00566660353a84f614c7fb4",
-   "eth": 0.032,
-   "usd": 72
   }
  ],
  "sales": {
@@ -3362,48 +3360,6 @@
    "chance": [],
    "bought": 1,
    "spentUsd": 45,
-   "witness": []
-  },
-  {
-   "w": "0x76e7…dc00",
-   "addr": "0x76e7e4d744ad0746f26a2746efe7b6a91b05dc00",
-   "order": 0,
-   "cards": [
-    [
-     "L",
-     1791403187,
-     null,
-     "marion",
-     2058,
-     null
-    ],
-    [
-     "L",
-     1791404591,
-     null,
-     "marion",
-     2236,
-     null
-    ]
-   ],
-   "marks": [
-    {
-     "k": "betrayer",
-     "ally": "shelo"
-    }
-   ],
-   "lost": [
-    [
-     "betrayer",
-     "L",
-     "shelo",
-     1957
-    ]
-   ],
-   "gifted": [],
-   "chance": [],
-   "bought": 0,
-   "spentUsd": 0,
    "witness": []
   },
   {
@@ -7193,6 +7149,51 @@
    "witness": []
   },
   {
+   "w": "0x76e7…dc00",
+   "addr": "0x76e7e4d744ad0746f26a2746efe7b6a91b05dc00",
+   "order": 0,
+   "cards": [],
+   "marks": [
+    {
+     "k": "betrayer",
+     "ally": "shelo"
+    },
+    {
+     "k": "betrayer",
+     "ally": "marion"
+    },
+    {
+     "k": "betrayer",
+     "ally": "marion"
+    }
+   ],
+   "lost": [
+    [
+     "betrayer",
+     "L",
+     "shelo",
+     1957
+    ],
+    [
+     "betrayer",
+     "L",
+     "marion",
+     2058
+    ],
+    [
+     "betrayer",
+     "L",
+     "marion",
+     2236
+    ]
+   ],
+   "gifted": [],
+   "chance": [],
+   "bought": 0,
+   "spentUsd": 0,
+   "witness": []
+  },
+  {
    "w": "0xa5cd…4d6c",
    "addr": "0xa5cd95109b06e7433044a38a2c9a0f6ed4a54d6c",
    "order": 0,
@@ -7377,8 +7378,8 @@
   }
  },
  "floors": {
-  "at": 1793438861,
-  "listed": 202,
+  "at": 1793439462,
+  "listed": 196,
   "offers": {
    "shelo": {
     "id": 4258,
@@ -7463,6 +7464,6 @@
    "M": 0.25,
    "U": null
   },
-  "usd": 2241.68
+  "usd": 2242.86
  }
 }
