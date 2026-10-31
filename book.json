@@ -1,8 +1,8 @@
 {
- "updated": 1793470061,
+ "updated": 1793470670,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26314430,
+ "block": 26314480,
  "events": {
   "firstCard": 180,
   "firstUnique": 1793190815,
@@ -30,10 +30,10 @@
    }
   },
   "matazuu": {
-   "cards": 59,
+   "cards": 60,
    "tiers": {
     "L": 53,
-    "M": 5,
+    "M": 6,
     "U": 1
    },
    "images": {
@@ -146,6 +146,16 @@
  },
  "recent": [
   {
+   "ts": 1793470571,
+   "id": 10508,
+   "tier": "M",
+   "hero": "matazuu",
+   "kind": "forge",
+   "from": "0x0000000000000000000000000000000000000000",
+   "to": "0x9f6e3b66911fb65ee048b7a352c559f9aaab8c61",
+   "tx": "0x7daf206ec4471a810b973e6ffc27c81ef55f75607f5e45ea85a7ea7079104845"
+  },
+  {
    "ts": 1793461343,
    "id": 1650,
    "tier": "L",
@@ -230,16 +240,6 @@
    "id": 10459,
    "tier": "M",
    "hero": "orven",
-   "kind": "burn",
-   "from": "0xcb1e9c251b49c058e0649522b8c677ec70a95f4e",
-   "to": "0x0000000000000000000000000000000000000000",
-   "tx": "0x9acb8f6093a580a0611b9fc23249b34b889db853a0cbcfbee56f8f1360be83c5"
-  },
-  {
-   "ts": 1793395763,
-   "id": 10441,
-   "tier": "M",
-   "hero": "yomihime",
    "kind": "burn",
    "from": "0xcb1e9c251b49c058e0649522b8c677ec70a95f4e",
    "to": "0x0000000000000000000000000000000000000000",
@@ -2390,6 +2390,14 @@
      null,
      10175,
      "t"
+    ],
+    [
+     "M",
+     1793470571,
+     null,
+     "matazuu",
+     10508,
+     null
     ],
     [
      "U",
@@ -7392,7 +7400,7 @@
   }
  },
  "floors": {
-  "at": 1793470061,
+  "at": 1793470671,
   "listed": 202,
   "offers": {
    "shelo": {
@@ -7400,14 +7408,14 @@
     "eth": 0.05,
     "tier": "L"
    },
+   "marion": {
+    "id": 820,
+    "eth": 0.05,
+    "tier": "L"
+   },
    "revazial": {
     "id": 4957,
     "eth": 0.055,
-    "tier": "L"
-   },
-   "marion": {
-    "id": 820,
-    "eth": 0.065,
     "tier": "L"
    },
    "yomihime": {
@@ -7448,13 +7456,13 @@
    "M": null,
    "U": null
   },
-  "revazial": {
-   "L": 0.055,
+  "marion": {
+   "L": 0.05,
    "M": null,
    "U": null
   },
-  "marion": {
-   "L": 0.065,
+  "revazial": {
+   "L": 0.055,
    "M": null,
    "U": null
   },
@@ -7478,6 +7486,6 @@
    "M": 0.25,
    "U": null
   },
-  "usd": 2253
+  "usd": 2253.84
  }
 }
