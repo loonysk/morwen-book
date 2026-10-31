@@ -1,8 +1,8 @@
 {
- "updated": 1793479061,
+ "updated": 1793479659,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26315179,
+ "block": 26315229,
  "events": {
   "firstCard": 180,
   "firstUnique": 1793190815,
@@ -7400,8 +7400,8 @@
   }
  },
  "floors": {
-  "at": 1793479062,
-  "listed": 201,
+  "at": 1793479660,
+  "listed": 200,
   "offers": {
    "shelo": {
     "id": 4258,
@@ -7424,8 +7424,8 @@
     "tier": "L"
    },
    "matazuu": {
-    "id": 4008,
-    "eth": 0.084,
+    "id": 3168,
+    "eth": 0.109,
     "tier": "L"
    },
    "morwen": {
@@ -7472,7 +7472,7 @@
    "U": null
   },
   "matazuu": {
-   "L": 0.084,
+   "L": 0.109,
    "M": null,
    "U": null
   },
@@ -7486,6 +7486,6 @@
    "M": 0.25,
    "U": null
   },
-  "usd": 2250.05
+  "usd": 2250.86
  }
 }
