@@ -1,8 +1,8 @@
 {
- "updated": 1793461061,
+ "updated": 1793461661,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26313685,
+ "block": 26313734,
  "events": {
   "firstCard": 180,
   "firstUnique": 1793190815,
@@ -87,9 +87,9 @@
    }
   },
   "shelo": {
-   "cards": 49,
+   "cards": 48,
    "tiers": {
-    "L": 44,
+    "L": 43,
     "M": 4,
     "U": 1
    },
@@ -145,6 +145,16 @@
   }
  },
  "recent": [
+  {
+   "ts": 1793461343,
+   "id": 1650,
+   "tier": "L",
+   "hero": "shelo",
+   "kind": "burn",
+   "from": "0xca53a9af458591b6cd942d70cdd97326c46ef273",
+   "to": "0x0000000000000000000000000000000000000000",
+   "tx": "0xeb673826702e8e58c8e7544ace730a9b2db4f3aa3635ae0acc3ce94cf19a0735"
+  },
   {
    "ts": 1793460227,
    "id": 10497,
@@ -234,16 +244,6 @@
    "from": "0xcb1e9c251b49c058e0649522b8c677ec70a95f4e",
    "to": "0x0000000000000000000000000000000000000000",
    "tx": "0x9acb8f6093a580a0611b9fc23249b34b889db853a0cbcfbee56f8f1360be83c5"
-  },
-  {
-   "ts": 1793392523,
-   "id": 635,
-   "tier": "L",
-   "hero": "orven",
-   "kind": "burn",
-   "from": "0xcb1e9c251b49c058e0649522b8c677ec70a95f4e",
-   "to": "0x0000000000000000000000000000000000000000",
-   "tx": "0xedd435fd0e334bfe6d37be2bd6fe2697095637008f6a99f2cd27096b0974f502"
   }
  ],
  "sales": {
@@ -818,14 +818,6 @@
     ],
     [
      "L",
-     1791489719,
-     null,
-     "shelo",
-     1650,
-     null
-    ],
-    [
-     "L",
      1791404231,
      null,
      "yomihime",
@@ -1017,7 +1009,20 @@
      null
     ]
    ],
-   "marks": [],
+   "marks": [
+    {
+     "k": "betrayer",
+     "ally": "shelo"
+    }
+   ],
+   "lost": [
+    [
+     "betrayer",
+     "L",
+     "shelo",
+     1650
+    ]
+   ],
    "gifted": [],
    "chance": [
     "U",
@@ -7387,7 +7392,7 @@
   }
  },
  "floors": {
-  "at": 1793461062,
+  "at": 1793461662,
   "listed": 199,
   "offers": {
    "shelo": {
@@ -7473,6 +7478,6 @@
    "M": 0.25,
    "U": null
   },
-  "usd": 2248.85
+  "usd": 2247.83
  }
 }
