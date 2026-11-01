@@ -1,8 +1,8 @@
 {
- "updated": 1793546862,
+ "updated": 1793547462,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26320811,
+ "block": 26320861,
  "events": {
   "firstCard": 180,
   "firstUnique": 1793190815,
@@ -146,6 +146,36 @@
  },
  "recent": [
   {
+   "ts": 1793547359,
+   "id": 3528,
+   "tier": "L",
+   "hero": "revazial",
+   "kind": "hand",
+   "from": "0xca53a9af458591b6cd942d70cdd97326c46ef273",
+   "to": "0xaab98f0871b991ed3231cea344a2ef5564479eb3",
+   "tx": "0xa4066c545ec953b5316bc6fdbbc469ee312df45fdb67a2ce15cb66fa9d092bac"
+  },
+  {
+   "ts": 1793547227,
+   "id": 3983,
+   "tier": "L",
+   "hero": "marion",
+   "kind": "hand",
+   "from": "0xca53a9af458591b6cd942d70cdd97326c46ef273",
+   "to": "0xaab98f0871b991ed3231cea344a2ef5564479eb3",
+   "tx": "0x7667f3aaf17602a393025d1756d664a897021a4e100e46a34fedba5e7efab3d6"
+  },
+  {
+   "ts": 1793547179,
+   "id": 3993,
+   "tier": "L",
+   "hero": "yomihime",
+   "kind": "hand",
+   "from": "0xca53a9af458591b6cd942d70cdd97326c46ef273",
+   "to": "0xaab98f0871b991ed3231cea344a2ef5564479eb3",
+   "tx": "0x2cd41490985c4fd694a22cefa8b7fa0ae3125b051ea8527d4b975c68ac515da4"
+  },
+  {
    "ts": 1793544155,
    "id": 2566,
    "tier": "L",
@@ -214,36 +244,6 @@
    "from": "0xca53a9af458591b6cd942d70cdd97326c46ef273",
    "to": "0x9facd62b81c21a4625ce07fba477e3278ea33cbe",
    "tx": "0xaea9c8b79aafeab1f4dbc5af2e3e95ad636526b486d404c6786df897c75dba62"
-  },
-  {
-   "ts": 1793536499,
-   "id": 4874,
-   "tier": "L",
-   "hero": "orven",
-   "kind": "hand",
-   "from": "0xca53a9af458591b6cd942d70cdd97326c46ef273",
-   "to": "0x655e70a636aa18f30d1428ab0d5f44be46e2ec98",
-   "tx": "0xf182787e79fc252a100be7f71e789998386d14cad414ea8a274d9483a92d9c30"
-  },
-  {
-   "ts": 1793536415,
-   "id": 10497,
-   "tier": "M",
-   "hero": "morwen",
-   "kind": "hand",
-   "from": "0xca53a9af458591b6cd942d70cdd97326c46ef273",
-   "to": "0x655e70a636aa18f30d1428ab0d5f44be46e2ec98",
-   "tx": "0xf41fa065f2df524ba0e3f667b1ccf73c9bb9f63b058d492f52f07ea0a0e83875"
-  },
-  {
-   "ts": 1793533307,
-   "id": 2346,
-   "tier": "L",
-   "hero": "revazial",
-   "kind": "hand",
-   "from": "0x9facd62b81c21a4625ce07fba477e3278ea33cbe",
-   "to": "0xca53a9af458591b6cd942d70cdd97326c46ef273",
-   "tx": "0xe169f1a0c524a80f3a2a34e06ea951e39f2b6adf08b202e0f31280ebef5096e6"
   }
  ],
  "sales": {
@@ -754,11 +754,35 @@
     ],
     [
      "L",
+     1793547359,
+     null,
+     "revazial",
+     3528,
+     "t"
+    ],
+    [
+     "L",
      1791451499,
      null,
      "matazuu",
      3599,
      null
+    ],
+    [
+     "L",
+     1793547227,
+     null,
+     "marion",
+     3983,
+     "t"
+    ],
+    [
+     "L",
+     1793547179,
+     null,
+     "yomihime",
+     3993,
+     "t"
     ],
     [
      "L",
@@ -906,34 +930,10 @@
     ],
     [
      "L",
-     1791449747,
-     null,
-     "revazial",
-     3528,
-     null
-    ],
-    [
-     "L",
      1791462959,
      null,
      "yomihime",
      3974,
-     null
-    ],
-    [
-     "L",
-     1791463115,
-     null,
-     "marion",
-     3983,
-     null
-    ],
-    [
-     "L",
-     1791463307,
-     null,
-     "yomihime",
-     3993,
      null
     ],
     [
@@ -1012,6 +1012,21 @@
      "L",
      "revazial",
      2566
+    ],
+    [
+     "L",
+     "yomihime",
+     3993
+    ],
+    [
+     "L",
+     "marion",
+     3983
+    ],
+    [
+     "L",
+     "revazial",
+     3528
     ]
    ],
    "gifted": [],
@@ -7465,8 +7480,8 @@
   }
  },
  "floors": {
-  "at": 1793546863,
-  "listed": 181,
+  "at": 1793547462,
+  "listed": 182,
   "offers": {
    "shelo": {
     "id": 1760,
@@ -7551,6 +7566,6 @@
    "M": 0.21,
    "U": null
   },
-  "usd": 2267.04
+  "usd": 2267.96
  }
 }
