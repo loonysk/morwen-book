@@ -1,8 +1,8 @@
 {
- "updated": 1793543861,
+ "updated": 1793544463,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26320561,
+ "block": 26320611,
  "events": {
   "firstCard": 180,
   "firstUnique": 1793190815,
@@ -41,7 +41,7 @@
     "M": "https://hov.fra1.digitaloceanspaces.com/prod/mythic/hov_matazuu.png",
     "U": "https://hov.fra1.digitaloceanspaces.com/prod/unique/hov_matazuu.png"
    },
-   "holders": 44,
+   "holders": 45,
    "thumbs": {
     "L": "https://loonysk.github.io/morwen-book/cards/a56f14d57fe9da96.webp",
     "M": "https://loonysk.github.io/morwen-book/cards/b467fe8dc2755ffc.webp",
@@ -79,7 +79,7 @@
     "M": "https://hov.fra1.digitaloceanspaces.com/prod/mythic/hov_yomihime.png",
     "U": "https://hov.fra1.digitaloceanspaces.com/prod/unique/hov_yomihime.png"
    },
-   "holders": 41,
+   "holders": 42,
    "thumbs": {
     "L": "https://loonysk.github.io/morwen-book/cards/dfa351374fb18253.webp",
     "M": "https://loonysk.github.io/morwen-book/cards/ee3066876d78a62d.webp",
@@ -98,7 +98,7 @@
     "M": "https://hov.fra1.digitaloceanspaces.com/prod/mythic/hov_shelo.png",
     "U": "https://hov.fra1.digitaloceanspaces.com/prod/unique/hov_shelo.png"
    },
-   "holders": 36,
+   "holders": 37,
    "thumbs": {
     "L": "https://loonysk.github.io/morwen-book/cards/4dc0af14bb5ff744.webp",
     "M": "https://loonysk.github.io/morwen-book/cards/c250a6d2fb0b5b8c.webp",
@@ -117,7 +117,7 @@
     "M": "https://hov.fra1.digitaloceanspaces.com/prod/mythic/hov_morwen_greymoor.png",
     "U": "https://hov.fra1.digitaloceanspaces.com/prod/unique/hov_morwen_greymoor.png"
    },
-   "holders": 40,
+   "holders": 41,
    "thumbs": {
     "L": "https://loonysk.github.io/morwen-book/cards/1ed0a45f92f6d78e.webp",
     "M": "https://loonysk.github.io/morwen-book/cards/286a09f384f6685b.webp",
@@ -145,6 +145,56 @@
   }
  },
  "recent": [
+  {
+   "ts": 1793544155,
+   "id": 2566,
+   "tier": "L",
+   "hero": "revazial",
+   "kind": "hand",
+   "from": "0xca53a9af458591b6cd942d70cdd97326c46ef273",
+   "to": "0x50e43a4d3cbf8f05ce07f3ebc80c7c840b351422",
+   "tx": "0x117e9964f0ba02378d6699e335fd25dbc3c84aca02aff4d95a12908f185f1c9e"
+  },
+  {
+   "ts": 1793544095,
+   "id": 3751,
+   "tier": "L",
+   "hero": "matazuu",
+   "kind": "hand",
+   "from": "0xca53a9af458591b6cd942d70cdd97326c46ef273",
+   "to": "0x50e43a4d3cbf8f05ce07f3ebc80c7c840b351422",
+   "tx": "0x7a180d24dfff22877cc744506e3eb6de381f3140997538488f539d802107ab3a"
+  },
+  {
+   "ts": 1793544035,
+   "id": 2781,
+   "tier": "L",
+   "hero": "yomihime",
+   "kind": "hand",
+   "from": "0xca53a9af458591b6cd942d70cdd97326c46ef273",
+   "to": "0x50e43a4d3cbf8f05ce07f3ebc80c7c840b351422",
+   "tx": "0xa7a027cc3bf40cdf49d93cc46f51475d8feff2fa5e7157ad448424a7cbedc5ec"
+  },
+  {
+   "ts": 1793543987,
+   "id": 3481,
+   "tier": "L",
+   "hero": "morwen",
+   "kind": "hand",
+   "from": "0xca53a9af458591b6cd942d70cdd97326c46ef273",
+   "to": "0x50e43a4d3cbf8f05ce07f3ebc80c7c840b351422",
+   "tx": "0x2fed8bd0441e5a949b52db4ec541b9fe8209995cab624c8bc83ca6e37de70d26"
+  },
+  {
+   "ts": 1793543939,
+   "id": 3487,
+   "tier": "L",
+   "hero": "shelo",
+   "kind": "hand",
+   "from": "0xca53a9af458591b6cd942d70cdd97326c46ef273",
+   "to": "0x50e43a4d3cbf8f05ce07f3ebc80c7c840b351422",
+   "tx": "0x4273155d79c88100e13572faa9f15ccc1e1ffe5e1c351a6be4ed82008b3f4ea6"
+  },
   {
    "ts": 1793543759,
    "id": 2346,
@@ -194,56 +244,6 @@
    "from": "0x9facd62b81c21a4625ce07fba477e3278ea33cbe",
    "to": "0xca53a9af458591b6cd942d70cdd97326c46ef273",
    "tx": "0xe169f1a0c524a80f3a2a34e06ea951e39f2b6adf08b202e0f31280ebef5096e6"
-  },
-  {
-   "ts": 1793470571,
-   "id": 10508,
-   "tier": "M",
-   "hero": "matazuu",
-   "kind": "forge",
-   "from": "0x0000000000000000000000000000000000000000",
-   "to": "0x9f6e3b66911fb65ee048b7a352c559f9aaab8c61",
-   "tx": "0x7daf206ec4471a810b973e6ffc27c81ef55f75607f5e45ea85a7ea7079104845"
-  },
-  {
-   "ts": 1793461343,
-   "id": 1650,
-   "tier": "L",
-   "hero": "shelo",
-   "kind": "burn",
-   "from": "0xca53a9af458591b6cd942d70cdd97326c46ef273",
-   "to": "0x0000000000000000000000000000000000000000",
-   "tx": "0xeb673826702e8e58c8e7544ace730a9b2db4f3aa3635ae0acc3ce94cf19a0735"
-  },
-  {
-   "ts": 1793460227,
-   "id": 10497,
-   "tier": "M",
-   "hero": "morwen",
-   "kind": "forge",
-   "from": "0x0000000000000000000000000000000000000000",
-   "to": "0xca53a9af458591b6cd942d70cdd97326c46ef273",
-   "tx": "0x7ea5f5eabfa0329d4d6f54d8f122d03dbc97a40efe5aa0cf666bde4e28b9315e"
-  },
-  {
-   "ts": 1793439083,
-   "id": 2236,
-   "tier": "L",
-   "hero": "marion",
-   "kind": "burn",
-   "from": "0x76e7e4d744ad0746f26a2746efe7b6a91b05dc00",
-   "to": "0x0000000000000000000000000000000000000000",
-   "tx": "0x338a357cb5af91c0dbf762bcc986bccc63d0e51428bde58287980960eefe9a86"
-  },
-  {
-   "ts": 1793439083,
-   "id": 2058,
-   "tier": "L",
-   "hero": "marion",
-   "kind": "burn",
-   "from": "0x76e7e4d744ad0746f26a2746efe7b6a91b05dc00",
-   "to": "0x0000000000000000000000000000000000000000",
-   "tx": "0x338a357cb5af91c0dbf762bcc986bccc63d0e51428bde58287980960eefe9a86"
   }
  ],
  "sales": {
@@ -882,14 +882,6 @@
     ],
     [
      "L",
-     1791407807,
-     null,
-     "revazial",
-     2566,
-     null
-    ],
-    [
-     "L",
      1791407903,
      null,
      "shelo",
@@ -906,14 +898,6 @@
     ],
     [
      "L",
-     1791409943,
-     null,
-     "yomihime",
-     2781,
-     null
-    ],
-    [
-     "L",
      1791448907,
      null,
      "marion",
@@ -922,34 +906,10 @@
     ],
     [
      "L",
-     1791448967,
-     null,
-     null,
-     3481,
-     null
-    ],
-    [
-     "L",
-     1791449123,
-     null,
-     "shelo",
-     3487,
-     null
-    ],
-    [
-     "L",
      1791449747,
      null,
      "revazial",
      3528,
-     null
-    ],
-    [
-     "L",
-     1791454031,
-     null,
-     "matazuu",
-     3751,
      null
     ],
     [
@@ -1027,6 +987,31 @@
      "L",
      "revazial",
      2346
+    ],
+    [
+     "L",
+     "shelo",
+     3487
+    ],
+    [
+     "L",
+     "morwen",
+     3481
+    ],
+    [
+     "L",
+     "yomihime",
+     2781
+    ],
+    [
+     "L",
+     "matazuu",
+     3751
+    ],
+    [
+     "L",
+     "revazial",
+     2566
     ]
    ],
    "gifted": [],
@@ -2064,6 +2049,46 @@
      null,
      "marion",
      820,
+     "t"
+    ],
+    [
+     "L",
+     1793544155,
+     null,
+     "revazial",
+     2566,
+     "t"
+    ],
+    [
+     "L",
+     1793544035,
+     null,
+     "yomihime",
+     2781,
+     "t"
+    ],
+    [
+     "L",
+     1793543987,
+     null,
+     null,
+     3481,
+     "t"
+    ],
+    [
+     "L",
+     1793543939,
+     null,
+     "shelo",
+     3487,
+     "t"
+    ],
+    [
+     "L",
+     1793544095,
+     null,
+     "matazuu",
+     3751,
      "t"
     ],
     [
@@ -7440,7 +7465,7 @@
   }
  },
  "floors": {
-  "at": 1793543862,
+  "at": 1793544463,
   "listed": 185,
   "offers": {
    "shelo": {
@@ -7526,6 +7551,6 @@
    "M": 0.21,
    "U": null
   },
-  "usd": 2267.19
+  "usd": 2268.33
  }
 }
