@@ -1,8 +1,8 @@
 {
- "updated": 1793550461,
+ "updated": 1793551062,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26321111,
+ "block": 26321161,
  "events": {
   "firstCard": 180,
   "firstUnique": 1793190815,
@@ -7485,12 +7485,12 @@
   }
  },
  "floors": {
-  "at": 1793550461,
-  "listed": 182,
+  "at": 1793551063,
+  "listed": 180,
   "offers": {
    "shelo": {
-    "id": 1760,
-    "eth": 0.045,
+    "id": 4258,
+    "eth": 0.05,
     "tier": "L"
    },
    "marion": {
@@ -7537,7 +7537,7 @@
    }
   },
   "shelo": {
-   "L": 0.045,
+   "L": 0.05,
    "M": null,
    "U": null
   },
@@ -7571,6 +7571,6 @@
    "M": 0.21,
    "U": null
   },
-  "usd": 2267.23
+  "usd": 2264.61
  }
 }
