@@ -1,8 +1,8 @@
 {
- "updated": 1793543264,
+ "updated": 1793543861,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26320512,
+ "block": 26320561,
  "events": {
   "firstCard": 180,
   "firstUnique": 1793190815,
@@ -146,6 +146,16 @@
  },
  "recent": [
   {
+   "ts": 1793543759,
+   "id": 2346,
+   "tier": "L",
+   "hero": "revazial",
+   "kind": "hand",
+   "from": "0xca53a9af458591b6cd942d70cdd97326c46ef273",
+   "to": "0xaab98f0871b991ed3231cea344a2ef5564479eb3",
+   "tx": "0x95c2c0cd5a32d5878d8e4b88c01ac565a07d80b7c5067c09e4b4002877463561"
+  },
+  {
    "ts": 1793536943,
    "id": 2413,
    "tier": "L",
@@ -234,16 +244,6 @@
    "from": "0x76e7e4d744ad0746f26a2746efe7b6a91b05dc00",
    "to": "0x0000000000000000000000000000000000000000",
    "tx": "0x338a357cb5af91c0dbf762bcc986bccc63d0e51428bde58287980960eefe9a86"
-  },
-  {
-   "ts": 1793430035,
-   "id": 10478,
-   "tier": "M",
-   "hero": "yomihime",
-   "kind": "forge",
-   "from": "0x0000000000000000000000000000000000000000",
-   "to": "0x38bb3769de962d95931a9055a071f5cc060ab833",
-   "tx": "0xcf6297ad90248b9a56d072c2cd3017ad5248eca4833715d68863ff325c1ce9e5"
   }
  ],
  "sales": {
@@ -746,6 +746,14 @@
     ],
     [
      "L",
+     1793543759,
+     null,
+     "revazial",
+     2346,
+     "t"
+    ],
+    [
+     "L",
      1791451499,
      null,
      "matazuu",
@@ -847,14 +855,6 @@
      "shelo",
      2312,
      null
-    ],
-    [
-     "L",
-     1793533307,
-     null,
-     "revazial",
-     2346,
-     "t"
     ],
     [
      "L",
@@ -1022,6 +1022,11 @@
      "L",
      "orven",
      2413
+    ],
+    [
+     "L",
+     "revazial",
+     2346
     ]
    ],
    "gifted": [],
@@ -7435,7 +7440,7 @@
   }
  },
  "floors": {
-  "at": 1793543265,
+  "at": 1793543862,
   "listed": 185,
   "offers": {
    "shelo": {
@@ -7521,6 +7526,6 @@
    "M": 0.21,
    "U": null
   },
-  "usd": 2265.26
+  "usd": 2267.19
  }
 }
