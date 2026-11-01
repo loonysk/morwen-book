@@ -1,8 +1,8 @@
 {
- "updated": 1793536062,
+ "updated": 1793536662,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26319916,
+ "block": 26319965,
  "events": {
   "firstCard": 180,
   "firstUnique": 1793190815,
@@ -117,7 +117,7 @@
     "M": "https://hov.fra1.digitaloceanspaces.com/prod/mythic/hov_morwen_greymoor.png",
     "U": "https://hov.fra1.digitaloceanspaces.com/prod/unique/hov_morwen_greymoor.png"
    },
-   "holders": 39,
+   "holders": 40,
    "thumbs": {
     "L": "https://loonysk.github.io/morwen-book/cards/1ed0a45f92f6d78e.webp",
     "M": "https://loonysk.github.io/morwen-book/cards/286a09f384f6685b.webp",
@@ -136,7 +136,7 @@
     "M": "https://hov.fra1.digitaloceanspaces.com/prod/mythic/hov_orven.png",
     "U": "https://hov.fra1.digitaloceanspaces.com/prod/unique/hov_orven.png"
    },
-   "holders": 30,
+   "holders": 31,
    "thumbs": {
     "L": "https://loonysk.github.io/morwen-book/cards/9887edeaf75c5a6b.webp",
     "M": "https://loonysk.github.io/morwen-book/cards/32b22372e8f9af45.webp",
@@ -145,6 +145,26 @@
   }
  },
  "recent": [
+  {
+   "ts": 1793536499,
+   "id": 4874,
+   "tier": "L",
+   "hero": "orven",
+   "kind": "hand",
+   "from": "0xca53a9af458591b6cd942d70cdd97326c46ef273",
+   "to": "0x655e70a636aa18f30d1428ab0d5f44be46e2ec98",
+   "tx": "0xf182787e79fc252a100be7f71e789998386d14cad414ea8a274d9483a92d9c30"
+  },
+  {
+   "ts": 1793536415,
+   "id": 10497,
+   "tier": "M",
+   "hero": "morwen",
+   "kind": "hand",
+   "from": "0xca53a9af458591b6cd942d70cdd97326c46ef273",
+   "to": "0x655e70a636aa18f30d1428ab0d5f44be46e2ec98",
+   "tx": "0xf41fa065f2df524ba0e3f667b1ccf73c9bb9f63b058d492f52f07ea0a0e83875"
+  },
   {
    "ts": 1793533307,
    "id": 2346,
@@ -224,26 +244,6 @@
    "from": "0xa456e2322ce1a59ee273e8ffafdb26e87c87c996",
    "to": "0x0000000000000000000000000000000000000000",
    "tx": "0xde8f1bae087591954e64b7b7f6771c8de6c1fbb43784f3c8f4a17c5a12cc6c95"
-  },
-  {
-   "ts": 1793419139,
-   "id": 10474,
-   "tier": "M",
-   "hero": "orven",
-   "kind": "forge",
-   "from": "0x0000000000000000000000000000000000000000",
-   "to": "0xa456e2322ce1a59ee273e8ffafdb26e87c87c996",
-   "tx": "0xa7db36f4b2791dff53a79f5f8b500d27928993328b06ce8086614429313a0ee6"
-  },
-  {
-   "ts": 1793418971,
-   "id": 1608,
-   "tier": "L",
-   "hero": "revazial",
-   "kind": "burn",
-   "from": "0xa456e2322ce1a59ee273e8ffafdb26e87c87c996",
-   "to": "0x0000000000000000000000000000000000000000",
-   "tx": "0x5035fe7acd3f078efb2b82f20688293b7d8939979baf8a7f6301f7c33c0933da"
   }
  ],
  "sales": {
@@ -985,27 +985,11 @@
      null
     ],
     [
-     "L",
-     1792306223,
-     null,
-     "orven",
-     4874,
-     "t"
-    ],
-    [
      "M",
      1793296883,
      null,
      "marion",
      10395,
-     null
-    ],
-    [
-     "M",
-     1793460227,
-     "chance",
-     null,
-     10497,
      null
     ],
     [
@@ -1029,6 +1013,18 @@
      "L",
      "shelo",
      1650
+    ]
+   ],
+   "gone": [
+    [
+     "M",
+     "morwen",
+     10497
+    ],
+    [
+     "L",
+     "orven",
+     4874
     ]
    ],
    "gifted": [],
@@ -5289,6 +5285,35 @@
    ]
   },
   {
+   "w": "0x655e…ec98",
+   "addr": "0x655e70a636aa18f30d1428ab0d5f44be46e2ec98",
+   "order": 63,
+   "cards": [
+    [
+     "L",
+     1793536499,
+     null,
+     "orven",
+     4874,
+     "t"
+    ],
+    [
+     "M",
+     1793536415,
+     "chance",
+     null,
+     10497,
+     "t"
+    ]
+   ],
+   "marks": [],
+   "gifted": [],
+   "chance": [],
+   "bought": 0,
+   "spentUsd": 0,
+   "witness": []
+  },
+  {
    "w": "0xc693…d274",
    "addr": "0xc693173657c9cabcde2beb66e20e44745d8ad274",
    "order": 0,
@@ -7380,7 +7405,7 @@
   }
  },
  "floors": {
-  "at": 1793536062,
+  "at": 1793536662,
   "listed": 191,
   "offers": {
    "shelo": {
@@ -7466,6 +7491,6 @@
    "M": 0.239,
    "U": null
   },
-  "usd": 2256.13
+  "usd": 2259.27
  }
 }
