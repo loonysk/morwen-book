@@ -1,8 +1,8 @@
 {
- "updated": 1793552263,
+ "updated": 1793552863,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26321261,
+ "block": 26321310,
  "events": {
   "firstCard": 180,
   "firstUnique": 1793190815,
@@ -87,9 +87,9 @@
    }
   },
   "shelo": {
-   "cards": 48,
+   "cards": 47,
    "tiers": {
-    "L": 43,
+    "L": 42,
     "M": 4,
     "U": 1
    },
@@ -125,10 +125,10 @@
    }
   },
   "orven": {
-   "cards": 41,
+   "cards": 42,
    "tiers": {
     "L": 38,
-    "M": 2,
+    "M": 3,
     "U": 1
    },
    "images": {
@@ -145,6 +145,26 @@
   }
  },
  "recent": [
+  {
+   "ts": 1793552759,
+   "id": 10521,
+   "tier": "M",
+   "hero": "orven",
+   "kind": "forge",
+   "from": "0x0000000000000000000000000000000000000000",
+   "to": "0xca53a9af458591b6cd942d70cdd97326c46ef273",
+   "tx": "0x86365cba0952e781c6db454afbbe3eb7d1a22fc617a31339b75d6c69d53befeb"
+  },
+  {
+   "ts": 1793552759,
+   "id": 2312,
+   "tier": "L",
+   "hero": "shelo",
+   "kind": "burn",
+   "from": "0xca53a9af458591b6cd942d70cdd97326c46ef273",
+   "to": "0x0000000000000000000000000000000000000000",
+   "tx": "0x86365cba0952e781c6db454afbbe3eb7d1a22fc617a31339b75d6c69d53befeb"
+  },
   {
    "ts": 1793547863,
    "id": 2575,
@@ -224,26 +244,6 @@
    "from": "0xca53a9af458591b6cd942d70cdd97326c46ef273",
    "to": "0x50e43a4d3cbf8f05ce07f3ebc80c7c840b351422",
    "tx": "0x2fed8bd0441e5a949b52db4ec541b9fe8209995cab624c8bc83ca6e37de70d26"
-  },
-  {
-   "ts": 1793543939,
-   "id": 3487,
-   "tier": "L",
-   "hero": "shelo",
-   "kind": "hand",
-   "from": "0xca53a9af458591b6cd942d70cdd97326c46ef273",
-   "to": "0x50e43a4d3cbf8f05ce07f3ebc80c7c840b351422",
-   "tx": "0x4273155d79c88100e13572faa9f15ccc1e1ffe5e1c351a6be4ed82008b3f4ea6"
-  },
-  {
-   "ts": 1793543759,
-   "id": 2346,
-   "tier": "L",
-   "hero": "revazial",
-   "kind": "hand",
-   "from": "0xca53a9af458591b6cd942d70cdd97326c46ef273",
-   "to": "0xaab98f0871b991ed3231cea344a2ef5564479eb3",
-   "tx": "0x95c2c0cd5a32d5878d8e4b88c01ac565a07d80b7c5067c09e4b4002877463561"
   }
  ],
  "sales": {
@@ -882,14 +882,6 @@
     ],
     [
      "L",
-     1791405071,
-     null,
-     "shelo",
-     2312,
-     null
-    ],
-    [
-     "L",
      1791405695,
      null,
      "revazial",
@@ -945,6 +937,14 @@
      null
     ],
     [
+     "M",
+     1793552759,
+     null,
+     "orven",
+     10521,
+     null
+    ],
+    [
      "U",
      1793190815,
      "chance",
@@ -957,6 +957,10 @@
     {
      "k": "betrayer",
      "ally": "shelo"
+    },
+    {
+     "k": "betrayer",
+     "ally": "shelo"
     }
    ],
    "lost": [
@@ -965,6 +969,12 @@
      "L",
      "shelo",
      1650
+    ],
+    [
+     "betrayer",
+     "L",
+     "shelo",
+     2312
     ]
    ],
    "gone": [
@@ -7485,7 +7495,7 @@
   }
  },
  "floors": {
-  "at": 1793552263,
+  "at": 1793552863,
   "listed": 181,
   "offers": {
    "shelo": {
@@ -7571,6 +7581,6 @@
    "M": 0.21,
    "U": null
   },
-  "usd": 2267.07
+  "usd": 2266.07
  }
 }
