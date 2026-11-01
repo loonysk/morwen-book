@@ -1,8 +1,8 @@
 {
- "updated": 1793533060,
+ "updated": 1793533661,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26319666,
+ "block": 26319716,
  "events": {
   "firstCard": 180,
   "firstUnique": 1793190815,
@@ -60,7 +60,7 @@
     "M": "https://hov.fra1.digitaloceanspaces.com/prod/mythic/hov_revazial.png",
     "U": "https://hov.fra1.digitaloceanspaces.com/prod/unique/hov_revazial.png"
    },
-   "holders": 36,
+   "holders": 35,
    "thumbs": {
     "L": "https://loonysk.github.io/morwen-book/cards/92565182053f29b5.webp",
     "M": "https://loonysk.github.io/morwen-book/cards/aef39d1969af82a5.webp",
@@ -145,6 +145,16 @@
   }
  },
  "recent": [
+  {
+   "ts": 1793533307,
+   "id": 2346,
+   "tier": "L",
+   "hero": "revazial",
+   "kind": "hand",
+   "from": "0x9facd62b81c21a4625ce07fba477e3278ea33cbe",
+   "to": "0xca53a9af458591b6cd942d70cdd97326c46ef273",
+   "tx": "0xe169f1a0c524a80f3a2a34e06ea951e39f2b6adf08b202e0f31280ebef5096e6"
+  },
   {
    "ts": 1793470571,
    "id": 10508,
@@ -234,16 +244,6 @@
    "from": "0xa456e2322ce1a59ee273e8ffafdb26e87c87c996",
    "to": "0x0000000000000000000000000000000000000000",
    "tx": "0x5035fe7acd3f078efb2b82f20688293b7d8939979baf8a7f6301f7c33c0933da"
-  },
-  {
-   "ts": 1793395763,
-   "id": 10459,
-   "tier": "M",
-   "hero": "orven",
-   "kind": "burn",
-   "from": "0xcb1e9c251b49c058e0649522b8c677ec70a95f4e",
-   "to": "0x0000000000000000000000000000000000000000",
-   "tx": "0x9acb8f6093a580a0611b9fc23249b34b889db853a0cbcfbee56f8f1360be83c5"
   }
  ],
  "sales": {
@@ -847,6 +847,14 @@
      "shelo",
      2312,
      null
+    ],
+    [
+     "L",
+     1793533307,
+     null,
+     "revazial",
+     2346,
+     "t"
     ],
     [
      "L",
@@ -3529,34 +3537,6 @@
      "L",
      "yomihime",
      2309
-    ]
-   ],
-   "gifted": [],
-   "chance": [],
-   "bought": 0,
-   "spentUsd": 0,
-   "witness": []
-  },
-  {
-   "w": "0x9fac…3cbe",
-   "addr": "0x9facd62b81c21a4625ce07fba477e3278ea33cbe",
-   "order": 0,
-   "cards": [
-    [
-     "L",
-     1792649303,
-     null,
-     "revazial",
-     2346,
-     "t"
-    ]
-   ],
-   "marks": [],
-   "gone": [
-    [
-     "L",
-     "shelo",
-     1663
     ]
    ],
    "gifted": [],
@@ -7400,8 +7380,8 @@
   }
  },
  "floors": {
-  "at": 1793533061,
-  "listed": 188,
+  "at": 1793533661,
+  "listed": 187,
   "offers": {
    "shelo": {
     "id": 4258,
@@ -7486,6 +7466,6 @@
    "M": 0.239,
    "U": null
   },
-  "usd": 2265.3
+  "usd": 2266.11
  }
 }
