@@ -1,8 +1,8 @@
 {
- "updated": 1793536662,
+ "updated": 1793537261,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26319965,
+ "block": 26320015,
  "events": {
   "firstCard": 180,
   "firstUnique": 1793190815,
@@ -136,7 +136,7 @@
     "M": "https://hov.fra1.digitaloceanspaces.com/prod/mythic/hov_orven.png",
     "U": "https://hov.fra1.digitaloceanspaces.com/prod/unique/hov_orven.png"
    },
-   "holders": 31,
+   "holders": 32,
    "thumbs": {
     "L": "https://loonysk.github.io/morwen-book/cards/9887edeaf75c5a6b.webp",
     "M": "https://loonysk.github.io/morwen-book/cards/32b22372e8f9af45.webp",
@@ -145,6 +145,16 @@
   }
  },
  "recent": [
+  {
+   "ts": 1793536943,
+   "id": 2413,
+   "tier": "L",
+   "hero": "orven",
+   "kind": "hand",
+   "from": "0xca53a9af458591b6cd942d70cdd97326c46ef273",
+   "to": "0x9facd62b81c21a4625ce07fba477e3278ea33cbe",
+   "tx": "0xaea9c8b79aafeab1f4dbc5af2e3e95ad636526b486d404c6786df897c75dba62"
+  },
   {
    "ts": 1793536499,
    "id": 4874,
@@ -234,16 +244,6 @@
    "from": "0x0000000000000000000000000000000000000000",
    "to": "0x38bb3769de962d95931a9055a071f5cc060ab833",
    "tx": "0xcf6297ad90248b9a56d072c2cd3017ad5248eca4833715d68863ff325c1ce9e5"
-  },
-  {
-   "ts": 1793419403,
-   "id": 10474,
-   "tier": "M",
-   "hero": "orven",
-   "kind": "burn",
-   "from": "0xa456e2322ce1a59ee273e8ffafdb26e87c87c996",
-   "to": "0x0000000000000000000000000000000000000000",
-   "tx": "0xde8f1bae087591954e64b7b7f6771c8de6c1fbb43784f3c8f4a17c5a12cc6c95"
   }
  ],
  "sales": {
@@ -866,14 +866,6 @@
     ],
     [
      "L",
-     1791405887,
-     null,
-     "orven",
-     2413,
-     null
-    ],
-    [
-     "L",
      1791406583,
      null,
      "matazuu",
@@ -1025,6 +1017,11 @@
      "L",
      "orven",
      4874
+    ],
+    [
+     "L",
+     "orven",
+     2413
     ]
    ],
    "gifted": [],
@@ -3533,6 +3530,39 @@
      "L",
      "yomihime",
      2309
+    ]
+   ],
+   "gifted": [],
+   "chance": [],
+   "bought": 0,
+   "spentUsd": 0,
+   "witness": []
+  },
+  {
+   "w": "0x9fac…3cbe",
+   "addr": "0x9facd62b81c21a4625ce07fba477e3278ea33cbe",
+   "order": 0,
+   "cards": [
+    [
+     "L",
+     1793536943,
+     null,
+     "orven",
+     2413,
+     "t"
+    ]
+   ],
+   "marks": [],
+   "gone": [
+    [
+     "L",
+     "shelo",
+     1663
+    ],
+    [
+     "L",
+     "revazial",
+     2346
     ]
    ],
    "gifted": [],
@@ -7405,7 +7435,7 @@
   }
  },
  "floors": {
-  "at": 1793536662,
+  "at": 1793537261,
   "listed": 191,
   "offers": {
    "shelo": {
@@ -7491,6 +7521,6 @@
    "M": 0.239,
    "U": null
   },
-  "usd": 2259.27
+  "usd": 2258.66
  }
 }
