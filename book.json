@@ -1,8 +1,8 @@
 {
- "updated": 1793552863,
+ "updated": 1793553460,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26321310,
+ "block": 26321360,
  "events": {
   "firstCard": 180,
   "firstUnique": 1793190815,
@@ -49,9 +49,9 @@
    }
   },
   "revazial": {
-   "cards": 52,
+   "cards": 50,
    "tiers": {
-    "L": 48,
+    "L": 46,
     "M": 3,
     "U": 1
    },
@@ -68,9 +68,9 @@
    }
   },
   "yomihime": {
-   "cards": 58,
+   "cards": 57,
    "tiers": {
-    "L": 50,
+    "L": 49,
     "M": 7,
     "U": 1
    },
@@ -146,6 +146,36 @@
  },
  "recent": [
   {
+   "ts": 1793553047,
+   "id": 3974,
+   "tier": "L",
+   "hero": "yomihime",
+   "kind": "burn",
+   "from": "0xca53a9af458591b6cd942d70cdd97326c46ef273",
+   "to": "0x0000000000000000000000000000000000000000",
+   "tx": "0x81db45da6f2c49ec178d8c4c7a9d3f94079f9a36a5b46bb9fee4bfbacfb012f5"
+  },
+  {
+   "ts": 1793553047,
+   "id": 2384,
+   "tier": "L",
+   "hero": "revazial",
+   "kind": "burn",
+   "from": "0xca53a9af458591b6cd942d70cdd97326c46ef273",
+   "to": "0x0000000000000000000000000000000000000000",
+   "tx": "0x81db45da6f2c49ec178d8c4c7a9d3f94079f9a36a5b46bb9fee4bfbacfb012f5"
+  },
+  {
+   "ts": 1793553047,
+   "id": 2294,
+   "tier": "L",
+   "hero": "revazial",
+   "kind": "burn",
+   "from": "0xca53a9af458591b6cd942d70cdd97326c46ef273",
+   "to": "0x0000000000000000000000000000000000000000",
+   "tx": "0x81db45da6f2c49ec178d8c4c7a9d3f94079f9a36a5b46bb9fee4bfbacfb012f5"
+  },
+  {
    "ts": 1793552759,
    "id": 10521,
    "tier": "M",
@@ -214,36 +244,6 @@
    "from": "0xca53a9af458591b6cd942d70cdd97326c46ef273",
    "to": "0x50e43a4d3cbf8f05ce07f3ebc80c7c840b351422",
    "tx": "0x117e9964f0ba02378d6699e335fd25dbc3c84aca02aff4d95a12908f185f1c9e"
-  },
-  {
-   "ts": 1793544095,
-   "id": 3751,
-   "tier": "L",
-   "hero": "matazuu",
-   "kind": "hand",
-   "from": "0xca53a9af458591b6cd942d70cdd97326c46ef273",
-   "to": "0x50e43a4d3cbf8f05ce07f3ebc80c7c840b351422",
-   "tx": "0x7a180d24dfff22877cc744506e3eb6de381f3140997538488f539d802107ab3a"
-  },
-  {
-   "ts": 1793544035,
-   "id": 2781,
-   "tier": "L",
-   "hero": "yomihime",
-   "kind": "hand",
-   "from": "0xca53a9af458591b6cd942d70cdd97326c46ef273",
-   "to": "0x50e43a4d3cbf8f05ce07f3ebc80c7c840b351422",
-   "tx": "0xa7a027cc3bf40cdf49d93cc46f51475d8feff2fa5e7157ad448424a7cbedc5ec"
-  },
-  {
-   "ts": 1793543987,
-   "id": 3481,
-   "tier": "L",
-   "hero": "morwen",
-   "kind": "hand",
-   "from": "0xca53a9af458591b6cd942d70cdd97326c46ef273",
-   "to": "0x50e43a4d3cbf8f05ce07f3ebc80c7c840b351422",
-   "tx": "0x2fed8bd0441e5a949b52db4ec541b9fe8209995cab624c8bc83ca6e37de70d26"
   }
  ],
  "sales": {
@@ -874,22 +874,6 @@
     ],
     [
      "L",
-     1791404975,
-     null,
-     "revazial",
-     2294,
-     null
-    ],
-    [
-     "L",
-     1791405695,
-     null,
-     "revazial",
-     2384,
-     null
-    ],
-    [
-     "L",
      1791406583,
      null,
      "matazuu",
@@ -918,14 +902,6 @@
      null,
      "marion",
      3478,
-     null
-    ],
-    [
-     "L",
-     1791462959,
-     null,
-     "yomihime",
-     3974,
      null
     ],
     [
@@ -961,6 +937,18 @@
     {
      "k": "betrayer",
      "ally": "shelo"
+    },
+    {
+     "k": "betrayer",
+     "ally": "revazial"
+    },
+    {
+     "k": "betrayer",
+     "ally": "revazial"
+    },
+    {
+     "k": "betrayer",
+     "ally": "yomihime"
     }
    ],
    "lost": [
@@ -975,6 +963,24 @@
      "L",
      "shelo",
      2312
+    ],
+    [
+     "betrayer",
+     "L",
+     "revazial",
+     2294
+    ],
+    [
+     "betrayer",
+     "L",
+     "revazial",
+     2384
+    ],
+    [
+     "betrayer",
+     "L",
+     "yomihime",
+     3974
     ]
    ],
    "gone": [
@@ -7495,8 +7501,8 @@
   }
  },
  "floors": {
-  "at": 1793552863,
-  "listed": 181,
+  "at": 1793553461,
+  "listed": 180,
   "offers": {
    "shelo": {
     "id": 4258,
@@ -7581,6 +7587,6 @@
    "M": 0.21,
    "U": null
   },
-  "usd": 2266.07
+  "usd": 2265.29
  }
 }
