@@ -1,8 +1,8 @@
 {
- "updated": 1793581292,
+ "updated": 1793581661,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26323669,
+ "block": 26323700,
  "events": {
   "firstCard": 180,
   "firstUnique": 1793190815,
@@ -106,9 +106,9 @@
    }
   },
   "morwen": {
-   "cards": 55,
+   "cards": 54,
    "tiers": {
-    "L": 45,
+    "L": 44,
     "M": 9,
     "U": 1
    },
@@ -117,7 +117,7 @@
     "M": "https://hov.fra1.digitaloceanspaces.com/prod/mythic/hov_morwen_greymoor.png",
     "U": "https://hov.fra1.digitaloceanspaces.com/prod/unique/hov_morwen_greymoor.png"
    },
-   "holders": 41,
+   "holders": 40,
    "thumbs": {
     "L": "https://loonysk.github.io/morwen-book/cards/1ed0a45f92f6d78e.webp",
     "M": "https://loonysk.github.io/morwen-book/cards/286a09f384f6685b.webp",
@@ -145,6 +145,16 @@
   }
  },
  "recent": [
+  {
+   "ts": 1793581487,
+   "id": 262,
+   "tier": "L",
+   "hero": "morwen",
+   "kind": "burn",
+   "from": "0x389e1a92b97aecc4c8c26c2647913756055ae685",
+   "to": "0x0000000000000000000000000000000000000000",
+   "tx": "0xb7ca6f4fc436ebcb2a8265a71d64bf286492998bfacda09a3c98884e50f7b019"
+  },
   {
    "ts": 1793555963,
    "id": 3528,
@@ -234,16 +244,6 @@
    "from": "0xca53a9af458591b6cd942d70cdd97326c46ef273",
    "to": "0xaab98f0871b991ed3231cea344a2ef5564479eb3",
    "tx": "0xa4066c545ec953b5316bc6fdbbc469ee312df45fdb67a2ce15cb66fa9d092bac"
-  },
-  {
-   "ts": 1793547227,
-   "id": 3983,
-   "tier": "L",
-   "hero": "marion",
-   "kind": "hand",
-   "from": "0xca53a9af458591b6cd942d70cdd97326c46ef273",
-   "to": "0xaab98f0871b991ed3231cea344a2ef5564479eb3",
-   "tx": "0x7667f3aaf17602a393025d1756d664a897021a4e100e46a34fedba5e7efab3d6"
   }
  ],
  "sales": {
@@ -1195,17 +1195,19 @@
      "yomihime",
      201,
      null
-    ],
-    [
-     "L",
-     1791393395,
-     null,
-     null,
-     262,
-     null
     ]
    ],
-   "marks": [],
+   "marks": [
+    "betrayer"
+   ],
+   "lost": [
+    [
+     "betrayer",
+     "L",
+     "morwen",
+     262
+    ]
+   ],
    "gifted": [],
    "chance": [],
    "bought": 0,
@@ -7512,7 +7514,7 @@
   }
  },
  "floors": {
-  "at": 1793581292,
+  "at": 1793581661,
   "listed": 175,
   "offers": {
    "shelo": {
@@ -7598,6 +7600,6 @@
    "M": 0.21,
    "U": null
   },
-  "usd": 2270.11
+  "usd": 2277.01
  }
 }
