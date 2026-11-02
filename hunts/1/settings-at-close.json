@@ -1,0 +1,225 @@
+{
+ "hunt": {
+  "draft": false,
+  "state": "live",
+  "tba": false,
+  "n": 1,
+  "title_ru": "Первая кровь.",
+  "title_en": "First Blood.",
+  "title_ja": "ファーストブラッド。",
+  "desc_ru": "Карты Morwen и Хранителей приносят души, души — билеты.\nТоп-3: две Legendary и $120. Ещё 6 × $10 — случайным.",
+  "desc_en": "Morwen and Keepers cards bring souls; souls become tickets.\nTop 3: two Legendary and $120. Plus 6 × $10 to random hunters.",
+  "desc_ja": "Morwenと書の番人のカードが魂をもたらし、魂はチケットになる。\nトップ3：レジェンダリー2枚と$120。さらにランダムで6名に$10。",
+  "banner": "/assets/hunts/closeup.webp",
+  "starts": "2026-10-19T10:00:00+03:00",
+  "ends": "2026-11-02T18:00:00+03:00",
+  "mode": "mixed",
+  "top": 3,
+  "pool": "Legendary x2 + $180",
+  "prizes": [
+   {
+    "kind": "mixed",
+    "amount": "$90",
+    "name_ru": "",
+    "name_en": "",
+    "name_ja": "",
+    "sent": false,
+    "tx": "",
+    "card": "https://opensea.io/item/ethereum/0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c/4051",
+    "image": ""
+   },
+   {
+    "kind": "card",
+    "name_ru": "",
+    "name_en": "",
+    "name_ja": "",
+    "sent": false,
+    "tx": "",
+    "card": "https://opensea.io/item/ethereum/0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c/2454",
+    "image": ""
+   },
+   {
+    "kind": "money",
+    "amount": "$30",
+    "name_ru": "",
+    "name_en": "",
+    "name_ja": "",
+    "sent": false,
+    "tx": ""
+   },
+   {
+    "kind": "money",
+    "amount": "$10",
+    "name_ru": "",
+    "name_en": "",
+    "name_ja": "",
+    "sent": false,
+    "tx": ""
+   },
+   {
+    "kind": "money",
+    "amount": "$10",
+    "name_ru": "",
+    "name_en": "",
+    "name_ja": "",
+    "sent": false,
+    "tx": ""
+   },
+   {
+    "kind": "money",
+    "amount": "$10",
+    "name_ru": "",
+    "name_en": "",
+    "name_ja": "",
+    "sent": false,
+    "tx": ""
+   },
+   {
+    "kind": "money",
+    "amount": "$10",
+    "name_ru": "",
+    "name_en": "",
+    "name_ja": "",
+    "sent": false,
+    "tx": ""
+   },
+   {
+    "kind": "money",
+    "amount": "$10",
+    "name_ru": "",
+    "name_en": "",
+    "name_ja": "",
+    "sent": false,
+    "tx": ""
+   },
+   {
+    "kind": "money",
+    "amount": "$10",
+    "name_ru": "",
+    "name_en": "",
+    "name_ja": "",
+    "sent": false,
+    "tx": ""
+   }
+  ],
+  "winners": []
+ },
+ "allies": [
+  {
+   "key": "marion",
+   "name": "Marion Soulthread",
+   "meta_name": "Marion Soulthread",
+   "image": "/assets/allies/Marion.webp",
+   "active": true,
+   "wallets": [
+    "0x412cEBeCF4F4651029Fcf7941e5460f8094Cd98D"
+   ],
+   "since": "2026-08-19",
+   "faction": "horde-demons",
+   "x": "https://x.com/Greckaa20636D",
+   "opensea": "https://opensea.io/collection/heroesofvaldir?traits=[{%22traitType%22:%22Hero+Name%22,%22values%22:[%22Marion+Soulthread%22]}]",
+   "sample": false
+  },
+  {
+   "key": "revazial",
+   "name": "Revazial",
+   "meta_name": "Revazial",
+   "image": "",
+   "active": true,
+   "wallets": [
+    "0x94CB3f79C9837052f620718F452fa4Bc02c4A5a4"
+   ],
+   "since": "2026-10-08",
+   "faction": "horde-demons",
+   "x": "https://x.com/montblanc5815",
+   "opensea": "https://opensea.io/collection/heroesofvaldir?traits=[{%22traitType%22:%22Hero%20Name%22,%22values%22:[%22Revazial%22]}]",
+   "sample": false
+  },
+  {
+   "key": "orven",
+   "name": "Orven",
+   "meta_name": "Orven",
+   "image": "",
+   "active": true,
+   "wallets": [
+    "0xCA53A9af458591b6Cd942d70CDd97326C46EF273"
+   ],
+   "since": "2026-10-08",
+   "faction": "horde-undead",
+   "x": "https://x.com/Laurent1980406",
+   "opensea": "https://opensea.io/collection/heroesofvaldir?traits=[{%22traitType%22:%22Hero+Name%22,%22values%22:[%22Orven%22]}]",
+   "sample": false
+  },
+  {
+   "key": "yomihime",
+   "name": "Yomihime",
+   "meta_name": "Yomihime",
+   "image": "",
+   "active": true,
+   "wallets": [
+    "0x5613dC1D7afc77270E71Dd57578E0C4726fBB01E"
+   ],
+   "since": "2026-10-09",
+   "faction": "horde-demons",
+   "x": "https://x.com/renataro9",
+   "opensea": "https://opensea.io/collection/heroesofvaldir?traits=[{%22traitType%22:%22Hero+Name%22,%22values%22:[%22Yomihime%22]}]",
+   "sample": false
+  },
+  {
+   "key": "shelo",
+   "name": "Shelo",
+   "meta_name": "Shelo",
+   "image": "",
+   "active": true,
+   "wallets": [
+    "0x4047895c841a684455e5D9914D974F480235325f"
+   ],
+   "since": "2026-10-09",
+   "faction": "horde-undead",
+   "x": "https://x.com/Ushizaru_LAB",
+   "opensea": "https://opensea.io/collection/heroesofvaldir?traits=[{%22traitType%22:%22Hero%20Name%22,%22values%22:[%22Shelo%22]}]",
+   "sample": false
+  },
+  {
+   "key": "matazuu",
+   "name": "Matazuu",
+   "meta_name": "Matazuu",
+   "image": "",
+   "active": true,
+   "wallets": [
+    "0xf46b7ef06d2ce658c1c69046811d841e3ead102f"
+   ],
+   "since": "2026-10-10",
+   "faction": "horde-demons",
+   "x": "https://x.com/Turvold",
+   "opensea": "https://opensea.io/collection/heroesofvaldir?traits=[{%22traitType%22:%22Hero+Name%22,%22values%22:[%22Matazuu%22]}]",
+   "sample": false
+  }
+ ],
+ "collection": {
+  "contract": "0x5a2A792Ede6EB1f0EcCd5f6B7eE5A8aaae64e08c",
+  "deployBlock": 26140365,
+  "book_url": "https://loonysk.github.io/morwen-book/book.json",
+  "opensea": "https://opensea.io/collection/heroesofvaldir",
+  "os_morwen_all": "https://opensea.io/collection/heroesofvaldir?traits=%5B%7B%22traitType%22%3A%22Hero%20Name%22%2C%22values%22%3A%5B%22Morwen%20Greymoor%22%5D%7D%5D",
+  "os_morwen_legendary": "https://opensea.io/collection/heroesofvaldir?traits=%5B%7B%22traitType%22%3A%22Hero%20Name%22%2C%22values%22%3A%5B%22Morwen%20Greymoor%22%5D%7D%2C%7B%22traitType%22%3A%22Rarity%22%2C%22values%22%3A%5B%22Legendary%22%5D%7D%5D",
+  "os_morwen_mythic": "https://opensea.io/collection/heroesofvaldir?traits=%5B%7B%22traitType%22%3A%22Hero%20Name%22%2C%22values%22%3A%5B%22Morwen%20Greymoor%22%5D%7D%2C%7B%22traitType%22%3A%22Rarity%22%2C%22values%22%3A%5B%22Mythical%22%5D%7D%5D",
+  "os_morwen_unique": "https://opensea.io/collection/heroesofvaldir?traits=%5B%7B%22traitType%22%3A%22Hero%20Name%22%2C%22values%22%3A%5B%22Morwen%20Greymoor%22%5D%7D%2C%7B%22traitType%22%3A%22Rarity%22%2C%22values%22%3A%5B%22Unique%22%5D%7D%5D",
+  "os_all_legendary": "https://opensea.io/collection/heroesofvaldir?traits=%5B%7B%22traitType%22%3A%22Rarity%22%2C%22values%22%3A%5B%22Legendary%22%5D%7D%5D",
+  "os_all_mythic": "https://opensea.io/collection/heroesofvaldir?traits=%5B%7B%22traitType%22%3A%22Rarity%22%2C%22values%22%3A%5B%22Mythical%22%5D%7D%5D",
+  "morwenName": "Morwen Greymoor",
+  "heroTrait": "Hero Name",
+  "rarityTrait": "Rarity",
+  "morwenWallet": "0x858a23f7dCeb98829d53034675C55E8cdd5db6A5",
+  "testWallets": [
+   "0xb81e10ee0055de228c42afce86b7e97014b7bb77",
+   "0xFbf38328De9fE7A14a17acDF57fF9d204F48F240"
+  ],
+  "xDm": "https://x.com/messages/compose?recipient_id=2054225871771209728",
+  "metadataBase": "",
+  "rules": []
+ },
+ "code": "92b685d00786bec18a7c8fafe6ae5edf1066e8ca",
+ "block": 26327851,
+ "made": "2026-11-02T16:03:10.302Z"
+}
