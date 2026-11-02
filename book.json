@@ -1,8 +1,8 @@
 {
- "updated": 1793639887,
+ "updated": 1793640490,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26328536,
+ "block": 26328585,
  "events": {
   "firstCard": 180,
   "firstUnique": 1793190815,
@@ -41,7 +41,7 @@
     "M": "https://hov.fra1.digitaloceanspaces.com/prod/mythic/hov_matazuu.png",
     "U": "https://hov.fra1.digitaloceanspaces.com/prod/unique/hov_matazuu.png"
    },
-   "holders": 44,
+   "holders": 45,
    "thumbs": {
     "L": "https://loonysk.github.io/morwen-book/cards/a56f14d57fe9da96.webp",
     "M": "https://loonysk.github.io/morwen-book/cards/b467fe8dc2755ffc.webp",
@@ -68,10 +68,10 @@
    }
   },
   "yomihime": {
-   "cards": 57,
+   "cards": 58,
    "tiers": {
     "L": 49,
-    "M": 7,
+    "M": 8,
     "U": 1
    },
    "images": {
@@ -79,7 +79,7 @@
     "M": "https://hov.fra1.digitaloceanspaces.com/prod/mythic/hov_yomihime.png",
     "U": "https://hov.fra1.digitaloceanspaces.com/prod/unique/hov_yomihime.png"
    },
-   "holders": 42,
+   "holders": 43,
    "thumbs": {
     "L": "https://loonysk.github.io/morwen-book/cards/dfa351374fb18253.webp",
     "M": "https://loonysk.github.io/morwen-book/cards/ee3066876d78a62d.webp",
@@ -145,6 +145,28 @@
   }
  },
  "recent": [
+  {
+   "ts": 1793640059,
+   "id": 10531,
+   "tier": "M",
+   "hero": "yomihime",
+   "kind": "forge",
+   "from": "0x0000000000000000000000000000000000000000",
+   "to": "0x981a4f0cfa1b0f2a4a5738371b61f9f0b9037469",
+   "tx": "0xc0870f47628311b43b60931afe1d1c8b09674737e22e71b6fbedfe9b3a37af03"
+  },
+  {
+   "ts": 1793639903,
+   "id": 4425,
+   "tier": "L",
+   "hero": "matazuu",
+   "kind": "buy",
+   "from": "0x981a4f0cfa1b0f2a4a5738371b61f9f0b9037469",
+   "to": "0x7932cb7ecd74b556d36ab8fabc12d44a3c1365d6",
+   "tx": "0x8a49530fa1b4efb3ba717194ef0924a9f30573327e99086474b3ceac1ec71d3d",
+   "eth": 0.04,
+   "usd": 92
+  },
   {
    "ts": 1793632175,
    "id": 2173,
@@ -226,26 +248,6 @@
    "from": "0xca53a9af458591b6cd942d70cdd97326c46ef273",
    "to": "0x0000000000000000000000000000000000000000",
    "tx": "0x81db45da6f2c49ec178d8c4c7a9d3f94079f9a36a5b46bb9fee4bfbacfb012f5"
-  },
-  {
-   "ts": 1793552759,
-   "id": 10521,
-   "tier": "M",
-   "hero": "orven",
-   "kind": "forge",
-   "from": "0x0000000000000000000000000000000000000000",
-   "to": "0xca53a9af458591b6cd942d70cdd97326c46ef273",
-   "tx": "0x86365cba0952e781c6db454afbbe3eb7d1a22fc617a31339b75d6c69d53befeb"
-  },
-  {
-   "ts": 1793552759,
-   "id": 2312,
-   "tier": "L",
-   "hero": "shelo",
-   "kind": "burn",
-   "from": "0xca53a9af458591b6cd942d70cdd97326c46ef273",
-   "to": "0x0000000000000000000000000000000000000000",
-   "tx": "0x86365cba0952e781c6db454afbbe3eb7d1a22fc617a31339b75d6c69d53befeb"
   }
  ],
  "sales": {
@@ -4511,6 +4513,14 @@
     ],
     [
      "L",
+     1793639903,
+     null,
+     "matazuu",
+     4425,
+     null
+    ],
+    [
+     "L",
      1792176359,
      null,
      "yomihime",
@@ -4556,8 +4566,8 @@
     "M",
     "M"
    ],
-   "bought": 7,
-   "spentUsd": 538,
+   "bought": 8,
+   "spentUsd": 629,
    "witness": [
     "firstUnique",
     "firstMythic"
@@ -5002,22 +5012,29 @@
    "cards": [
     [
      "L",
-     1791524903,
-     null,
-     "matazuu",
-     4425,
-     null
-    ],
-    [
-     "L",
      1791524939,
      null,
      "matazuu",
      4426,
      null
+    ],
+    [
+     "M",
+     1793640059,
+     null,
+     "yomihime",
+     10531,
+     null
     ]
    ],
    "marks": [],
+   "gone": [
+    [
+     "L",
+     "matazuu",
+     4425
+    ]
+   ],
    "gifted": [],
    "chance": [],
    "bought": 0,
@@ -7634,7 +7651,7 @@
   }
  },
  "floors": {
-  "at": 1793639888,
+  "at": 1793640491,
   "listed": 186,
   "offers": {
    "shelo": {
@@ -7720,6 +7737,6 @@
    "M": 0.21,
    "U": null
   },
-  "usd": 2264.74
+  "usd": 2252.54
  }
 }
