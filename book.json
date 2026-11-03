@@ -1,8 +1,8 @@
 {
- "updated": 1793708841,
+ "updated": 1793709441,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26334267,
+ "block": 26334317,
  "events": {
   "firstCard": 180,
   "firstUnique": 1793190815,
@@ -146,6 +146,18 @@
  },
  "recent": [
   {
+   "ts": 1793709131,
+   "id": 10478,
+   "tier": "M",
+   "hero": "yomihime",
+   "kind": "buy",
+   "from": "0x38bb3769de962d95931a9055a071f5cc060ab833",
+   "to": "0xc146ce37af7dddfb4047610d01081d8a7e38f619",
+   "tx": "0x71ff261dfa65629052bf62c4581f29add14cf0b613d97e7014e7f6d3c7332dc6",
+   "eth": 0.1,
+   "usd": 228
+  },
+  {
    "ts": 1793640059,
    "id": 10531,
    "tier": "M",
@@ -232,16 +244,6 @@
   {
    "ts": 1793553047,
    "id": 2384,
-   "tier": "L",
-   "hero": "revazial",
-   "kind": "burn",
-   "from": "0xca53a9af458591b6cd942d70cdd97326c46ef273",
-   "to": "0x0000000000000000000000000000000000000000",
-   "tx": "0x81db45da6f2c49ec178d8c4c7a9d3f94079f9a36a5b46bb9fee4bfbacfb012f5"
-  },
-  {
-   "ts": 1793553047,
-   "id": 2294,
    "tier": "L",
    "hero": "revazial",
    "kind": "burn",
@@ -1788,6 +1790,14 @@
      null,
      4975,
      null
+    ],
+    [
+     "M",
+     1793709131,
+     null,
+     "yomihime",
+     10478,
+     null
     ]
    ],
    "marks": [],
@@ -1800,8 +1810,8 @@
    ],
    "gifted": [],
    "chance": [],
-   "bought": 2,
-   "spentUsd": 178,
+   "bought": 3,
+   "spentUsd": 405,
    "witness": [
     "firstUnique",
     "firstMythic"
@@ -6036,35 +6046,6 @@
    "hunts": 1
   },
   {
-   "w": "0x38bb…b833",
-   "addr": "0x38bb3769de962d95931a9055a071f5cc060ab833",
-   "order": 0,
-   "cards": [
-    [
-     "M",
-     1793430035,
-     null,
-     "yomihime",
-     10478,
-     null
-    ]
-   ],
-   "marks": [],
-   "gone": [
-    [
-     "L",
-     "orven",
-     4874
-    ]
-   ],
-   "gifted": [],
-   "chance": [],
-   "bought": 0,
-   "spentUsd": 0,
-   "witness": [],
-   "hunts": 1
-  },
-  {
    "w": "0x65cd…501f",
    "addr": "0x65cd7306aaccedfb658d19f83694b2bde08b501f",
    "order": 1,
@@ -7318,6 +7299,39 @@
    "witness": []
   },
   {
+   "w": "0x38bb…b833",
+   "addr": "0x38bb3769de962d95931a9055a071f5cc060ab833",
+   "order": 0,
+   "cards": [],
+   "marks": [
+    {
+     "k": "flipper",
+     "ally": "yomihime"
+    }
+   ],
+   "lost": [
+    [
+     "flipper",
+     "M",
+     "yomihime",
+     10478
+    ]
+   ],
+   "gone": [
+    [
+     "L",
+     "orven",
+     4874
+    ]
+   ],
+   "gifted": [],
+   "chance": [],
+   "bought": 0,
+   "spentUsd": 0,
+   "witness": [],
+   "hunts": 1
+  },
+  {
    "w": "0xa591…a4d2",
    "addr": "0xa5912117541c8cd0e537e05e81c602c469d2a4d2",
    "order": 0,
@@ -7651,8 +7665,8 @@
   }
  },
  "floors": {
-  "at": 1793708843,
-  "listed": 189,
+  "at": 1793709443,
+  "listed": 188,
   "offers": {
    "shelo": {
     "id": 4258,
@@ -7724,7 +7738,7 @@
   },
   "yomihime": {
    "L": 0.067,
-   "M": 0.144,
+   "M": null,
    "U": null
   },
   "morwen": {
@@ -7737,6 +7751,6 @@
    "M": 0.2,
    "U": null
   },
-  "usd": 2277.88
+  "usd": 2277.84
  }
 }
