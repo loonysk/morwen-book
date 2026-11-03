@@ -1,8 +1,8 @@
 {
- "updated": 1793737070,
+ "updated": 1793737642,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26336611,
+ "block": 26336658,
  "events": {
   "firstCard": 180,
   "firstUnique": 1793190815,
@@ -136,7 +136,7 @@
     "M": "https://hov.fra1.digitaloceanspaces.com/prod/mythic/hov_orven.png",
     "U": "https://hov.fra1.digitaloceanspaces.com/prod/unique/hov_orven.png"
    },
-   "holders": 31,
+   "holders": 32,
    "thumbs": {
     "L": "https://loonysk.github.io/morwen-book/cards/9887edeaf75c5a6b.webp",
     "M": "https://loonysk.github.io/morwen-book/cards/32b22372e8f9af45.webp",
@@ -145,6 +145,26 @@
   }
  },
  "recent": [
+  {
+   "ts": 1793737595,
+   "id": 3751,
+   "tier": "L",
+   "hero": "matazuu",
+   "kind": "hand",
+   "from": "0x50e43a4d3cbf8f05ce07f3ebc80c7c840b351422",
+   "to": "0x3861f41e66b0b6fd2d647e1a424599cd181a77c9",
+   "tx": "0x53a79666be6fe4f39879422297d515ec2a41b1157f086bd639255b5c0abd7924"
+  },
+  {
+   "ts": 1793737451,
+   "id": 864,
+   "tier": "L",
+   "hero": "orven",
+   "kind": "hand",
+   "from": "0x3861f41e66b0b6fd2d647e1a424599cd181a77c9",
+   "to": "0x50e43a4d3cbf8f05ce07f3ebc80c7c840b351422",
+   "tx": "0x5d715929d9f407e8381145dd262d0862ff056d3bc2ee3965735ad179e45d133e"
+  },
   {
    "ts": 1793709131,
    "id": 10478,
@@ -230,26 +250,6 @@
    "from": "0x2ee56cdc305bef2d15d39254e94ef4468c23e5a3",
    "to": "0x0000000000000000000000000000000000000000",
    "tx": "0x06e11864ba69272b01143295ef417b529cc57eafce685334a6cc63cf72c92419"
-  },
-  {
-   "ts": 1793553047,
-   "id": 3974,
-   "tier": "L",
-   "hero": "yomihime",
-   "kind": "burn",
-   "from": "0xca53a9af458591b6cd942d70cdd97326c46ef273",
-   "to": "0x0000000000000000000000000000000000000000",
-   "tx": "0x81db45da6f2c49ec178d8c4c7a9d3f94079f9a36a5b46bb9fee4bfbacfb012f5"
-  },
-  {
-   "ts": 1793553047,
-   "id": 2384,
-   "tier": "L",
-   "hero": "revazial",
-   "kind": "burn",
-   "from": "0xca53a9af458591b6cd942d70cdd97326c46ef273",
-   "to": "0x0000000000000000000000000000000000000000",
-   "tx": "0x81db45da6f2c49ec178d8c4c7a9d3f94079f9a36a5b46bb9fee4bfbacfb012f5"
   }
  ],
  "sales": {
@@ -1544,14 +1544,6 @@
     ],
     [
      "L",
-     1793625503,
-     null,
-     "orven",
-     864,
-     null
-    ],
-    [
-     "L",
      1792155443,
      null,
      "yomihime",
@@ -1597,6 +1589,14 @@
      "orven",
      3084,
      null
+    ],
+    [
+     "L",
+     1793737595,
+     null,
+     "matazuu",
+     3751,
+     "t"
     ],
     [
      "L",
@@ -1650,6 +1650,11 @@
      "L",
      "matazuu",
      2173
+    ],
+    [
+     "L",
+     "orven",
+     864
     ]
    ],
    "gifted": [
@@ -2137,6 +2142,14 @@
     ],
     [
      "L",
+     1793737451,
+     null,
+     "orven",
+     864,
+     "t"
+    ],
+    [
+     "L",
      1793544155,
      null,
      "revazial",
@@ -2165,14 +2178,6 @@
      null,
      "shelo",
      3487,
-     "t"
-    ],
-    [
-     "L",
-     1793544095,
-     null,
-     "matazuu",
-     3751,
      "t"
     ],
     [
@@ -2278,6 +2283,11 @@
      "L",
      "revazial",
      2544
+    ],
+    [
+     "L",
+     "matazuu",
+     3751
     ]
    ],
    "gifted": [],
@@ -7665,8 +7675,8 @@
   }
  },
  "floors": {
-  "at": 1793737072,
-  "listed": 186,
+  "at": 1793737645,
+  "listed": 185,
   "offers": {
    "shelo": {
     "id": 4258,
@@ -7741,6 +7751,6 @@
    "M": 0.3,
    "U": null
   },
-  "usd": 2279.23
+  "usd": 2283.31
  }
 }
