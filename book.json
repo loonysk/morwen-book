@@ -1,8 +1,8 @@
 {
- "updated": 1793683040,
+ "updated": 1793683642,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26332122,
+ "block": 26332172,
  "events": {
   "firstCard": 180,
   "firstUnique": 1793190815,
@@ -7651,7 +7651,7 @@
   }
  },
  "floors": {
-  "at": 1793683041,
+  "at": 1793683643,
   "listed": 186,
   "offers": {
    "shelo": {
@@ -7686,7 +7686,7 @@
    },
    "orven": {
     "id": 10187,
-    "eth": 0.186,
+    "eth": 0.1773,
     "tier": "M"
    }
   },
@@ -7734,9 +7734,9 @@
   },
   "orven": {
    "L": null,
-   "M": 0.186,
+   "M": 0.1773,
    "U": null
   },
-  "usd": 2249.83
+  "usd": 2249.86
  }
 }
