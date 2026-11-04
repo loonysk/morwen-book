@@ -1,8 +1,8 @@
 {
- "updated": 1793777238,
+ "updated": 1793777841,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26339947,
+ "block": 26339997,
  "events": {
   "firstCard": 180,
   "firstUnique": 1793190815,
@@ -41,7 +41,7 @@
     "M": "https://hov.fra1.digitaloceanspaces.com/prod/mythic/hov_matazuu.png",
     "U": "https://hov.fra1.digitaloceanspaces.com/prod/unique/hov_matazuu.png"
    },
-   "holders": 45,
+   "holders": 46,
    "thumbs": {
     "L": "https://loonysk.github.io/morwen-book/cards/a56f14d57fe9da96.webp",
     "M": "https://loonysk.github.io/morwen-book/cards/b467fe8dc2755ffc.webp",
@@ -146,6 +146,16 @@
  },
  "recent": [
   {
+   "ts": 1793777483,
+   "id": 1145,
+   "tier": "L",
+   "hero": "matazuu",
+   "kind": "hand",
+   "from": "0xd755bd25f0a68ed42aebc2845205e430e2bc8100",
+   "to": "0x50e43a4d3cbf8f05ce07f3ebc80c7c840b351422",
+   "tx": "0x779344e4a0981e27c01c3aca880fcd227b2f7c52679c3b6ff07fad94d9e19612"
+  },
+  {
    "ts": 1793737595,
    "id": 3751,
    "tier": "L",
@@ -240,16 +250,6 @@
    "from": "0xaab98f0871b991ed3231cea344a2ef5564479eb3",
    "to": "0x9f6e3b66911fb65ee048b7a352c559f9aaab8c61",
    "tx": "0x8534642b85fd7a4c5fb585ab0e49d3998677c7b033eb38fc943b441a98fcbbaf"
-  },
-  {
-   "ts": 1793555195,
-   "id": 2902,
-   "tier": "L",
-   "hero": "matazuu",
-   "kind": "burn",
-   "from": "0x2ee56cdc305bef2d15d39254e94ef4468c23e5a3",
-   "to": "0x0000000000000000000000000000000000000000",
-   "tx": "0x06e11864ba69272b01143295ef417b529cc57eafce685334a6cc63cf72c92419"
   }
  ],
  "sales": {
@@ -2150,6 +2150,14 @@
     ],
     [
      "L",
+     1793777483,
+     null,
+     "matazuu",
+     1145,
+     "t"
+    ],
+    [
+     "L",
      1793544155,
      null,
      "revazial",
@@ -2844,36 +2852,6 @@
      1248
     ]
    ],
-   "gifted": [],
-   "chance": [],
-   "bought": 0,
-   "spentUsd": 0,
-   "witness": [],
-   "hunts": 1
-  },
-  {
-   "w": "0xd755…8100",
-   "addr": "0xd755bd25f0a68ed42aebc2845205e430e2bc8100",
-   "order": 0,
-   "cards": [
-    [
-     "L",
-     1791873479,
-     null,
-     "matazuu",
-     1145,
-     "t"
-    ],
-    [
-     "L",
-     1792137899,
-     null,
-     "matazuu",
-     4008,
-     "t"
-    ]
-   ],
-   "marks": [],
    "gifted": [],
    "chance": [],
    "bought": 0,
@@ -4694,6 +4672,35 @@
    "bought": 0,
    "spentUsd": 0,
    "witness": []
+  },
+  {
+   "w": "0xd755…8100",
+   "addr": "0xd755bd25f0a68ed42aebc2845205e430e2bc8100",
+   "order": 0,
+   "cards": [
+    [
+     "L",
+     1792137899,
+     null,
+     "matazuu",
+     4008,
+     "t"
+    ]
+   ],
+   "marks": [],
+   "gone": [
+    [
+     "L",
+     "matazuu",
+     1145
+    ]
+   ],
+   "gifted": [],
+   "chance": [],
+   "bought": 0,
+   "spentUsd": 0,
+   "witness": [],
+   "hunts": 1
   },
   {
    "w": "0xcc34…a66b",
@@ -7675,8 +7682,8 @@
   }
  },
  "floors": {
-  "at": 1793777239,
-  "listed": 183,
+  "at": 1793777841,
+  "listed": 182,
   "offers": {
    "revazial": {
     "id": 4957,
@@ -7761,6 +7768,6 @@
    "M": null,
    "U": 5
   },
-  "usd": 2302.89
+  "usd": 2300.07
  }
 }
