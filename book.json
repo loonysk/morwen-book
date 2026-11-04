@@ -1,8 +1,8 @@
 {
- "updated": 1793767041,
+ "updated": 1793767639,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26339100,
+ "block": 26339150,
  "events": {
   "firstCard": 180,
   "firstUnique": 1793190815,
@@ -7675,8 +7675,8 @@
   }
  },
  "floors": {
-  "at": 1793767042,
-  "listed": 183,
+  "at": 1793767640,
+  "listed": 184,
   "offers": {
    "revazial": {
     "id": 4957,
@@ -7710,7 +7710,7 @@
    },
    "orven": {
     "id": 10187,
-    "eth": 0.2,
+    "eth": 0.17,
     "tier": "M"
    }
   },
@@ -7758,9 +7758,9 @@
   },
   "orven": {
    "L": null,
-   "M": 0.2,
+   "M": 0.17,
    "U": null
   },
-  "usd": 2252.49
+  "usd": 2265.62
  }
 }
