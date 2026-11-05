@@ -1,8 +1,8 @@
 {
- "updated": 1793872057,
+ "updated": 1793872657,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26347829,
+ "block": 26347878,
  "events": {
   "firstCard": 180,
   "firstUnique": 1793190815,
@@ -146,6 +146,18 @@
  },
  "recent": [
   {
+   "ts": 1793872139,
+   "id": 3525,
+   "tier": "L",
+   "hero": "matazuu",
+   "kind": "buy",
+   "from": "0x9f6e3b66911fb65ee048b7a352c559f9aaab8c61",
+   "to": "0x0df0f5a82ec01a5ea079691bc412acf7513e2e21",
+   "tx": "0xc60eaded0961555a248577e5ba0979c09c41b9d5196d8d25fd81a75b5077a3ab",
+   "eth": 0.053,
+   "usd": 128
+  },
+  {
    "ts": 1793785547,
    "id": 4008,
    "tier": "L",
@@ -240,16 +252,6 @@
    "tx": "0xe228ade83b79e4c71b99c5f4d4b58dd4c50bb73512fc69ce90a56b3d2a0c004a",
    "eth": 0.044,
    "usd": 101
-  },
-  {
-   "ts": 1793581487,
-   "id": 262,
-   "tier": "L",
-   "hero": "morwen",
-   "kind": "burn",
-   "from": "0x389e1a92b97aecc4c8c26c2647913756055ae685",
-   "to": "0x0000000000000000000000000000000000000000",
-   "tx": "0xb7ca6f4fc436ebcb2a8265a71d64bf286492998bfacda09a3c98884e50f7b019"
   }
  ],
  "sales": {
@@ -2492,14 +2494,6 @@
     ],
     [
      "L",
-     1791449651,
-     null,
-     "matazuu",
-     3525,
-     null
-    ],
-    [
-     "L",
      1793555963,
      null,
      "revazial",
@@ -2551,6 +2545,13 @@
      "L",
      "marion",
      3322
+    ]
+   ],
+   "gone": [
+    [
+     "L",
+     "matazuu",
+     3525
     ]
    ],
    "gifted": [],
@@ -3502,13 +3503,21 @@
      "marion",
      3457,
      null
+    ],
+    [
+     "L",
+     1793872139,
+     null,
+     "matazuu",
+     3525,
+     null
     ]
    ],
    "marks": [],
    "gifted": [],
    "chance": [],
-   "bought": 1,
-   "spentUsd": 45,
+   "bought": 2,
+   "spentUsd": 172,
    "witness": [],
    "hunts": 1
   },
@@ -7661,8 +7670,8 @@
   }
  },
  "floors": {
-  "at": 1793872057,
-  "listed": 177,
+  "at": 1793872658,
+  "listed": 175,
   "offers": {
    "revazial": {
     "id": 4957,
@@ -7672,11 +7681,6 @@
    "shelo": {
     "id": 4258,
     "eth": 0.049,
-    "tier": "L"
-   },
-   "matazuu": {
-    "id": 3525,
-    "eth": 0.053,
     "tier": "L"
    },
    "yomihime": {
@@ -7689,15 +7693,20 @@
     "eth": 0.1,
     "tier": "L"
    },
-   "orven": {
-    "id": 10187,
-    "eth": 0.14,
-    "tier": "M"
+   "matazuu": {
+    "id": 3168,
+    "eth": 0.109,
+    "tier": "L"
    },
    "morwen": {
     "id": 3222,
     "eth": 0.157,
     "tier": "L"
+   },
+   "orven": {
+    "id": 10187,
+    "eth": 0.1949,
+    "tier": "M"
    }
   },
   "named": {
@@ -7722,11 +7731,6 @@
    "M": null,
    "U": null
   },
-  "matazuu": {
-   "L": 0.053,
-   "M": 0.44,
-   "U": null
-  },
   "yomihime": {
    "L": 0.067,
    "M": null,
@@ -7737,9 +7741,9 @@
    "M": null,
    "U": 5
   },
-  "orven": {
-   "L": null,
-   "M": 0.14,
+  "matazuu": {
+   "L": 0.109,
+   "M": 0.44,
    "U": null
   },
   "morwen": {
@@ -7747,6 +7751,11 @@
    "M": 0.287,
    "U": null
   },
-  "usd": 2412.41
+  "orven": {
+   "L": null,
+   "M": 0.1949,
+   "U": null
+  },
+  "usd": 2416.96
  }
 }
