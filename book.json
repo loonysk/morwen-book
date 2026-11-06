@@ -1,8 +1,8 @@
 {
- "updated": 1793981856,
+ "updated": 1793982456,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26356949,
+ "block": 26356999,
  "events": {
   "firstCard": 180,
   "firstUnique": 1793190815,
@@ -7670,8 +7670,8 @@
   }
  },
  "floors": {
-  "at": 1793981856,
-  "listed": 207,
+  "at": 1793982456,
+  "listed": 203,
   "offers": {
    "revazial": {
     "id": 3528,
@@ -7709,18 +7709,6 @@
     "tier": "L"
    }
   },
-  "named": {
-   "kael vorn": {
-    "L": 0.034,
-    "M": 0.109,
-    "U": null
-   },
-   "morvane": {
-    "L": 0.049,
-    "M": null,
-    "U": null
-   }
-  },
   "revazial": {
    "L": 0.043,
    "M": null,
@@ -7730,6 +7718,18 @@
    "L": 0.049,
    "M": null,
    "U": null
+  },
+  "named": {
+   "morvane": {
+    "L": 0.049,
+    "M": null,
+    "U": null
+   },
+   "kael vorn": {
+    "L": null,
+    "M": 0.109,
+    "U": null
+   }
   },
   "matazuu": {
    "L": 0.051,
@@ -7756,6 +7756,6 @@
    "M": 0.287,
    "U": null
   },
-  "usd": 2216.28
+  "usd": 2225.71
  }
 }
