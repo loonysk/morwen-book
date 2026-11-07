@@ -1,8 +1,8 @@
 {
- "updated": 1794074288,
+ "updated": 1794074892,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26364618,
+ "block": 26364668,
  "events": {
   "firstCard": 180,
   "firstUnique": 1793190815,
@@ -49,9 +49,9 @@
    }
   },
   "revazial": {
-   "cards": 50,
+   "cards": 49,
    "tiers": {
-    "L": 46,
+    "L": 45,
     "M": 3,
     "U": 1
    },
@@ -60,7 +60,7 @@
     "M": "https://hov.fra1.digitaloceanspaces.com/prod/mythic/hov_revazial.png",
     "U": "https://hov.fra1.digitaloceanspaces.com/prod/unique/hov_revazial.png"
    },
-   "holders": 35,
+   "holders": 34,
    "thumbs": {
     "L": "https://loonysk.github.io/morwen-book/cards/92565182053f29b5.webp",
     "M": "https://loonysk.github.io/morwen-book/cards/aef39d1969af82a5.webp",
@@ -145,6 +145,16 @@
   }
  },
  "recent": [
+  {
+   "ts": 1794074843,
+   "id": 1418,
+   "tier": "L",
+   "hero": "revazial",
+   "kind": "burn",
+   "from": "0x674f6358312be2733fabf91c0cdaf101e8c67c15",
+   "to": "0x0000000000000000000000000000000000000000",
+   "tx": "0x8d0bff75e372c72e4e9abc5ec03967dd6550f21879e52d38ac2dd29e682650ed"
+  },
   {
    "ts": 1793872139,
    "id": 3525,
@@ -240,18 +250,6 @@
    "from": "0x3861f41e66b0b6fd2d647e1a424599cd181a77c9",
    "to": "0x86ad687e347734c3223ebda84cd58a3f8c2af282",
    "tx": "0xbc7adcbeb9ab0b7c44d0969b243544e9bcdc7012a62b3c1596f35c959df60127"
-  },
-  {
-   "ts": 1793625503,
-   "id": 864,
-   "tier": "L",
-   "hero": "orven",
-   "kind": "buy",
-   "from": "0xe7b3b770188e50f76313e919ac1c78de543edad0",
-   "to": "0x3861f41e66b0b6fd2d647e1a424599cd181a77c9",
-   "tx": "0xe228ade83b79e4c71b99c5f4d4b58dd4c50bb73512fc69ce90a56b3d2a0c004a",
-   "eth": 0.044,
-   "usd": 101
   }
  ],
  "sales": {
@@ -3096,28 +3094,6 @@
      null,
      "marion",
      1389,
-     null
-    ]
-   ],
-   "marks": [],
-   "gifted": [],
-   "chance": [],
-   "bought": 0,
-   "spentUsd": 0,
-   "witness": [],
-   "hunts": 1
-  },
-  {
-   "w": "0x674f…7c15",
-   "addr": "0x674f6358312be2733fabf91c0cdaf101e8c67c15",
-   "order": 0,
-   "cards": [
-    [
-     "L",
-     1791397907,
-     null,
-     "revazial",
-     1418,
      null
     ]
    ],
@@ -7644,6 +7620,32 @@
    "bought": 0,
    "spentUsd": 0,
    "witness": []
+  },
+  {
+   "w": "0x674f…7c15",
+   "addr": "0x674f6358312be2733fabf91c0cdaf101e8c67c15",
+   "order": 0,
+   "cards": [],
+   "marks": [
+    {
+     "k": "betrayer",
+     "ally": "revazial"
+    }
+   ],
+   "lost": [
+    [
+     "betrayer",
+     "L",
+     "revazial",
+     1418
+    ]
+   ],
+   "gifted": [],
+   "chance": [],
+   "bought": 0,
+   "spentUsd": 0,
+   "witness": [],
+   "hunts": 1
   }
  ],
  "known": {
@@ -7670,8 +7672,8 @@
   }
  },
  "floors": {
-  "at": 1794074289,
-  "listed": 208,
+  "at": 1794074893,
+  "listed": 207,
   "offers": {
    "revazial": {
     "id": 3528,
@@ -7756,6 +7758,6 @@
    "M": 0.287,
    "U": null
   },
-  "usd": 2232.86
+  "usd": 2233.11
  }
 }
