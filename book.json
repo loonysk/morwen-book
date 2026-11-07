@@ -1,8 +1,8 @@
 {
- "updated": 1794026289,
+ "updated": 1794026887,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26360635,
+ "block": 26360685,
  "events": {
   "firstCard": 180,
   "firstUnique": 1793190815,
@@ -7670,7 +7670,7 @@
   }
  },
  "floors": {
-  "at": 1794026290,
+  "at": 1794026888,
   "listed": 205,
   "offers": {
    "revazial": {
@@ -7732,7 +7732,7 @@
    },
    "kael vorn": {
     "L": null,
-    "M": 0.0899,
+    "M": 0.08917,
     "U": null
    }
   },
@@ -7756,6 +7756,6 @@
    "M": 0.287,
    "U": null
   },
-  "usd": 2242.64
+  "usd": 2239.73
  }
 }
