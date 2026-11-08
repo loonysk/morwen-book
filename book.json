@@ -1,8 +1,8 @@
 {
- "updated": 1794151090,
+ "updated": 1794151690,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26370999,
+ "block": 26371049,
  "events": {
   "firstCard": 180,
   "firstUnique": 1793190815,
@@ -7679,8 +7679,8 @@
   }
  },
  "floors": {
-  "at": 1794151091,
-  "listed": 206,
+  "at": 1794151691,
+  "listed": 204,
   "offers": {
    "revazial": {
     "id": 3528,
@@ -7713,8 +7713,8 @@
     "tier": "L"
    },
    "morwen": {
-    "id": 295,
-    "eth": 0.11,
+    "id": 3167,
+    "eth": 0.13,
     "tier": "L"
    }
   },
@@ -7752,7 +7752,7 @@
   },
   "marion": {
    "L": 0.066,
-   "M": 0.2,
+   "M": null,
    "U": 5
   },
   "orven": {
@@ -7761,10 +7761,10 @@
    "U": null
   },
   "morwen": {
-   "L": 0.11,
+   "L": 0.13,
    "M": 0.287,
    "U": null
   },
-  "usd": 2235.78
+  "usd": 2237.77
  }
 }
