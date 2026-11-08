@@ -1,8 +1,8 @@
 {
- "updated": 1794143888,
+ "updated": 1794144490,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26370399,
+ "block": 26370449,
  "events": {
   "firstCard": 180,
   "firstUnique": 1793190815,
@@ -87,9 +87,9 @@
    }
   },
   "shelo": {
-   "cards": 47,
+   "cards": 46,
    "tiers": {
-    "L": 42,
+    "L": 41,
     "M": 4,
     "U": 1
    },
@@ -98,7 +98,7 @@
     "M": "https://hov.fra1.digitaloceanspaces.com/prod/mythic/hov_shelo.png",
     "U": "https://hov.fra1.digitaloceanspaces.com/prod/unique/hov_shelo.png"
    },
-   "holders": 37,
+   "holders": 36,
    "thumbs": {
     "L": "https://loonysk.github.io/morwen-book/cards/4dc0af14bb5ff744.webp",
     "M": "https://loonysk.github.io/morwen-book/cards/c250a6d2fb0b5b8c.webp",
@@ -145,6 +145,16 @@
   }
  },
  "recent": [
+  {
+   "ts": 1794144287,
+   "id": 1760,
+   "tier": "L",
+   "hero": "shelo",
+   "kind": "burn",
+   "from": "0xdeed752a999d2bae7e979d82881b31c84d1fe613",
+   "to": "0x0000000000000000000000000000000000000000",
+   "tx": "0x078919b2b5d98433e09682f0ee95cdf7e3694b4cfd3ee79203687e2fd8699e7c"
+  },
   {
    "ts": 1794094571,
    "id": 10544,
@@ -238,18 +248,6 @@
    "from": "0x0000000000000000000000000000000000000000",
    "to": "0x981a4f0cfa1b0f2a4a5738371b61f9f0b9037469",
    "tx": "0xc0870f47628311b43b60931afe1d1c8b09674737e22e71b6fbedfe9b3a37af03"
-  },
-  {
-   "ts": 1793639903,
-   "id": 4425,
-   "tier": "L",
-   "hero": "matazuu",
-   "kind": "buy",
-   "from": "0x981a4f0cfa1b0f2a4a5738371b61f9f0b9037469",
-   "to": "0x7932cb7ecd74b556d36ab8fabc12d44a3c1365d6",
-   "tx": "0x8a49530fa1b4efb3ba717194ef0924a9f30573327e99086474b3ceac1ec71d3d",
-   "eth": 0.04,
-   "usd": 92
   }
  ],
  "sales": {
@@ -3374,40 +3372,6 @@
    "hunts": 1
   },
   {
-   "w": "0xdeed…e613",
-   "addr": "0xdeed752a999d2bae7e979d82881b31c84d1fe613",
-   "order": 0,
-   "cards": [
-    [
-     "L",
-     1791400667,
-     null,
-     "shelo",
-     1760,
-     null
-    ]
-   ],
-   "marks": [
-    {
-     "k": "betrayer",
-     "ally": "revazial"
-    }
-   ],
-   "lost": [
-    [
-     "betrayer",
-     "L",
-     "revazial",
-     3514
-    ]
-   ],
-   "gifted": [],
-   "chance": [],
-   "bought": 2,
-   "spentUsd": 50,
-   "witness": []
-  },
-  {
    "w": "0x55d0…27fa",
    "addr": "0x55d00daf33676b50414cf1ff8dac778a8c6727fa",
    "order": 0,
@@ -6380,6 +6344,41 @@
    "witness": []
   },
   {
+   "w": "0xdeed…e613",
+   "addr": "0xdeed752a999d2bae7e979d82881b31c84d1fe613",
+   "order": 0,
+   "cards": [],
+   "marks": [
+    {
+     "k": "betrayer",
+     "ally": "revazial"
+    },
+    {
+     "k": "betrayer",
+     "ally": "shelo"
+    }
+   ],
+   "lost": [
+    [
+     "betrayer",
+     "L",
+     "revazial",
+     3514
+    ],
+    [
+     "betrayer",
+     "L",
+     "shelo",
+     1760
+    ]
+   ],
+   "gifted": [],
+   "chance": [],
+   "bought": 2,
+   "spentUsd": 50,
+   "witness": []
+  },
+  {
    "w": "0xf2ab…6a1e",
    "addr": "0xf2ab9453c0ab0123600006d0f5d0d27d25466a1e",
    "order": 0,
@@ -7680,7 +7679,7 @@
   }
  },
  "floors": {
-  "at": 1794143888,
+  "at": 1794144490,
   "listed": 206,
   "offers": {
    "revazial": {
@@ -7766,6 +7765,6 @@
    "M": 0.287,
    "U": null
   },
-  "usd": 2242.2
+  "usd": 2238.52
  }
 }
