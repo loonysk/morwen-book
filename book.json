@@ -1,8 +1,8 @@
 {
- "updated": 1794223672,
+ "updated": 1794224273,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26377031,
+ "block": 26377081,
  "events": {
   "firstCard": 180,
   "firstUnique": 1793190815,
@@ -7679,8 +7679,8 @@
   }
  },
  "floors": {
-  "at": 1794223673,
-  "listed": 199,
+  "at": 1794224274,
+  "listed": 198,
   "offers": {
    "revazial": {
     "id": 3528,
@@ -7738,11 +7738,6 @@
     "L": 0.049,
     "M": null,
     "U": null
-   },
-   "kael vorn": {
-    "L": null,
-    "M": 0.083,
-    "U": null
    }
   },
   "yomihime": {
@@ -7765,6 +7760,6 @@
    "M": 0.25,
    "U": null
   },
-  "usd": 2115.5
+  "usd": 2120.28
  }
 }
