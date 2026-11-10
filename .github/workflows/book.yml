@@ -36,7 +36,7 @@ jobs:
     timeout-minutes: ${{ inputs.full && 120 || 20 }}
     steps:
       - name: The reader and the settings (morwen-site main — the live site)
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
         with:
           repository: loonysk/morwen-site
           ref: main
@@ -51,7 +51,7 @@ jobs:
 
       - name: No reader on main yet → take dev
         if: steps.probe.outputs.dev == '1'
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
         with:
           repository: loonysk/morwen-site
           ref: dev
@@ -62,12 +62,12 @@ jobs:
         run: |
           echo "counting by: $(git rev-parse --short HEAD)"
 
-      - uses: actions/setup-node@v4
+      - uses: actions/setup-node@v5
         with:
           node-version: 20
 
       - name: The published Book and the reader's memory (this repository)
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
         with:
           path: out
           persist-credentials: false   # the token is only handed to the push below, never left on disk while the code runs
