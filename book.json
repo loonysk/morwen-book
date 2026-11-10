@@ -1,8 +1,8 @@
 {
- "updated": 1794283072,
+ "updated": 1794283674,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26381963,
+ "block": 26382012,
  "events": {
   "firstCard": 180,
   "firstUnique": 1793190815,
@@ -146,6 +146,18 @@
  },
  "recent": [
   {
+   "ts": 1794283295,
+   "id": 10187,
+   "tier": "M",
+   "hero": "orven",
+   "kind": "buy",
+   "from": "0x921d50a7e44a4ee3965d117050fb80e6aa1fb948",
+   "to": "0x6d5aba28442195b3eb575702e6b418c7eb0ee124",
+   "tx": "0x164ee804dcd388ab6cc6284677dcd0875e278af45a34bf92edad9fcea04c962b",
+   "eth": 0.125,
+   "usd": 264
+  },
+  {
    "ts": 1794144287,
    "id": 1760,
    "tier": "L",
@@ -238,16 +250,6 @@
    "tx": "0x71ff261dfa65629052bf62c4581f29add14cf0b613d97e7014e7f6d3c7332dc6",
    "eth": 0.1,
    "usd": 228
-  },
-  {
-   "ts": 1793640059,
-   "id": 10531,
-   "tier": "M",
-   "hero": "yomihime",
-   "kind": "forge",
-   "from": "0x0000000000000000000000000000000000000000",
-   "to": "0x981a4f0cfa1b0f2a4a5738371b61f9f0b9037469",
-   "tx": "0xc0870f47628311b43b60931afe1d1c8b09674737e22e71b6fbedfe9b3a37af03"
   }
  ],
  "sales": {
@@ -3774,6 +3776,14 @@
     ],
     [
      "M",
+     1794283295,
+     null,
+     "orven",
+     10187,
+     null
+    ],
+    [
+     "M",
      1793277263,
      null,
      "shelo",
@@ -3800,8 +3810,8 @@
    "marks": [],
    "gifted": [],
    "chance": [],
-   "bought": 0,
-   "spentUsd": 0,
+   "bought": 1,
+   "spentUsd": 264,
    "witness": [
     "firstUnique",
     "firstMythic"
@@ -5805,34 +5815,6 @@
    "witness": []
   },
   {
-   "w": "0x921d…b948",
-   "addr": "0x921d50a7e44a4ee3965d117050fb80e6aa1fb948",
-   "order": 0,
-   "cards": [
-    [
-     "M",
-     1793372171,
-     null,
-     "orven",
-     10187,
-     "t"
-    ]
-   ],
-   "marks": [],
-   "gone": [
-    [
-     "L",
-     "yomihime",
-     290
-    ]
-   ],
-   "gifted": [],
-   "chance": [],
-   "bought": 0,
-   "spentUsd": 0,
-   "witness": []
-  },
-  {
    "w": "0x398e…c6f6",
    "addr": "0x398ebe40c91cd0e5da4499806bc3efe706fcc6f6",
    "order": 0,
@@ -7679,8 +7661,8 @@
   }
  },
  "floors": {
-  "at": 1794283072,
-  "listed": 199,
+  "at": 1794283675,
+  "listed": 198,
   "offers": {
    "revazial": {
     "id": 3528,
@@ -7752,7 +7734,7 @@
   },
   "orven": {
    "L": 0.0677,
-   "M": 0.136,
+   "M": null,
    "U": null
   },
   "morwen": {
@@ -7760,6 +7742,6 @@
    "M": 0.25,
    "U": null
   },
-  "usd": 2111.13
+  "usd": 2113.72
  }
 }
