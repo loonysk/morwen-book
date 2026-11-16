@@ -1,8 +1,8 @@
 {
- "updated": 1794836876,
+ "updated": 1794837477,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26427986,
+ "block": 26428035,
  "events": {
   "firstCard": 180,
   "firstUnique": 1793190815,
@@ -7639,6 +7639,13 @@
   }
  ],
  "known": {
+  "87": {
+   "name": "Jin",
+   "tier": "L",
+   "hero": null,
+   "image": "https://hov.fra1.digitaloceanspaces.com/prod/hov_jin.png",
+   "thumb": "https://loonysk.github.io/morwen-book/cards/1679f71644612a0d.webp"
+  },
   "1983": {
    "name": "Captain Warrior",
    "tier": "L",
@@ -7662,7 +7669,7 @@
   }
  },
  "floors": {
-  "at": 1794836877,
+  "at": 1794837478,
   "listed": 178,
   "offers": {
    "revazial": {
@@ -7711,6 +7718,18 @@
    "M": null,
    "U": null
   },
+  "named": {
+   "jin": {
+    "L": 0.043,
+    "M": null,
+    "U": null
+   },
+   "morvane": {
+    "L": 0.049,
+    "M": null,
+    "U": null
+   }
+  },
   "shelo": {
    "L": 0.045,
    "M": null,
@@ -7720,13 +7739,6 @@
    "L": 0.047,
    "M": 0.274,
    "U": null
-  },
-  "named": {
-   "morvane": {
-    "L": 0.049,
-    "M": null,
-    "U": null
-   }
   },
   "marion": {
    "L": 0.055,
@@ -7743,6 +7755,6 @@
    "M": 0.247,
    "U": null
   },
-  "usd": 1805.81
+  "usd": 1799.07
  }
 }
