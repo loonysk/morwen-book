@@ -1,8 +1,8 @@
 {
- "updated": 1794923277,
+ "updated": 1794923876,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26435159,
+ "block": 26435207,
  "events": {
   "firstCard": 180,
   "firstUnique": 1793190815,
@@ -118,7 +118,7 @@
     "M": "https://hov.fra1.digitaloceanspaces.com/prod/mythic/hov_morwen_greymoor.png",
     "U": "https://hov.fra1.digitaloceanspaces.com/prod/unique/hov_morwen_greymoor.png"
    },
-   "holders": 40,
+   "holders": 39,
    "thumbs": {
     "L": "https://loonysk.github.io/morwen-book/cards/1ed0a45f92f6d78e.webp",
     "M": "https://loonysk.github.io/morwen-book/cards/286a09f384f6685b.webp",
@@ -146,6 +146,18 @@
   }
  },
  "recent": [
+  {
+   "ts": 1794923459,
+   "id": 3481,
+   "tier": "L",
+   "hero": "morwen",
+   "kind": "buy",
+   "from": "0x50e43a4d3cbf8f05ce07f3ebc80c7c840b351422",
+   "to": "0x3861f41e66b0b6fd2d647e1a424599cd181a77c9",
+   "tx": "0x7a30b7f28a29dde4fdd96b25348f268da2b5569874cec43db2776452da25c760",
+   "eth": 0.049,
+   "usd": 89
+  },
   {
    "ts": 1794921995,
    "id": 2566,
@@ -245,31 +257,9 @@
    "from": "0xd755bd25f0a68ed42aebc2845205e430e2bc8100",
    "to": "0x9a2576eb8a2a55889572899a79d0bf2d76598c95",
    "tx": "0x4bc5a118534e4444e3ee5cd1f7afb37f7582eb4dc290489d92a51c6ed931d19d"
-  },
-  {
-   "ts": 1793777483,
-   "id": 1145,
-   "tier": "L",
-   "hero": "matazuu",
-   "kind": "hand",
-   "from": "0xd755bd25f0a68ed42aebc2845205e430e2bc8100",
-   "to": "0x50e43a4d3cbf8f05ce07f3ebc80c7c840b351422",
-   "tx": "0x779344e4a0981e27c01c3aca880fcd227b2f7c52679c3b6ff07fad94d9e19612"
   }
  ],
  "last": {
-  "matazuu": {
-   "ts": 1793872139,
-   "id": 3525,
-   "tier": "L",
-   "hero": "matazuu",
-   "kind": "buy",
-   "from": "0x9f6e3b66911fb65ee048b7a352c559f9aaab8c61",
-   "to": "0x0df0f5a82ec01a5ea079691bc412acf7513e2e21",
-   "tx": "0xc60eaded0961555a248577e5ba0979c09c41b9d5196d8d25fd81a75b5077a3ab",
-   "eth": 0.053,
-   "usd": 128
-  },
   "revazial": {
    "ts": 1794921995,
    "id": 2566,
@@ -283,14 +273,16 @@
    "usd": 121
   },
   "morwen": {
-   "ts": 1793581487,
-   "id": 262,
+   "ts": 1794923459,
+   "id": 3481,
    "tier": "L",
    "hero": "morwen",
-   "kind": "burn",
-   "from": "0x389e1a92b97aecc4c8c26c2647913756055ae685",
-   "to": "0x0000000000000000000000000000000000000000",
-   "tx": "0xb7ca6f4fc436ebcb2a8265a71d64bf286492998bfacda09a3c98884e50f7b019"
+   "kind": "buy",
+   "from": "0x50e43a4d3cbf8f05ce07f3ebc80c7c840b351422",
+   "to": "0x3861f41e66b0b6fd2d647e1a424599cd181a77c9",
+   "tx": "0x7a30b7f28a29dde4fdd96b25348f268da2b5569874cec43db2776452da25c760",
+   "eth": 0.049,
+   "usd": 89
   },
   "orven": {
    "ts": 1794283295,
@@ -325,6 +317,18 @@
    "tx": "0x12e3a8181d6da49d8558e7abe31fc49b8842b1f90c2e37ebe5e75b501a508454",
    "eth": 0.0666,
    "usd": 121
+  },
+  "matazuu": {
+   "ts": 1793872139,
+   "id": 3525,
+   "tier": "L",
+   "hero": "matazuu",
+   "kind": "buy",
+   "from": "0x9f6e3b66911fb65ee048b7a352c559f9aaab8c61",
+   "to": "0x0df0f5a82ec01a5ea079691bc412acf7513e2e21",
+   "tx": "0xc60eaded0961555a248577e5ba0979c09c41b9d5196d8d25fd81a75b5077a3ab",
+   "eth": 0.053,
+   "usd": 128
   },
   "marion": {
    "ts": 1793547227,
@@ -393,6 +397,11 @@
     "2026-10-30",
     1,
     539
+   ],
+   [
+    "2026-11-17",
+    1,
+    89
    ]
   ],
   "marion": [
@@ -650,10 +659,10 @@
  },
  "sales": {
   "L": {
-   "eth": 0.07,
-   "usd": 168,
-   "ts": 1792455491,
-   "id": 180
+   "eth": 0.049,
+   "usd": 89,
+   "ts": 1794923459,
+   "id": 3481
   },
   "M": {
    "eth": 0.24,
@@ -2015,6 +2024,14 @@
     ],
     [
      "L",
+     1794923459,
+     null,
+     null,
+     3481,
+     null
+    ],
+    [
+     "L",
      1793737595,
      null,
      "matazuu",
@@ -2084,8 +2101,8 @@
     "L"
    ],
    "chance": [],
-   "bought": 11,
-   "spentUsd": 1316,
+   "bought": 12,
+   "spentUsd": 1405,
    "witness": [
     "firstUnique",
     "firstMythic"
@@ -2592,14 +2609,6 @@
     ],
     [
      "L",
-     1793543987,
-     null,
-     null,
-     3481,
-     "t"
-    ],
-    [
-     "L",
      1793543939,
      null,
      "shelo",
@@ -2719,6 +2728,11 @@
      "L",
      "revazial",
      2566
+    ],
+    [
+     "L",
+     "morwen",
+     3481
     ]
    ],
    "gifted": [],
@@ -8114,8 +8128,8 @@
   }
  },
  "floors": {
-  "at": 1794923277,
-  "listed": 172,
+  "at": 1794923877,
+  "listed": 169,
   "offers": {
    "revazial": {
     "id": 3528,
@@ -8200,7 +8214,7 @@
    "M": 4,
    "U": 4
   },
-  "usd": 1822.72
+  "usd": 1826.67
  },
  "prize": {
   "wallet": "0xf923a8773b1401031b301a9b569e1ed2035b263c",
