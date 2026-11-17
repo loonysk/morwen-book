@@ -1,8 +1,8 @@
 {
- "updated": 1794873479,
+ "updated": 1794874080,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26431026,
+ "block": 26431075,
  "events": {
   "firstCard": 180,
   "firstUnique": 1793190815,
@@ -146,6 +146,18 @@
  },
  "recent": [
   {
+   "ts": 1794873611,
+   "id": 1104,
+   "tier": "L",
+   "hero": "yomihime",
+   "kind": "buy",
+   "from": "0x9f6e3b66911fb65ee048b7a352c559f9aaab8c61",
+   "to": "0x51da223a8202d6faf5d65052cdaec5707c4118a1",
+   "tx": "0x626b14bf8ca980bc109194cb28a3046dc2729c1061e5e438a6e8c2368b5905fc",
+   "eth": 0.034,
+   "usd": 62
+  },
+  {
    "ts": 1794283295,
    "id": 10187,
    "tier": "M",
@@ -238,31 +250,9 @@
    "from": "0x3861f41e66b0b6fd2d647e1a424599cd181a77c9",
    "to": "0x50e43a4d3cbf8f05ce07f3ebc80c7c840b351422",
    "tx": "0x5d715929d9f407e8381145dd262d0862ff056d3bc2ee3965735ad179e45d133e"
-  },
-  {
-   "ts": 1793709131,
-   "id": 10478,
-   "tier": "M",
-   "hero": "yomihime",
-   "kind": "buy",
-   "from": "0x38bb3769de962d95931a9055a071f5cc060ab833",
-   "to": "0xc146ce37af7dddfb4047610d01081d8a7e38f619",
-   "tx": "0x71ff261dfa65629052bf62c4581f29add14cf0b613d97e7014e7f6d3c7332dc6",
-   "eth": 0.1,
-   "usd": 228
   }
  ],
  "last": {
-  "marion": {
-   "ts": 1793547227,
-   "id": 3983,
-   "tier": "L",
-   "hero": "marion",
-   "kind": "hand",
-   "from": "0xca53a9af458591b6cd942d70cdd97326c46ef273",
-   "to": "0xaab98f0871b991ed3231cea344a2ef5564479eb3",
-   "tx": "0x7667f3aaf17602a393025d1756d664a897021a4e100e46a34fedba5e7efab3d6"
-  },
   "morwen": {
    "ts": 1793581487,
    "id": 262,
@@ -318,16 +308,26 @@
    "usd": 264
   },
   "yomihime": {
-   "ts": 1793709131,
-   "id": 10478,
-   "tier": "M",
+   "ts": 1794873611,
+   "id": 1104,
+   "tier": "L",
    "hero": "yomihime",
    "kind": "buy",
-   "from": "0x38bb3769de962d95931a9055a071f5cc060ab833",
-   "to": "0xc146ce37af7dddfb4047610d01081d8a7e38f619",
-   "tx": "0x71ff261dfa65629052bf62c4581f29add14cf0b613d97e7014e7f6d3c7332dc6",
-   "eth": 0.1,
-   "usd": 228
+   "from": "0x9f6e3b66911fb65ee048b7a352c559f9aaab8c61",
+   "to": "0x51da223a8202d6faf5d65052cdaec5707c4118a1",
+   "tx": "0x626b14bf8ca980bc109194cb28a3046dc2729c1061e5e438a6e8c2368b5905fc",
+   "eth": 0.034,
+   "usd": 62
+  },
+  "marion": {
+   "ts": 1793547227,
+   "id": 3983,
+   "tier": "L",
+   "hero": "marion",
+   "kind": "hand",
+   "from": "0xca53a9af458591b6cd942d70cdd97326c46ef273",
+   "to": "0xaab98f0871b991ed3231cea344a2ef5564479eb3",
+   "tx": "0x7667f3aaf17602a393025d1756d664a897021a4e100e46a34fedba5e7efab3d6"
   }
  },
  "volume": {
@@ -522,6 +522,11 @@
     "2026-11-03",
     1,
     228
+   ],
+   [
+    "2026-11-17",
+    1,
+    62
    ]
   ],
   "orven": [
@@ -2844,14 +2849,6 @@
     ],
     [
      "L",
-     1792090175,
-     null,
-     "yomihime",
-     1104,
-     "t"
-    ],
-    [
-     "L",
      1791833891,
      null,
      null,
@@ -2934,6 +2931,11 @@
      "L",
      "matazuu",
      3525
+    ],
+    [
+     "L",
+     "yomihime",
+     1104
     ]
    ],
    "gifted": [],
@@ -3203,6 +3205,28 @@
    "witness": [],
    "hunts": 1,
    "wins": 1
+  },
+  {
+   "w": "0x51da…18a1",
+   "addr": "0x51da223a8202d6faf5d65052cdaec5707c4118a1",
+   "order": 0,
+   "cards": [
+    [
+     "L",
+     1794873611,
+     null,
+     "yomihime",
+     1104,
+     null
+    ]
+   ],
+   "marks": [],
+   "gifted": [],
+   "chance": [],
+   "bought": 1,
+   "spentUsd": 62,
+   "witness": [],
+   "quietN": 1
   },
   {
    "w": "0xe990…174a",
@@ -8060,17 +8084,12 @@
   }
  },
  "floors": {
-  "at": 1794873480,
-  "listed": 182,
+  "at": 1794874080,
+  "listed": 181,
   "offers": {
    "revazial": {
     "id": 3528,
     "eth": 0.033,
-    "tier": "L"
-   },
-   "yomihime": {
-    "id": 1104,
-    "eth": 0.034,
     "tier": "L"
    },
    "matazuu": {
@@ -8088,6 +8107,11 @@
     "eth": 0.055,
     "tier": "L"
    },
+   "yomihime": {
+    "id": 2781,
+    "eth": 0.055,
+    "tier": "L"
+   },
    "orven": {
     "id": 864,
     "eth": 0.0677,
@@ -8101,11 +8125,6 @@
   },
   "revazial": {
    "L": 0.033,
-   "M": null,
-   "U": null
-  },
-  "yomihime": {
-   "L": 0.034,
    "M": null,
    "U": null
   },
@@ -8136,6 +8155,11 @@
    "M": 4,
    "U": 4
   },
+  "yomihime": {
+   "L": 0.055,
+   "M": null,
+   "U": null
+  },
   "orven": {
    "L": 0.0677,
    "M": null,
@@ -8146,7 +8170,7 @@
    "M": 0.247,
    "U": null
   },
-  "usd": 1820.14
+  "usd": 1815.46
  },
  "prize": {
   "wallet": "0xf923a8773b1401031b301a9b569e1ed2035b263c",
