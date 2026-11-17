@@ -1,8 +1,8 @@
 {
- "updated": 1794909477,
+ "updated": 1794910078,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26434014,
+ "block": 26434063,
  "events": {
   "firstCard": 180,
   "firstUnique": 1793190815,
@@ -8099,7 +8099,7 @@
   }
  },
  "floors": {
-  "at": 1794909480,
+  "at": 1794910078,
   "listed": 174,
   "offers": {
    "revazial": {
@@ -8182,10 +8182,10 @@
   },
   "morwen": {
    "L": 0.073,
-   "M": 0.247,
+   "M": 0.273,
    "U": null
   },
-  "usd": 1808.28
+  "usd": 1797.56
  },
  "prize": {
   "wallet": "0xf923a8773b1401031b301a9b569e1ed2035b263c",
