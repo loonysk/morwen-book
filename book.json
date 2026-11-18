@@ -1,8 +1,8 @@
 {
- "updated": 1795027669,
+ "updated": 1795028272,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26443839,
+ "block": 26443889,
  "events": {
   "firstCard": 180,
   "firstUnique": 1793190815,
@@ -69,9 +69,9 @@
    }
   },
   "yomihime": {
-   "cards": 58,
+   "cards": 57,
    "tiers": {
-    "L": 49,
+    "L": 48,
     "M": 8,
     "U": 1
    },
@@ -80,7 +80,7 @@
     "M": "https://hov.fra1.digitaloceanspaces.com/prod/mythic/hov_yomihime.png",
     "U": "https://hov.fra1.digitaloceanspaces.com/prod/unique/hov_yomihime.png"
    },
-   "holders": 42,
+   "holders": 41,
    "thumbs": {
     "L": "https://loonysk.github.io/morwen-book/cards/dfa351374fb18253.webp",
     "M": "https://loonysk.github.io/morwen-book/cards/ee3066876d78a62d.webp",
@@ -88,9 +88,9 @@
    }
   },
   "shelo": {
-   "cards": 46,
+   "cards": 45,
    "tiers": {
-    "L": 41,
+    "L": 40,
     "M": 4,
     "U": 1
    },
@@ -99,7 +99,7 @@
     "M": "https://hov.fra1.digitaloceanspaces.com/prod/mythic/hov_shelo.png",
     "U": "https://hov.fra1.digitaloceanspaces.com/prod/unique/hov_shelo.png"
    },
-   "holders": 36,
+   "holders": 35,
    "thumbs": {
     "L": "https://loonysk.github.io/morwen-book/cards/4dc0af14bb5ff744.webp",
     "M": "https://loonysk.github.io/morwen-book/cards/c250a6d2fb0b5b8c.webp",
@@ -146,6 +146,26 @@
   }
  },
  "recent": [
+  {
+   "ts": 1795028219,
+   "id": 3487,
+   "tier": "L",
+   "hero": "shelo",
+   "kind": "burn",
+   "from": "0xcb259bc56e511629678b75c24a2c1475457e80b2",
+   "to": "0x0000000000000000000000000000000000000000",
+   "tx": "0x11c89ea34e91bcb8033f0bf8f3ba04a0314d1bf1bb19acf74c45811717bb4658"
+  },
+  {
+   "ts": 1795028219,
+   "id": 2781,
+   "tier": "L",
+   "hero": "yomihime",
+   "kind": "burn",
+   "from": "0xcb259bc56e511629678b75c24a2c1475457e80b2",
+   "to": "0x0000000000000000000000000000000000000000",
+   "tx": "0x11c89ea34e91bcb8033f0bf8f3ba04a0314d1bf1bb19acf74c45811717bb4658"
+  },
   {
    "ts": 1795026635,
    "id": 3487,
@@ -231,55 +251,9 @@
    "tx": "0x815a7567f83fe77bcbfa4ff4771e88c9424b06410c015ac3490d6d7c8a8e7bcd",
    "eth": 0.0666,
    "usd": 121
-  },
-  {
-   "ts": 1794874415,
-   "id": 1104,
-   "tier": "L",
-   "hero": "yomihime",
-   "kind": "buy",
-   "from": "0x51da223a8202d6faf5d65052cdaec5707c4118a1",
-   "to": "0xaab98f0871b991ed3231cea344a2ef5564479eb3",
-   "tx": "0x12e3a8181d6da49d8558e7abe31fc49b8842b1f90c2e37ebe5e75b501a508454",
-   "eth": 0.0666,
-   "usd": 121
-  },
-  {
-   "ts": 1794873611,
-   "id": 1104,
-   "tier": "L",
-   "hero": "yomihime",
-   "kind": "buy",
-   "from": "0x9f6e3b66911fb65ee048b7a352c559f9aaab8c61",
-   "to": "0x51da223a8202d6faf5d65052cdaec5707c4118a1",
-   "tx": "0x626b14bf8ca980bc109194cb28a3046dc2729c1061e5e438a6e8c2368b5905fc",
-   "eth": 0.034,
-   "usd": 62
   }
  ],
  "last": {
-  "morwen": {
-   "ts": 1794923459,
-   "id": 3481,
-   "tier": "L",
-   "hero": "morwen",
-   "kind": "buy",
-   "from": "0x50e43a4d3cbf8f05ce07f3ebc80c7c840b351422",
-   "to": "0x3861f41e66b0b6fd2d647e1a424599cd181a77c9",
-   "tx": "0x7a30b7f28a29dde4fdd96b25348f268da2b5569874cec43db2776452da25c760",
-   "eth": 0.049,
-   "usd": 89
-  },
-  "yomihime": {
-   "ts": 1795026587,
-   "id": 2781,
-   "tier": "L",
-   "hero": "yomihime",
-   "kind": "hand",
-   "from": "0x50e43a4d3cbf8f05ce07f3ebc80c7c840b351422",
-   "to": "0xcb259bc56e511629678b75c24a2c1475457e80b2",
-   "tx": "0x0f05db8e0208c7f178a9a2bfe3bcf4a25c7ab024097b6616b3f092c7bea623fc"
-  },
   "matazuu": {
    "ts": 1794991739,
    "id": 3480,
@@ -300,6 +274,16 @@
    "to": "0x0000000000000000000000000000000000000000",
    "tx": "0x09afadcaab2eb881a98bf6fa33a6b2964776fbfec7ee2a0a26a6bee09f40143d"
   },
+  "yomihime": {
+   "ts": 1795028219,
+   "id": 2781,
+   "tier": "L",
+   "hero": "yomihime",
+   "kind": "burn",
+   "from": "0xcb259bc56e511629678b75c24a2c1475457e80b2",
+   "to": "0x0000000000000000000000000000000000000000",
+   "tx": "0x11c89ea34e91bcb8033f0bf8f3ba04a0314d1bf1bb19acf74c45811717bb4658"
+  },
   "marion": {
    "ts": 1793547227,
    "id": 3983,
@@ -311,14 +295,14 @@
    "tx": "0x7667f3aaf17602a393025d1756d664a897021a4e100e46a34fedba5e7efab3d6"
   },
   "shelo": {
-   "ts": 1795026635,
+   "ts": 1795028219,
    "id": 3487,
    "tier": "L",
    "hero": "shelo",
-   "kind": "hand",
-   "from": "0x50e43a4d3cbf8f05ce07f3ebc80c7c840b351422",
-   "to": "0xcb259bc56e511629678b75c24a2c1475457e80b2",
-   "tx": "0x670e6b3a9ae61da00beb133d212233b4dbc28dc08b8c4970badaf9ade536f7f1"
+   "kind": "burn",
+   "from": "0xcb259bc56e511629678b75c24a2c1475457e80b2",
+   "to": "0x0000000000000000000000000000000000000000",
+   "tx": "0x11c89ea34e91bcb8033f0bf8f3ba04a0314d1bf1bb19acf74c45811717bb4658"
   },
   "orven": {
    "ts": 1794283295,
@@ -331,6 +315,18 @@
    "tx": "0x164ee804dcd388ab6cc6284677dcd0875e278af45a34bf92edad9fcea04c962b",
    "eth": 0.125,
    "usd": 264
+  },
+  "morwen": {
+   "ts": 1794923459,
+   "id": 3481,
+   "tier": "L",
+   "hero": "morwen",
+   "kind": "buy",
+   "from": "0x50e43a4d3cbf8f05ce07f3ebc80c7c840b351422",
+   "to": "0x3861f41e66b0b6fd2d647e1a424599cd181a77c9",
+   "tx": "0x7a30b7f28a29dde4fdd96b25348f268da2b5569874cec43db2776452da25c760",
+   "eth": 0.049,
+   "usd": 89
   }
  },
  "volume": {
@@ -2812,25 +2808,32 @@
      "matazuu",
      873,
      null
-    ],
-    [
-     "L",
-     1795026587,
-     null,
-     "yomihime",
-     2781,
-     "t"
-    ],
-    [
-     "L",
-     1795026635,
-     null,
-     "shelo",
-     3487,
-     "t"
     ]
    ],
-   "marks": [],
+   "marks": [
+    {
+     "k": "betrayer",
+     "ally": "yomihime"
+    },
+    {
+     "k": "betrayer",
+     "ally": "shelo"
+    }
+   ],
+   "lost": [
+    [
+     "betrayer",
+     "L",
+     "yomihime",
+     2781
+    ],
+    [
+     "betrayer",
+     "L",
+     "shelo",
+     3487
+    ]
+   ],
    "gone": [
     [
      "L",
@@ -8164,8 +8167,8 @@
   }
  },
  "floors": {
-  "at": 1795027669,
-  "listed": 170,
+  "at": 1795028273,
+  "listed": 172,
   "offers": {
    "shelo": {
     "id": 4258,
@@ -8237,12 +8240,12 @@
   },
   "morwen": {
    "L": 0.073,
-   "M": 0.343,
+   "M": 0.24,
    "U": null
   },
   "marion": {
    "L": 0.088,
-   "M": 4,
+   "M": 0.23,
    "U": 4
   },
   "orven": {
@@ -8250,7 +8253,7 @@
    "M": null,
    "U": null
   },
-  "usd": 1770.61
+  "usd": 1769.31
  },
  "prize": {
   "wallet": "0xf923a8773b1401031b301a9b569e1ed2035b263c",
