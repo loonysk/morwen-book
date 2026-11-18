@@ -1,8 +1,8 @@
 {
- "updated": 1794992870,
+ "updated": 1794993471,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26440940,
+ "block": 26440990,
  "events": {
   "firstCard": 180,
   "firstUnique": 1793190815,
@@ -8158,8 +8158,8 @@
   }
  },
  "floors": {
-  "at": 1794992871,
-  "listed": 169,
+  "at": 1794993471,
+  "listed": 170,
   "offers": {
    "revazial": {
     "id": 3528,
@@ -8171,14 +8171,14 @@
     "eth": 0.045,
     "tier": "L"
    },
+   "matazuu": {
+    "id": 3466,
+    "eth": 0.045,
+    "tier": "L"
+   },
    "yomihime": {
     "id": 2781,
     "eth": 0.055,
-    "tier": "L"
-   },
-   "matazuu": {
-    "id": 3168,
-    "eth": 0.06,
     "tier": "L"
    },
    "orven": {
@@ -8219,14 +8219,14 @@
    "M": null,
    "U": null
   },
+  "matazuu": {
+   "L": 0.045,
+   "M": 0.299,
+   "U": null
+  },
   "yomihime": {
    "L": 0.055,
    "M": null,
-   "U": null
-  },
-  "matazuu": {
-   "L": 0.06,
-   "M": 0.299,
    "U": null
   },
   "orven": {
@@ -8244,7 +8244,7 @@
    "M": 4,
    "U": 4
   },
-  "usd": 1812.52
+  "usd": 1810.8
  },
  "prize": {
   "wallet": "0xf923a8773b1401031b301a9b569e1ed2035b263c",
