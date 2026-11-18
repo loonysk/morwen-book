@@ -1,8 +1,8 @@
 {
- "updated": 1794988671,
+ "updated": 1794989273,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26440591,
+ "block": 26440641,
  "events": {
   "firstCard": 180,
   "firstUnique": 1793190815,
@@ -31,10 +31,10 @@
    }
   },
   "matazuu": {
-   "cards": 59,
+   "cards": 60,
    "tiers": {
     "L": 52,
-    "M": 6,
+    "M": 7,
     "U": 1
    },
    "images": {
@@ -42,7 +42,7 @@
     "M": "https://hov.fra1.digitaloceanspaces.com/prod/mythic/hov_matazuu.png",
     "U": "https://hov.fra1.digitaloceanspaces.com/prod/unique/hov_matazuu.png"
    },
-   "holders": 45,
+   "holders": 46,
    "thumbs": {
     "L": "https://loonysk.github.io/morwen-book/cards/a56f14d57fe9da96.webp",
     "M": "https://loonysk.github.io/morwen-book/cards/b467fe8dc2755ffc.webp",
@@ -147,6 +147,16 @@
  },
  "recent": [
   {
+   "ts": 1794989087,
+   "id": 10557,
+   "tier": "M",
+   "hero": "matazuu",
+   "kind": "forge",
+   "from": "0x0000000000000000000000000000000000000000",
+   "to": "0xed9692b68b9c66e88cdc68c15fd16bb7b266bedf",
+   "tx": "0x53776df8fc9e294c1b2a37ca6b4ac1bb1568805273fb83304b510b7bb0f90a98"
+  },
+  {
    "ts": 1794943199,
    "id": 4957,
    "tier": "L",
@@ -245,33 +255,9 @@
    "from": "0x674f6358312be2733fabf91c0cdaf101e8c67c15",
    "to": "0x0000000000000000000000000000000000000000",
    "tx": "0x8d0bff75e372c72e4e9abc5ec03967dd6550f21879e52d38ac2dd29e682650ed"
-  },
-  {
-   "ts": 1793872139,
-   "id": 3525,
-   "tier": "L",
-   "hero": "matazuu",
-   "kind": "buy",
-   "from": "0x9f6e3b66911fb65ee048b7a352c559f9aaab8c61",
-   "to": "0x0df0f5a82ec01a5ea079691bc412acf7513e2e21",
-   "tx": "0xc60eaded0961555a248577e5ba0979c09c41b9d5196d8d25fd81a75b5077a3ab",
-   "eth": 0.053,
-   "usd": 128
   }
  ],
  "last": {
-  "morwen": {
-   "ts": 1794923459,
-   "id": 3481,
-   "tier": "L",
-   "hero": "morwen",
-   "kind": "buy",
-   "from": "0x50e43a4d3cbf8f05ce07f3ebc80c7c840b351422",
-   "to": "0x3861f41e66b0b6fd2d647e1a424599cd181a77c9",
-   "tx": "0x7a30b7f28a29dde4fdd96b25348f268da2b5569874cec43db2776452da25c760",
-   "eth": 0.049,
-   "usd": 89
-  },
   "orven": {
    "ts": 1794283295,
    "id": 10187,
@@ -304,6 +290,18 @@
    "to": "0x0000000000000000000000000000000000000000",
    "tx": "0x078919b2b5d98433e09682f0ee95cdf7e3694b4cfd3ee79203687e2fd8699e7c"
   },
+  "morwen": {
+   "ts": 1794923459,
+   "id": 3481,
+   "tier": "L",
+   "hero": "morwen",
+   "kind": "buy",
+   "from": "0x50e43a4d3cbf8f05ce07f3ebc80c7c840b351422",
+   "to": "0x3861f41e66b0b6fd2d647e1a424599cd181a77c9",
+   "tx": "0x7a30b7f28a29dde4fdd96b25348f268da2b5569874cec43db2776452da25c760",
+   "eth": 0.049,
+   "usd": 89
+  },
   "yomihime": {
    "ts": 1794874415,
    "id": 1104,
@@ -317,16 +315,14 @@
    "usd": 121
   },
   "matazuu": {
-   "ts": 1793872139,
-   "id": 3525,
-   "tier": "L",
+   "ts": 1794989087,
+   "id": 10557,
+   "tier": "M",
    "hero": "matazuu",
-   "kind": "buy",
-   "from": "0x9f6e3b66911fb65ee048b7a352c559f9aaab8c61",
-   "to": "0x0df0f5a82ec01a5ea079691bc412acf7513e2e21",
-   "tx": "0xc60eaded0961555a248577e5ba0979c09c41b9d5196d8d25fd81a75b5077a3ab",
-   "eth": 0.053,
-   "usd": 128
+   "kind": "forge",
+   "from": "0x0000000000000000000000000000000000000000",
+   "to": "0xed9692b68b9c66e88cdc68c15fd16bb7b266bedf",
+   "tx": "0x53776df8fc9e294c1b2a37ca6b4ac1bb1568805273fb83304b510b7bb0f90a98"
   },
   "marion": {
    "ts": 1793547227,
@@ -6417,6 +6413,27 @@
    "hunts": 1
   },
   {
+   "w": "0xed96…bedf",
+   "addr": "0xed9692b68b9c66e88cdc68c15fd16bb7b266bedf",
+   "order": 0,
+   "cards": [
+    [
+     "M",
+     1794989087,
+     null,
+     "matazuu",
+     10557,
+     null
+    ]
+   ],
+   "marks": [],
+   "gifted": [],
+   "chance": [],
+   "bought": 0,
+   "spentUsd": 0,
+   "witness": []
+  },
+  {
    "w": "0x65cd…501f",
    "addr": "0x65cd7306aaccedfb658d19f83694b2bde08b501f",
    "order": 1,
@@ -8129,7 +8146,7 @@
   }
  },
  "floors": {
-  "at": 1794988672,
+  "at": 1794989273,
   "listed": 170,
   "offers": {
    "revazial": {
@@ -8215,7 +8232,7 @@
    "M": 4,
    "U": 4
   },
-  "usd": 1817.16
+  "usd": 1811.04
  },
  "prize": {
   "wallet": "0xf923a8773b1401031b301a9b569e1ed2035b263c",
