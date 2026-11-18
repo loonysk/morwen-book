@@ -1,8 +1,8 @@
 {
- "updated": 1794995269,
+ "updated": 1794995870,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26441140,
+ "block": 26441190,
  "events": {
   "firstCard": 180,
   "firstUnique": 1793190815,
@@ -8158,8 +8158,8 @@
   }
  },
  "floors": {
-  "at": 1794995270,
-  "listed": 169,
+  "at": 1794995870,
+  "listed": 172,
   "offers": {
    "revazial": {
     "id": 3528,
@@ -8187,8 +8187,13 @@
     "tier": "L"
    },
    "marion": {
-    "id": 3118,
-    "eth": 0.1,
+    "id": 820,
+    "eth": 0.088,
+    "tier": "L"
+   },
+   "orven": {
+    "id": 864,
+    "eth": 0.11,
     "tier": "L"
    }
   },
@@ -8230,11 +8235,16 @@
    "U": null
   },
   "marion": {
-   "L": 0.1,
+   "L": 0.088,
    "M": 4,
    "U": 4
   },
-  "usd": 1809.76
+  "orven": {
+   "L": 0.11,
+   "M": null,
+   "U": null
+  },
+  "usd": 1810.17
  },
  "prize": {
   "wallet": "0xf923a8773b1401031b301a9b569e1ed2035b263c",
