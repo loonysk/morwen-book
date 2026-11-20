@@ -1,8 +1,8 @@
 {
- "updated": 1795150673,
+ "updated": 1795151274,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26454060,
+ "block": 26454110,
  "events": {
   "firstCard": 180,
   "firstUnique": 1793190815,
@@ -8164,7 +8164,7 @@
   }
  },
  "floors": {
-  "at": 1795150674,
+  "at": 1795151275,
   "listed": 166,
   "offers": {
    "shelo": {
@@ -8177,14 +8177,14 @@
     "eth": 0.037,
     "tier": "L"
    },
+   "yomihime": {
+    "id": 927,
+    "eth": 0.04,
+    "tier": "L"
+   },
    "matazuu": {
     "id": 3466,
     "eth": 0.043,
-    "tier": "L"
-   },
-   "yomihime": {
-    "id": 927,
-    "eth": 0.05,
     "tier": "L"
    },
    "morwen": {
@@ -8225,14 +8225,14 @@
    "M": null,
    "U": null
   },
+  "yomihime": {
+   "L": 0.04,
+   "M": null,
+   "U": null
+  },
   "matazuu": {
    "L": 0.043,
    "M": 0.237,
-   "U": null
-  },
-  "yomihime": {
-   "L": 0.05,
-   "M": null,
    "U": null
   },
   "morwen": {
@@ -8250,7 +8250,7 @@
    "M": null,
    "U": null
   },
-  "usd": 1724.17
+  "usd": 1722.96
  },
  "prize": {
   "wallet": "0xf923a8773b1401031b301a9b569e1ed2035b263c",
