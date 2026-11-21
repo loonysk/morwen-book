@@ -1,8 +1,8 @@
 {
- "updated": 1795238872,
+ "updated": 1795239472,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26461379,
+ "block": 26461429,
  "events": {
   "firstCard": 180,
   "firstUnique": 1793190815,
@@ -8164,12 +8164,12 @@
   }
  },
  "floors": {
-  "at": 1795238872,
+  "at": 1795239472,
   "listed": 167,
   "offers": {
    "yomihime": {
     "id": 927,
-    "eth": 0.03,
+    "eth": 0.0285,
     "tier": "L"
    },
    "shelo": {
@@ -8204,7 +8204,7 @@
    }
   },
   "yomihime": {
-   "L": 0.03,
+   "L": 0.0285,
    "M": null,
    "U": null
   },
@@ -8250,7 +8250,7 @@
    "M": null,
    "U": null
   },
-  "usd": 1569.12
+  "usd": 1559.16
  },
  "prize": {
   "wallet": "0xf923a8773b1401031b301a9b569e1ed2035b263c",
