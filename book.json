@@ -1,8 +1,8 @@
 {
- "updated": 1795247878,
+ "updated": 1795248475,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26462128,
+ "block": 26462177,
  "events": {
   "firstCard": 180,
   "firstUnique": 1793190815,
@@ -8191,16 +8191,16 @@
   }
  },
  "floors": {
-  "at": 1795247879,
+  "at": 1795248476,
   "listed": 166,
   "offers": {
-   "shelo": {
-    "id": 4258,
-    "eth": 0.034,
-    "tier": "L"
-   },
    "revazial": {
     "id": 3528,
+    "eth": 0.031,
+    "tier": "L"
+   },
+   "shelo": {
+    "id": 4258,
     "eth": 0.034,
     "tier": "L"
    },
@@ -8230,6 +8230,11 @@
     "tier": "L"
    }
   },
+  "revazial": {
+   "L": 0.031,
+   "M": null,
+   "U": null
+  },
   "named": {
    "morvane": {
     "L": 0.034,
@@ -8243,11 +8248,6 @@
    }
   },
   "shelo": {
-   "L": 0.034,
-   "M": null,
-   "U": null
-  },
-  "revazial": {
    "L": 0.034,
    "M": null,
    "U": null
@@ -8277,7 +8277,7 @@
    "M": null,
    "U": null
   },
-  "usd": 1625.98
+  "usd": 1624.74
  },
  "prize": {
   "wallet": "0xf923a8773b1401031b301a9b569e1ed2035b263c",
