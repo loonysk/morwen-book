@@ -1,8 +1,8 @@
 {
- "updated": 1795357058,
+ "updated": 1795357657,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26471199,
+ "block": 26471248,
  "events": {
   "firstCard": 180,
   "firstUnique": 1793190815,
@@ -137,7 +137,7 @@
     "M": "https://hov.fra1.digitaloceanspaces.com/prod/mythic/hov_orven.png",
     "U": "https://hov.fra1.digitaloceanspaces.com/prod/unique/hov_orven.png"
    },
-   "holders": 32,
+   "holders": 31,
    "thumbs": {
     "L": "https://loonysk.github.io/morwen-book/cards/9887edeaf75c5a6b.webp",
     "M": "https://loonysk.github.io/morwen-book/cards/32b22372e8f9af45.webp",
@@ -146,6 +146,16 @@
   }
  },
  "recent": [
+  {
+   "ts": 1795357559,
+   "id": 2413,
+   "tier": "L",
+   "hero": "orven",
+   "kind": "hand",
+   "from": "0x9facd62b81c21a4625ce07fba477e3278ea33cbe",
+   "to": "0x50e43a4d3cbf8f05ce07f3ebc80c7c840b351422",
+   "tx": "0x9c6f64b093586ea632151eeb3afaed0dacdf07a5d681dcdf340da500f12fd128"
+  },
   {
    "ts": 1795240583,
    "id": 927,
@@ -239,31 +249,9 @@
    "from": "0x0000000000000000000000000000000000000000",
    "to": "0xed9692b68b9c66e88cdc68c15fd16bb7b266bedf",
    "tx": "0x53776df8fc9e294c1b2a37ca6b4ac1bb1568805273fb83304b510b7bb0f90a98"
-  },
-  {
-   "ts": 1794943199,
-   "id": 4957,
-   "tier": "L",
-   "hero": "revazial",
-   "kind": "burn",
-   "from": "0x50e43a4d3cbf8f05ce07f3ebc80c7c840b351422",
-   "to": "0x0000000000000000000000000000000000000000",
-   "tx": "0x09afadcaab2eb881a98bf6fa33a6b2964776fbfec7ee2a0a26a6bee09f40143d"
   }
  ],
  "last": {
-  "yomihime": {
-   "ts": 1795240583,
-   "id": 927,
-   "tier": "L",
-   "hero": "yomihime",
-   "kind": "buy",
-   "from": "0xabd4001164eb4fae0153dd3d86d872efc8fe1b0a",
-   "to": "0xaab98f0871b991ed3231cea344a2ef5564479eb3",
-   "tx": "0x70fa655ef78e2e4069f2aee29838aef3cb262253b53dea7cd8fd390a544a1f16",
-   "eth": 0.0191,
-   "usd": 30
-  },
   "marion": {
    "ts": 1793547227,
    "id": 3983,
@@ -295,16 +283,26 @@
    "tx": "0x11c89ea34e91bcb8033f0bf8f3ba04a0314d1bf1bb19acf74c45811717bb4658"
   },
   "orven": {
-   "ts": 1794283295,
-   "id": 10187,
-   "tier": "M",
+   "ts": 1795357559,
+   "id": 2413,
+   "tier": "L",
    "hero": "orven",
+   "kind": "hand",
+   "from": "0x9facd62b81c21a4625ce07fba477e3278ea33cbe",
+   "to": "0x50e43a4d3cbf8f05ce07f3ebc80c7c840b351422",
+   "tx": "0x9c6f64b093586ea632151eeb3afaed0dacdf07a5d681dcdf340da500f12fd128"
+  },
+  "yomihime": {
+   "ts": 1795240583,
+   "id": 927,
+   "tier": "L",
+   "hero": "yomihime",
    "kind": "buy",
-   "from": "0x921d50a7e44a4ee3965d117050fb80e6aa1fb948",
-   "to": "0x6d5aba28442195b3eb575702e6b418c7eb0ee124",
-   "tx": "0x164ee804dcd388ab6cc6284677dcd0875e278af45a34bf92edad9fcea04c962b",
-   "eth": 0.125,
-   "usd": 264
+   "from": "0xabd4001164eb4fae0153dd3d86d872efc8fe1b0a",
+   "to": "0xaab98f0871b991ed3231cea344a2ef5564479eb3",
+   "tx": "0x70fa655ef78e2e4069f2aee29838aef3cb262253b53dea7cd8fd390a544a1f16",
+   "eth": 0.0191,
+   "usd": 30
   },
   "matazuu": {
    "ts": 1794991739,
@@ -2614,6 +2612,14 @@
      "matazuu",
      1145,
      "t"
+    ],
+    [
+     "L",
+     1795357559,
+     null,
+     "orven",
+     2413,
+     "t"
     ]
    ],
    "marks": [
@@ -4082,39 +4088,6 @@
      "L",
      "yomihime",
      2309
-    ]
-   ],
-   "gifted": [],
-   "chance": [],
-   "bought": 0,
-   "spentUsd": 0,
-   "witness": []
-  },
-  {
-   "w": "0x9fac…3cbe",
-   "addr": "0x9facd62b81c21a4625ce07fba477e3278ea33cbe",
-   "order": 0,
-   "cards": [
-    [
-     "L",
-     1793536943,
-     null,
-     "orven",
-     2413,
-     "t"
-    ]
-   ],
-   "marks": [],
-   "gone": [
-    [
-     "L",
-     "shelo",
-     1663
-    ],
-    [
-     "L",
-     "revazial",
-     2346
     ]
    ],
    "gifted": [],
@@ -8191,8 +8164,8 @@
   }
  },
  "floors": {
-  "at": 1795357058,
-  "listed": 167,
+  "at": 1795357657,
+  "listed": 166,
   "offers": {
    "revazial": {
     "id": 3528,
@@ -8277,7 +8250,7 @@
    "M": null,
    "U": null
   },
-  "usd": 1703.34
+  "usd": 1701.56
  },
  "prize": {
   "wallet": "0xf923a8773b1401031b301a9b569e1ed2035b263c",
