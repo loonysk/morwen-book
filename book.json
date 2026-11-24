@@ -1,8 +1,8 @@
 {
- "updated": 1795500484,
+ "updated": 1795501083,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26483117,
+ "block": 26483167,
  "events": {
   "firstCard": 180,
   "firstUnique": 1793190815,
@@ -80,7 +80,7 @@
     "M": "https://hov.fra1.digitaloceanspaces.com/prod/mythic/hov_yomihime.png",
     "U": "https://hov.fra1.digitaloceanspaces.com/prod/unique/hov_yomihime.png"
    },
-   "holders": 40,
+   "holders": 41,
    "thumbs": {
     "L": "https://loonysk.github.io/morwen-book/cards/dfa351374fb18253.webp",
     "M": "https://loonysk.github.io/morwen-book/cards/ee3066876d78a62d.webp",
@@ -146,6 +146,18 @@
   }
  },
  "recent": [
+  {
+   "ts": 1795500731,
+   "id": 223,
+   "tier": "L",
+   "hero": "yomihime",
+   "kind": "buy",
+   "from": "0xa8026fe64fe1ff5ac93f24f4749f2711ca6a8ecf",
+   "to": "0x7204b3b73034ffe0e14dd7a5ac9c34b0142c06c8",
+   "tx": "0x260306e68481176a2017cd2db7436a21c4cfbcbcf4d45209e854370e94784654",
+   "eth": 0.0184,
+   "usd": 31
+  },
   {
    "ts": 1795357559,
    "id": 2413,
@@ -239,29 +251,9 @@
    "tx": "0xc55266ebc9dfdce9a0f40e6bc93d7f7873298ca15eac3192ade0f51b8369a653",
    "eth": 0.043,
    "usd": 78
-  },
-  {
-   "ts": 1794989087,
-   "id": 10557,
-   "tier": "M",
-   "hero": "matazuu",
-   "kind": "forge",
-   "from": "0x0000000000000000000000000000000000000000",
-   "to": "0xed9692b68b9c66e88cdc68c15fd16bb7b266bedf",
-   "tx": "0x53776df8fc9e294c1b2a37ca6b4ac1bb1568805273fb83304b510b7bb0f90a98"
   }
  ],
  "last": {
-  "marion": {
-   "ts": 1793547227,
-   "id": 3983,
-   "tier": "L",
-   "hero": "marion",
-   "kind": "hand",
-   "from": "0xca53a9af458591b6cd942d70cdd97326c46ef273",
-   "to": "0xaab98f0871b991ed3231cea344a2ef5564479eb3",
-   "tx": "0x7667f3aaf17602a393025d1756d664a897021a4e100e46a34fedba5e7efab3d6"
-  },
   "revazial": {
    "ts": 1794943199,
    "id": 4957,
@@ -293,16 +285,16 @@
    "tx": "0x9c6f64b093586ea632151eeb3afaed0dacdf07a5d681dcdf340da500f12fd128"
   },
   "yomihime": {
-   "ts": 1795240583,
-   "id": 927,
+   "ts": 1795500731,
+   "id": 223,
    "tier": "L",
    "hero": "yomihime",
    "kind": "buy",
-   "from": "0xabd4001164eb4fae0153dd3d86d872efc8fe1b0a",
-   "to": "0xaab98f0871b991ed3231cea344a2ef5564479eb3",
-   "tx": "0x70fa655ef78e2e4069f2aee29838aef3cb262253b53dea7cd8fd390a544a1f16",
-   "eth": 0.0191,
-   "usd": 30
+   "from": "0xa8026fe64fe1ff5ac93f24f4749f2711ca6a8ecf",
+   "to": "0x7204b3b73034ffe0e14dd7a5ac9c34b0142c06c8",
+   "tx": "0x260306e68481176a2017cd2db7436a21c4cfbcbcf4d45209e854370e94784654",
+   "eth": 0.0184,
+   "usd": 31
   },
   "matazuu": {
    "ts": 1794991739,
@@ -539,6 +531,11 @@
     "2026-11-21",
     1,
     30
+   ],
+   [
+    "2026-11-24",
+    1,
+    31
    ]
   ],
   "orven": [
@@ -1513,17 +1510,16 @@
      "yomihime",
      189,
      null
-    ],
-    [
-     "L",
-     1791393311,
-     null,
-     "yomihime",
-     223,
-     null
     ]
    ],
    "marks": [],
+   "gone": [
+    [
+     "L",
+     "yomihime",
+     223
+    ]
+   ],
    "gifted": [],
    "chance": [],
    "bought": 0,
@@ -1682,6 +1678,28 @@
    "spentUsd": 0,
    "witness": [],
    "hunts": 1
+  },
+  {
+   "w": "0x7204…06c8",
+   "addr": "0x7204b3b73034ffe0e14dd7a5ac9c34b0142c06c8",
+   "order": 0,
+   "cards": [
+    [
+     "L",
+     1795500731,
+     null,
+     "yomihime",
+     223,
+     null
+    ]
+   ],
+   "marks": [],
+   "gifted": [],
+   "chance": [],
+   "bought": 1,
+   "spentUsd": 31,
+   "witness": [],
+   "quietN": 1
   },
   {
    "w": "0x08c8…10e1",
@@ -8164,9 +8182,14 @@
   }
  },
  "floors": {
-  "at": 1795500484,
-  "listed": 166,
+  "at": 1795501084,
+  "listed": 167,
   "offers": {
+   "yomihime": {
+    "id": 223,
+    "eth": 0.0226988,
+    "tier": "L"
+   },
    "revazial": {
     "id": 3528,
     "eth": 0.029,
@@ -8196,12 +8219,12 @@
     "id": 820,
     "eth": 0.088,
     "tier": "L"
-   },
-   "yomihime": {
-    "id": 877,
-    "eth": 0.444,
-    "tier": "L"
    }
+  },
+  "yomihime": {
+   "L": 0.0226988,
+   "M": null,
+   "U": null
   },
   "revazial": {
    "L": 0.029,
@@ -8245,12 +8268,7 @@
    "M": 0.23,
    "U": 2.5
   },
-  "yomihime": {
-   "L": 0.444,
-   "M": null,
-   "U": null
-  },
-  "usd": 1698
+  "usd": 1698.88
  },
  "prize": {
   "wallet": "0xf923a8773b1401031b301a9b569e1ed2035b263c",
