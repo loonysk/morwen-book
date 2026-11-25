@@ -1,8 +1,8 @@
 {
- "updated": 1795637421,
+ "updated": 1795637883,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26494494,
+ "block": 26494532,
  "events": {
   "firstCard": 180,
   "firstUnique": 1793190815,
@@ -147,6 +147,18 @@
  },
  "recent": [
   {
+   "ts": 1795637531,
+   "id": 189,
+   "tier": "L",
+   "hero": "yomihime",
+   "kind": "buy",
+   "from": "0xa8026fe64fe1ff5ac93f24f4749f2711ca6a8ecf",
+   "to": "0xca189836c6177fadef21338a49c9cf86e16c6bc5",
+   "tx": "0xf6140ffee6ce422afa5dd6a74fdd98ac0ac2c01613be7ba0937fb1070458e984",
+   "eth": 0.0156,
+   "usd": 26
+  },
+  {
    "ts": 1795635611,
    "id": 20005,
    "tier": "U",
@@ -243,29 +255,9 @@
    "from": "0xcb259bc56e511629678b75c24a2c1475457e80b2",
    "to": "0x0000000000000000000000000000000000000000",
    "tx": "0x11c89ea34e91bcb8033f0bf8f3ba04a0314d1bf1bb19acf74c45811717bb4658"
-  },
-  {
-   "ts": 1795026635,
-   "id": 3487,
-   "tier": "L",
-   "hero": "shelo",
-   "kind": "hand",
-   "from": "0x50e43a4d3cbf8f05ce07f3ebc80c7c840b351422",
-   "to": "0xcb259bc56e511629678b75c24a2c1475457e80b2",
-   "tx": "0x670e6b3a9ae61da00beb133d212233b4dbc28dc08b8c4970badaf9ade536f7f1"
   }
  ],
  "last": {
-  "orven": {
-   "ts": 1795357559,
-   "id": 2413,
-   "tier": "L",
-   "hero": "orven",
-   "kind": "hand",
-   "from": "0x9facd62b81c21a4625ce07fba477e3278ea33cbe",
-   "to": "0x50e43a4d3cbf8f05ce07f3ebc80c7c840b351422",
-   "tx": "0x9c6f64b093586ea632151eeb3afaed0dacdf07a5d681dcdf340da500f12fd128"
-  },
   "revazial": {
    "ts": 1794943199,
    "id": 4957,
@@ -277,14 +269,16 @@
    "tx": "0x09afadcaab2eb881a98bf6fa33a6b2964776fbfec7ee2a0a26a6bee09f40143d"
   },
   "yomihime": {
-   "ts": 1795502783,
-   "id": 223,
+   "ts": 1795637531,
+   "id": 189,
    "tier": "L",
    "hero": "yomihime",
-   "kind": "hand",
-   "from": "0x17bb047f186e0c4ff32f69f889f802fe5c0458e5",
-   "to": "0xc146ce37af7dddfb4047610d01081d8a7e38f619",
-   "tx": "0xb364c51c303cd03539c4f402a9bf8a0b391172dfca3c4e6ccc442d8518aecadb"
+   "kind": "buy",
+   "from": "0xa8026fe64fe1ff5ac93f24f4749f2711ca6a8ecf",
+   "to": "0xca189836c6177fadef21338a49c9cf86e16c6bc5",
+   "tx": "0xf6140ffee6ce422afa5dd6a74fdd98ac0ac2c01613be7ba0937fb1070458e984",
+   "eth": 0.0156,
+   "usd": 26
   },
   "matazuu": {
    "ts": 1794991739,
@@ -307,6 +301,16 @@
    "tx": "0x7a30b7f28a29dde4fdd96b25348f268da2b5569874cec43db2776452da25c760",
    "eth": 0.049,
    "usd": 89
+  },
+  "orven": {
+   "ts": 1795357559,
+   "id": 2413,
+   "tier": "L",
+   "hero": "orven",
+   "kind": "hand",
+   "from": "0x9facd62b81c21a4625ce07fba477e3278ea33cbe",
+   "to": "0x50e43a4d3cbf8f05ce07f3ebc80c7c840b351422",
+   "tx": "0x9c6f64b093586ea632151eeb3afaed0dacdf07a5d681dcdf340da500f12fd128"
   },
   "shelo": {
    "ts": 1795028219,
@@ -553,6 +557,11 @@
     "2026-11-24",
     2,
     70
+   ],
+   [
+    "2026-11-25",
+    1,
+    26
    ]
   ],
   "orven": [
@@ -1517,13 +1526,13 @@
    ]
   },
   {
-   "w": "0xa802…8ecf",
-   "addr": "0xa8026fe64fe1ff5ac93f24f4749f2711ca6a8ecf",
+   "w": "0xca18…6bc5",
+   "addr": "0xca189836c6177fadef21338a49c9cf86e16c6bc5",
    "order": 0,
    "cards": [
     [
      "L",
-     1791393203,
+     1795637531,
      null,
      "yomihime",
      189,
@@ -1531,19 +1540,11 @@
     ]
    ],
    "marks": [],
-   "gone": [
-    [
-     "L",
-     "yomihime",
-     223
-    ]
-   ],
    "gifted": [],
    "chance": [],
-   "bought": 0,
-   "spentUsd": 0,
-   "witness": [],
-   "hunts": 1
+   "bought": 1,
+   "spentUsd": 26,
+   "witness": []
   },
   {
    "w": "0x89c8…b158",
@@ -4259,7 +4260,7 @@
     "firstMythic"
    ],
    "hunts": 1,
-   "quietN": 2
+   "quietN": 1
   },
   {
    "w": "0x720c…fa86",
@@ -8216,8 +8217,8 @@
   }
  },
  "floors": {
-  "at": 1795637421,
-  "listed": 163,
+  "at": 1795637883,
+  "listed": 164,
   "offers": {
    "revazial": {
     "id": 3528,
@@ -8227,6 +8228,11 @@
    "shelo": {
     "id": 4258,
     "eth": 0.034,
+    "tier": "L"
+   },
+   "yomihime": {
+    "id": 189,
+    "eth": 0.036999,
     "tier": "L"
    },
    "matazuu": {
@@ -8247,11 +8253,6 @@
    "marion": {
     "id": 820,
     "eth": 0.088,
-    "tier": "L"
-   },
-   "yomihime": {
-    "id": 877,
-    "eth": 0.444,
     "tier": "L"
    }
   },
@@ -8277,6 +8278,11 @@
    "M": null,
    "U": null
   },
+  "yomihime": {
+   "L": 0.036999,
+   "M": null,
+   "U": null
+  },
   "matazuu": {
    "L": 0.04,
    "M": 0.223,
@@ -8297,12 +8303,7 @@
    "M": 4,
    "U": null
   },
-  "yomihime": {
-   "L": 0.444,
-   "M": null,
-   "U": null
-  },
-  "usd": 1681.54
+  "usd": 1684.1
  },
  "prize": {
   "wallet": "0xf923a8773b1401031b301a9b569e1ed2035b263c",
