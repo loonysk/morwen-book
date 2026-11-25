@@ -1,8 +1,8 @@
 {
- "updated": 1795635474,
+ "updated": 1795636078,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26494332,
+ "block": 26494382,
  "events": {
   "firstCard": 180,
   "firstUnique": 1793190815,
@@ -23,7 +23,7 @@
     "M": "https://hov.fra1.digitaloceanspaces.com/prod/mythic/hov_marion_soulthread.png",
     "U": "https://hov.fra1.digitaloceanspaces.com/prod/unique/hov_marion_soulthread.png"
    },
-   "holders": 49,
+   "holders": 48,
    "thumbs": {
     "L": "https://loonysk.github.io/morwen-book/cards/7c6a8d9b779aae2f.webp",
     "M": "https://loonysk.github.io/morwen-book/cards/1e089d084816c39a.webp",
@@ -147,6 +147,18 @@
  },
  "recent": [
   {
+   "ts": 1795635611,
+   "id": 20005,
+   "tier": "U",
+   "hero": "marion",
+   "kind": "buy",
+   "from": "0x9f6e3b66911fb65ee048b7a352c559f9aaab8c61",
+   "to": "0x6d5aba28442195b3eb575702e6b418c7eb0ee124",
+   "tx": "0x13cbc4328b0735cc9ead96c23c29d04afc9f10c01b8b3e15545115ef205b4a5a",
+   "eth": 1.7,
+   "usd": 2861
+  },
+  {
    "ts": 1795502783,
    "id": 223,
    "tier": "L",
@@ -241,29 +253,9 @@
    "from": "0x50e43a4d3cbf8f05ce07f3ebc80c7c840b351422",
    "to": "0xcb259bc56e511629678b75c24a2c1475457e80b2",
    "tx": "0x670e6b3a9ae61da00beb133d212233b4dbc28dc08b8c4970badaf9ade536f7f1"
-  },
-  {
-   "ts": 1795026587,
-   "id": 2781,
-   "tier": "L",
-   "hero": "yomihime",
-   "kind": "hand",
-   "from": "0x50e43a4d3cbf8f05ce07f3ebc80c7c840b351422",
-   "to": "0xcb259bc56e511629678b75c24a2c1475457e80b2",
-   "tx": "0x0f05db8e0208c7f178a9a2bfe3bcf4a25c7ab024097b6616b3f092c7bea623fc"
   }
  ],
  "last": {
-  "shelo": {
-   "ts": 1795028219,
-   "id": 3487,
-   "tier": "L",
-   "hero": "shelo",
-   "kind": "burn",
-   "from": "0xcb259bc56e511629678b75c24a2c1475457e80b2",
-   "to": "0x0000000000000000000000000000000000000000",
-   "tx": "0x11c89ea34e91bcb8033f0bf8f3ba04a0314d1bf1bb19acf74c45811717bb4658"
-  },
   "orven": {
    "ts": 1795357559,
    "id": 2413,
@@ -315,6 +307,28 @@
    "tx": "0x7a30b7f28a29dde4fdd96b25348f268da2b5569874cec43db2776452da25c760",
    "eth": 0.049,
    "usd": 89
+  },
+  "shelo": {
+   "ts": 1795028219,
+   "id": 3487,
+   "tier": "L",
+   "hero": "shelo",
+   "kind": "burn",
+   "from": "0xcb259bc56e511629678b75c24a2c1475457e80b2",
+   "to": "0x0000000000000000000000000000000000000000",
+   "tx": "0x11c89ea34e91bcb8033f0bf8f3ba04a0314d1bf1bb19acf74c45811717bb4658"
+  },
+  "marion": {
+   "ts": 1795635611,
+   "id": 20005,
+   "tier": "U",
+   "hero": "marion",
+   "kind": "buy",
+   "from": "0x9f6e3b66911fb65ee048b7a352c559f9aaab8c61",
+   "to": "0x6d5aba28442195b3eb575702e6b418c7eb0ee124",
+   "tx": "0x13cbc4328b0735cc9ead96c23c29d04afc9f10c01b8b3e15545115ef205b4a5a",
+   "eth": 1.7,
+   "usd": 2861
   }
  },
  "volume": {
@@ -425,6 +439,11 @@
     "2026-10-30",
     2,
     377
+   ],
+   [
+    "2026-11-25",
+    1,
+    2861
    ]
   ],
   "revazial": [
@@ -2979,14 +2998,6 @@
      "matazuu",
      10508,
      null
-    ],
-    [
-     "U",
-     1793198255,
-     null,
-     "marion",
-     20005,
-     null
     ]
    ],
    "marks": [
@@ -3018,6 +3029,11 @@
      "L",
      "matazuu",
      3480
+    ],
+    [
+     "U",
+     "marion",
+     20005
     ]
    ],
    "gifted": [],
@@ -4218,6 +4234,14 @@
     ],
     [
      "U",
+     1795635611,
+     null,
+     "marion",
+     20005,
+     null
+    ],
+    [
+     "U",
      1793276903,
      null,
      "shelo",
@@ -4228,14 +4252,14 @@
    "marks": [],
    "gifted": [],
    "chance": [],
-   "bought": 1,
-   "spentUsd": 264,
+   "bought": 2,
+   "spentUsd": 3125,
    "witness": [
     "firstUnique",
     "firstMythic"
    ],
    "hunts": 1,
-   "quietN": 1
+   "quietN": 2
   },
   {
    "w": "0x720c…fa86",
@@ -8192,8 +8216,8 @@
   }
  },
  "floors": {
-  "at": 1795635474,
-  "listed": 164,
+  "at": 1795636078,
+  "listed": 163,
   "offers": {
    "revazial": {
     "id": 3528,
@@ -8271,14 +8295,14 @@
   "marion": {
    "L": 0.088,
    "M": 4,
-   "U": 1.7
+   "U": null
   },
   "yomihime": {
    "L": 0.444,
    "M": null,
    "U": null
   },
-  "usd": 1690.7
+  "usd": 1682.37
  },
  "prize": {
   "wallet": "0xf923a8773b1401031b301a9b569e1ed2035b263c",
