@@ -1,8 +1,8 @@
 {
- "updated": 1795632476,
+ "updated": 1795633076,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26494084,
+ "block": 26494133,
  "events": {
   "firstCard": 180,
   "firstUnique": 1793190815,
@@ -8192,8 +8192,8 @@
   }
  },
  "floors": {
-  "at": 1795632477,
-  "listed": 166,
+  "at": 1795633076,
+  "listed": 164,
   "offers": {
    "revazial": {
     "id": 3528,
@@ -8270,7 +8270,7 @@
   },
   "marion": {
    "L": 0.088,
-   "M": 0.23,
+   "M": 4,
    "U": 2.37
   },
   "yomihime": {
@@ -8278,7 +8278,7 @@
    "M": null,
    "U": null
   },
-  "usd": 1681.11
+  "usd": 1680.04
  },
  "prize": {
   "wallet": "0xf923a8773b1401031b301a9b569e1ed2035b263c",
