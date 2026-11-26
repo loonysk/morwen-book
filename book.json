@@ -1,8 +1,8 @@
 {
- "updated": 1795651052,
+ "updated": 1795651654,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26495627,
+ "block": 26495676,
  "events": {
   "firstCard": 180,
   "firstUnique": 1793190815,
@@ -4249,7 +4249,8 @@
     "firstMythic"
    ],
    "hunts": 1,
-   "quietN": 1
+   "quietN": 1,
+   "favorN": 1
   },
   {
    "w": "0x720c…fa86",
@@ -8231,7 +8232,7 @@
   }
  },
  "floors": {
-  "at": 1795651052,
+  "at": 1795651655,
   "listed": 159,
   "offers": {
    "revazial": {
@@ -8317,7 +8318,7 @@
    "M": null,
    "U": null
   },
-  "usd": 1692.26
+  "usd": 1690.39
  },
  "prize": {
   "wallet": "0xf923a8773b1401031b301a9b569e1ed2035b263c",
