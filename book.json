@@ -1,8 +1,8 @@
 {
- "updated": 1795876678,
+ "updated": 1795877277,
  "source": "chain",
  "contract": "0x5a2a792ede6eb1f0eccd5f6b7ee5a8aaae64e08c",
- "block": 26514374,
+ "block": 26514424,
  "events": {
   "firstCard": 180,
   "firstUnique": 1793190815,
@@ -8237,7 +8237,7 @@
   }
  },
  "floors": {
-  "at": 1795876678,
+  "at": 1795877277,
   "listed": 146,
   "offers": {
    "revazial": {
@@ -8300,12 +8300,12 @@
   },
   "matazuu": {
    "L": 0.04,
-   "M": 0.27,
+   "M": 0.243,
    "U": null
   },
   "morwen": {
    "L": 0.061,
-   "M": 0.27,
+   "M": 0.243,
    "U": null
   },
   "orven": {
@@ -8323,7 +8323,7 @@
    "M": null,
    "U": null
   },
-  "usd": 1645.2
+  "usd": 1642.64
  },
  "prize": {
   "wallet": "0xf923a8773b1401031b301a9b569e1ed2035b263c",
